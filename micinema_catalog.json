@@ -140,7 +140,7 @@
       "description": "Después de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad Gótica.",
       "duration": "2h 20m",
       "rating": "PG-13",
-      "quality": "None",
+      "quality": "LQ",
       "section": "catalog",
       "year": 2005,
       "releaseDate": "2005-06-15",
@@ -168,7 +168,7 @@
       "description": "Un ex mercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.",
       "duration": "1h 48m",
       "rating": "R",
-      "quality": "None",
+      "quality": "LQ",
       "section": "catalog",
       "year": 2016,
       "releaseDate": "2016-02-12",
@@ -195,7 +195,7 @@
       "description": "Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldier del futuro genéticamente modificado. Deadpool se alía con otros superhéroes para poder derrotar al poderoso Cable.",
       "duration": "1h 59m",
       "rating": "R",
-      "quality": "None",
+      "quality": "LQ",
       "section": "catalog",
       "year": 2018,
       "releaseDate": "2018-05-18",
@@ -2936,6 +2936,607 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 77
+    },
+    {
+      "type": "movie",
+      "title": "The Dark Knight",
+      "description": "Batman enfrenta a su enemigo más icónico, el Joker, un criminal caótico que siembra el terror en Gotham y pone a prueba los límites morales del héroe.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElCaballeroDeLaNocheBatman.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ArmyOfThieves.mp4"
+      },
+      "id": "movie_103",
+      "addedAt": "2026-04-16T20:34:56.147Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 79
+    },
+    {
+      "type": "movie",
+      "title": "De noche con el diablo",
+      "description": "Ambientada en los años 70, la historia sigue a un presentador de televisión que, en un intento desesperado por subir el rating de su programa nocturno, realiza un especial de Halloween en vivo. Durante la transmisión, invita a una joven supuestamente poseída, lo que desata una serie de eventos sobrenaturales aterradores que salen completamente de control en directo.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/deNocheConElDiablo2024.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/deNocheConElDiablo2024.mp4"
+      },
+      "id": "movie_104",
+      "addedAt": "2026-04-16T21:01:31.502Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 80
+    },
+    {
+      "type": "movie",
+      "title": "Greenland: Migration",
+      "description": "Secuela de Greenland: El último refugio. La historia continúa siguiendo a la familia Garrity, quienes sobrevivieron a un evento catastrófico global. Ahora deben abandonar la seguridad de los búnkeres en Groenlandia y emprender un peligroso viaje a través de un mundo devastado para encontrar un nuevo lugar donde reconstruir la civilización.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElD%C3%ADaDelFinDelMundoMigraci%C3%B3n.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ElD%C3%ADaDelFinDelMundoMigraci%C3%B3n.mkv"
+      },
+      "id": "movie_105",
+      "addedAt": "2026-04-16T21:09:56.437Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 81
+    },
+    {
+      "type": "movie",
+      "title": "El mafioso, el policía y el diablo",
+      "description": "La historia sigue a un poderoso jefe criminal que sobrevive a un ataque de un asesino en serie. Para vengarse, se ve obligado a colaborar con un detective que también está tras el mismo criminal. A pesar de ser enemigos naturales, ambos unen fuerzas para capturar al asesino, creando una tensa alianza llena de violencia y desconfianza.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElMafiosoElPolic%C3%ADaElDemonio.avi",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ElMafiosoElPolic%C3%ADaElDemonio.avi"
+      },
+      "id": "movie_106",
+      "addedAt": "2026-04-16T21:13:12.199Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 82
+    },
+    {
+      "type": "movie",
+      "title": "El padrino",
+      "description": "La historia sigue a la poderosa familia mafiosa Corleone en Nueva York. Cuando el patriarca sufre un atentado, su hijo Michael —quien inicialmente quería mantenerse alejado del crimen— se ve obligado a involucrarse en el negocio familiar, iniciando su transformación en un líder frío y calculador dentro del mundo del crimen organizad",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Elpadrino.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Elpadrino.mp4"
+      },
+      "id": "movie_107",
+      "addedAt": "2026-04-16T21:16:29.283Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 83
+    },
+    {
+      "type": "movie",
+      "title": "Equipo demolición",
+      "description": "La historia sigue a dos medio hermanos distanciados que se reencuentran tras la misteriosa muerte de su padre. Mientras investigan lo ocurrido, descubren una conspiración criminal que involucra corrupción, mafias (incluyendo la yakuza) y grandes intereses económicos. A pesar de sus diferencias, deberán trabajar juntos para sobrevivir y descubrir la verdad.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/EquipoDemolici%C3%B3n.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/EquipoDemolici%C3%B3n.mkv"
+      },
+      "id": "movie_108",
+      "addedAt": "2026-04-16T21:23:30.922Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 84
+    },
+    {
+      "type": "movie",
+      "title": "Exterminio: el templo de huesos",
+      "description": "La historia continúa tras los eventos de la primera parte. El mundo no solo está dominado por infectados, sino también por humanos peligrosos. Un joven termina atrapado en una secta violenta mientras un doctor investiga posibles curas, revelando que la humanidad puede ser tan aterradora como el virus.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ExterminioElTemploDeHuesos.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ExterminioElTemploDeHuesos.mkv"
+      },
+      "id": "movie_109",
+      "addedAt": "2026-04-16T21:29:56.848Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 85
+    },
+    {
+      "type": "movie",
+      "title": "La cabra que cambió el juego: Goat",
+      "description": "La historia sigue a un joven apasionado por el fútbol que lucha por destacar en un entorno difícil. A través de sacrificios, entrenamientos intensos y obstáculos personales, busca convertirse en el mejor (“GOAT”: Greatest of All Time). La película mezcla drama deportivo con una historia de superación, mostrando el precio del éxito y la presión por alcanzar la grandeza.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Drama",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv"
+      },
+      "id": "movie_110",
+      "addedAt": "2026-04-16T21:38:50.366Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 86
+    },
+    {
+      "type": "movie",
+      "title": "Los Vengadores",
+      "description": "Cuando el poderoso Loki amenaza a la Tierra con una invasión alienígena, Nick Fury reúne a un grupo de héroes extraordinarios: Iron Man, Capitán América, Thor, Hulk, Black Widow y Hawkeye. Aunque al inicio tienen conflictos entre ellos, deberán aprender a trabajar en equipo para salvar al mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Vengadores.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/GuardianesDeLaGalaxia.mp4"
+      },
+      "id": "movie_111",
+      "addedAt": "2026-04-16T21:42:30.200Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 87
+    },
+    {
+      "type": "movie",
+      "title": "Vengadores: La era de Ultrón",
+      "description": "Tony Stark y Bruce Banner crean un programa de inteligencia artificial llamado Ultrón con la intención de proteger al mundo. Sin embargo, el sistema se vuelve consciente y decide que la mayor amenaza para la Tierra es la humanidad. Los Vengadores deberán reunirse nuevamente para detenerlo, enfrentando además nuevos aliados y enemigos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/VengadoresEraDeUltron.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/VengadoresEraDeUltron.mp4"
+      },
+      "id": "movie_112",
+      "addedAt": "2026-04-16T22:02:09.067Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 88
+    },
+    {
+      "type": "movie",
+      "title": "Vengadores: Infinity War",
+      "description": "Los Vengadores y sus aliados deben unirse para enfrentar a Thanos, un poderoso titán que busca reunir las seis Gemas del Infinito para eliminar a la mitad del universo. A lo largo de la película, los héroes luchan en distintos frentes, pero se enfrentan a una amenaza mucho mayor de lo que imaginaban.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/VengadoresInfinityWar.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/VengadoresInfinityWar.mp4"
+      },
+      "id": "movie_113",
+      "addedAt": "2026-04-16T22:05:33.010Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 89
+    },
+    {
+      "type": "movie",
+      "title": "Vengadores: Endgame",
+      "description": "Después de los devastadores eventos causados por Thanos, los Vengadores que sobrevivieron deben encontrar una forma de revertir lo ocurrido. Para lograrlo, idean un plan arriesgado que implica viajar en el tiempo y recuperar las Gemas del Infinito, enfrentando sacrificios y tomando decisiones que cambiarán sus vidas para siempre.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/VengadoresEndGamen.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/VengadoresEndGamen.mp4"
+      },
+      "id": "movie_114",
+      "addedAt": "2026-04-16T22:08:18.684Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 90
+    },
+    {
+      "type": "movie",
+      "title": "La empleada",
+      "description": "La historia sigue a una joven con un pasado complicado que consigue trabajo como empleada doméstica en la lujosa casa de una familia adinerada. Lo que parece una nueva oportunidad pronto se convierte en una pesadilla cuando descubre secretos oscuros, manipulaciones y peligros dentro de la casa.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/LaEmpleada.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/LaEmpleada.mkv"
+      },
+      "id": "movie_115",
+      "addedAt": "2026-04-16T22:18:14.075Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 91
+    },
+    {
+      "type": "movie",
+      "title": "Ralph rompe Internet",
+      "description": "Ralph y Vanellope salen del mundo de los videojuegos y se aventuran en el internet para encontrar una pieza que salve el juego de Vanellope. En su viaje, exploran sitios web, redes sociales y mundos digitales, enfrentando nuevos desafíos que pondrán a prueba su amistad.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RalfWifi.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/RalfWifi.mp4"
+      },
+      "id": "movie_116",
+      "addedAt": "2026-04-16T22:20:40.017Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 92
+    },
+    {
+      "type": "movie",
+      "title": "Scream 7",
+      "description": "Un nuevo asesino bajo la máscara de Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha reconstruido su vida. Esta vez, el objetivo es su hija, lo que obliga a Sidney a regresar y enfrentarse nuevamente a su pasado para detener la masacre.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Scream7.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Scream7.mkv"
+      },
+      "id": "movie_117",
+      "addedAt": "2026-04-16T22:25:29.182Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 93
+    },
+    {
+      "type": "movie",
+      "title": "Sin piedad",
+      "description": "La historia sigue a un exagente o combatiente que intenta dejar atrás su pasado violento, pero se ve obligado a regresar cuando una persona cercana es amenazada o asesinada. En busca de venganza, se enfrenta a una red criminal peligrosa, desatando una serie de enfrentamientos brutales donde no hay reglas ni compasión.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/SinPiedad.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/SinPiedad.mkv"
+      },
+      "id": "movie_118",
+      "addedAt": "2026-04-16T22:30:21.855Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 94
+    },
+    {
+      "type": "movie",
+      "title": "Thor",
+      "description": "Thor, el poderoso dios del trueno, es desterrado de Asgard por su padre Odin debido a su arrogancia. Enviado a la Tierra sin sus poderes, deberá aprender humildad y lo que significa ser un verdadero héroe. Mientras tanto, su hermano Loki planea tomar el control de Asgard, desatando un conflicto que amenaza ambos mundos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Thor.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Thor.mp4"
+      },
+      "id": "movie_119",
+      "addedAt": "2026-04-16T22:35:10.700Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 95
+    },
+    {
+      "type": "movie",
+      "title": "Thunderbolts",
+      "description": "Un grupo de antihéroes y personajes moralmente ambiguos es reclutado por el gobierno para llevar a cabo misiones peligrosas que los Vengadores no pueden realizar. Forzados a trabajar juntos, deberán enfrentarse a amenazas letales mientras lidian con sus propios pasados oscuros y desconfianza entre ellos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Thunderbolts.2025.1080P-Dual-Lat.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Thunderbolts.2025.1080P-Dual-Lat.mkv"
+      },
+      "id": "movie_120",
+      "addedAt": "2026-04-16T22:37:12.369Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 96
+    },
+    {
+      "type": "movie",
+      "title": "Venom",
+      "description": "Eddie Brock, un periodista en crisis, entra en contacto con un simbionte alienígena que le otorga habilidades sobrehumanas. Aunque al principio lucha por controlarlo, ambos forman una extraña alianza para sobrevivir y enfrentarse a una amenaza mayor creada por otros simbiontes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/venom.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/venom.mkv"
+      },
+      "id": "movie_121",
+      "addedAt": "2026-04-16T22:39:11.063Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 97
+    },
+    {
+      "type": "movie",
+      "title": "Venom: Carnage liberado",
+      "description": "Eddie Brock intenta adaptarse a su vida con el simbionte Venom dentro de él. Todo cambia cuando el asesino serial Cletus Kasady se convierte en el poderoso y violento Carnage, un simbionte aún más peligroso. Ahora, Eddie y Venom deberán trabajar juntos para detener una amenaza que supera todo lo que han enfrentado antes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Venom2.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Venom2.mkv"
+      },
+      "id": "movie_122",
+      "addedAt": "2026-04-16T22:41:44.646Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 98
+    },
+    {
+      "type": "movie",
+      "title": "Black Panther: Wakanda Forever:",
+      "description": "Después de la muerte de T’Challa, Wakanda atraviesa un periodo de duelo mientras sus líderes intentan proteger el reino. La llegada de Namor, gobernante de un imperio submarino, provoca un conflicto que obligará a Wakanda a luchar por su futuro y redefinir quién será su protector.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/WakandaForEver.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/WakandaForEver.mp4"
+      },
+      "id": "movie_123",
+      "addedAt": "2026-04-16T22:42:58.847Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 99
     }
   ],
   "series": [
