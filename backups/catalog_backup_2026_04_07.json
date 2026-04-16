@@ -1,0 +1,5544 @@
+{
+  "catalogName": "MiCinema New Catalog",
+  "version": 2,
+  "schema": "micinema.catalog.compat.v2",
+  "atlasInfo": {
+    "columns": 16,
+    "rows": 8,
+    "cellCount": 128,
+    "atlasCount": 7,
+    "itemsPerAtlas": 128,
+    "notes": "Reset for new entry.",
+    "catalogCount": 0
+  },
+  "imageMode": "atlas_registry_only",
+  "posterAtlases": [
+    {
+      "key": "A",
+      "url": "A.png"
+    },
+    {
+      "key": "B",
+      "url": "B.png"
+    },
+    {
+      "key": "C",
+      "url": "C.png"
+    },
+    {
+      "key": "D",
+      "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
+    },
+    {
+      "key": "F",
+      "url": "F.png"
+    },
+    {
+      "key": "G",
+      "url": "G.png"
+    }
+  ],
+  "heroAtlases": [
+    {
+      "key": "A",
+      "url": "A.png"
+    },
+    {
+      "key": "B",
+      "url": "B.png"
+    },
+    {
+      "key": "C",
+      "url": "C.png"
+    },
+    {
+      "key": "D",
+      "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
+    },
+    {
+      "key": "F",
+      "url": "F.png"
+    },
+    {
+      "key": "G",
+      "url": "G.png"
+    }
+  ],
+  "movies": [
+    {
+      "type": "movie",
+      "title": "Alita: Battle Angel",
+      "description": "Alita es un cyborg que se despierta en la clínica de un médico sin recordar quién es. La cyborg deberá usar sus extraordinarias habilidades para combatir contra enemigos terribles, mientras trata de descubrir la verdad sobre su pasado.",
+      "duration": "2h 02m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-02-14",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Cyberpunk"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Alita.mp4",
+        "language_English": "as"
+      },
+      "enabled": true,
+      "id": "movie_001",
+      "addedAt": "2026-03-28T08:30:11.623Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 0
+    },
+    {
+      "type": "movie",
+      "title": "Baby Driver",
+      "description": "Baby, un joven apasionado de la música y con gran talento para la conducción, trabaja para Doc, un jefe de una banda de atracadores. Tras conocer a Deborah, la chica de sus sueños, Baby decide abandonar el mundo del crimen.",
+      "duration": "1h 53m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-06-28",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/BabyDriver.mkv",
+        "language_English": "sd"
+      },
+      "enabled": true,
+      "id": "movie_002",
+      "addedAt": "2026-03-28T08:31:30.730Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 1
+    },
+    {
+      "type": "movie",
+      "title": "Batman Begins",
+      "description": "Después de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad Gótica.",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-06-15",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanComienza.mkv"
+      },
+      "enabled": true,
+      "id": "movie_003",
+      "addedAt": "2026-03-28T08:32:56.558Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 2
+    },
+    {
+      "type": "movie",
+      "title": "Deadpool",
+      "description": "Un ex mercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rápidamente y pretende vengarse del hombre que destrozó su vida.",
+      "duration": "1h 48m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-02-12",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/deadpool.mp4"
+      },
+      "enabled": true,
+      "id": "movie_004",
+      "addedAt": "2026-03-28T08:34:14.627Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 3
+    },
+    {
+      "type": "movie",
+      "title": "Deadpool 2",
+      "description": "Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldier del futuro genéticamente modificado. Deadpool se alía con otros superhéroes para poder derrotar al poderoso Cable.",
+      "duration": "1h 59m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-05-18",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Deadpool2.mp4"
+      },
+      "enabled": true,
+      "id": "movie_005",
+      "addedAt": "2026-03-28T08:36:07.936Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 4
+    },
+    {
+      "type": "movie",
+      "title": "Drive",
+      "description": "Un doble de cine de Hollywood que trabaja como conductor para criminales empieza a recibir amenazas de muerte después de un robo fallido.",
+      "duration": "1h 40m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-09-16",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/drive.mkv"
+      },
+      "enabled": true,
+      "id": "movie_006",
+      "addedAt": "2026-03-28T08:37:58.970Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 5
+    },
+    {
+      "type": "movie",
+      "title": "Army of Thieves",
+      "description": "Una misteriosa mujer recluta a un cajero de banco para abrir las cajas fuertes más legendarias en Europa.",
+      "duration": "2h 10m",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-10-29",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ArmyOfThieves.mp4"
+      },
+      "enabled": true,
+      "id": "movie_007",
+      "addedAt": "2026-03-28T08:39:43.417Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 6
+    },
+    {
+      "type": "movie",
+      "title": "Batman: The Dark Knight Rises",
+      "description": "Ocho años después de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
+      "duration": "2h 44m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-07-20",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanElCaballeroDeLaNocheAsciende.mkv"
+      },
+      "enabled": true,
+      "id": "movie_008",
+      "addedAt": "2026-03-28T08:41:11.442Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 7
+    },
+    {
+      "type": "movie",
+      "title": "Guardians of the Galaxy",
+      "description": "Un grupo de inadaptados termina uniéndose para evitar que Ronan use una Gema del Infinito para destruir planetas.",
+      "duration": "2h 01m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-08-01",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/GuardianesDeLaGalaxia.mp4"
+      },
+      "enabled": true,
+      "id": "movie_009",
+      "addedAt": "2026-04-01T04:19:08.980Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 35
+    },
+    {
+      "type": "movie",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "description": "Cierre de la trilogía. Se centra en el pasado de Rocket y en la amenaza del Alto Evolucionador. Es la entrega más emocional y oscura.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-05-05",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/GuardiansOfTheGalaxyVol3.mp4"
+      },
+      "enabled": true,
+      "id": "movie_010",
+      "addedAt": "2026-04-01T04:19:32.124Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 36
+    },
+    {
+      "type": "movie",
+      "title": "Solo: A Star Wars Story",
+      "description": "Cuenta el origen de Han Solo: cómo se convierte en contrabandista, conoce a Chewbacca y gana el Halcón Milenario. También muestra sus primeros trabajos en el mundo criminal y su relación con Lando Calrissian.",
+      "duration": "2h 15m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-05-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12312"
+      },
+      "enabled": true,
+      "id": "movie_011",
+      "addedAt": "2026-04-01T04:22:11.331Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 37
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man 2",
+      "description": "Peter Parker lucha por equilibrar su vida personal con su responsabilidad como Spider-Man. Sus poderes comienzan a fallar debido al estrés emocional, mientras enfrenta a un nuevo villano: el Doctor Octopus.",
+      "duration": "2h 07m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-06-30",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a2.mkv"
+      },
+      "enabled": true,
+      "id": "movie_012",
+      "addedAt": "2026-04-01T04:23:57.131Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 38
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man 3",
+      "description": "Peter Parker parece haber encontrado equilibrio entre su vida personal y ser Spider-Man, pero todo cambia cuando un simbionte alienígena se une a él, amplificando su lado oscuro.",
+      "duration": "2h 19m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-05-04",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a3.mkv"
+      },
+      "enabled": true,
+      "id": "movie_013",
+      "addedAt": "2026-04-01T04:25:59.732Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 49
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man",
+      "description": "Cuenta el origen de Peter Parker, un estudiante que obtiene poderes tras ser mordido por una araña modificada genéticamente. Tras la muerte de su tío Ben, aprende que 'un gran poder conlleva una gran responsabilidad'.",
+      "duration": "2h 01m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-05-03",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/HombreAra%C3%B1a.mkv"
+      },
+      "enabled": true,
+      "id": "movie_014",
+      "addedAt": "2026-04-01T04:30:00.971Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 40
+    },
+    {
+      "type": "movie",
+      "title": "Interstellar",
+      "description": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad. Una mezcla de ciencia real con una fuerte carga emocional centrada en la relación entre padre e hija.",
+      "duration": "2h 49m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-11-05",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Interestelar.mp4"
+      },
+      "enabled": true,
+      "id": "movie_015",
+      "addedAt": "2026-04-01T04:31:21.112Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 41
+    },
+    {
+      "type": "movie",
+      "title": "John Wick",
+      "description": "Un ex sicario de élite sale de su retiro para vengarse de los gánsteres que le quitaron todo, en una odisea de acción estilizada y venganza implacable.",
+      "duration": "1h 41m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-10-24",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick.mp4"
+      },
+      "enabled": true,
+      "id": "movie_016",
+      "addedAt": "2026-04-01T04:35:01.977Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 42
+    },
+    {
+      "type": "movie",
+      "title": "John Wick: Chapter 2",
+      "description": "El legendario sicario John Wick se ve obligado a salir de su retiro por un antiguo socio que planea obtener el control de un misterioso grupo internacional de asesinos.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-02-10",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick2.mp4"
+      },
+      "enabled": true,
+      "id": "movie_017",
+      "addedAt": "2026-04-01T04:35:14.453Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 43
+    },
+    {
+      "type": "movie",
+      "title": "John Wick: Chapter 3 – Parabellum",
+      "description": "John Wick está huyendo después de matar a un miembro del gremio internacional de asesinos, y con una recompensa de 14 millones de dólares por su cabeza, es el objetivo de sicarios en todas partes.",
+      "duration": "2h 11m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-05-17",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "12asda"
+      },
+      "enabled": true,
+      "id": "movie_018",
+      "addedAt": "2026-04-01T04:35:15.484Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 44
+    },
+    {
+      "type": "movie",
+      "title": "Joker",
+      "description": "Arthur Fleck es un hombre ignorado por la sociedad cuya motivación en la vida es hacer reír. Pero una serie de trágicos sucesos le llevarán a ver el mundo de otra forma.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-10-04",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/joker.mp4"
+      },
+      "enabled": true,
+      "id": "movie_019",
+      "addedAt": "2026-04-01T04:39:37.908Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 45
+    },
+    {
+      "type": "movie",
+      "title": "John Wick: Chapter 4",
+      "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero antes de poder ganar su libertad, Wick debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo.",
+      "duration": "2h 49m",
+      "rating": "R",
+      "quality": "BQ",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-03-24",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/JohnWick4.mp4"
+      },
+      "enabled": true,
+      "id": "movie_020",
+      "addedAt": "2026-04-01T04:40:09.416Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 46
+    },
+    {
+      "type": "movie",
+      "title": "Justice League",
+      "description": "Tras la muerte de Superman, Bruce Wayne y Diana Prince forman un equipo de metahumanos para enfrentar a una amenaza catastrófica que pone en riesgo la Tierra: Steppenwolf.",
+      "duration": "2h 00m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-11-17",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_021",
+      "addedAt": "2026-04-01T04:43:13.728Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 47
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: Far From Home",
+      "description": "Peter Parker intenta tomarse un descanso viajando por Europa, pero Nick Fury lo recluta para una misión secreta donde deberá enfrentar a los Elementales junto a Mysterio.",
+      "duration": "2h 09m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-07-02",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sdfsf"
+      },
+      "enabled": true,
+      "id": "movie_022",
+      "addedAt": "2026-04-01T04:46:32.910Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 48
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker intenta equilibrar su vida como estudiante de secundaria en Queens con su lucha contra el crimen como Spider-Man, mientras el Buitre amenaza la ciudad.",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-07-07",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/MarvelSpidermanRegresoACasa.mp4"
+      },
+      "enabled": true,
+      "id": "movie_023",
+      "addedAt": "2026-04-01T04:49:05.482Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 49
+    },
+    {
+      "type": "movie",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "description": "El herrero Will Turner se une al excéntrico pirata 'Capitán' Jack Sparrow para salvar a su amada, la hija del gobernador, de los antiguos aliados de Jack.",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-07-09",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_024",
+      "addedAt": "2026-04-01T04:51:12.563Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 50
+    },
+    {
+      "type": "movie",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "El capitán Barbossa, Will Turner y Elizabeth Swann deben viajar al fin del mundo para rescatar a Jack Sparrow y librar una batalla final contra Davy Jones.",
+      "duration": "2h 49m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-05-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_025",
+      "addedAt": "2026-04-01T04:51:25.833Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 51
+    },
+    {
+      "type": "movie",
+      "title": "Pulp Fiction",
+      "description": "Las vidas de dos sicarios, un boxeador y una pareja de atracadores se entrelazan en cuatro historias de violencia y redención en Los Ángeles.",
+      "duration": "2h 34m",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1994,
+      "releaseDate": "1994-10-14",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "English"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/PulpFiction.mp4"
+      },
+      "enabled": true,
+      "id": "movie_026",
+      "addedAt": "2026-04-01T04:53:58.339Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 52
+    },
+    {
+      "type": "movie",
+      "title": "The Fast and the Furious",
+      "description": "Brian O'Conner se infiltra como policía encubierto en el mundo de las carreras ilegales y conoce a Dominic Toretto. Lo que empieza como una investigación se convierte en un conflicto entre deber y lealtad.",
+      "duration": "1h 46m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2001-06-22",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/R%C3%A1pidoYFurioso.avi"
+      },
+      "enabled": true,
+      "id": "movie_027",
+      "addedAt": "2026-04-01T04:56:13.178Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 53
+    },
+    {
+      "type": "movie",
+      "title": "2 Fast 2 Furious",
+      "description": "Brian, ahora fugitivo, colabora con su amigo Roman Pearce para infiltrarse en una red de narcotráfico y limpiar su historial.",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-06-06",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso02.avi"
+      },
+      "enabled": true,
+      "id": "movie_028",
+      "addedAt": "2026-04-01T05:15:58.192Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 54
+    },
+    {
+      "type": "movie",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "description": "Sean Boswell se muda a Japón y descubre el mundo del drift. Allí conoce a Han y se involucra con la mafia local.",
+      "duration": "1h 44m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2006-06-16",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso03RetoEnTokio.avi"
+      },
+      "enabled": true,
+      "id": "movie_029",
+      "addedAt": "2026-04-01T05:16:28.712Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 55
+    },
+    {
+      "type": "movie",
+      "title": "Fast & Furious",
+      "description": "Dom y Brian vuelven a cruzarse para vengar la muerte de Letty y enfrentarse a un cartel. Su rivalidad se transforma en alianza.",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-04-03",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso04.avi"
+      },
+      "enabled": true,
+      "id": "movie_030",
+      "addedAt": "2026-04-01T05:16:29.700Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 56
+    },
+    {
+      "type": "movie",
+      "title": "Fast Five",
+      "description": "El equipo planea un gran robo en Brasil mientras son perseguidos por Luke Hobbs. Marca el cambio hacia el estilo de 'gran golpe'.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-04-29",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso05.avi"
+      },
+      "enabled": true,
+      "id": "movie_031",
+      "addedAt": "2026-04-01T05:16:30.560Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 57
+    },
+    {
+      "type": "movie",
+      "title": "Fast & Furious 6",
+      "description": "Dom y su equipo trabajan con Hobbs para detener a un grupo de mercenarios. Letty reaparece con amnesia.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-05-24",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoFurioso06.avi"
+      },
+      "enabled": true,
+      "id": "movie_032",
+      "addedAt": "2026-04-01T05:16:31.391Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 58
+    },
+    {
+      "type": "movie",
+      "title": "Furious 7",
+      "description": "Deckard Shaw busca venganza contra el equipo. La historia mezcla acción global y momentos emocionales importantes.",
+      "duration": "2h 17m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-04-03",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_033",
+      "addedAt": "2026-04-01T05:16:32.104Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 59
+    },
+    {
+      "type": "movie",
+      "title": "The Fate of the Furious",
+      "description": "Dom traiciona al equipo bajo manipulación de una ciberterrorista, obligando a su 'familia' a enfrentarlo.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-04-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_034",
+      "addedAt": "2026-04-01T05:16:33.855Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 60
+    },
+    {
+      "type": "movie",
+      "title": "F9: The Fast Saga",
+      "description": "Aparece Jakob Toretto, hermano de Dom. El conflicto se vuelve personal mientras enfrentan una amenaza global.",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-06-25",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RapidoYFurioso9.mp4"
+      },
+      "enabled": true,
+      "id": "movie_035",
+      "addedAt": "2026-04-01T05:24:17.607Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 61
+    },
+    {
+      "type": "movie",
+      "title": "Ready Player One",
+      "description": "En un futuro donde el mundo real está en crisis, la mayoría de las personas escapan a un universo virtual llamado OASIS para encontrar un 'huevo de pascua' que otorga el control total del sistema.",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-03-29",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ReadyPlayerone.mp4"
+      },
+      "enabled": true,
+      "id": "movie_036",
+      "addedAt": "2026-04-01T05:27:15.590Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 62
+    },
+    {
+      "type": "movie",
+      "title": "Rogue One: A Star Wars Story",
+      "description": "Un grupo de rebeldes liderado por Jyn Erso tiene la misión crítica de robar los planos de la Estrella de la Muerte.",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-12-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "adsdad"
+      },
+      "enabled": true,
+      "id": "movie_037",
+      "addedAt": "2026-04-01T05:28:59.621Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 63
+    },
+    {
+      "type": "movie",
+      "title": "Blade Runner 2049",
+      "description": "El oficial K, un blade runner, descubre un secreto enterrado que podría sumir lo que queda de la sociedad en el caos. Este descubrimiento lo lleva a buscar a Rick Deckard, desaparecido hace 30 años.",
+      "duration": "2h 44m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-10-06",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_038",
+      "addedAt": "2026-04-01T05:30:23.754Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 64
+    },
+    {
+      "type": "movie",
+      "title": "The Amazing Spider-Man 2",
+      "description": "Peter Parker intenta cumplir la promesa de alejarse de Gwen Stacy mientras se enfrenta a Electro y al regreso de Harry Osborn.",
+      "duration": "2h 22m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-05-02",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/SpiderMan2.mp4"
+      },
+      "enabled": true,
+      "id": "movie_039",
+      "addedAt": "2026-04-01T05:32:58.431Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 65
+    },
+    {
+      "type": "movie",
+      "title": "The Amazing Spider-Man",
+      "description": "Peter Parker comienza a investigar la desaparición de sus padres y se convierte en Spider-Man tras ser mordido por una araña modificada genéticamente.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-07-03",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_040",
+      "addedAt": "2026-04-01T05:33:01.867Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 66
+    },
+    {
+      "type": "movie",
+      "title": "Spider-Man: No Way Home",
+      "description": "Peter Parker pide ayuda al Doctor Strange para revertir el hecho de que su identidad fue revelada, pero un hechizo fallido abre el multiverso.",
+      "duration": "2h 28m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-12-17",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/SpiderManNoWayHome.mkv"
+      },
+      "enabled": true,
+      "id": "movie_041",
+      "addedAt": "2026-04-01T05:35:58.455Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 67
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "description": "Luke Skywalker une fuerzas con un caballero Jedi, un piloto arrogante y dos droides para salvar la galaxia de la estación de combate del Imperio.",
+      "duration": "2h 01m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1977,
+      "releaseDate": "1977-05-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars4.mp4"
+      },
+      "enabled": true,
+      "id": "movie_042",
+      "addedAt": "2026-04-01T09:24:42.720Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 68
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "description": "Tras un ataque del Imperio a la base rebelde de Hoth, Luke Skywalker empieza su entrenamiento Jedi con el maestro Yoda.",
+      "duration": "2h 04m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "1980-05-21",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars5.mp4"
+      },
+      "enabled": true,
+      "id": "movie_043",
+      "addedAt": "2026-04-01T09:24:47.377Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 69
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "description": "Luke Skywalker encabeza un plan para rescatar a Han Solo de las garras de Jabba el Hutt e intenta rescatar a su padre del lado oscuro.",
+      "duration": "2h 11m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "1983-05-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars6.mp4"
+      },
+      "enabled": true,
+      "id": "movie_044",
+      "addedAt": "2026-04-01T09:24:48.831Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 70
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "description": "Tres años después del inicio de las Guerras Clon, los Caballeros Jedi se enfrentan a una amenaza definitiva a medida que Anakin se aleja de la luz.",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-05-19",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_045",
+      "addedAt": "2026-04-01T09:24:50.170Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 71
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "description": "Mientras se gesta una conspiración política, el joven Anakin Skywalker debe elegir entre su deber Jedi y su amor por la senadora Padmé Amidala.",
+      "duration": "2h 22m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-05-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asdasd"
+      },
+      "enabled": true,
+      "id": "movie_046",
+      "addedAt": "2026-04-01T09:24:51.143Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 72
+    },
+    {
+      "type": "movie",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "description": "Dos caballeros Jedi descubren a un joven esclavizado con una fuerza poderosa mientras intentan resolver una disputa comercial galáctica.",
+      "duration": "2h 16m",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1999,
+      "releaseDate": "1999-05-19",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Starwars.mp4"
+      },
+      "enabled": true,
+      "id": "movie_047",
+      "addedAt": "2026-04-01T09:24:55.901Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 73
+    },
+    {
+      "type": "movie",
+      "title": "Redline",
+      "description": "Cada cinco años se celebra la carrera de autos más grande y peligrosa del universo. JP piensa participar, pero deberá enfrentar a la mafia, al Gobierno y al amor.",
+      "duration": "1h 42m",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-08-14",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asddsfdsdf"
+      },
+      "enabled": true,
+      "id": "movie_048",
+      "addedAt": "2026-04-01T22:40:34.708Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 74
+    },
+    {
+      "type": "movie",
+      "title": "Scream 7",
+      "description": "Sidney Prescott regresa para enfrentarse a una nueva oleada de asesinatos bajo la máscara de Ghostface, en un capítulo que promete cerrar heridas del pasado.",
+      "duration": "1h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-02-27",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "1qawdq"
+      },
+      "enabled": true,
+      "id": "movie_049",
+      "addedAt": "2026-04-02T00:04:53.164Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 75
+    },
+    {
+      "type": "movie",
+      "title": "Zootopia 2",
+      "description": "Judy Hopps y Nick Wilde regresan para seguir el rastro de un misterioso reptil que llega a la metrópolis de Zootopia, poniendo patas arriba el orden de la ciudad.",
+      "duration": "1h 48m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-11-26",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "11"
+      },
+      "enabled": true,
+      "id": "movie_050",
+      "addedAt": "2026-04-02T00:46:14.628Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 76
+    },
+    {
+      "type": "movie",
+      "title": "Avatar: Fuego y ceniza",
+      "description": "Jake Sully y Neytiri enfrentan una nueva y agresiva cultura Na'vi: el 'Pueblo de la Ceniza', una tribu de fuego liderada por Varang.",
+      "duration": "3h 10m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-12-19",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qqq"
+      },
+      "enabled": true,
+      "id": "movie_051",
+      "addedAt": "2026-04-02T00:48:52.636Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 77
+    },
+    {
+      "type": "movie",
+      "title": "GOAT",
+      "description": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales en un deporte dominado por los animales más rápidos y feroces del mundo.",
+      "duration": "1h 40m",
+      "rating": "PG",
+      "quality": "None",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-02-13",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "asas"
+      },
+      "enabled": true,
+      "id": "movie_052",
+      "addedAt": "2026-04-02T00:51:24.678Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 78
+    },
+    {
+      "type": "movie",
+      "title": "The Wrecking Crew",
+      "description": "Un impulsivo detective y un disciplinado ex-soldado investigan el asesinato de su padre en Hawái, descubriendo una conspiración masiva.",
+      "duration": "2h 04m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-01-28",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "aa"
+      },
+      "enabled": true,
+      "id": "movie_053",
+      "addedAt": "2026-04-02T01:13:01.444Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 79
+    },
+    {
+      "type": "movie",
+      "title": "Greenland: Migration",
+      "description": "La familia Garrity debe abandonar el búnker de Groenlandia y viajar a través del páramo helado de Europa para encontrar un nuevo hogar.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2025,
+      "releaseDate": "2025-06-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "q"
+      },
+      "enabled": true,
+      "id": "movie_054",
+      "addedAt": "2026-04-02T01:16:48.171Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 80
+    },
+    {
+      "type": "movie",
+      "title": "Mercy",
+      "description": "En un futuro cercano, un detective debe demostrar su inocencia ante una Inteligencia Artificial antes de que esta determine su destino.",
+      "duration": "1h 39m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-01-23",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qq"
+      },
+      "enabled": true,
+      "id": "movie_055",
+      "addedAt": "2026-04-03T21:56:07.430Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 81
+    },
+    {
+      "type": "movie",
+      "title": "28 Years Later",
+      "description": "Casi tres décadas después del brote original, la lucha por la supervivencia continúa en un mundo devastado y transformado por la infección.",
+      "duration": "1h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2025,
+      "releaseDate": "2025-06-20",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qaq"
+      },
+      "enabled": true,
+      "id": "movie_056",
+      "addedAt": "2026-04-03T22:03:40.888Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 82
+    },
+    {
+      "type": "movie",
+      "title": "Humint",
+      "description": "Un agente surcoreano y uno norcoreano destapan una red de narcotráfico en la frontera rusa, enfrentando peligros mortales.",
+      "duration": "2h 00m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-02-11",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "qwdq"
+      },
+      "enabled": true,
+      "id": "movie_057",
+      "addedAt": "2026-04-03T22:12:22.925Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 83
+    },
+    {
+      "type": "movie",
+      "title": "The Housemaid",
+      "description": "Millie acepta un puesto como sirvienta en una mansión inquietante, solo para descubrir secretos oscuros sobre sus habitantes.",
+      "duration": "2h 11m",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-12-19",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "links": {
+        "default": "sed"
+      },
+      "enabled": true,
+      "id": "movie_058",
+      "addedAt": "2026-04-03T22:37:25.575Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 84
+    },
+    {
+      "type": "series",
+      "title": "Loki",
+      "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-06-09",
+      "genres": [
+        "Action",
+        "Crime",
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_001_e01",
+      "addedAt": "2026-04-01T00:03:43.617Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 8,
+      "episodes": [
+        {
+          "id": "series_001_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/2.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/3.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/4.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/5.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/6.mkv"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t1/1.mkv",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/loki/t1/1.mkv",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/loki/t1/2.mkv",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/loki/t1/3.mkv",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/loki/t1/4.mkv",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/loki/t1/5.mkv",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/loki/t1/6.mkv"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Loki Temporada 2",
+      "description": "",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-10-05",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_002_e01",
+      "addedAt": "2026-04-01T02:28:47.687Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 9,
+      "episodes": [
+        {
+          "id": "series_002_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%202.mp4"
+        },
+        {
+          "id": "series_002_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%203.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%201.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%201.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%202.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%203.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T1",
+      "description": "Introduce a Malcolm, un niño superdotado atrapado en una familia caótica. Se muestra su traslado a la clase de “genios” (Krelboynes) y el contraste entre su inteligencia y su vida familiar disfuncional. El humor se basa en situaciones absurdas y la ruptura de la cuarta pared.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-01-09",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_003_e01",
+      "addedAt": "2026-04-01T02:58:42.907Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 10,
+      "episodes": [
+        {
+          "id": "series_003_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x02.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x03.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x04.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x05.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x06.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x07.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x08.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x09.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x10.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x11.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x12.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x13.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x14.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x15.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x16.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x16.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T2",
+      "description": "Se profundiza en los personajes secundarios (Dewey, Reese, Francis). Malcolm empieza a lidiar más con su ego e inseguridades. Francis entra a la academia militar, lo que añade tramas paralelas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-11-05",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_004_e01",
+      "addedAt": "2026-04-01T02:58:55.742Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 11,
+      "episodes": [
+        {
+          "id": "series_004_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asdhttps://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x02.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x03.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x04.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x05.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x06.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x07.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x08.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x09.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x10.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x11.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x12.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x13.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x14.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x15.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x16.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x17.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x18.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x19.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x20.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x21.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x22.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_23",
+          "title": "Spanish Cap 23",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x23.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_24",
+          "title": "Spanish Cap 24",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x24.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_25",
+          "title": "Spanish Cap 25",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x25.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x01.mp4",
+        "language_Spanish_Cap_2": "asdhttps://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x22.mp4",
+        "language_Spanish_Cap_23": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x23.mp4",
+        "language_Spanish_Cap_24": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x24.mp4",
+        "language_Spanish_Cap_25": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x25.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T3",
+      "description": "La serie madura ligeramente: Malcolm enfrenta dilemas sociales y románticos. Reese se vuelve más problemático, y Francis empieza a independizarse. Se refuerza el equilibrio entre comedia absurda y momentos emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2001-11-11",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_005_e01",
+      "addedAt": "2026-04-01T02:58:56.862Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 12,
+      "episodes": [
+        {
+          "id": "series_005_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x02.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x03.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x04.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x05.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x06.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x07.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x08.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x09.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x10.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x11.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x12.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x13.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x14.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x15.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x16.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x17.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x18.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x19.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x20.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x21.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x22.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T4",
+      "description": "Introduce cambios importantes: Francis trabaja en Alaska. Malcolm enfrenta problemas más complejos en la escuela. La dinámica familiar se vuelve más intensa, con Lois mostrando un control aún más fuerte.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-11-03",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_006_e01",
+      "addedAt": "2026-04-01T02:59:13.029Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 13,
+      "episodes": [
+        {
+          "id": "series_006_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x02.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x03.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x04.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x05.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x06.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x07.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x08.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x09.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x10.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x11.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x12.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x13.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x14.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x15.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x16.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x17.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x18.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x19.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x20.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x21.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x22.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T5",
+      "description": "Se enfatiza la sátira sobre la clase media y la vida laboral. Hal y Lois tienen más protagonismo. Malcolm empieza a cuestionar su futuro y su identidad más seriamente.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-11-02",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_007_e01",
+      "addedAt": "2026-04-01T02:59:15.444Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 14,
+      "episodes": [
+        {
+          "id": "series_007_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x02.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x03.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x04.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x05.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x06.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x07.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x08.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x09.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x10.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x11.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x12.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x13.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x14.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x15.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x16.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x17.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x18.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x19.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x20.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x21.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x22.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T6",
+      "description": "Malcolm entra en la adolescencia tardía. Los conflictos son más realistas (trabajo, relaciones, responsabilidad). Reese y Dewey también evolucionan bastante.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-11-07",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_008_e01",
+      "addedAt": "2026-04-01T02:59:16.481Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 15,
+      "episodes": [
+        {
+          "id": "series_008_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x02.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x03.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x04.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x05.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x06.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x07.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x08.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x09.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x10.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x11.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x12.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x13.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x14.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x15.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x16.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x17.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x18.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x19.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x20.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x21.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x22.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T7",
+      "description": "Temporada final. Malcolm se prepara para su futuro (universidad y vida adulta). La serie cierra con un mensaje claro sobre esfuerzo, sacrificio y destino, manteniendo su estilo cómico característico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-30",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_009_e01",
+      "addedAt": "2026-04-01T02:59:17.767Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 16,
+      "episodes": [
+        {
+          "id": "series_009_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x02.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x03.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x04.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x05.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x06.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x07.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x08.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x09.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x10.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x11.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x12.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x13.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x14.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x15.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x16.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x17.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x18.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x19.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x20.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x21.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x22.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_23",
+          "title": "Spanish Cap 23",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x23.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x01.mp4",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x01.mp4",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x02.mp4",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x03.mp4",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x04.mp4",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x05.mp4",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x06.mp4",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x07.mp4",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x08.mp4",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x09.mp4",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x10.mp4",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x11.mp4",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x12.mp4",
+        "language_Spanish_Cap_13": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x13.mp4",
+        "language_Spanish_Cap_14": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x14.mp4",
+        "language_Spanish_Cap_15": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x15.mp4",
+        "language_Spanish_Cap_16": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x16.mp4",
+        "language_Spanish_Cap_17": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x17.mp4",
+        "language_Spanish_Cap_18": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x18.mp4",
+        "language_Spanish_Cap_19": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x19.mp4",
+        "language_Spanish_Cap_20": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x20.mp4",
+        "language_Spanish_Cap_21": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x21.mp4",
+        "language_Spanish_Cap_22": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x22.mp4",
+        "language_Spanish_Cap_23": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x23.mp4"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Merlina",
+      "description": "Mientras asiste a la Academia Nevermore, Merlina Addams intenta dominar su incipiente habilidad psíquica, frustrar una ola de asesinatos y resolver el misterio que involucró a sus padres 25 años atrás.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-11-23",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_010_e01",
+      "addedAt": "2026-04-01T03:09:04.139Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 17,
+      "episodes": [
+        {
+          "id": "series_010_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asda",
+        "language_Spanish_Cap_3": "asd",
+        "language_Spanish_Cap_4": "asd",
+        "language_Spanish_Cap_5": "asd",
+        "language_Spanish_Cap_6": "asd",
+        "language_Spanish_Cap_7": "asd",
+        "language_Spanish_Cap_8": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T3",
+      "description": "Centrada en Cyborg. Introduce a Brother Blood y la academia de titanes. Se exploran temas de identidad, tecnología y humanidad, mientras Cyborg enfrenta su pasado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-08-28",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_011_e01",
+      "addedAt": "2026-04-01T03:13:34.985Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 18,
+      "episodes": [
+        {
+          "id": "series_011_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T5",
+      "description": "Expande el universo con múltiples equipos de titanes. La Hermandad del Mal es la principal amenaza. Beast Boy toma un rol más protagónico, mostrando crecimiento como líder.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-24",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_012_e01",
+      "addedAt": "2026-04-01T03:13:49.559Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 19,
+      "episodes": [
+        {
+          "id": "series_012_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T1",
+      "description": "Introduce al equipo: Robin, Starfire, Raven, Beast Boy y Cyborg. La temporada se centra principalmente en la amenaza de Slade, quien manipula a Robin psicológicamente. Predomina el enfoque de equipo y el inicio de sus dinámicas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-07-19",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_013_e01",
+      "addedAt": "2026-04-01T03:13:50.760Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 20,
+      "episodes": [
+        {
+          "id": "series_013_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T2",
+      "description": "Se enfoca en Terra, una chica con poderes geocinéticos. Su relación con Beast Boy y su conflicto interno la convierten en una de las tramas más emocionales. Slade regresa como antagonista clave.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-01-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_014_e01",
+      "addedAt": "2026-04-01T03:13:51.737Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 21,
+      "episodes": [
+        {
+          "id": "series_014_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T4",
+      "description": "Se enfoca en Raven y su origen demoníaco como hija de Trigon. Es la temporada más oscura de la serie, con un tono más serio y apocalíptico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-01-15",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_015_e01",
+      "addedAt": "2026-04-01T03:13:53.891Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 22,
+      "episodes": [
+        {
+          "id": "series_015_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1",
+      "description": "Introduce a Tanjiro Kamado, cuya familia es asesinada por demonios y su hermana Nezuko es convertida en uno. Tanjiro se une al Cuerpo de Exterminio de Demonios para encontrar una cura y vengar a su familia. Se presentan personajes clave como Zenitsu e Inosuke.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-04-06",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_016_e01",
+      "addedAt": "2026-04-01T03:23:03.032Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 23,
+      "episodes": [
+        {
+          "id": "series_016_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ],
+      "videoUrl": "ewr",
+      "links": {
+        "default": "ewr",
+        "language_Japanese_Cap_2": "asda"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1.5",
+      "description": "Continúa directamente después de la temporada 1. Tanjiro y sus compañeros acompañan al Pilar de la Llama, Kyojuro Rengoku, en una misión dentro de un tren poseído por demonios. Es uno de los arcos más emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-10-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_017_e01",
+      "addedAt": "2026-04-01T03:23:23.457Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 24,
+      "episodes": [
+        {
+          "id": "series_017_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Japanese_Cap_2": "asda"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T2",
+      "description": "El equipo acompaña al Pilar del Sonido, Tengen Uzui, en una misión dentro del distrito rojo. Se enfrentan a demonios de alto rango (Lunas Superiores). Destaca por su animación y batallas intensas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-12-05",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_018_e01",
+      "addedAt": "2026-04-01T03:23:26.102Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 25,
+      "episodes": [
+        {
+          "id": "series_018_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Japanese_Cap_2": "asda"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T3",
+      "description": "Tanjiro viaja a la aldea donde se forjan las espadas. Aparecen nuevos Pilares (Mitsuri y Muichiro) y enemigos poderosos. Se profundiza en habilidades y pasado de los personajes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-04-09",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_019_e01",
+      "addedAt": "2026-04-01T03:23:26.936Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 26,
+      "episodes": [
+        {
+          "id": "series_019_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ],
+      "links": {
+        "default": "",
+        "language_Japanese_Cap_2": "asda"
+      }
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T1",
+      "description": "Introduce a Kick, un niño obsesionado con convertirse en el mejor doble de riesgo del mundo. Vive en un suburbio aburrido, pero convierte cualquier situación cotidiana en una acrobacia extrema. Su mejor amigo, Gunther, lo acompaña en sus locuras. Se establecen sus conflictos con su hermano Brad y su rival Kendall.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2010-02-13",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_020_e01",
+      "addedAt": "2026-04-01T03:30:15.960Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 27,
+      "episodes": [
+        {
+          "id": "series_020_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_020_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd",
+      "links": {
+        "default": "asd",
+        "language_Spanish_Cap_2": "asda",
+        "language_Spanish_Cap_3": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T2",
+      "description": "Expande las situaciones y retos de Kick con desafíos más exagerados. Se desarrollan más los personajes secundarios y las rivalidades. El tono se vuelve aún más dinámico y absurdo, manteniendo el enfoque en riesgos extremos y humor físico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-04-30",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_021_e01",
+      "addedAt": "2026-04-01T03:30:31.942Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 28,
+      "episodes": [
+        {
+          "id": "series_021_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_021_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd",
+      "links": {
+        "default": "asd",
+        "language_Spanish_Cap_2": "asda",
+        "language_Spanish_Cap_3": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Kenan & Kel",
+      "description": "Introduce a Kenan, un chico inteligente pero algo tramposo, y Kel, su mejor amigo torpe pero muy carismático. La mayoría de los episodios giran en torno a los planes de Kenan que terminan saliendo mal por culpa de Kel. Se establece el icónico amor de Kel por la soda de naranja.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-07-26",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_022_e01",
+      "addedAt": "2026-04-01T03:32:26.792Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 29,
+      "episodes": [],
+      "videoUrl": "aaa",
+      "links": {
+        "default": "aaa"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T1",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2020-09-04",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_023_e01",
+      "addedAt": "2026-04-01T03:34:35.729Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 30,
+      "episodes": [
+        {
+          "id": "series_023_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd",
+      "links": {
+        "default": "asd",
+        "language_Spanish_Cap_2": "ada"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T2",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-06-03",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_024_e01",
+      "addedAt": "2026-04-01T03:34:47.279Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 31,
+      "episodes": [
+        {
+          "id": "series_024_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd",
+      "links": {
+        "default": "asd",
+        "language_Spanish_Cap_2": "ada"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T1",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-06-13",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_025_e01",
+      "addedAt": "2026-04-01T03:37:21.231Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 32,
+      "episodes": [
+        {
+          "id": "series_025_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda",
+      "links": {
+        "default": "asda",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T2",
+      "description": "Se expande el universo con más inventos, enemigos y aventuras espaciales. Los personajes secundarios tienen más protagonismo.\nSe introducen conceptos más complejos, pero manteniendo el humor.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-12-02",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_026_e01",
+      "addedAt": "2026-04-01T03:37:50.167Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 33,
+      "episodes": [
+        {
+          "id": "series_026_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda",
+      "links": {
+        "default": "asda",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T3",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-07-26",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_027_e01",
+      "addedAt": "2026-04-01T03:37:52.173Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 34,
+      "episodes": [
+        {
+          "id": "series_027_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda",
+      "links": {
+        "default": "asda",
+        "language_Spanish_Cap_2": "asd"
+      }
+    },
+    {
+      "type": "series",
+      "title": "Beastars T1",
+      "description": "La historia se desarrolla en un mundo de animales antropomórficos donde herbívoros y carnívoros conviven bajo tensión social constante.\n\nEl protagonista, Legoshi, es un lobo gris tímido que lucha contra sus instintos depredadores mientras se enamora de una coneja llamada Haru.\n\nTodo comienza con el asesinato de un alumno herbívoro, lo que desencadena conflictos sociales, psicológicos y políticos dentro de la academia.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-06",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Animation",
+        "Mystery",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_028_e01",
+      "addedAt": "2026-04-06T08:20:06.980Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 85,
+      "episodes": [
+        {
+          "id": "series_028_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E02.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E03.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E04.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E05.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E06.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E07.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E08.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E09.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E01.mkv",
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E01.mkv",
+        "language_Spanish_Cap_2": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E02.mkv",
+        "language_Spanish_Cap_3": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E03.mkv",
+        "language_Spanish_Cap_4": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E04.mkv",
+        "language_Spanish_Cap_5": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E05.mkv",
+        "language_Spanish_Cap_6": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E06.mkv",
+        "language_Spanish_Cap_7": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E07.mkv",
+        "language_Spanish_Cap_8": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E08.mkv",
+        "language_Spanish_Cap_9": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E09.mkv",
+        "language_Spanish_Cap_10": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv",
+        "language_Spanish_Cap_11": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv",
+        "language_Spanish_Cap_12": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv"
+      }
+    }
+  ],
+  "series": [
+    {
+      "type": "series",
+      "title": "Loki",
+      "description": "Loki se aleja de la sombra de su hermano para embarcarse en una aventura que se desarrolla tras los acontecimientos de \"Avengers: Endgame\".",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-06-09",
+      "genres": [
+        "Action",
+        "Crime",
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_001_e01",
+      "addedAt": "2026-04-01T00:03:43.617Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 8,
+      "episodes": [
+        {
+          "id": "series_001_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/2.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/3.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/4.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/5.mkv"
+        },
+        {
+          "id": "series_001_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t1/6.mkv"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t1/1.mkv"
+    },
+    {
+      "type": "series",
+      "title": "Loki Temporada 2",
+      "description": "",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-10-05",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_002_e01",
+      "addedAt": "2026-04-01T02:28:47.687Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 9,
+      "episodes": [
+        {
+          "id": "series_002_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%202.mp4"
+        },
+        {
+          "id": "series_002_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%203.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/loki/t2/LOKI%20-%20EPISODIO%201.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T1",
+      "description": "Introduce a Malcolm, un niño superdotado atrapado en una familia caótica. Se muestra su traslado a la clase de “genios” (Krelboynes) y el contraste entre su inteligencia y su vida familiar disfuncional. El humor se basa en situaciones absurdas y la ruptura de la cuarta pared.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-01-09",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_003_e01",
+      "addedAt": "2026-04-01T02:58:42.907Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 10,
+      "episodes": [
+        {
+          "id": "series_003_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x02.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x03.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x04.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x05.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x06.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x07.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x08.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x09.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x10.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x11.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x12.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x13.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x14.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x15.mp4"
+        },
+        {
+          "id": "series_003_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x16.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_001/1x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T2",
+      "description": "Se profundiza en los personajes secundarios (Dewey, Reese, Francis). Malcolm empieza a lidiar más con su ego e inseguridades. Francis entra a la academia militar, lo que añade tramas paralelas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-11-05",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_004_e01",
+      "addedAt": "2026-04-01T02:58:55.742Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 11,
+      "episodes": [
+        {
+          "id": "series_004_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asdhttps://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x02.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x03.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x04.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x05.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x06.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x07.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x08.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x09.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x10.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x11.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x12.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x13.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x14.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x15.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x16.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x17.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x18.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x19.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x20.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x21.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x22.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_23",
+          "title": "Spanish Cap 23",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x23.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_24",
+          "title": "Spanish Cap 24",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x24.mp4"
+        },
+        {
+          "id": "series_004_language_Spanish_Cap_25",
+          "title": "Spanish Cap 25",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x25.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_002/2x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T3",
+      "description": "La serie madura ligeramente: Malcolm enfrenta dilemas sociales y románticos. Reese se vuelve más problemático, y Francis empieza a independizarse. Se refuerza el equilibrio entre comedia absurda y momentos emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2001-11-11",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_005_e01",
+      "addedAt": "2026-04-01T02:58:56.862Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 12,
+      "episodes": [
+        {
+          "id": "series_005_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x02.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x03.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x04.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x05.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x06.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x07.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x08.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x09.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x10.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x11.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x12.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x13.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x14.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x15.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x16.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x17.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x18.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x19.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x20.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x21.mp4"
+        },
+        {
+          "id": "series_005_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_003/3x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T4",
+      "description": "Introduce cambios importantes: Francis trabaja en Alaska. Malcolm enfrenta problemas más complejos en la escuela. La dinámica familiar se vuelve más intensa, con Lois mostrando un control aún más fuerte.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-11-03",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_006_e01",
+      "addedAt": "2026-04-01T02:59:13.029Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 13,
+      "episodes": [
+        {
+          "id": "series_006_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x02.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x03.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x04.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x05.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x06.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x07.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x08.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x09.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x10.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x11.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x12.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x13.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x14.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x15.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x16.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x17.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x18.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x19.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x20.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x21.mp4"
+        },
+        {
+          "id": "series_006_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_004/4x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T5",
+      "description": "Se enfatiza la sátira sobre la clase media y la vida laboral. Hal y Lois tienen más protagonismo. Malcolm empieza a cuestionar su futuro y su identidad más seriamente.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-11-02",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_007_e01",
+      "addedAt": "2026-04-01T02:59:15.444Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 14,
+      "episodes": [
+        {
+          "id": "series_007_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x02.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x03.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x04.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x05.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x06.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x07.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x08.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x09.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x10.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x11.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x12.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x13.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x14.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x15.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x16.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x17.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x18.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x19.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x20.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x21.mp4"
+        },
+        {
+          "id": "series_007_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_005/5x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T6",
+      "description": "Malcolm entra en la adolescencia tardía. Los conflictos son más realistas (trabajo, relaciones, responsabilidad). Reese y Dewey también evolucionan bastante.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-11-07",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_008_e01",
+      "addedAt": "2026-04-01T02:59:16.481Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 15,
+      "episodes": [
+        {
+          "id": "series_008_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x02.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x03.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x04.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x05.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x06.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x07.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x08.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x09.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x10.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x11.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x12.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x13.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x14.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x15.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x16.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x17.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x18.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x19.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x20.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x21.mp4"
+        },
+        {
+          "id": "series_008_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x22.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_006/6x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Malcolm in the Middle T7",
+      "description": "Temporada final. Malcolm se prepara para su futuro (universidad y vida adulta). La serie cierra con un mensaje claro sobre esfuerzo, sacrificio y destino, manteniendo su estilo cómico característico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-30",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_009_e01",
+      "addedAt": "2026-04-01T02:59:17.767Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 16,
+      "episodes": [
+        {
+          "id": "series_009_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x02.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x03.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x04.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x05.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x06.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x07.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x08.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x09.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x10.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x11.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x12.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_13",
+          "title": "Spanish Cap 13",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x13.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_14",
+          "title": "Spanish Cap 14",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x14.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_15",
+          "title": "Spanish Cap 15",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x15.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_16",
+          "title": "Spanish Cap 16",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x16.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_17",
+          "title": "Spanish Cap 17",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x17.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_18",
+          "title": "Spanish Cap 18",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x18.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_19",
+          "title": "Spanish Cap 19",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x19.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_20",
+          "title": "Spanish Cap 20",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x20.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_21",
+          "title": "Spanish Cap 21",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x21.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_22",
+          "title": "Spanish Cap 22",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x22.mp4"
+        },
+        {
+          "id": "series_009_language_Spanish_Cap_23",
+          "title": "Spanish Cap 23",
+          "url": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x23.mp4"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/MALCOLM%20SERIE/M4LC0LM_TEMP_007/7x01.mp4"
+    },
+    {
+      "type": "series",
+      "title": "Merlina",
+      "description": "Mientras asiste a la Academia Nevermore, Merlina Addams intenta dominar su incipiente habilidad psíquica, frustrar una ola de asesinatos y resolver el misterio que involucró a sus padres 25 años atrás.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-11-23",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Mystery",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_010_e01",
+      "addedAt": "2026-04-01T03:09:04.139Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 17,
+      "episodes": [
+        {
+          "id": "series_010_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "asd"
+        },
+        {
+          "id": "series_010_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T3",
+      "description": "Centrada en Cyborg. Introduce a Brother Blood y la academia de titanes. Se exploran temas de identidad, tecnología y humanidad, mientras Cyborg enfrenta su pasado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-08-28",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_011_e01",
+      "addedAt": "2026-04-01T03:13:34.985Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 18,
+      "episodes": [
+        {
+          "id": "series_011_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T5",
+      "description": "Expande el universo con múltiples equipos de titanes. La Hermandad del Mal es la principal amenaza. Beast Boy toma un rol más protagónico, mostrando crecimiento como líder.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-24",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_012_e01",
+      "addedAt": "2026-04-01T03:13:49.559Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 19,
+      "episodes": [
+        {
+          "id": "series_012_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T1",
+      "description": "Introduce al equipo: Robin, Starfire, Raven, Beast Boy y Cyborg. La temporada se centra principalmente en la amenaza de Slade, quien manipula a Robin psicológicamente. Predomina el enfoque de equipo y el inicio de sus dinámicas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-07-19",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_013_e01",
+      "addedAt": "2026-04-01T03:13:50.760Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 20,
+      "episodes": [
+        {
+          "id": "series_013_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T2",
+      "description": "Se enfoca en Terra, una chica con poderes geocinéticos. Su relación con Beast Boy y su conflicto interno la convierten en una de las tramas más emocionales. Slade regresa como antagonista clave.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-01-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_014_e01",
+      "addedAt": "2026-04-01T03:13:51.737Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 21,
+      "episodes": [
+        {
+          "id": "series_014_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Los Jovenes Titanes T4",
+      "description": "Se enfoca en Raven y su origen demoníaco como hija de Trigon. Es la temporada más oscura de la serie, con un tono más serio y apocalíptico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-01-15",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Sci-Fi",
+        "Thriller",
+        "Romance",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_015_e01",
+      "addedAt": "2026-04-01T03:13:53.891Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 22,
+      "episodes": [
+        {
+          "id": "series_015_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1",
+      "description": "Introduce a Tanjiro Kamado, cuya familia es asesinada por demonios y su hermana Nezuko es convertida en uno. Tanjiro se une al Cuerpo de Exterminio de Demonios para encontrar una cura y vengar a su familia. Se presentan personajes clave como Zenitsu e Inosuke.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-04-06",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_016_e01",
+      "addedAt": "2026-04-01T03:23:03.032Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 23,
+      "episodes": [
+        {
+          "id": "series_016_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ],
+      "videoUrl": "ewr"
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T1.5",
+      "description": "Continúa directamente después de la temporada 1. Tanjiro y sus compañeros acompañan al Pilar de la Llama, Kyojuro Rengoku, en una misión dentro de un tren poseído por demonios. Es uno de los arcos más emocionales.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-10-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_017_e01",
+      "addedAt": "2026-04-01T03:23:23.457Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 24,
+      "episodes": [
+        {
+          "id": "series_017_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T2",
+      "description": "El equipo acompaña al Pilar del Sonido, Tengen Uzui, en una misión dentro del distrito rojo. Se enfrentan a demonios de alto rango (Lunas Superiores). Destaca por su animación y batallas intensas.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-12-05",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_018_e01",
+      "addedAt": "2026-04-01T03:23:26.102Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 25,
+      "episodes": [
+        {
+          "id": "series_018_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "Kimetsu no Yaiba T3",
+      "description": "Tanjiro viaja a la aldea donde se forjan las espadas. Aparecen nuevos Pilares (Mitsuri y Muichiro) y enemigos poderosos. Se profundiza en habilidades y pasado de los personajes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-04-09",
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Japanese"
+      ],
+      "enabled": true,
+      "id": "series_019_e01",
+      "addedAt": "2026-04-01T03:23:26.936Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 26,
+      "episodes": [
+        {
+          "id": "series_019_language_Japanese_Cap_2",
+          "title": "Japanese Cap 2",
+          "url": "asda"
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T1",
+      "description": "Introduce a Kick, un niño obsesionado con convertirse en el mejor doble de riesgo del mundo. Vive en un suburbio aburrido, pero convierte cualquier situación cotidiana en una acrobacia extrema. Su mejor amigo, Gunther, lo acompaña en sus locuras. Se establecen sus conflictos con su hermano Brad y su rival Kendall.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2010-02-13",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_020_e01",
+      "addedAt": "2026-04-01T03:30:15.960Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 27,
+      "episodes": [
+        {
+          "id": "series_020_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_020_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "kick buttowski T2",
+      "description": "Expande las situaciones y retos de Kick con desafíos más exagerados. Se desarrollan más los personajes secundarios y las rivalidades. El tono se vuelve aún más dinámico y absurdo, manteniendo el enfoque en riesgos extremos y humor físico.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-04-30",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_021_e01",
+      "addedAt": "2026-04-01T03:30:31.942Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 28,
+      "episodes": [
+        {
+          "id": "series_021_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asda"
+        },
+        {
+          "id": "series_021_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Kenan & Kel",
+      "description": "Introduce a Kenan, un chico inteligente pero algo tramposo, y Kel, su mejor amigo torpe pero muy carismático. La mayoría de los episodios giran en torno a los planes de Kenan que terminan saliendo mal por culpa de Kel. Se establece el icónico amor de Kel por la soda de naranja.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-07-26",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_022_e01",
+      "addedAt": "2026-04-01T03:32:26.792Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 29,
+      "episodes": [],
+      "videoUrl": "aaa"
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T1",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2020-09-04",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_023_e01",
+      "addedAt": "2026-04-01T03:34:35.729Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 30,
+      "episodes": [
+        {
+          "id": "series_023_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T2",
+      "description": "Sigue a Yuji Itadori, un estudiante que termina poseído por una poderosa maldición (Sukuna). Es reclutado por la escuela de hechicería para combatir maldiciones.\nIntroduce personajes clave como Megumi Fushiguro, Nobara Kugisaki y Satoru Gojo.\nCombina acción intensa con humor y desarrollo de mundo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-06-03",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_024_e01",
+      "addedAt": "2026-04-01T03:34:47.279Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 31,
+      "episodes": [
+        {
+          "id": "series_024_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "ada"
+        }
+      ],
+      "videoUrl": "asd"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T1",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-06-13",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_025_e01",
+      "addedAt": "2026-04-01T03:37:21.231Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 32,
+      "episodes": [
+        {
+          "id": "series_025_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T2",
+      "description": "Se expande el universo con más inventos, enemigos y aventuras espaciales. Los personajes secundarios tienen más protagonismo.\nSe introducen conceptos más complejos, pero manteniendo el humor.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-12-02",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_026_e01",
+      "addedAt": "2026-04-01T03:37:50.167Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 33,
+      "episodes": [
+        {
+          "id": "series_026_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    },
+    {
+      "type": "series",
+      "title": "Jimmy Neutron T3",
+      "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-07-26",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_027_e01",
+      "addedAt": "2026-04-01T03:37:52.173Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 34,
+      "episodes": [
+        {
+          "id": "series_027_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "asd"
+        }
+      ],
+      "videoUrl": "asda"
+    },
+    {
+      "type": "series",
+      "title": "Beastars T1",
+      "description": "La historia se desarrolla en un mundo de animales antropomórficos donde herbívoros y carnívoros conviven bajo tensión social constante.\n\nEl protagonista, Legoshi, es un lobo gris tímido que lucha contra sus instintos depredadores mientras se enamora de una coneja llamada Haru.\n\nTodo comienza con el asesinato de un alumno herbívoro, lo que desencadena conflictos sociales, psicológicos y políticos dentro de la academia.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-04-06",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Animation",
+        "Mystery",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_028_e01",
+      "addedAt": "2026-04-06T08:20:06.980Z",
+      "addedBy": "Admin",
+      "atlas": "A",
+      "gridIndex": 85,
+      "episodes": [
+        {
+          "id": "series_028_language_Spanish_Cap_2",
+          "title": "Spanish Cap 2",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E02.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_3",
+          "title": "Spanish Cap 3",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E03.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_4",
+          "title": "Spanish Cap 4",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E04.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_5",
+          "title": "Spanish Cap 5",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E05.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_6",
+          "title": "Spanish Cap 6",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E06.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_7",
+          "title": "Spanish Cap 7",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E07.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_8",
+          "title": "Spanish Cap 8",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E08.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_9",
+          "title": "Spanish Cap 9",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E09.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_10",
+          "title": "Spanish Cap 10",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E10.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_11",
+          "title": "Spanish Cap 11",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E11.mkv"
+        },
+        {
+          "id": "series_028_language_Spanish_Cap_12",
+          "title": "Spanish Cap 12",
+          "url": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E12.mkv"
+        }
+      ],
+      "videoUrl": "https://micinemaxr.b-cdn.net/Series/beastars/t1/beastars_S01E01.mkv"
+    }
+  ]
+}
