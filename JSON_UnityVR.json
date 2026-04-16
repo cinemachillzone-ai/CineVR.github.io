@@ -9,7 +9,7 @@
     "atlasCount": 7,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 228
+    "catalogCount": 231
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -3061,6 +3061,81 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 99
+    },
+    {
+      "type": "movie",
+      "title": "Transformers",
+      "description": "La historia sigue a Sam Witwicky, un joven que se ve envuelto en una guerra entre dos razas de robots alienígenas: los Autobots y los Decepticons. Cuando los poderosos robots llegan a la Tierra en busca de una fuente de energía, Sam se convierte en la clave para salvar al planeta junto a los Autobots liderados por Optimus Prime.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_124",
+      "addedAt": "2026-04-16T23:02:09.214Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 100
+    },
+    {
+      "type": "movie",
+      "title": "Transformers: La venganza de los caídos",
+      "description": "Sam intenta llevar una vida normal en la universidad, pero descubre que posee información clave relacionada con el origen de los Transformers. Los Decepticons regresan con un plan para destruir la Tierra, y los Autobots deberán proteger a Sam mientras enfrentan una amenaza aún mayor vinculada a antiguos secretos de los robots.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_125",
+      "addedAt": "2026-04-16T23:04:50.155Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 101
+    },
+    {
+      "type": "movie",
+      "title": "Transformers: El lado oscuro de la Luna",
+      "description": "Los Autobots descubren que una nave Cybertroniana se estrelló en la Luna durante la carrera espacial. Este hallazgo guarda un secreto que podría cambiar el destino de la guerra entre Autobots y Decepticons. Mientras tanto, Sam vuelve a verse involucrado en el conflicto cuando una nueva amenaza pone en peligro a toda la humanidad.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-16",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_126",
+      "addedAt": "2026-04-16T23:07:27.618Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 102
     },
     {
       "type": "series",
