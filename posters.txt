@@ -1,0 +1,7 @@
+{
+  "images": [
+    { "atlas": "A", "url": "https://dioscarmesi.github.io/Cine/A.png" },
+    { "atlas": "B", "url": "https://dioscarmesi.github.io/Cine/B.png" },
+    { "atlas": "C", "url": "https://dioscarmesi.github.io/Cine/C.png" }
+  ]
+}

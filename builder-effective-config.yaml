@@ -1,0 +1,13 @@
+directories:
+  output: ..
+  buildResources: build
+appId: com.dioscarmesi.micinema-tool
+productName: MiCinema Catalog Manager
+files:
+  - filter:
+      - dist/**/*
+      - electron/**/*
+      - package.json
+win:
+  target: portable
+electronVersion: 31.7.7
