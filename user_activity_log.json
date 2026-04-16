@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2026-04-16T05:52:59.080Z",
+    "user": "Admin",
+    "action": "ADD_USER",
+    "targetId": "user_001"
+  },
+  {
+    "timestamp": "2026-04-16T07:17:22.545Z",
+    "user": "Admin",
+    "action": "EDIT_USER",
+    "targetId": "user_001"
+  },
+  {
+    "timestamp": "2026-04-16T07:25:50.954Z",
+    "user": "Admin",
+    "action": "DELETE_USERS",
+    "targetId": "sean_001"
+  },
+  {
+    "timestamp": "2026-04-16T21:07:22.614Z",
+    "user": "Admin",
+    "action": "ADD_USER",
+    "targetId": "user_002"
+  },
+  {
+    "timestamp": "2026-04-16T21:08:20.512Z",
+    "user": "Admin",
+    "action": "DELETE_USERS",
+    "targetId": "user_001"
+  },
+  {
+    "timestamp": "2026-04-16T21:44:48.929Z",
+    "user": "Admin",
+    "action": "EDIT_USER",
+    "targetId": "user_002"
+  },
+  {
+    "timestamp": "2026-04-16T21:52:21.079Z",
+    "user": "Admin",
+    "action": "ADD_USER",
+    "targetId": "user_003"
+  },
+  {
+    "timestamp": "2026-04-16T22:13:06.198Z",
+    "user": "Admin",
+    "action": "DELETE_USERS",
+    "targetId": "user_003"
+  },
+  {
+    "timestamp": "2026-04-16T22:13:08.791Z",
+    "user": "Admin",
+    "action": "DELETE_USERS",
+    "targetId": "tester_001"
+  }
+]
