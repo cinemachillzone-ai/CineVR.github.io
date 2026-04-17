@@ -1,0 +1,60 @@
+{
+  "lastUpdate": "2026-04-17 00:48",
+  "stars": [
+    {
+      "user": "Sean F",
+      "cellIndex": 0,
+      "starAtlasIndex": 0
+    },
+    {
+      "user": "MODER",
+      "cellIndex": 1
+    }
+  ],
+  "patreons": [
+    {
+      "id": "user_002",
+      "user": "Sean F",
+      "link": "Mamuts",
+      "role": "Cinefilo",
+      "addedAt": "2026-04-16T21:07:21.474Z",
+      "atlasIndex": 0,
+      "cellIndex": 0,
+      "isStar": true,
+      "starCellIndex": 0,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_003",
+      "user": " Akzara",
+      "link": "",
+      "role": "Cine",
+      "addedAt": "2026-04-16T23:46:54.134Z",
+      "atlasIndex": 0,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_004",
+      "user": "Estella",
+      "link": "Me gusta ayudar!",
+      "role": "Cine",
+      "addedAt": "2026-04-17T00:47:37.409Z",
+      "atlasIndex": 0,
+      "cellIndex": 2,
+      "isStar": false
+    },
+    {
+      "id": "user_005",
+      "user": "MODER",
+      "link": "jdsnjkjnsajksanjkas",
+      "role": "Cinefilo",
+      "addedAt": "2026-04-17T00:48:36.413Z",
+      "atlasIndex": 0,
+      "cellIndex": 3,
+      "isStar": true,
+      "starCellIndex": 1,
+      "starAtlasIndex": 0
+    }
+  ]
+}
