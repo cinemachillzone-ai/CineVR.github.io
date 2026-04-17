@@ -1,0 +1,78 @@
+{
+  "lastUpdate": "2026-04-17 01:16",
+  "stars": [
+    {
+      "user": "MODER",
+      "cellIndex": 1
+    }
+  ],
+  "patreons": [
+    {
+      "id": "user_002",
+      "user": "Sean F",
+      "link": "Mamuts",
+      "role": "Pareja",
+      "addedAt": "2026-04-16T21:07:21.474Z",
+      "atlasIndex": 0,
+      "cellIndex": 0,
+      "isStar": false,
+      "starAtlasIndex": 0,
+      "expiresAt": "2026-05-16T00:00:00.000Z",
+      "isGroupLeader": true
+    },
+    {
+      "id": "user_003",
+      "user": " Akzara",
+      "link": "",
+      "role": "Cine",
+      "addedAt": "2026-04-16T23:46:54.134Z",
+      "atlasIndex": 0,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_004",
+      "user": "Estella",
+      "link": "Me gusta ayudar!",
+      "role": "Cine",
+      "addedAt": "2026-04-17T00:47:37.409Z",
+      "atlasIndex": 0,
+      "cellIndex": 2,
+      "isStar": false
+    },
+    {
+      "id": "user_005",
+      "user": "MODER",
+      "link": "jdsnjkjnsajksanjkas",
+      "role": "Cinefilo",
+      "addedAt": "2026-04-17T00:48:36.413Z",
+      "atlasIndex": 0,
+      "cellIndex": 3,
+      "isStar": true,
+      "starCellIndex": 1,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_006",
+      "user": "asd",
+      "link": "asda",
+      "role": "Pareja",
+      "addedAt": "2026-04-17T01:09:53.997Z",
+      "atlasIndex": 0,
+      "cellIndex": 4,
+      "isStar": false,
+      "groupId": "group_1776388251944"
+    },
+    {
+      "id": "user_007",
+      "user": "asad",
+      "link": "asdas",
+      "role": "Pareja",
+      "addedAt": "2026-04-17T01:15:34.471Z",
+      "atlasIndex": 0,
+      "cellIndex": 5,
+      "isStar": false,
+      "groupId": "Sean F"
+    }
+  ]
+}

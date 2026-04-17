@@ -1,24 +1,354 @@
 {
-  "lastUpdate": "2026-04-16 22:13",
+  "lastUpdate": "2026-04-17 01:24",
   "stars": [
     {
       "user": "Sean F",
-      "cellIndex": 0,
-      "starAtlasIndex": 0
+      "cellIndex": 0
     }
   ],
   "patreons": [
     {
-      "id": "user_002",
+      "id": "user_001",
       "user": "Sean F",
-      "link": "Mamuts",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cinefilo",
-      "addedAt": "2026-04-16T21:07:21.474Z",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 0,
       "isStar": true,
       "starCellIndex": 0,
       "starAtlasIndex": 0
+    },
+    {
+      "id": "user_002",
+      "user": "Slot 2",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_003",
+      "user": "Slot 3",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 2,
+      "isStar": false
+    },
+    {
+      "id": "user_004",
+      "user": "Slot 4",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 3,
+      "isStar": false
+    },
+    {
+      "id": "user_005",
+      "user": "Slot 5",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 4,
+      "isStar": false
+    },
+    {
+      "id": "user_006",
+      "user": "Slot 6",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 5,
+      "isStar": false
+    },
+    {
+      "id": "user_007",
+      "user": "Slot 7",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 6,
+      "isStar": false
+    },
+    {
+      "id": "user_008",
+      "user": "Slot 8",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 7,
+      "isStar": false
+    },
+    {
+      "id": "user_009",
+      "user": "Slot 9",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 8,
+      "isStar": false
+    },
+    {
+      "id": "user_010",
+      "user": "Slot 10",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 9,
+      "isStar": false
+    },
+    {
+      "id": "user_011",
+      "user": "Slot 11",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 10,
+      "isStar": false
+    },
+    {
+      "id": "user_012",
+      "user": "Slot 12",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 11,
+      "isStar": false
+    },
+    {
+      "id": "user_013",
+      "user": "Slot 13",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 12,
+      "isStar": false
+    },
+    {
+      "id": "user_014",
+      "user": "Slot 14",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 13,
+      "isStar": false
+    },
+    {
+      "id": "user_015",
+      "user": "Slot 15",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 14,
+      "isStar": false
+    },
+    {
+      "id": "user_016",
+      "user": "Slot 16",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 15,
+      "isStar": false
+    },
+    {
+      "id": "user_017",
+      "user": "Slot 17",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 16,
+      "isStar": false
+    },
+    {
+      "id": "user_018",
+      "user": "Slot 18",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 17,
+      "isStar": false
+    },
+    {
+      "id": "user_019",
+      "user": "Slot 19",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 18,
+      "isStar": false
+    },
+    {
+      "id": "user_020",
+      "user": "Slot 20",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 19,
+      "isStar": false
+    },
+    {
+      "id": "user_021",
+      "user": "Slot 21",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 20,
+      "isStar": false
+    },
+    {
+      "id": "user_022",
+      "user": "Slot 22",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 21,
+      "isStar": false
+    },
+    {
+      "id": "user_023",
+      "user": "Slot 23",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 22,
+      "isStar": false
+    },
+    {
+      "id": "user_024",
+      "user": "Slot 24",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 23,
+      "isStar": false
+    },
+    {
+      "id": "user_025",
+      "user": "Slot 25",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 24,
+      "isStar": false
+    },
+    {
+      "id": "user_026",
+      "user": "Slot 26",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 25,
+      "isStar": false
+    },
+    {
+      "id": "user_027",
+      "user": "Slot 27",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 26,
+      "isStar": false
+    },
+    {
+      "id": "user_028",
+      "user": "Slot 28",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 27,
+      "isStar": false
+    },
+    {
+      "id": "user_029",
+      "user": "Slot 29",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 28,
+      "isStar": false
+    },
+    {
+      "id": "user_030",
+      "user": "Slot 30",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 29,
+      "isStar": false
+    },
+    {
+      "id": "user_031",
+      "user": "Slot 31",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "addedAt": "2026-04-17T01:21:00.000Z",
+      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "atlasIndex": 0,
+      "cellIndex": 30,
+      "isStar": false
     }
   ]
 }
