@@ -1,8 +1,13 @@
 {
-  "lastUpdate": "2026-04-17 01:21",
-  "stars": [],
+  "lastUpdate": "2026-04-17 02:07",
+  "stars": [
+    {
+      "user": "Sean F",
+      "cellIndex": 0
+    }
+  ],
   "patreons": [
-    { "id": "user_001", "user": "Slot 1", "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink", "role": "Cine", "atlasIndex": 0, "cellIndex": 0, "isStar": false },
+    { "id": "user_001", "user": "Sean F", "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink", "role": "Cinefilo", "atlasIndex": 0, "cellIndex": 0, "isStar": true, "starCellIndex": 0, "starAtlasIndex": 0 },
     { "id": "user_002", "user": "Slot 2", "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink", "role": "Cine", "atlasIndex": 0, "cellIndex": 1, "isStar": false },
     { "id": "user_003", "user": "Slot 3", "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink", "role": "Cine", "atlasIndex": 0, "cellIndex": 2, "isStar": false },
     { "id": "user_004", "user": "Slot 4", "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink", "role": "Cine", "atlasIndex": 0, "cellIndex": 3, "isStar": false },
