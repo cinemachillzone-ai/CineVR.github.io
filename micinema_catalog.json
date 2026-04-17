@@ -2866,12 +2866,14 @@
         "Adventure"
       ],
       "languages": [
-        "Spanish"
+        "Spanish",
+        "language_English"
       ],
       "enabled": true,
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Robotsalvaje.mp4",
-        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Robotsalvaje.mp4"
+        "default": "https://micinemaxr.b-cdn.net/Movie/Robot.Salvaje.2024.1080p-Lat.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Robotsalvaje.mp4",
+        "language_language_English": "https://micinemaxr.b-cdn.net/Movie/Robotsalvaje.mp4"
       },
       "id": "movie_100",
       "addedAt": "2026-04-15T19:17:03.699Z",
@@ -3624,6 +3626,65 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 102
+    },
+    {
+      "type": "movie",
+      "title": "Mi novio es un zombie",
+      "description": "En un mundo postapocalíptico lleno de zombis, un muerto viviente llamado “R” comienza a experimentar emociones después de conocer a Julie, una humana. A medida que su relación crece, R empieza a cambiar, demostrando que incluso en un mundo muerto puede surgir el amor y la esperanza.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-17",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/MiNovioEsUnZombie.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/MiNovioEsUnZombie.mkv"
+      },
+      "id": "movie_127",
+      "addedAt": "2026-04-17T20:50:36.999Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 104
+    },
+    {
+      "type": "movie",
+      "title": "El muñeco de arcilla",
+      "description": "Un diseñador de videojuegos de terror lleva accidentalmente a casa un misterioso muñeco de arcilla desde su trabajo. Lo que parece un simple objeto resulta estar poseído por un espíritu vengativo. A medida que ocurren fenómenos extraños, la vida del protagonista y su esposa embarazada se convierte en una pesadilla mientras el oscuro secreto del muñeco comienza a revelarse.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-04-17",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElMunecoDeArcilla1080plLat2025.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ElMunecoDeArcilla1080plLat2025.mkv"
+      },
+      "id": "movie_128",
+      "addedAt": "2026-04-17T20:53:42.594Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 105
     }
   ],
   "series": [
@@ -24063,6 +24124,1193 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 78
+    },
+    {
+      "type": "series",
+      "title": "Familia peluche T1",
+      "description": "La serie sigue a la excéntrica familia P. Luche, que vive en una ciudad donde todo está cubierto de peluche. Liderados por Ludovico y Federica, junto a sus hijos, enfrentan situaciones absurdas y problemas cotidianos llenos de humor exagerado, parodiando la vida familiar y la sociedad mexicana.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-04-17",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2047",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E01.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E01.mkv"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2048",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E02.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E02.mkv"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2049",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E03.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E03.mkv"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2050",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E04.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E04.mkv"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2051",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E05.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2052",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E06.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2053",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E07.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2054",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E08.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2055",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E09.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2056",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E10.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2057",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E11.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2058",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E12.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2059",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E13.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E13.mp4"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2060",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E14.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E14.mp4"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2061",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E15.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E15.mp4"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2062",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E16.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E16.mp4"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2063",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E17.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E17.mp4"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2064",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E18.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E18.mp4"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2065",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E19.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E19.mp4"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2066",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E20.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E20.mp4"
+          }
+        },
+        {
+          "id": "s01e21",
+          "title": "Capítulo 21",
+          "slotId": "ep_2067",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E21.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E21.mp4"
+          }
+        },
+        {
+          "id": "s01e22",
+          "title": "Capítulo 22",
+          "slotId": "ep_2068",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E22.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E22.mp4"
+          }
+        },
+        {
+          "id": "s01e23",
+          "title": "Capítulo 23",
+          "slotId": "ep_2069",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E23.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E23.mp4"
+          }
+        },
+        {
+          "id": "s01e24",
+          "title": "Capítulo 24",
+          "slotId": "ep_2070",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E24.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E24.mp4"
+          }
+        },
+        {
+          "id": "s01e25",
+          "title": "Capítulo 25",
+          "slotId": "ep_2071",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E25.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E25.mp4"
+          }
+        },
+        {
+          "id": "s01e26",
+          "title": "Capítulo 26",
+          "slotId": "ep_2072",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E26.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E26.mp4"
+          }
+        },
+        {
+          "id": "s01e27",
+          "title": "Capítulo 27",
+          "slotId": "ep_2073",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E27.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E27.mp4"
+          }
+        },
+        {
+          "id": "s01e28",
+          "title": "Capítulo 28",
+          "slotId": "ep_2074",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E28.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E28.mp4"
+          }
+        },
+        {
+          "id": "s01e29",
+          "title": "Capítulo 29",
+          "slotId": "ep_2075",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E29.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E29.mp4"
+          }
+        },
+        {
+          "id": "s01e30",
+          "title": "Capítulo 30",
+          "slotId": "ep_2076",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E30.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E30.mp4"
+          }
+        },
+        {
+          "id": "s01e31",
+          "title": "Capítulo 31",
+          "slotId": "ep_2077",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E31.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E31.mp4"
+          }
+        },
+        {
+          "id": "s01e32",
+          "title": "Capítulo 32",
+          "slotId": "ep_2078",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E32.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E32.mp4"
+          }
+        },
+        {
+          "id": "s01e33",
+          "title": "Capítulo 33",
+          "slotId": "ep_2079",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E33.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E33.mp4"
+          }
+        },
+        {
+          "id": "s01e34",
+          "title": "Capítulo 34",
+          "slotId": "ep_2080",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E34.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E34.mp4"
+          }
+        },
+        {
+          "id": "s01e35",
+          "title": "Capítulo 35",
+          "slotId": "ep_2081",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E35.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E35.mp4"
+          }
+        },
+        {
+          "id": "s01e36",
+          "title": "Capítulo 36",
+          "slotId": "ep_2082",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E36.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E36.mp4"
+          }
+        },
+        {
+          "id": "s01e37",
+          "title": "Capítulo 37",
+          "slotId": "ep_2083",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E37.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E37.mp4"
+          }
+        },
+        {
+          "id": "s01e38",
+          "title": "Capítulo 38",
+          "slotId": "ep_2084",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E38.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E38.mp4"
+          }
+        },
+        {
+          "id": "s01e39",
+          "title": "Capítulo 39",
+          "slotId": "ep_2085",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E39.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E39.mp4"
+          }
+        },
+        {
+          "id": "s01e40",
+          "title": "Capítulo 40",
+          "slotId": "ep_2086",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E40.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E40.mp4"
+          }
+        },
+        {
+          "id": "s01e41",
+          "title": "Capítulo 41",
+          "slotId": "ep_2087",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E41.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E41.mp4"
+          }
+        },
+        {
+          "id": "s01e42",
+          "title": "Capítulo 42",
+          "slotId": "ep_2088",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E42.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E42.mp4"
+          }
+        },
+        {
+          "id": "s01e43",
+          "title": "Capítulo 43",
+          "slotId": "ep_2089",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E43.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E43.mp4"
+          }
+        },
+        {
+          "id": "s01e44",
+          "title": "Capítulo 44",
+          "slotId": "ep_2090",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E44.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E44.mp4"
+          }
+        },
+        {
+          "id": "s01e45",
+          "title": "Capítulo 45",
+          "slotId": "ep_2091",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E45.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E45.mp4"
+          }
+        },
+        {
+          "id": "s01e46",
+          "title": "Capítulo 46",
+          "slotId": "ep_2092",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E46.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E46.mp4"
+          }
+        },
+        {
+          "id": "s01e47",
+          "title": "Capítulo 47",
+          "slotId": "ep_2093",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E47.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E47.mp4"
+          }
+        },
+        {
+          "id": "s01e48",
+          "title": "Capítulo 48",
+          "slotId": "ep_2094",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E48.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E48.mp4"
+          }
+        },
+        {
+          "id": "s01e49",
+          "title": "Capítulo 49",
+          "slotId": "ep_2095",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E49.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E49.mp4"
+          }
+        },
+        {
+          "id": "s01e50",
+          "title": "Capítulo 50",
+          "slotId": "ep_2096",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E50.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E50.mp4"
+          }
+        },
+        {
+          "id": "s01e51",
+          "title": "Capítulo 51",
+          "slotId": "ep_2097",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E51.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E51.mp4"
+          }
+        },
+        {
+          "id": "s01e52",
+          "title": "Capítulo 52",
+          "slotId": "ep_2098",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E52.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E52.mp4"
+          }
+        },
+        {
+          "id": "s01e53",
+          "title": "Capítulo 53",
+          "slotId": "ep_2099",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E53.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E53.mp4"
+          }
+        },
+        {
+          "id": "s01e54",
+          "title": "Capítulo 54",
+          "slotId": "ep_2100",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E54.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E54.mp4"
+          }
+        },
+        {
+          "id": "s01e55",
+          "title": "Capítulo 55",
+          "slotId": "ep_2101",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E55.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E55.mp4"
+          }
+        },
+        {
+          "id": "s01e56",
+          "title": "Capítulo 56",
+          "slotId": "ep_2102",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E56.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E56.mp4"
+          }
+        },
+        {
+          "id": "s01e57",
+          "title": "Capítulo 57",
+          "slotId": "ep_2103",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E57.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E57.mp4"
+          }
+        },
+        {
+          "id": "s01e58",
+          "title": "Capítulo 58",
+          "slotId": "ep_2104",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E58.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E58.mp4"
+          }
+        },
+        {
+          "id": "s01e59",
+          "title": "Capítulo 59",
+          "slotId": "ep_2105",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E59.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E59.mp4"
+          }
+        },
+        {
+          "id": "s01e60",
+          "title": "Capítulo 60",
+          "slotId": "ep_2106",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E60.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E60.mp4"
+          }
+        },
+        {
+          "id": "s01e61",
+          "title": "Capítulo 61",
+          "slotId": "ep_2107",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E61.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E61.mp4"
+          }
+        },
+        {
+          "id": "s01e62",
+          "title": "Capítulo 62",
+          "slotId": "ep_2108",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E62.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E62.mp4"
+          }
+        },
+        {
+          "id": "s01e63",
+          "title": "Capítulo 63",
+          "slotId": "ep_2109",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E63.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E63.mp4"
+          }
+        },
+        {
+          "id": "s01e64",
+          "title": "Capítulo 64",
+          "slotId": "ep_2110",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E64.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E64.mp4"
+          }
+        },
+        {
+          "id": "s01e65",
+          "title": "Capítulo 65",
+          "slotId": "ep_2111",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E65.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E65.mp4"
+          }
+        },
+        {
+          "id": "s01e66",
+          "title": "Capítulo 66",
+          "slotId": "ep_2112",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E66.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E66.mp4"
+          }
+        },
+        {
+          "id": "s01e67",
+          "title": "Capítulo 67",
+          "slotId": "ep_2113",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E67.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E67.mp4"
+          }
+        },
+        {
+          "id": "s01e68",
+          "title": "Capítulo 68",
+          "slotId": "ep_2114",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E68.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E68.mp4"
+          }
+        },
+        {
+          "id": "s01e69",
+          "title": "Capítulo 69",
+          "slotId": "ep_2115",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E69.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E69.mp4"
+          }
+        },
+        {
+          "id": "s01e70",
+          "title": "Capítulo 70",
+          "slotId": "ep_2116",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E70.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E70.mp4"
+          }
+        },
+        {
+          "id": "s01e71",
+          "title": "Capítulo 71",
+          "slotId": "ep_2117",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E71.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E71.mp4"
+          }
+        },
+        {
+          "id": "s01e72",
+          "title": "Capítulo 72",
+          "slotId": "ep_2118",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E72.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E72.mp4"
+          }
+        },
+        {
+          "id": "s01e73",
+          "title": "Capítulo 73",
+          "slotId": "ep_2119",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E73.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E73.mp4"
+          }
+        },
+        {
+          "id": "s01e74",
+          "title": "Capítulo 74",
+          "slotId": "ep_2120",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E74.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E74.mp4"
+          }
+        },
+        {
+          "id": "s01e75",
+          "title": "Capítulo 75",
+          "slotId": "ep_2121",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E75.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E75.mp4"
+          }
+        },
+        {
+          "id": "s01e76",
+          "title": "Capítulo 76",
+          "slotId": "ep_2122",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E76.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E76.mp4"
+          }
+        },
+        {
+          "id": "s01e77",
+          "title": "Capítulo 77",
+          "slotId": "ep_2123",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E77.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E77.mp4"
+          }
+        },
+        {
+          "id": "s01e78",
+          "title": "Capítulo 78",
+          "slotId": "ep_2124",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E78.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E78.mp4"
+          }
+        },
+        {
+          "id": "s01e79",
+          "title": "Capítulo 79",
+          "slotId": "ep_2125",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E79.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E79.mp4"
+          }
+        },
+        {
+          "id": "s01e80",
+          "title": "Capítulo 80",
+          "slotId": "ep_2126",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E80.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E80.mp4"
+          }
+        },
+        {
+          "id": "s01e81",
+          "title": "Capítulo 81",
+          "slotId": "ep_2127",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E81.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E81.mp4"
+          }
+        },
+        {
+          "id": "s01e82",
+          "title": "Capítulo 82",
+          "slotId": "ep_2128",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E82.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E82.mp4"
+          }
+        },
+        {
+          "id": "s01e83",
+          "title": "Capítulo 83",
+          "slotId": "ep_2129",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E83.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E83.mkv"
+          }
+        },
+        {
+          "id": "s01e84",
+          "title": "Capítulo 84",
+          "slotId": "ep_2130",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E84.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E84.mkv"
+          }
+        },
+        {
+          "id": "s01e85",
+          "title": "Capítulo 85",
+          "slotId": "ep_2131",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E85.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E85.mkv"
+          }
+        },
+        {
+          "id": "s01e86",
+          "title": "Capítulo 86",
+          "slotId": "ep_2132",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E86.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E86.mkv"
+          }
+        },
+        {
+          "id": "s01e87",
+          "title": "Capítulo 87",
+          "slotId": "ep_2133",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E87.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E87.mkv"
+          }
+        },
+        {
+          "id": "s01e88",
+          "title": "Capítulo 88",
+          "slotId": "ep_2134",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E88.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E88.mkv"
+          }
+        },
+        {
+          "id": "s01e89",
+          "title": "Capítulo 89",
+          "slotId": "ep_2135",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E89.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E89.mkv"
+          }
+        },
+        {
+          "id": "s01e90",
+          "title": "Capítulo 90",
+          "slotId": "ep_2136",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E90.mkv",
+            "default": "https://micinemaxr.b-cdn.net/Series/LaFamiliaPeluche/t1/LaFamiliaPeluche_S01E90.mkv"
+          }
+        }
+      ],
+      "id": "series_106",
+      "addedAt": "2026-04-17T20:45:17.600Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 103
+    },
+    {
+      "type": "series",
+      "title": "Saigo ni Hitotsu Dake Onegai Shite mo Yoroshii Deshou ka",
+      "description": "Durante un elegante baile, Scarlet, una noble, es humillada cuando su prometido cancela su compromiso y la acusa falsamente de ser una villana. Tras años soportando abusos, decide no aguantar más y pide “un último favor”: golpearlo. Así comienza su historia de venganza contra quienes la traicionaron.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-04-17",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2137",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E01.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2138",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E02.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2139",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E03.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2140",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E04.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2141",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E05.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2142",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E06.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2143",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E07.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2144",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E08.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2145",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E09.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2146",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E10.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2147",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E11.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2148",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E12.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2149",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E13.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKa/SaigoNiHitotsuDakeOnegaiShiteMoYoroshiiDeshouKaS01E13.mp4"
+          }
+        }
+      ],
+      "id": "series_107",
+      "addedAt": "2026-04-17T21:01:11.479Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 106
+    },
+    {
+      "type": "series",
+      "title": "Ranma ½ T1",
+      "description": "Ranma Saotome es un joven artista marcial que, tras caer en una fuente maldita durante un viaje de entrenamiento en China, adquiere una peculiar maldición: al contacto con agua fría se transforma en chica, y con agua caliente vuelve a ser chico. Mientras intenta llevar una vida “normal”, se ve envuelto en situaciones caóticas, peleas y enredos románticos, especialmente con su prometida Akane.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1992,
+      "releaseDate": "2026-04-17",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2150",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E01.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E01.mp4"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2151",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E02.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E02.mp4"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2152",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E03.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E03.mp4"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2153",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E04.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E04.mp4"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2154",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E05.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E05.mp4"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2155",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E06.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E06.mp4"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2156",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E07.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E07.mp4"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2157",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E08.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E08.mp4"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2158",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E09.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E09.mp4"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2159",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E10.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E10.mp4"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2160",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E11.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E11.mp4"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2161",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E12.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E12.mp4"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2162",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E13.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E13.mp4"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2163",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E14.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E14.mp4"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2164",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E15.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E15.mp4"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2165",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E16.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E16.mp4"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2166",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E17.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E17.mp4"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2167",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E18.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E18.mp4"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2168",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E19.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E19.mp4"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2169",
+          "links": {
+            "language_Spanish": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E20.mp4",
+            "default": "https://micinemaxr.b-cdn.net/Movie%20Anime/RamaYMedio/RanmaYMedioS01E20.mp4"
+          }
+        }
+      ],
+      "id": "series_108",
+      "addedAt": "2026-04-17T21:09:41.458Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 107
     }
   ]
 }
