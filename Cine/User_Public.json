@@ -1,0 +1,68 @@
+{
+  "lastUpdate": "2026-04-17 01:16",
+  "stars": [
+    {
+      "user": "MODER",
+      "cellIndex": 1
+    }
+  ],
+  "patreons": [
+    {
+      "id": "user_002",
+      "user": "Sean F",
+      "link": "Mamuts",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 0,
+      "isStar": false,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_003",
+      "user": " Akzara",
+      "link": "",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_004",
+      "user": "Estella",
+      "link": "Me gusta ayudar!",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 2,
+      "isStar": false
+    },
+    {
+      "id": "user_005",
+      "user": "MODER",
+      "link": "jdsnjkjnsajksanjkas",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 3,
+      "isStar": true,
+      "starCellIndex": 1,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_006",
+      "user": "asd",
+      "link": "asda",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 4,
+      "isStar": false
+    },
+    {
+      "id": "user_007",
+      "user": "asad",
+      "link": "asdas",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 5,
+      "isStar": false
+    }
+  ]
+}
