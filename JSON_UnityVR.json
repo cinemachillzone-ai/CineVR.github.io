@@ -9,7 +9,7 @@
     "atlasCount": 7,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 243
+    "catalogCount": 249
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -3332,6 +3332,130 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 114
+    },
+    {
+      "type": "movie",
+      "title": "La cosa",
+      "description": "Un grupo de científicos en una base en la Antártida descubre a una criatura alienígena capaz de imitar perfectamente a cualquier ser vivo. A medida que la paranoia crece, nadie puede confiar en nadie, ya que cualquiera podría ser la “cosa”. La tensión aumenta mientras intentan sobrevivir y descubrir quién sigue siendo humano.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_135",
+      "addedAt": "2026-04-19T23:08:30.216Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 116
+    },
+    {
+      "type": "movie",
+      "title": "El amanecer de los muertos",
+      "description": "Una misteriosa epidemia convierte a la población en zombis extremadamente rápidos y violentos. Un grupo de sobrevivientes se refugia en un centro comercial, intentando mantenerse a salvo mientras el mundo exterior colapsa. Sin embargo, el peligro no solo viene de los muertos, sino también de las tensiones dentro del grupo.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_136",
+      "addedAt": "2026-04-19T23:12:48.460Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 117
+    },
+    {
+      "type": "movie",
+      "title": "Maleficio",
+      "description": "Una mujer rompe un antiguo tabú religioso y desata una maldición sobre su familia. Años después, intenta proteger a su hija del mismo destino mientras documenta todo en video, revelando rituales, creencias prohibidas y una presencia oscura que los persigue. La película mezcla metraje tipo found footage con narrativa directa al espectador.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_137",
+      "addedAt": "2026-04-19T23:23:11.534Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 118
+    },
+    {
+      "type": "movie",
+      "title": "El bebé de Rosemary",
+      "description": "Rosemary y su esposo se mudan a un antiguo edificio en Nueva York. Poco después de quedar embarazada, Rosemary empieza a sospechar que sus vecinos y su propio esposo están involucrados en algo oscuro. A medida que su embarazo avanza, descubre una conspiración relacionada con un culto satánico y el destino de su bebé.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1968,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_138",
+      "addedAt": "2026-04-19T23:26:14.916Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 119
+    },
+    {
+      "type": "movie",
+      "title": "Cazadores de trolls",
+      "description": "Un grupo de estudiantes de cine investiga a un misterioso cazador furtivo en Noruega, pero pronto descubren algo increíble: el hombre en realidad se dedica a cazar trolls, criaturas gigantes que existen en secreto. A través de grabaciones tipo found footage, documentan encuentros peligrosos mientras intentan sobrevivir y revelar la verdad.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_139",
+      "addedAt": "2026-04-19T23:28:41.420Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 120
     },
     {
       "type": "series",
@@ -17132,7 +17256,11 @@
       "section": "catalog",
       "year": 1992,
       "releaseDate": "2026-04-19",
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Animation"
+      ],
       "languages": [
         "Spanish"
       ],
@@ -17244,6 +17372,133 @@
           "slotId": "ep_2189"
         }
       ]
+    },
+    {
+      "type": "series",
+      "title": "Ranma ½ T3",
+      "description": "Ranma Saotome es un joven artista marcial que, tras caer en una fuente maldita durante un viaje de entrenamiento en China, adquiere una peculiar maldición: al contacto con agua fría se transforma en chica, y con agua caliente vuelve a ser chico. Mientras intenta llevar una vida “normal”, se ve envuelto en situaciones caóticas, peleas y enredos románticos, especialmente con su prometida Akane.",
+      "duration": "",
+      "rating": "TV-PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1992,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Romance",
+        "Animation",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2190"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2192"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2193"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2194"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2195"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2196"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2197"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2198"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2199"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2200"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2201"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2202"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2203"
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2204"
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2205"
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2206"
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2207"
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2208"
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2209"
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2210"
+        }
+      ],
+      "id": "series_110",
+      "addedAt": "2026-04-19T23:02:44.083Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 115
     }
   ]
 }
