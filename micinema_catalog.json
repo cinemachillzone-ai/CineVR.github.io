@@ -3825,6 +3825,34 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 113
+    },
+    {
+      "type": "movie",
+      "title": "Relatos Salvajes ",
+      "description": "La película es una antología de seis historias independientes que exploran el lado más oscuro y violento del ser humano. A través de situaciones cotidianas que se salen de control, los personajes reaccionan de forma extrema, mostrando cómo la ira, la frustración y la venganza pueden llevar a consecuencias inesperadas y a veces absurdas.\n\ndedicado a akzara",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/RelatosSalvajes2014.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/RelatosSalvajes2014.mkv"
+      },
+      "id": "movie_134",
+      "addedAt": "2026-04-19T10:11:49.497Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 114
     }
   ],
   "series": [
