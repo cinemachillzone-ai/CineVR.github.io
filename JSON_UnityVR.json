@@ -9,7 +9,7 @@
     "atlasCount": 7,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 236
+    "catalogCount": 242
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -3188,6 +3188,126 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 105
+    },
+    {
+      "type": "movie",
+      "title": "Frankenstein",
+      "description": "Un brillante pero arrogante científico, Victor Frankenstein, logra crear vida a partir de restos humanos. Sin embargo, su experimento se convierte en una tragedia cuando la criatura, rechazada por la sociedad y por su propio creador, inicia un camino de dolor, soledad y consecuencias devastadoras.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_129",
+      "addedAt": "2026-04-19T01:52:47.884Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 109
+    },
+    {
+      "type": "movie",
+      "title": "Una llamada perdida",
+      "description": "Un grupo de personas comienza a recibir llamadas misteriosas desde el futuro… en las que escuchan su propia muerte. Cada llamada anuncia la fecha y forma en que morirán. A medida que el patrón se repite, una joven intenta descubrir el origen de las llamadas antes de convertirse en la siguiente víctima.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_130",
+      "addedAt": "2026-04-19T01:54:53.335Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 110
+    },
+    {
+      "type": "movie",
+      "title": "Godzilla Minus One",
+      "description": "Ambientada en el Japón después de la Segunda Guerra Mundial, la historia sigue a un piloto atormentado por su pasado que intenta reconstruir su vida. Sin embargo, todo empeora cuando aparece Godzilla, una criatura devastadora nacida del poder nuclear, llevando al país de la ruina total a un nivel aún peor de destrucción.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_131",
+      "addedAt": "2026-04-19T01:56:34.296Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 111
+    },
+    {
+      "type": "movie",
+      "title": "Cujo",
+      "description": "Cujo es un perro San Bernardo que, tras ser mordido por un murciélago infectado con rabia, se vuelve extremadamente agresivo y violento. Cuando una mujer y su hijo quedan atrapados en su coche averiado, deberán luchar por sobrevivir mientras el animal los acecha sin descanso.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "2026-04-19",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_132",
+      "addedAt": "2026-04-19T01:58:20.630Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 112
+    },
+    {
+      "type": "movie",
+      "title": "El teléfono negro",
+      "description": "Finney, un niño tímido, es secuestrado por un asesino en serie conocido como “El Grabber”. Encerrado en un sótano insonorizado, descubre un teléfono desconectado que misteriosamente comienza a sonar. A través de él, puede comunicarse con las víctimas anteriores del asesino, quienes intentan ayudarlo a escapar antes de que sea demasiado tarde.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-19",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_133",
+      "addedAt": "2026-04-19T02:00:39.622Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 113
     },
     {
       "type": "series",
@@ -16327,31 +16447,6 @@
       "enabled": true,
       "episodes": [
         {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2047"
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2048"
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2049"
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2050"
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2051"
-        },
-        {
           "id": "s01e06",
           "title": "Capítulo 6",
           "slotId": "ep_2052"
@@ -17002,6 +17097,129 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 107
+    },
+    {
+      "type": "series",
+      "title": "Ranma ½ T2",
+      "description": "Ranma Saotome es un joven artista marcial que, tras caer en una fuente maldita durante un viaje de entrenamiento en China, adquiere una peculiar maldición: al contacto con agua fría se transforma en chica, y con agua caliente vuelve a ser chico. Mientras intenta llevar una vida “normal”, se ve envuelto en situaciones caóticas, peleas y enredos románticos, especialmente con su prometida Akane.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1992,
+      "releaseDate": "2026-04-19",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_109",
+      "addedAt": "2026-04-19T01:47:31.483Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 108,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2170"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2171"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2172"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2173"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2174"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2175"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2176"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2177"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2178"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2179"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2180"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2181"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2182"
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2183"
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2184"
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2185"
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2186"
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2187"
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2188"
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2189"
+        }
+      ]
     }
   ]
 }
