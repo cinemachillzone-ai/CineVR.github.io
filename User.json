@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-17 01:24",
+  "lastUpdate": "2026-04-19 22:43",
   "stars": [
     {
       "user": "Sean F",
@@ -18,40 +18,46 @@
       "cellIndex": 0,
       "isStar": true,
       "starCellIndex": 0,
-      "starAtlasIndex": 0
+      "starAtlasIndex": 0,
+      "patreonAccount": "Vodzka"
     },
     {
       "id": "user_002",
-      "user": "Slot 2",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "WDS狼",
+      "link": "https://guns.lol/wolfdaver",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-06-19T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 1,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "Wolf Daver",
+      "groupId": "Wolf Daver"
     },
     {
       "id": "user_003",
-      "user": "Slot 3",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "Nath Kohai",
+      "link": " https://guns.lol/wolfdaver",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
       "expiresAt": "2026-05-17T01:21:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 2,
-      "isStar": false
+      "isStar": false,
+      "groupId": "Wolf Daver",
+      "patreonAccount": "Wolf Daver"
     },
     {
       "id": "user_004",
-      "user": "Slot 4",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "Vodzka",
+      "link": "https://discord.gg/4gVCuSYP",
+      "role": "Familiar",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2050-04-19T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 3,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "Owner"
     },
     {
       "id": "user_005",
