@@ -1,9 +1,13 @@
 {
-  "lastUpdate": "2026-04-17 02:07",
+  "lastUpdate": "2026-04-20 01:49",
   "stars": [
     {
       "user": "Sean F",
       "cellIndex": 0
+    },
+    {
+      "user": "Akihide",
+      "cellIndex": 1
     }
   ],
   "patreons": [
@@ -20,27 +24,27 @@
     },
     {
       "id": "user_002",
-      "user": "Slot 2",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "WDS狼",
+      "link": "https://guns.lol/wolfdaver",
+      "role": "Pareja",
       "atlasIndex": 0,
       "cellIndex": 1,
       "isStar": false
     },
     {
       "id": "user_003",
-      "user": "Slot 3",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "Nath Kohai",
+      "link": " https://guns.lol/wolfdaver",
+      "role": "Pareja",
       "atlasIndex": 0,
       "cellIndex": 2,
       "isStar": false
     },
     {
       "id": "user_004",
-      "user": "Slot 4",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "user": "Vodzka",
+      "link": "https://discord.gg/4gVCuSYP",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 3,
       "isStar": false
@@ -176,7 +180,7 @@
     {
       "id": "user_019",
       "user": "Slot 19",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 18,
@@ -185,7 +189,7 @@
     {
       "id": "user_020",
       "user": "Slot 20",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 19,
@@ -194,7 +198,7 @@
     {
       "id": "user_021",
       "user": "Slot 21",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 20,
@@ -203,7 +207,7 @@
     {
       "id": "user_022",
       "user": "Slot 22",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 21,
@@ -212,7 +216,7 @@
     {
       "id": "user_023",
       "user": "Slot 23",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 22,
@@ -221,7 +225,7 @@
     {
       "id": "user_024",
       "user": "Slot 24",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 23,
@@ -230,7 +234,7 @@
     {
       "id": "user_025",
       "user": "Slot 25",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 24,
@@ -239,7 +243,7 @@
     {
       "id": "user_026",
       "user": "Slot 26",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 25,
@@ -248,7 +252,7 @@
     {
       "id": "user_027",
       "user": "Slot 27",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 26,
@@ -257,7 +261,7 @@
     {
       "id": "user_028",
       "user": "Slot 28",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 27,
@@ -266,7 +270,7 @@
     {
       "id": "user_029",
       "user": "Slot 29",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 28,
@@ -275,7 +279,7 @@
     {
       "id": "user_030",
       "user": "Slot 30",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 29,
@@ -284,7 +288,7 @@
     {
       "id": "user_031",
       "user": "Slot 31",
-      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "link": "https://patreon.com",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 30,
