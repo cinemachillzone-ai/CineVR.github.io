@@ -3997,6 +3997,125 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 120
+    },
+    {
+      "type": "movie",
+      "title": "Coraline y la puerta secreta",
+      "description": "Coraline es una niña curiosa que descubre una puerta secreta en su nueva casa. Al atravesarla, encuentra un mundo alternativo aparentemente perfecto, donde todo es mejor… pero pronto se da cuenta de que ese lugar esconde algo oscuro y peligroso, especialmente su “otra madre”, quien tiene intenciones siniestras.",
+      "duration": "",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-20",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/CoralineYLaPuertaSecreta2009lat.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/CoralineYLaPuertaSecreta2009lat.mkv"
+      },
+      "id": "movie_140",
+      "addedAt": "2026-04-20T00:18:17.552Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 121
+    },
+    {
+      "type": "movie",
+      "title": "La leyenda de la Nahuala",
+      "description": "Ambientada en Puebla durante el siglo XIX, la historia sigue a Leo, un niño miedoso que debe enfrentarse a sus temores cuando una antigua leyenda cobra vida. La Nahuala, un espíritu maligno, amenaza con regresar, y Leo junto a sus amigos deberá descubrir la verdad y salvar a su hermano antes de que sea demasiado tarde.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-20",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/LaLeyendaDeLaNahuala2007.mkv",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/LaLeyendaDeLaNahuala2007.mkv"
+      },
+      "id": "movie_141",
+      "addedAt": "2026-04-20T00:20:28.901Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 122
+    },
+    {
+      "type": "movie",
+      "title": "Nosferatu",
+      "description": "Una joven atormentada establece una conexión oscura con un antiguo vampiro conocido como el Conde Orlok. Obsesionado con ella, el monstruo llega a su ciudad llevando consigo enfermedad, muerte y terror, desatando una historia gótica marcada por la obsesión y la tragedia.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2026-04-20",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/Nosferatu2024.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Nosferatu2024.mp4"
+      },
+      "id": "movie_142",
+      "addedAt": "2026-04-20T00:22:14.955Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 123
+    },
+    {
+      "type": "movie",
+      "title": "Monster High: Amor monstruoso",
+      "description": "En Monster High se acerca el Día de San Valentín, y Draculaura está emocionada por celebrar su aniversario número 1600 con su novio Clawd. Sin embargo, un antiguo amor aparece y complica todo, creando un triángulo amoroso lleno de drama, celos y decisiones importantes sobre el verdadero significado del amor.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-20",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://micinemaxr.b-cdn.net/Movie/MonsterHighAmorMonstruoso.mp4",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/MonsterHighAmorMonstruoso.mp4"
+      },
+      "id": "movie_143",
+      "addedAt": "2026-04-20T00:24:43.966Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 124
     }
   ],
   "series": [
