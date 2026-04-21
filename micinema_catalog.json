@@ -3146,7 +3146,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -3158,7 +3158,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/7f4a36b1-f529-4bcc-8c14-cab16b2e65b9/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/7a4e6946-db02-4d9d-a339-f79a2076b150/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7f4a36b1-f529-4bcc-8c14-cab16b2e65b9/playlist.m3u8"
       },
       "id": "movie_110",
