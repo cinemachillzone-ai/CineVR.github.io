@@ -136,7 +136,7 @@
     },
     {
       "type": "movie",
-      "title": "Batman Begins",
+      "title": "Batman Comienza",
       "description": "Después de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad Gótica.",
       "duration": "2h 20m",
       "rating": "PG-13",
@@ -152,7 +152,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/d0ab0be6-7df2-4d99-9832-f8160ccab7af/playlist.m3u8",
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanComienza.mp4",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d0ab0be6-7df2-4d99-9832-f8160ccab7af/playlist.m3u8"
       },
       "enabled": true,
@@ -276,7 +276,7 @@
     },
     {
       "type": "movie",
-      "title": "Batman: The Dark Knight Rises",
+      "title": "Batman: El Caballero de la Noche Asciende",
       "description": "Ocho años después de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
       "duration": "2h 44m",
       "rating": "PG-13",
@@ -291,7 +291,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/b1d66473-3282-41af-9cc8-8bae00b208db/playlist.m3u8",
+        "default": "https://micinemaxr.b-cdn.net/Movie/BatmanElCaballeroDeLaNocheAsciende.mp4",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b1d66473-3282-41af-9cc8-8bae00b208db/playlist.m3u8"
       },
       "enabled": true,
@@ -1524,14 +1524,19 @@
     {
       "type": "movie",
       "title": "Avatar: Fuego y Ceniza",
-      "description": "Nop",
+      "description": "Jake Sully y Neytiri continúan su vida en Pandora mientras nuevas amenazas emergen. La historia explorará un lado más oscuro del planeta, presentando nuevos clanes Na’vi y conflictos que pondrán a prueba la unión de su familia y el equilibrio del mundo.",
       "duration": "3h 10m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-12-19",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -1568,9 +1573,9 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/Cad%C3%A1verdelanovia.mkv",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/52d51292-1b51-4bb4-b79b-553349513b78/playlist.m3u8",
         "language_Spanish": "asas",
-        "language_language_Spanish": "https://micinemaxr.b-cdn.net/Movie/Cad%C3%A1verdelanovia.mkv"
+        "language_language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/52d51292-1b51-4bb4-b79b-553349513b78/playlist.m3u8"
       },
       "enabled": true,
       "id": "movie_052",
@@ -2940,7 +2945,7 @@
     },
     {
       "type": "movie",
-      "title": "The Dark Knight",
+      "title": "Batman: El Caballero de la Noche",
       "description": "Batman enfrenta a su enemigo más icónico, el Joker, un criminal caótico que siembra el terror en Gotham y pone a prueba los límites morales del héroe.",
       "duration": "",
       "rating": "PG-13",
@@ -2957,7 +2962,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/f7a464b2-79b7-4128-b391-683567d2a8f6/playlist.m3u8",
+        "default": "https://micinemaxr.b-cdn.net/Movie/ElCaballeroDeLaNocheBatman.mp4",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f7a464b2-79b7-4128-b391-683567d2a8f6/playlist.m3u8"
       },
       "id": "movie_103",

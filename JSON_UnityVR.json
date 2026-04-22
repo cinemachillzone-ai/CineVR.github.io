@@ -126,7 +126,7 @@
     },
     {
       "type": "movie",
-      "title": "Batman Begins",
+      "title": "Batman Comienza",
       "description": "Después de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad Gótica.",
       "duration": "2h 20m",
       "rating": "PG-13",
@@ -246,7 +246,7 @@
     },
     {
       "type": "movie",
-      "title": "Batman: The Dark Knight Rises",
+      "title": "Batman: El Caballero de la Noche Asciende",
       "description": "Ocho años después de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
       "duration": "2h 44m",
       "rating": "PG-13",
@@ -1320,14 +1320,19 @@
     {
       "type": "movie",
       "title": "Avatar: Fuego y Ceniza",
-      "description": "Nop",
+      "description": "Jake Sully y Neytiri continúan su vida en Pandora mientras nuevas amenazas emergen. La historia explorará un lado más oscuro del planeta, presentando nuevos clanes Na’vi y conflictos que pondrán a prueba la unión de su familia y el equilibrio del mundo.",
       "duration": "3h 10m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-12-19",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -2545,7 +2550,7 @@
     },
     {
       "type": "movie",
-      "title": "The Dark Knight",
+      "title": "Batman: El Caballero de la Noche",
       "description": "Batman enfrenta a su enemigo más icónico, el Joker, un criminal caótico que siembra el terror en Gotham y pone a prueba los límites morales del héroe.",
       "duration": "",
       "rating": "PG-13",
