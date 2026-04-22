@@ -1523,7 +1523,7 @@
     },
     {
       "type": "movie",
-      "title": "Nop",
+      "title": "Avatar: Fuego y Ceniza",
       "description": "Nop",
       "duration": "3h 10m",
       "rating": "PG-13",
@@ -2482,8 +2482,8 @@
     },
     {
       "type": "movie",
-      "title": "Avatar: Fuego y Ceniza",
-      "description": "La película sigue la historia de la familia Sully (Jake, Neytiri y sus hijos) después de los eventos de Avatar: The Way of Water.",
+      "title": "nop",
+      "description": "nop",
       "duration": "",
       "rating": "PG-13",
       "quality": "LQ",
@@ -2502,7 +2502,8 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8"
       },
       "id": "movie_087",
       "addedAt": "2026-04-10T23:40:42.991Z",
