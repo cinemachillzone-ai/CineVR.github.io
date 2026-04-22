@@ -3393,7 +3393,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/SinPiedad.mkv",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/0e77b475-5b81-4028-b535-25db9f44f721/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9cc04fd2-39fd-444d-8b4e-f81b94f32b73/playlist.m3u8"
       },
       "id": "movie_118",
@@ -14785,7 +14785,7 @@
           "title": "Capítulo 1",
           "slotId": "ep_986",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/malcolmElDeEnMedio2026/MalcolmInTheMiddleS01E01.mkv"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c058de14-f597-4df8-85e0-6d6658cfdca3/playlist.m3u8"
           }
         },
         {
@@ -14793,7 +14793,7 @@
           "title": "Capítulo 2",
           "slotId": "ep_987",
           "links": {
-            "language_Spanish": "https://micinemaxr.b-cdn.net/Series/malcolmElDeEnMedio2026/MalcolmInTheMiddleS01E02.mkv"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/969d8d38-4445-40b1-a2d5-a085d7635448/playlist.m3u8"
           }
         },
         {
@@ -14801,7 +14801,7 @@
           "title": "Capítulo 3",
           "slotId": "ep_988",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-chttps://micinemaxr.b-cdn.net/Series/malcolmElDeEnMedio2026/MalcolmInTheMiddleS01E03.mkvdn.net/bc2d44f0-0986-4a95-b28b-31d6d5681f09/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bc2d44f0-0986-4a95-b28b-31d6d5681f09/playlist.m3u8"
           }
         },
         {
@@ -14809,7 +14809,7 @@
           "title": "Capítulo 4",
           "slotId": "ep_989",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b4bhttps://micinemaxr.b-cdn.net/Series/malcolmElDeEnMedio2026/MalcolmInTheMiddleS01E04.mkvebc6b-50cd-42e8-bf59-8495cd4492d2/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b4bebc6b-50cd-42e8-bf59-8495cd4492d2/playlist.m3u8"
           }
         }
       ],
