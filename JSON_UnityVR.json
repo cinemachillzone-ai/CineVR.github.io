@@ -1319,20 +1319,15 @@
     },
     {
       "type": "movie",
-      "title": "Avatar: Fuego y ceniza",
-      "description": "Jake Sully y Neytiri enfrentan una nueva y agresiva cultura Na'vi: el 'Pueblo de la Ceniza', una tribu de fuego liderada por Varang.",
+      "title": "Nop",
+      "description": "Nop",
       "duration": "3h 10m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-12-19",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
-      ],
+      "genres": [],
       "languages": [
         "language_Spanish"
       ],
