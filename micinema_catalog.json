@@ -1553,26 +1553,28 @@
     },
     {
       "type": "movie",
-      "title": "GOAT",
-      "description": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales en un deporte dominado por los animales más rápidos y feroces del mundo.",
+      "title": "El cadáver de la novia ",
+      "description": "Un joven tímido llamado Victor practica sus votos matrimoniales en el bosque por error… y sin saberlo, termina casándose con una misteriosa novia muerta que lo lleva al mundo de los difuntos. Mientras intenta regresar al mundo de los vivos y con su verdadera prometida, descubre secretos, emociones y decisiones importantes sobre el amor y la vida.",
       "duration": "1h 40m",
       "rating": "PG",
-      "quality": "None",
-      "section": "recently_added",
-      "year": 2026,
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
       "releaseDate": "2026-02-13",
       "genres": [
         "Animation",
+        "Fantasy",
+        "Horror",
         "Comedy",
-        "Family"
+        "Romance"
       ],
       "languages": [
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/ba48e8ff-9282-4c00-8b3c-0266bc24cc2e/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/cc6ac791-7566-4f7b-8721-412e0556dfdb/playlist.m3u8",
         "language_Spanish": "asas",
-        "language_language_Spanish": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv"
+        "language_language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/cc6ac791-7566-4f7b-8721-412e0556dfdb/playlist.m3u8"
       },
       "enabled": true,
       "id": "movie_052",
@@ -4116,6 +4118,280 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 124
+    },
+    {
+      "type": "movie",
+      "title": "El Libro de la Vida",
+      "description": "Manolo, un joven dividido entre seguir las expectativas de su familia o su verdadera pasión por la música, se embarca en una aventura mágica que lo lleva a recorrer tres mundos: el de los vivos, el de los recordados y el de los olvidados. En el camino, lucha por su amor y descubre su propio destino.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Romance",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/c19cda59-def1-49ef-96af-ce7a7eab100f/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c19cda59-def1-49ef-96af-ce7a7eab100f/playlist.m3u8"
+      },
+      "id": "movie_144",
+      "addedAt": "2026-04-22T00:12:16.640Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 125
+    },
+    {
+      "type": "movie",
+      "title": "El Quinto Elemento",
+      "description": "En un futuro lejano, un exmilitar convertido en taxista se ve envuelto en una misión crucial para salvar a la humanidad. Junto a una misteriosa mujer con habilidades extraordinarias, deberá reunir cuatro elementos esenciales para detener una fuerza cósmica que amenaza con destruir la Tierra.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1997,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/ae7ce59a-d215-4c03-bd70-38cbc6d4e7ea/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ae7ce59a-d215-4c03-bd70-38cbc6d4e7ea/playlist.m3u8"
+      },
+      "id": "movie_145",
+      "addedAt": "2026-04-22T00:14:43.421Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 126
+    },
+    {
+      "type": "movie",
+      "title": "Escuadrón Suicida",
+      "description": "Un grupo de peligrosos criminales encarcelados es reclutado por el gobierno para formar un equipo secreto y cumplir misiones extremadamente riesgosas a cambio de reducir sus condenas. Sin embargo, deberán aprender a trabajar juntos mientras enfrentan amenazas fuera de control… y entre ellos mismos.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/e85bc951-3e95-4522-a70a-e0ee74a47580/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e85bc951-3e95-4522-a70a-e0ee74a47580/playlist.m3u8"
+      },
+      "id": "movie_146",
+      "addedAt": "2026-04-22T00:17:28.184Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 127
+    },
+    {
+      "type": "movie",
+      "title": "Hotel Transylvania",
+      "description": "El Conde Drácula dirige un exclusivo hotel donde los monstruos pueden relajarse lejos de los humanos. Todo cambia cuando un joven humano llega por accidente y se enamora de su hija, poniendo a prueba las reglas del lugar y las ideas de Drácula sobre el mundo exterior.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/708f3c3d-aed8-468a-a86b-95d6828f06a4/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/708f3c3d-aed8-468a-a86b-95d6828f06a4/playlist.m3u8"
+      },
+      "id": "movie_147",
+      "addedAt": "2026-04-22T00:19:42.338Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 0
+    },
+    {
+      "type": "movie",
+      "title": "La Leyenda de la Llorona",
+      "description": "Leo San Juan y sus amigos viajan a Xochimilco, donde descubren que la famosa Llorona está secuestrando niños. Para detenerla, deberán enfrentar misterios del pasado y ayudar a liberar el alma en pena detrás de la leyenda.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Horror",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/45281387-fed8-4d48-b682-bdf2678308c0/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/45281387-fed8-4d48-b682-bdf2678308c0/playlist.m3u8"
+      },
+      "id": "movie_148",
+      "addedAt": "2026-04-22T00:21:13.267Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 1
+    },
+    {
+      "type": "movie",
+      "title": "La Leyenda de las Momias de Guanajuato",
+      "description": "Leo San Juan y sus amigos llegan a Guanajuato, donde descubren que unas momias han cobrado vida y están causando terror en la ciudad. Para detenerlas, deberán enfrentarse a un oscuro secreto y salvar a los habitantes antes de que sea demasiado tarde.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Horror",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/889f23db-3399-4d37-9df2-15b0c89f3c0b/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/889f23db-3399-4d37-9df2-15b0c89f3c0b/playlist.m3u8"
+      },
+      "id": "movie_149",
+      "addedAt": "2026-04-22T00:23:01.121Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 2
+    },
+    {
+      "type": "movie",
+      "title": "La Leyenda del Chupacabras",
+      "description": "Leo San Juan es encarcelado injustamente y, mientras intenta demostrar su inocencia, surge una nueva amenaza: el temido Chupacabras. Junto a sus amigos, deberá escapar y enfrentar a esta criatura para salvar a un pueblo aterrorizado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Horror",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/f560cd1a-0e88-4b46-8cc7-03b51d0c4f13/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f560cd1a-0e88-4b46-8cc7-03b51d0c4f13/playlist.m3u8"
+      },
+      "id": "movie_150",
+      "addedAt": "2026-04-22T00:28:14.865Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 3
+    },
+    {
+      "type": "movie",
+      "title": "Marcianos al Ataque",
+      "description": "Un grupo de extravagantes alienígenas llega a la Tierra con aparentes intenciones pacíficas, pero pronto revelan su verdadera naturaleza caótica y destructiva. Mientras gobiernos y ciudadanos intentan reaccionar, el planeta se convierte en un escenario de humor absurdo y desastre total.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1996,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/dfafbd88-a4fe-4b72-8b1b-6ee0f943733e/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/dfafbd88-a4fe-4b72-8b1b-6ee0f943733e/playlist.m3u8"
+      },
+      "id": "movie_151",
+      "addedAt": "2026-04-22T00:30:28.915Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 4
+    },
+    {
+      "type": "movie",
+      "title": "Planeta del Tesoro",
+      "description": "Jim Hawkins, un joven rebelde, descubre un mapa que conduce a un legendario tesoro escondido en el espacio. A bordo de una nave extraordinaria, emprende un viaje lleno de peligros, traiciones y descubrimientos personales que pondrán a prueba su valentía y confianza.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/839d44cd-17a8-48da-8a20-c64048e1f854/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/839d44cd-17a8-48da-8a20-c64048e1f854/playlist.m3u8"
+      },
+      "id": "movie_152",
+      "addedAt": "2026-04-22T00:32:42.089Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 5
     }
   ],
   "series": [
@@ -26072,6 +26348,107 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 115
+    },
+    {
+      "type": "series",
+      "title": "The Amazing Digital Circus",
+      "description": "Una joven despierta atrapada en un extraño mundo digital con forma de circo, donde los habitantes son personas que también quedaron atrapadas allí. Mientras intenta encontrar una forma de escapar, deberá adaptarse a reglas absurdas y enfrentar el impacto psicológico de vivir en ese entorno surrealista.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-04-22",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2211",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3e4fafb2-ba18-4f16-ba34-278a572d8937/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/3e4fafb2-ba18-4f16-ba34-278a572d8937/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2212",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/10597149-5f3a-4fa8-b501-e8cda5fb57e9/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/10597149-5f3a-4fa8-b501-e8cda5fb57e9/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2213",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3917d2f1-3353-4b36-973a-44809b7fa8c2/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/3917d2f1-3353-4b36-973a-44809b7fa8c2/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2214",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1d4bc1f9-f7c9-416d-bb1c-bf11b962f185/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/1d4bc1f9-f7c9-416d-bb1c-bf11b962f185/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2215",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ce39dd20-0d8b-438e-a255-1ece6384dc73/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/ce39dd20-0d8b-438e-a255-1ece6384dc73/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2216",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/073236f5-76c3-48a1-b942-a27ff0724c18/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/073236f5-76c3-48a1-b942-a27ff0724c18/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2217",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/47d89b9e-6518-42d8-a458-9e7ce91b1e3d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/47d89b9e-6518-42d8-a458-9e7ce91b1e3d/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2218",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f66181ec-adb2-4604-8ec3-d26da3d1d7a7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/f66181ec-adb2-4604-8ec3-d26da3d1d7a7/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_111",
+      "addedAt": "2026-04-22T00:50:03.063Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 6
     }
   ]
 }
