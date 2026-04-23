@@ -4394,6 +4394,362 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 5
+    },
+    {
+      "type": "movie",
+      "title": "Alicia en el País de las Maravillas",
+      "description": "Alicia, ahora adolescente, regresa a un mundo mágico que visitó en su infancia, aunque no lo recuerda con claridad. Allí descubre que tiene un papel importante en la lucha contra la tiránica Reina Roja, mientras se reencuentra con personajes extraños y fascinantes.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/65a017f3-3038-4df7-8a4a-c84bd8aacfb6/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/65a017f3-3038-4df7-8a4a-c84bd8aacfb6/playlist.m3u8"
+      },
+      "id": "movie_153",
+      "addedAt": "2026-04-23T02:28:44.923Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 4
+    },
+    {
+      "type": "movie",
+      "title": "Beetlejuice",
+      "description": "Una pareja fallecida queda atrapada como fantasmas en su propia casa y decide asustar a los nuevos habitantes. Para lograrlo, invocan a Beetlejuice, un espíritu caótico y problemático que termina complicando todo mucho más de lo esperado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1988,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/66c7e7d2-047e-42be-a87d-d28e5ba8b1bf/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/66c7e7d2-047e-42be-a87d-d28e5ba8b1bf/playlist.m3u8"
+      },
+      "id": "movie_154",
+      "addedAt": "2026-04-23T02:30:40.804Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 5
+    },
+    {
+      "type": "movie",
+      "title": "Charlie y la Fábrica de Chocolate",
+      "description": "Charlie, un niño humilde, gana un boleto dorado para visitar la misteriosa fábrica del excéntrico Willy Wonka. Junto a otros niños, vive una experiencia llena de maravillas, sorpresas y lecciones inesperadas dentro del mágico mundo del chocolate.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/1cea992d-9e4e-462a-bde6-7c4701bc0989/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1cea992d-9e4e-462a-bde6-7c4701bc0989/playlist.m3u8"
+      },
+      "id": "movie_155",
+      "addedAt": "2026-04-23T02:33:02.839Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 6
+    },
+    {
+      "type": "movie",
+      "title": "El Joven Manos de Tijera",
+      "description": "Edward es un joven artificial creado por un inventor que murió antes de terminarlo, dejándolo con tijeras en lugar de manos. Al ser llevado a un vecindario común, intenta adaptarse a la vida humana, pero su apariencia y naturaleza provocan tanto fascinación como rechazo.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1990,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/e0a23db5-2ee8-4c2f-8728-20c293bd3a31/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e0a23db5-2ee8-4c2f-8728-20c293bd3a31/playlist.m3u8"
+      },
+      "id": "movie_156",
+      "addedAt": "2026-04-23T02:35:51.960Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 7
+    },
+    {
+      "type": "movie",
+      "title": "Frankenweenie",
+      "description": "Victor, un niño apasionado por la ciencia, pierde a su querido perro Sparky. Decidido a recuperarlo, utiliza sus conocimientos para traerlo de vuelta a la vida, pero sus experimentos provocan consecuencias inesperadas en su comunidad.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Comedy",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/90488ef4-5cf7-427a-948c-9a7bea32713c/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/90488ef4-5cf7-427a-948c-9a7bea32713c/playlist.m3u8"
+      },
+      "id": "movie_157",
+      "addedAt": "2026-04-23T02:37:40.842Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 8
+    },
+    {
+      "type": "movie",
+      "title": "Miss Peregrine y los Niños Peculiares",
+      "description": "Tras una tragedia familiar, Jake descubre un misterioso orfanato donde viven niños con habilidades extraordinarias. Bajo el cuidado de Miss Peregrine, deberá protegerlos de peligrosas criaturas mientras descubre su propio lugar en ese mundo peculiar.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/f7a49235-edbf-4446-afdf-09f3e9ac88fd/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f7a49235-edbf-4446-afdf-09f3e9ac88fd/playlist.m3u8"
+      },
+      "id": "movie_158",
+      "addedAt": "2026-04-23T02:40:23.433Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 9
+    },
+    {
+      "type": "movie",
+      "title": "Guerra Mundial Z",
+      "description": "Una repentina y devastadora pandemia convierte a millones de personas en criaturas violentas. Gerry Lane, un exinvestigador de la ONU, recorre el mundo en busca del origen del brote y una posible solución antes de que la humanidad colapse por completo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b05ac357-03a4-4807-a0cc-119e00bd260a/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b05ac357-03a4-4807-a0cc-119e00bd260a/playlist.m3u8"
+      },
+      "id": "movie_159",
+      "addedAt": "2026-04-23T02:42:17.775Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 10
+    },
+    {
+      "type": "movie",
+      "title": "Crepúsculo: Luna Nueva",
+      "description": "Después de un peligroso incidente, Edward decide alejarse de Bella para protegerla, dejándola devastada. En su intento por seguir adelante, Bella se acerca más a Jacob, descubriendo secretos que cambiarán todo mientras fuerzas oscuras se aproximan.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/7e3d0938-0fc7-4738-b4d5-ef03f685e840/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7e3d0938-0fc7-4738-b4d5-ef03f685e840/playlist.m3u8"
+      },
+      "id": "movie_160",
+      "addedAt": "2026-04-23T02:45:09.479Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 11
+    },
+    {
+      "type": "movie",
+      "title": "Crepúsculo: Eclipse",
+      "description": "Bella se encuentra en medio de una peligrosa amenaza cuando una serie de asesinatos sacude la ciudad. Mientras tanto, debe tomar una decisión entre Edward y Jacob, lo que complica aún más la creciente tensión entre vampiros y hombres lobo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Drama",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/199059fc-a79e-45ff-9156-ddb4bea04ccd/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/199059fc-a79e-45ff-9156-ddb4bea04ccd/playlist.m3u8"
+      },
+      "id": "movie_161",
+      "addedAt": "2026-04-23T02:47:08.360Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 12
+    },
+    {
+      "type": "movie",
+      "title": "Crepúsculo: Amanecer – Parte 1",
+      "description": "Bella y Edward finalmente se casan y comienzan su nueva vida juntos. Sin embargo, un inesperado embarazo trae consecuencias peligrosas tanto para Bella como para quienes la rodean, desatando tensiones entre vampiros y hombres lobo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/1c54d5f8-5472-4239-a87b-256b657951d9/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1c54d5f8-5472-4239-a87b-256b657951d9/playlist.m3u8"
+      },
+      "id": "movie_162",
+      "addedAt": "2026-04-23T02:49:42.894Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 13
+    },
+    {
+      "type": "movie",
+      "title": "Crepúsculo: Amanecer – Parte 2",
+      "description": "Bella despierta transformada en vampiro y comienza su nueva vida junto a Edward y su hija. Sin embargo, una amenaza poderosa se cierne cuando los Volturi sospechan de un peligro que podría romper las reglas del mundo vampírico, llevando a un enfrentamiento decisivo.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/c6813776-3b48-4e6c-be48-69f240ded7f7/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c6813776-3b48-4e6c-be48-69f240ded7f7/playlist.m3u8"
+      },
+      "id": "movie_163",
+      "addedAt": "2026-04-23T02:51:52.125Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 14
+    },
+    {
+      "type": "movie",
+      "title": "El Bueno, el Malo y el Feo",
+      "description": "En medio de la Guerra Civil estadounidense, tres hombres con intereses distintos —un cazarrecompensas, un forajido y un mercenario— compiten y colaboran para encontrar un tesoro escondido. Su viaje está lleno de traiciones, alianzas inesperadas y duelos memorables.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1966,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Western",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/42b298fa-1ae1-44ac-b198-637e5114125a/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/42b298fa-1ae1-44ac-b198-637e5114125a/playlist.m3u8"
+      },
+      "id": "movie_164",
+      "addedAt": "2026-04-23T02:54:10.947Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 15
     }
   ],
   "series": [
@@ -25961,6 +26317,106 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 6
+    },
+    {
+      "type": "series",
+      "title": "Helluva Boss",
+      "description": "La serie sigue a I.M.P (Immediate Murder Professionals), una pequeña empresa en el infierno que ofrece servicios de asesinato en el mundo humano. Liderados por el impulsivo Blitzo, el equipo enfrenta misiones caóticas mientras lidian con sus propios problemas personales y relaciones complicadas.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2026-04-23",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2167",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3b46409e-05a1-424e-bc0e-39a8df6abec3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/3b46409e-05a1-424e-bc0e-39a8df6abec3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2168",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9e2bb536-cda8-4851-b51e-902e231408e0/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/9e2bb536-cda8-4851-b51e-902e231408e0/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2169",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/34f51cb5-8da3-41d3-b877-a8d9b983b560/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/34f51cb5-8da3-41d3-b877-a8d9b983b560/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2170",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a8735b06-826b-4542-b4ec-157858a3618e/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a8735b06-826b-4542-b4ec-157858a3618e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2171",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/0f5cae48-e022-4408-a73c-196dfc208751/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/0f5cae48-e022-4408-a73c-196dfc208751/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2172",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/939ee618-0c21-4f0d-84a9-018440fbbe30/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/939ee618-0c21-4f0d-84a9-018440fbbe30/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2173",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/55856b95-6584-4488-a1e4-c171ee7041e0/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/55856b95-6584-4488-a1e4-c171ee7041e0/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2174",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e70f8cd2-5333-4195-a3da-886831861b95/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/e70f8cd2-5333-4195-a3da-886831861b95/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_109",
+      "addedAt": "2026-04-23T03:01:52.255Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 16
     }
   ]
 }
