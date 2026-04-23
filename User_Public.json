@@ -1,13 +1,9 @@
 {
-  "lastUpdate": "2026-04-20 01:49",
+  "lastUpdate": "2026-04-19 22:43",
   "stars": [
     {
       "user": "Sean F",
       "cellIndex": 0
-    },
-    {
-      "user": "Akihide",
-      "cellIndex": 1
     }
   ],
   "patreons": [
@@ -51,14 +47,12 @@
     },
     {
       "id": "user_005",
-      "user": "Akihide",
+      "user": "Slot 5",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cinefilo",
+      "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 4,
-      "isStar": true,
-      "starCellIndex": 1,
-      "starAtlasIndex": 0
+      "isStar": false
     },
     {
       "id": "user_006",
