@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-23 22:22",
+  "lastUpdate": "2026-04-24 02:24",
   "stars": [
     {
       "user": "Sean F",
@@ -8,6 +8,10 @@
     {
       "user": "Akihide",
       "cellIndex": 1
+    },
+    {
+      "user": "ForTodayDubs",
+      "cellIndex": 2
     }
   ],
   "patreons": [
@@ -79,14 +83,17 @@
     },
     {
       "id": "user_006",
-      "user": "Slot 6",
+      "user": "ForTodayDubs",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-06-23T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 5,
-      "isStar": false
+      "isStar": true,
+      "patreonAccount": "ForTodayDubs",
+      "starCellIndex": 2,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_007",
