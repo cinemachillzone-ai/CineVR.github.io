@@ -1397,8 +1397,8 @@
     },
     {
       "type": "movie",
-      "title": "Greenland: Migration",
-      "description": "La familia Garrity debe abandonar el búnker de Groenlandia y viajar a través del páramo helado de Europa para encontrar un nuevo hogar.",
+      "title": "nop2",
+      "description": "nop2",
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
@@ -1422,7 +1422,7 @@
     },
     {
       "type": "movie",
-      "title": "Mercy",
+      "title": "Sin Piedad",
       "description": "En un futuro cercano, un detective debe demostrar su inocencia ante una Inteligencia Artificial antes de que esta determine su destino.",
       "duration": "1h 39m",
       "rating": "R",
@@ -1472,7 +1472,7 @@
     },
     {
       "type": "movie",
-      "title": "Humint",
+      "title": "Inthum",
       "description": "Un agente surcoreano y uno norcoreano destapan una red de narcotráfico en la frontera rusa, enfrentando peligros mortales.",
       "duration": "2h 00m",
       "rating": "R",
@@ -2603,7 +2603,7 @@
       "description": "Secuela de Greenland: El último refugio. La historia continúa siguiendo a la familia Garrity, quienes sobrevivieron a un evento catastrófico global. Ahora deben abandonar la seguridad de los búnkeres en Groenlandia y emprender un peligroso viaje a través de un mundo devastado para encontrar un nuevo lugar donde reconstruir la civilización.",
       "duration": "",
       "rating": "PG-13",
-      "quality": "LQ",
+      "quality": "HD",
       "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-04-16",

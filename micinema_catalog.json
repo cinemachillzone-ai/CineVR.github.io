@@ -554,7 +554,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/bc86d3c7-5f19-4b10-924e-92e4f2930fd0/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/c522ff18-74af-4d58-b8d8-c00923e000e6/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bc86d3c7-5f19-4b10-924e-92e4f2930fd0/playlist.m3u8"
       },
       "enabled": true,
@@ -786,7 +786,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/29a1cd38-733f-42f8-a4e9-96317eaf8715/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b81ee213-a840-40d4-8907-c9183537b5d2/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/29a1cd38-733f-42f8-a4e9-96317eaf8715/playlist.m3u8"
       },
       "enabled": true,
@@ -1542,9 +1542,9 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/50d42ce2-f0ca-4945-a8fa-51ec5aa6b10b/playlist.m3u8",
         "language_Spanish": "qqq",
-        "language_language_Spanish": "https://micinemaxr.b-cdn.net/Movie/AvatarFuegoYCeniza.mp4"
+        "language_language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/50d42ce2-f0ca-4945-a8fa-51ec5aa6b10b/playlist.m3u8"
       },
       "enabled": true,
       "id": "movie_051",
@@ -1616,8 +1616,8 @@
     },
     {
       "type": "movie",
-      "title": "Greenland: Migration",
-      "description": "La familia Garrity debe abandonar el búnker de Groenlandia y viajar a través del páramo helado de Europa para encontrar un nuevo hogar.",
+      "title": "nop2",
+      "description": "nop2",
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
@@ -1633,7 +1633,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/d901db4e-0e91-4cb9-95fd-f72fa33d96b0/playlist.m3u8",
+        "default": "e",
         "language_Spanish": "q"
       },
       "enabled": true,
@@ -1645,7 +1645,7 @@
     },
     {
       "type": "movie",
-      "title": "Mercy",
+      "title": "Sin Piedad",
       "description": "En un futuro cercano, un detective debe demostrar su inocencia ante una Inteligencia Artificial antes de que esta determine su destino.",
       "duration": "1h 39m",
       "rating": "R",
@@ -1662,7 +1662,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "qq",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/1806ace7-6681-4384-8ca6-57f7319f000a/playlist.m3u8",
         "language_Spanish": "qq"
       },
       "enabled": true,
@@ -1703,7 +1703,7 @@
     },
     {
       "type": "movie",
-      "title": "Humint",
+      "title": "Inthum",
       "description": "Un agente surcoreano y uno norcoreano destapan una red de narcotráfico en la frontera rusa, enfrentando peligros mortales.",
       "duration": "2h 00m",
       "rating": "R",
@@ -1719,7 +1719,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "qwdq",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/3fdaa0c4-fa54-4582-bbda-be87ff04db59/playlist.m3u8",
         "language_Spanish": "qwdq"
       },
       "enabled": true,
@@ -1785,7 +1785,7 @@
       "gridIndex": 58,
       "videoUrl": "ads",
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/1e7568e8-9fcd-4fd8-bdb3-cb612627bd68/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/a8e12d4c-a971-447d-b5db-67ae662b2136/playlist.m3u8",
         "language_Spanish": "ads"
       }
     },
@@ -1808,7 +1808,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/17c23000-20bd-43a7-8fc4-1f6be1846fa9/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/e27a7165-4230-49db-a673-129133ad8cbc/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/17c23000-20bd-43a7-8fc4-1f6be1846fa9/playlist.m3u8"
       },
       "enabled": true,
@@ -1837,7 +1837,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/dcf06ae9-7593-4246-9a9d-290897afe2e0/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b09ef654-3e74-4e4f-8572-405d3c83d3e4/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/dcf06ae9-7593-4246-9a9d-290897afe2e0/playlist.m3u8"
       },
       "enabled": true,
@@ -2005,7 +2005,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/ad7df574-e444-4179-a74a-ca3c428b6a92/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/401afd85-0241-4cfe-b54a-bf606cf6f85c/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ad7df574-e444-4179-a74a-ca3c428b6a92/playlist.m3u8"
       },
       "id": "movie_067",
@@ -2334,7 +2334,8 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/51e9eb23-5f31-44cc-96de-108b856afd2c/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/d79aef06-17d8-41a9-9ab2-84f653753d0d/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d79aef06-17d8-41a9-9ab2-84f653753d0d/playlist.m3u8"
       },
       "id": "movie_080",
       "addedAt": "2026-04-10T19:59:03.558Z",
@@ -2478,7 +2479,8 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/330f3594-37fc-49f9-ba4b-013632fa44e7/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b0bb9a64-c79b-4fb8-8819-c0428f4bf7d2/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b0bb9a64-c79b-4fb8-8819-c0428f4bf7d2/playlist.m3u8"
       },
       "id": "movie_086",
       "addedAt": "2026-04-10T20:17:51.756Z",
@@ -3007,7 +3009,7 @@
       "description": "Secuela de Greenland: El último refugio. La historia continúa siguiendo a la familia Garrity, quienes sobrevivieron a un evento catastrófico global. Ahora deben abandonar la seguridad de los búnkeres en Groenlandia y emprender un peligroso viaje a través de un mundo devastado para encontrar un nuevo lugar donde reconstruir la civilización.",
       "duration": "",
       "rating": "PG-13",
-      "quality": "LQ",
+      "quality": "HD",
       "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-04-16",
@@ -3021,7 +3023,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/d901db4e-0e91-4cb9-95fd-f72fa33d96b0/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b56443a7-9fb9-4f24-b529-3fbcac3217ea/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d901db4e-0e91-4cb9-95fd-f72fa33d96b0/playlist.m3u8"
       },
       "id": "movie_105",
@@ -3135,7 +3137,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/f2db31ab-00bb-4713-a1ac-8e5d5bf8c4f7/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/69d9627a-920a-497c-a36f-2b7aa745ae89/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f2db31ab-00bb-4713-a1ac-8e5d5bf8c4f7/playlist.m3u8"
       },
       "id": "movie_109",
