@@ -2644,5 +2644,11 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_154"
+  },
+  {
+    "timestamp": "2026-04-23T10:37:28.634Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "series_103"
   }
 ]
