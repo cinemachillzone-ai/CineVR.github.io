@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-25 04:06",
+  "lastUpdate": "2026-04-25 04:10",
   "stars": [
     {
       "user": "Sean F",
@@ -12,10 +12,6 @@
     {
       "user": "ForTodayDubs",
       "cellIndex": 2
-    },
-    {
-      "user": "ʚᴍᴏɴ ᴄʜᴇʀʀʏɞ",
-      "cellIndex": 3
     }
   ],
   "patreons": [
@@ -92,11 +88,10 @@
       "id": "user_008",
       "user": "ʚᴍᴏɴ ᴄʜᴇʀʀʏɞ",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cinefilo",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 7,
-      "isStar": true,
-      "starCellIndex": 3,
+      "isStar": false,
       "starAtlasIndex": 0
     },
     {
