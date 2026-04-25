@@ -1397,19 +1397,18 @@
     },
     {
       "type": "movie",
-      "title": "Jujutsu Kaisen 0",
-      "description": "Yuta Okkotsu es un joven atormentado por una poderosa maldición ligada a su amiga de la infancia fallecida. Al ser reclutado por una escuela de hechicería, aprende a controlar esa energía mientras enfrenta peligrosos enemigos y descubre la verdad detrás de su poder.",
+      "title": "Greenland: Migration",
+      "description": "La familia Garrity debe abandonar el búnker de Groenlandia y viajar a través del páramo helado de Europa para encontrar un nuevo hogar.",
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
-      "year": 2021,
+      "section": "recently_added",
+      "year": 2025,
       "releaseDate": "2025-06-25",
       "genres": [
         "Action",
         "Adventure",
-        "Animation",
-        "Fantasy"
+        "Thriller"
       ],
       "languages": [
         "language_Spanish"
@@ -1978,18 +1977,15 @@
     },
     {
       "type": "movie",
-      "title": "La Dictadura Perfecta",
-      "description": "Tras un escándalo político, una poderosa cadena de televisión manipula la información para desviar la atención pública. Para lograrlo, decide fabricar la imagen de un gobernador corrupto como un héroe, mostrando cómo los medios pueden influir en la percepción de la realidad.",
+      "title": "Thunderbolts*",
+      "description": "Thunderbolts Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
       "duration": "",
-      "rating": "R",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2014,
+      "year": 2025,
       "releaseDate": "2026-04-10",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
+      "genres": [],
       "languages": [
         "language_Spanish"
       ],
@@ -2146,6 +2142,33 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 85
+    },
+    {
+      "type": "movie",
+      "title": "nop",
+      "description": "nop",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Cyberpunk"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_087",
+      "addedAt": "2026-04-10T23:40:42.991Z",
+      "addedBy": "Admin",
+      "atlas": "B",
+      "gridIndex": 11
     },
     {
       "type": "movie",
@@ -17508,153 +17531,6 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 16
-    },
-    {
-      "type": "series",
-      "title": "Jujutsu Kaisen",
-      "description": "Yuji Itadori, un estudiante con habilidades físicas extraordinarias, se ve envuelto en el mundo de las maldiciones tras ingerir un objeto maldito. Para sobrevivir, se une a una escuela de hechicería donde aprende a combatir espíritus malignos mientras enfrenta peligros cada vez mayores.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-04-10",
-      "genres": [
-        "Action",
-        "Animation",
-        "Fantasy"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "series_110",
-      "addedAt": "2026-04-10T23:40:42.991Z",
-      "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 11,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2175"
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2176"
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2177"
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2178"
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2179"
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2180"
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2181"
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2182"
-        },
-        {
-          "id": "s01e09",
-          "title": "Capítulo 9",
-          "slotId": "ep_2183"
-        },
-        {
-          "id": "s01e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_2184"
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_2185"
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_2186"
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_2187"
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_2188"
-        },
-        {
-          "id": "s01e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_2189"
-        },
-        {
-          "id": "s01e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_2190"
-        },
-        {
-          "id": "s01e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_2191"
-        },
-        {
-          "id": "s01e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_2192"
-        },
-        {
-          "id": "s01e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_2193"
-        },
-        {
-          "id": "s01e20",
-          "title": "Capítulo 20",
-          "slotId": "ep_2194"
-        },
-        {
-          "id": "s01e21",
-          "title": "Capítulo 21",
-          "slotId": "ep_2195"
-        },
-        {
-          "id": "s01e22",
-          "title": "Capítulo 22",
-          "slotId": "ep_2196"
-        },
-        {
-          "id": "s01e23",
-          "title": "Capítulo 23",
-          "slotId": "ep_2197"
-        },
-        {
-          "id": "s01e24",
-          "title": "Capítulo 24",
-          "slotId": "ep_2198"
-        }
-      ]
     }
   ]
 }
