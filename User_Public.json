@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-24 02:24",
+  "lastUpdate": "2026-04-25 04:06",
   "stars": [
     {
       "user": "Sean F",
@@ -12,6 +12,10 @@
     {
       "user": "ForTodayDubs",
       "cellIndex": 2
+    },
+    {
+      "user": "ʚᴍᴏɴ ᴄʜᴇʀʀʏɞ",
+      "cellIndex": 3
     }
   ],
   "patreons": [
@@ -77,21 +81,23 @@
     },
     {
       "id": "user_007",
-      "user": "Slot 7",
+      "user": "P i e r r o t",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Cinefilo",
       "atlasIndex": 0,
       "cellIndex": 6,
       "isStar": false
     },
     {
       "id": "user_008",
-      "user": "Slot 8",
+      "user": "ʚᴍᴏɴ ᴄʜᴇʀʀʏɞ",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Cinefilo",
       "atlasIndex": 0,
       "cellIndex": 7,
-      "isStar": false
+      "isStar": true,
+      "starCellIndex": 3,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_009",
