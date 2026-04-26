@@ -184,5 +184,17 @@
     "user": "Admin",
     "action": "EDIT_USER",
     "targetId": "user_008"
+  },
+  {
+    "timestamp": "2026-04-26T11:54:09.443Z",
+    "user": "Admin",
+    "action": "EDIT_USER",
+    "targetId": "user_006"
+  },
+  {
+    "timestamp": "2026-04-26T11:57:34.068Z",
+    "user": "Admin",
+    "action": "EDIT_USER",
+    "targetId": "user_006"
   }
 ]

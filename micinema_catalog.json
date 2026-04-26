@@ -6,10 +6,10 @@
     "columns": 16,
     "rows": 8,
     "cellCount": 128,
-    "atlasCount": 7,
+    "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 0
+    "catalogCount": 272
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -2296,25 +2296,21 @@
     },
     {
       "type": "movie",
-      "title": "La Dictadura Perfecta",
-      "description": "Tras un escándalo político, una poderosa cadena de televisión manipula la información para desviar la atención pública. Para lograrlo, decide fabricar la imagen de un gobernador corrupto como un héroe, mostrando cómo los medios pueden influir en la percepción de la realidad.",
+      "title": "Thunderbolts*",
+      "description": "Thunderbolts Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
       "duration": "",
-      "rating": "R",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2014,
+      "year": 2025,
       "releaseDate": "2026-04-10",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
+      "genres": [],
       "languages": [
         "language_Spanish"
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/f94b1f22-92b1-401f-a48e-62b99d74aa58/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f94b1f22-92b1-401f-a48e-62b99d74aa58/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/cb422e75-2672-49ea-afbe-1cf940146dd2/playlist.m3u8"
       },
       "id": "movie_079",
       "addedAt": "2026-04-10T08:47:46.431Z",
@@ -2386,8 +2382,7 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/6ecc3165-884b-432a-8bef-d5f3a6882494/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6ecc3165-884b-432a-8bef-d5f3a6882494/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/14e08a0b-e17d-48a6-9519-8dfa427190c9/playlist.m3u8"
       },
       "id": "movie_082",
       "addedAt": "2026-04-10T20:05:43.335Z",
@@ -2493,33 +2488,34 @@
     },
     {
       "type": "movie",
-      "title": "Jujutsu Kaisen 0",
-      "description": "Yuta Okkotsu es un joven atormentado por una poderosa maldición ligada a su amiga de la infancia fallecida. Al ser reclutado por una escuela de hechicería, aprende a controlar esa energía mientras enfrenta peligrosos enemigos y descubre la verdad detrás de su poder.",
+      "title": "nop",
+      "description": "nop",
       "duration": "",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2022,
+      "year": 2026,
       "releaseDate": "2026-04-10",
       "genres": [
         "Action",
         "Adventure",
         "Animation",
-        "Fantasy"
+        "Fantasy",
+        "Cyberpunk"
       ],
       "languages": [
         "Spanish"
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/627c76cf-4fd9-4a59-b830-8a6ed52d7242/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2c90872d-a56e-4ecd-b51d-82fdf5cedef7/playlist.m3u8"
       },
       "id": "movie_087",
       "addedAt": "2026-04-10T23:40:42.991Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 11
+      "atlas": "A",
+      "gridIndex": 86
     },
     {
       "type": "movie",
@@ -2545,8 +2541,8 @@
       "id": "movie_088",
       "addedAt": "2026-04-11T20:27:21.363Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 14
+      "atlas": "A",
+      "gridIndex": 87
     },
     {
       "type": "movie",
@@ -2573,8 +2569,8 @@
       "id": "movie_089",
       "addedAt": "2026-04-11T20:31:08.056Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 15
+      "atlas": "A",
+      "gridIndex": 88
     },
     {
       "type": "movie",
@@ -2601,8 +2597,8 @@
       "id": "movie_090",
       "addedAt": "2026-04-11T21:45:13.236Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 17
+      "atlas": "A",
+      "gridIndex": 89
     },
     {
       "type": "movie",
@@ -2629,8 +2625,8 @@
       "id": "movie_091",
       "addedAt": "2026-04-11T21:49:00.123Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 18
+      "atlas": "A",
+      "gridIndex": 90
     },
     {
       "type": "movie",
@@ -2658,8 +2654,8 @@
       "id": "movie_092",
       "addedAt": "2026-04-11T21:53:32.861Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 19
+      "atlas": "A",
+      "gridIndex": 91
     },
     {
       "type": "movie",
@@ -2686,8 +2682,8 @@
       "id": "movie_093",
       "addedAt": "2026-04-11T21:56:37.963Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 20
+      "atlas": "A",
+      "gridIndex": 92
     },
     {
       "type": "movie",
@@ -2714,8 +2710,8 @@
       "id": "movie_094",
       "addedAt": "2026-04-11T21:59:09.827Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 21
+      "atlas": "A",
+      "gridIndex": 93
     },
     {
       "type": "movie",
@@ -2742,8 +2738,8 @@
       "id": "movie_095",
       "addedAt": "2026-04-11T22:02:27.790Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 22
+      "atlas": "A",
+      "gridIndex": 94
     },
     {
       "type": "movie",
@@ -2770,8 +2766,8 @@
       "id": "movie_096",
       "addedAt": "2026-04-11T22:05:39.514Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 23
+      "atlas": "A",
+      "gridIndex": 95
     },
     {
       "type": "movie",
@@ -2798,8 +2794,8 @@
       "id": "movie_097",
       "addedAt": "2026-04-11T22:07:42.975Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 24
+      "atlas": "A",
+      "gridIndex": 96
     },
     {
       "type": "movie",
@@ -2826,8 +2822,8 @@
       "id": "movie_098",
       "addedAt": "2026-04-12T03:51:07.437Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 33
+      "atlas": "A",
+      "gridIndex": 97
     },
     {
       "type": "movie",
@@ -2855,8 +2851,8 @@
       "id": "movie_099",
       "addedAt": "2026-04-14T02:48:57.060Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 56
+      "atlas": "A",
+      "gridIndex": 98
     },
     {
       "type": "movie",
@@ -2887,8 +2883,8 @@
       "id": "movie_100",
       "addedAt": "2026-04-15T19:17:03.699Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 75
+      "atlas": "A",
+      "gridIndex": 99
     },
     {
       "type": "movie",
@@ -2916,8 +2912,8 @@
       "id": "movie_101",
       "addedAt": "2026-04-15T19:21:59.190Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 76
+      "atlas": "A",
+      "gridIndex": 100
     },
     {
       "type": "movie",
@@ -2945,8 +2941,8 @@
       "id": "movie_102",
       "addedAt": "2026-04-15T19:26:43.835Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 77
+      "atlas": "A",
+      "gridIndex": 101
     },
     {
       "type": "movie",
@@ -2973,8 +2969,8 @@
       "id": "movie_103",
       "addedAt": "2026-04-16T20:34:56.147Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 79
+      "atlas": "A",
+      "gridIndex": 102
     },
     {
       "type": "movie",
@@ -3002,8 +2998,8 @@
       "id": "movie_104",
       "addedAt": "2026-04-16T21:01:31.502Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 80
+      "atlas": "A",
+      "gridIndex": 103
     },
     {
       "type": "movie",
@@ -3031,8 +3027,8 @@
       "id": "movie_105",
       "addedAt": "2026-04-16T21:09:56.437Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 81
+      "atlas": "A",
+      "gridIndex": 104
     },
     {
       "type": "movie",
@@ -3060,8 +3056,8 @@
       "id": "movie_106",
       "addedAt": "2026-04-16T21:13:12.199Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 82
+      "atlas": "A",
+      "gridIndex": 105
     },
     {
       "type": "movie",
@@ -3088,8 +3084,8 @@
       "id": "movie_107",
       "addedAt": "2026-04-16T21:16:29.283Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 83
+      "atlas": "A",
+      "gridIndex": 106
     },
     {
       "type": "movie",
@@ -3117,8 +3113,8 @@
       "id": "movie_108",
       "addedAt": "2026-04-16T21:23:30.922Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 84
+      "atlas": "A",
+      "gridIndex": 107
     },
     {
       "type": "movie",
@@ -3145,8 +3141,8 @@
       "id": "movie_109",
       "addedAt": "2026-04-16T21:29:56.848Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 85
+      "atlas": "A",
+      "gridIndex": 108
     },
     {
       "type": "movie",
@@ -3173,8 +3169,8 @@
       "id": "movie_110",
       "addedAt": "2026-04-16T21:38:50.366Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 86
+      "atlas": "A",
+      "gridIndex": 109
     },
     {
       "type": "movie",
@@ -3202,8 +3198,8 @@
       "id": "movie_111",
       "addedAt": "2026-04-16T21:42:30.200Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 87
+      "atlas": "A",
+      "gridIndex": 110
     },
     {
       "type": "movie",
@@ -3231,8 +3227,8 @@
       "id": "movie_112",
       "addedAt": "2026-04-16T22:02:09.067Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 88
+      "atlas": "A",
+      "gridIndex": 111
     },
     {
       "type": "movie",
@@ -3260,8 +3256,8 @@
       "id": "movie_113",
       "addedAt": "2026-04-16T22:05:33.010Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 89
+      "atlas": "A",
+      "gridIndex": 112
     },
     {
       "type": "movie",
@@ -3289,8 +3285,8 @@
       "id": "movie_114",
       "addedAt": "2026-04-16T22:08:18.684Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 90
+      "atlas": "A",
+      "gridIndex": 113
     },
     {
       "type": "movie",
@@ -3317,8 +3313,8 @@
       "id": "movie_115",
       "addedAt": "2026-04-16T22:18:14.075Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 91
+      "atlas": "A",
+      "gridIndex": 114
     },
     {
       "type": "movie",
@@ -3347,8 +3343,8 @@
       "id": "movie_116",
       "addedAt": "2026-04-16T22:20:40.017Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 92
+      "atlas": "A",
+      "gridIndex": 115
     },
     {
       "type": "movie",
@@ -3375,8 +3371,8 @@
       "id": "movie_117",
       "addedAt": "2026-04-16T22:25:29.182Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 93
+      "atlas": "A",
+      "gridIndex": 116
     },
     {
       "type": "movie",
@@ -3404,8 +3400,8 @@
       "id": "movie_118",
       "addedAt": "2026-04-16T22:30:21.855Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 94
+      "atlas": "A",
+      "gridIndex": 117
     },
     {
       "type": "movie",
@@ -3433,8 +3429,8 @@
       "id": "movie_119",
       "addedAt": "2026-04-16T22:35:10.700Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 95
+      "atlas": "A",
+      "gridIndex": 118
     },
     {
       "type": "movie",
@@ -3456,14 +3452,14 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/f23d456f-51ac-4eda-9fb2-7623faa96edc/playlist.m3u8",
+        "default": "https://vz-e5546235-a7a.b-cdn.net/cb422e75-2672-49ea-afbe-1cf940146dd2/playlist.m3u8",
         "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/cb422e75-2672-49ea-afbe-1cf940146dd2/playlist.m3u8"
       },
       "id": "movie_120",
       "addedAt": "2026-04-16T22:37:12.369Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 96
+      "atlas": "A",
+      "gridIndex": 119
     },
     {
       "type": "movie",
@@ -3489,8 +3485,8 @@
       "id": "movie_121",
       "addedAt": "2026-04-16T22:39:11.063Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 97
+      "atlas": "A",
+      "gridIndex": 120
     },
     {
       "type": "movie",
@@ -3517,8 +3513,8 @@
       "id": "movie_122",
       "addedAt": "2026-04-16T22:41:44.646Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 98
+      "atlas": "A",
+      "gridIndex": 121
     },
     {
       "type": "movie",
@@ -3546,8 +3542,8 @@
       "id": "movie_123",
       "addedAt": "2026-04-16T22:42:58.847Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 99
+      "atlas": "A",
+      "gridIndex": 122
     },
     {
       "type": "movie",
@@ -3575,8 +3571,8 @@
       "id": "movie_124",
       "addedAt": "2026-04-16T23:02:09.214Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 100
+      "atlas": "A",
+      "gridIndex": 123
     },
     {
       "type": "movie",
@@ -3604,8 +3600,8 @@
       "id": "movie_125",
       "addedAt": "2026-04-16T23:04:50.155Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 101
+      "atlas": "A",
+      "gridIndex": 124
     },
     {
       "type": "movie",
@@ -3633,8 +3629,8 @@
       "id": "movie_126",
       "addedAt": "2026-04-16T23:07:27.618Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 102
+      "atlas": "A",
+      "gridIndex": 125
     },
     {
       "type": "movie",
@@ -3663,8 +3659,8 @@
       "id": "movie_127",
       "addedAt": "2026-04-17T20:50:36.999Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 104
+      "atlas": "A",
+      "gridIndex": 126
     },
     {
       "type": "movie",
@@ -3692,8 +3688,8 @@
       "id": "movie_128",
       "addedAt": "2026-04-17T20:53:42.594Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 105
+      "atlas": "A",
+      "gridIndex": 127
     },
     {
       "type": "movie",
@@ -3722,7 +3718,7 @@
       "addedAt": "2026-04-19T01:52:47.884Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 109
+      "gridIndex": 0
     },
     {
       "type": "movie",
@@ -3750,7 +3746,7 @@
       "addedAt": "2026-04-19T01:54:53.335Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 110
+      "gridIndex": 1
     },
     {
       "type": "movie",
@@ -3780,7 +3776,7 @@
       "addedAt": "2026-04-19T01:56:34.296Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 111
+      "gridIndex": 2
     },
     {
       "type": "movie",
@@ -3805,7 +3801,7 @@
       "addedAt": "2026-04-19T01:58:20.630Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 112
+      "gridIndex": 3
     },
     {
       "type": "movie",
@@ -3833,7 +3829,7 @@
       "addedAt": "2026-04-19T02:00:39.622Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 113
+      "gridIndex": 4
     },
     {
       "type": "movie",
@@ -3861,7 +3857,7 @@
       "addedAt": "2026-04-19T10:11:49.497Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 114
+      "gridIndex": 5
     },
     {
       "type": "movie",
@@ -3890,7 +3886,7 @@
       "addedAt": "2026-04-19T23:08:30.216Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 116
+      "gridIndex": 6
     },
     {
       "type": "movie",
@@ -3919,7 +3915,7 @@
       "addedAt": "2026-04-19T23:12:48.460Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 117
+      "gridIndex": 7
     },
     {
       "type": "movie",
@@ -3947,7 +3943,7 @@
       "addedAt": "2026-04-19T23:23:11.534Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 118
+      "gridIndex": 8
     },
     {
       "type": "movie",
@@ -3975,7 +3971,7 @@
       "addedAt": "2026-04-19T23:26:14.916Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 119
+      "gridIndex": 9
     },
     {
       "type": "movie",
@@ -4005,7 +4001,7 @@
       "addedAt": "2026-04-19T23:28:41.420Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 120
+      "gridIndex": 10
     },
     {
       "type": "movie",
@@ -4035,7 +4031,7 @@
       "addedAt": "2026-04-20T00:18:17.552Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 121
+      "gridIndex": 11
     },
     {
       "type": "movie",
@@ -4065,7 +4061,7 @@
       "addedAt": "2026-04-20T00:20:28.901Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 122
+      "gridIndex": 12
     },
     {
       "type": "movie",
@@ -4094,7 +4090,7 @@
       "addedAt": "2026-04-20T00:22:14.955Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 123
+      "gridIndex": 13
     },
     {
       "type": "movie",
@@ -4124,7 +4120,7 @@
       "addedAt": "2026-04-20T00:24:43.966Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 124
+      "gridIndex": 14
     },
     {
       "type": "movie",
@@ -4155,7 +4151,7 @@
       "addedAt": "2026-04-22T00:12:16.640Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 125
+      "gridIndex": 15
     },
     {
       "type": "movie",
@@ -4185,7 +4181,7 @@
       "addedAt": "2026-04-22T00:14:43.421Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 126
+      "gridIndex": 16
     },
     {
       "type": "movie",
@@ -4215,7 +4211,7 @@
       "addedAt": "2026-04-22T00:17:28.184Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 127
+      "gridIndex": 17
     },
     {
       "type": "movie",
@@ -4244,8 +4240,8 @@
       "id": "movie_147",
       "addedAt": "2026-04-22T00:19:42.338Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 0
+      "atlas": "B",
+      "gridIndex": 18
     },
     {
       "type": "movie",
@@ -4274,8 +4270,8 @@
       "id": "movie_148",
       "addedAt": "2026-04-22T00:21:13.267Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 1
+      "atlas": "B",
+      "gridIndex": 19
     },
     {
       "type": "movie",
@@ -4305,8 +4301,8 @@
       "id": "movie_149",
       "addedAt": "2026-04-22T00:23:01.121Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 2
+      "atlas": "B",
+      "gridIndex": 20
     },
     {
       "type": "movie",
@@ -4337,8 +4333,8 @@
       "id": "movie_150",
       "addedAt": "2026-04-22T00:28:14.865Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 3
+      "atlas": "B",
+      "gridIndex": 21
     },
     {
       "type": "movie",
@@ -4366,8 +4362,8 @@
       "id": "movie_151",
       "addedAt": "2026-04-22T00:30:28.915Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 4
+      "atlas": "B",
+      "gridIndex": 22
     },
     {
       "type": "movie",
@@ -4397,8 +4393,8 @@
       "id": "movie_152",
       "addedAt": "2026-04-22T00:32:42.089Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 5
+      "atlas": "B",
+      "gridIndex": 23
     },
     {
       "type": "movie",
@@ -4426,8 +4422,8 @@
       "id": "movie_153",
       "addedAt": "2026-04-23T02:28:44.923Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 4
+      "atlas": "B",
+      "gridIndex": 24
     },
     {
       "type": "movie",
@@ -4455,8 +4451,8 @@
       "id": "movie_154",
       "addedAt": "2026-04-23T02:30:40.804Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 5
+      "atlas": "B",
+      "gridIndex": 25
     },
     {
       "type": "movie",
@@ -4485,8 +4481,8 @@
       "id": "movie_155",
       "addedAt": "2026-04-23T02:33:02.839Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 6
+      "atlas": "B",
+      "gridIndex": 26
     },
     {
       "type": "movie",
@@ -4515,8 +4511,8 @@
       "id": "movie_156",
       "addedAt": "2026-04-23T02:35:51.960Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 7
+      "atlas": "B",
+      "gridIndex": 27
     },
     {
       "type": "movie",
@@ -4546,8 +4542,8 @@
       "id": "movie_157",
       "addedAt": "2026-04-23T02:37:40.842Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 8
+      "atlas": "B",
+      "gridIndex": 28
     },
     {
       "type": "movie",
@@ -4576,8 +4572,8 @@
       "id": "movie_158",
       "addedAt": "2026-04-23T02:40:23.433Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 9
+      "atlas": "B",
+      "gridIndex": 29
     },
     {
       "type": "movie",
@@ -4606,8 +4602,8 @@
       "id": "movie_159",
       "addedAt": "2026-04-23T02:42:17.775Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 10
+      "atlas": "B",
+      "gridIndex": 30
     },
     {
       "type": "movie",
@@ -4635,8 +4631,8 @@
       "id": "movie_160",
       "addedAt": "2026-04-23T02:45:09.479Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 11
+      "atlas": "B",
+      "gridIndex": 31
     },
     {
       "type": "movie",
@@ -4665,8 +4661,8 @@
       "id": "movie_161",
       "addedAt": "2026-04-23T02:47:08.360Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 12
+      "atlas": "B",
+      "gridIndex": 32
     },
     {
       "type": "movie",
@@ -4694,8 +4690,8 @@
       "id": "movie_162",
       "addedAt": "2026-04-23T02:49:42.894Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 13
+      "atlas": "B",
+      "gridIndex": 33
     },
     {
       "type": "movie",
@@ -4724,8 +4720,8 @@
       "id": "movie_163",
       "addedAt": "2026-04-23T02:51:52.125Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 14
+      "atlas": "B",
+      "gridIndex": 34
     },
     {
       "type": "movie",
@@ -4753,126 +4749,8 @@
       "id": "movie_164",
       "addedAt": "2026-04-23T02:54:10.947Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 15
-    },
-    {
-      "type": "movie",
-      "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet",
-      "description": "Benjamin Barker regresa a Londres bajo una nueva identidad: Sweeney Todd, un barbero marcado por un pasado trágico. Buscando venganza contra quienes destruyeron su vida, inicia un oscuro plan que lo lleva a cometer actos cada vez más extremos, con la ayuda de una peculiar aliada.",
-      "duration": "",
-      "rating": "R",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2007,
-      "releaseDate": "2026-04-26",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/acb969c1-26d5-4441-8537-ee2ca9a0d547/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/acb969c1-26d5-4441-8537-ee2ca9a0d547/playlist.m3u8"
-      },
-      "id": "movie_165",
-      "addedAt": "2026-04-26T00:47:49.300Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 17
-    },
-    {
-      "type": "movie",
-      "title": "La Terminal",
-      "description": "Viktor Navorski llega a Nueva York, pero debido a un conflicto político en su país, queda atrapado en el aeropuerto sin poder entrar a Estados Unidos ni regresar a casa. Mientras espera una solución, aprende a adaptarse a la vida dentro de la terminal y forma inesperadas amistades.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2004,
-      "releaseDate": "2026-04-26",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/f790350f-e37a-4f57-a7f2-5d73b5ff9bbc/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f790350f-e37a-4f57-a7f2-5d73b5ff9bbc/playlist.m3u8"
-      },
-      "id": "movie_166",
-      "addedAt": "2026-04-26T00:50:10.941Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 18
-    },
-    {
-      "type": "movie",
-      "title": "El Zorro y el Sabueso",
-      "description": "Tod, un zorro huérfano, y Copper, un cachorro de sabueso, desarrollan una amistad sincera durante su infancia. Sin embargo, al crecer, sus naturalezas opuestas y las expectativas de sus dueños los obligan a enfrentarse a una realidad que pone a prueba su vínculo.",
-      "duration": "",
-      "rating": "G",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 1981,
-      "releaseDate": "2026-04-26",
-      "genres": [
-        "Drama",
-        "Animation",
-        "Adventure",
-        "Family"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/9c4d4e72-9286-4630-810c-5fde676936a5/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9c4d4e72-9286-4630-810c-5fde676936a5/playlist.m3u8"
-      },
-      "id": "movie_168",
-      "addedAt": "2026-04-26T00:55:54.028Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 20
-    },
-    {
-      "type": "movie",
-      "title": "La Hermanastra Fea",
-      "description": "Una reinterpretación oscura del clásico cuento de Cenicienta, contada desde la perspectiva de una de las hermanastras. La historia explora sus inseguridades, rivalidades y el deseo de encajar en un mundo obsesionado con la belleza.",
-      "duration": "",
-      "rating": "R",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2002,
-      "releaseDate": "2026-04-26",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Comedy"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/ddcf6c8a-4cbb-4091-8f65-bca0d200b161/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ddcf6c8a-4cbb-4091-8f65-bca0d200b161/playlist.m3u8"
-      },
-      "id": "movie_169",
-      "addedAt": "2026-04-26T01:03:45.344Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 21
+      "atlas": "B",
+      "gridIndex": 35
     }
   ],
   "series": [
@@ -4901,8 +4779,8 @@
       "id": "series_001",
       "addedAt": "2026-04-01T00:03:43.617Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 86,
+      "atlas": "B",
+      "gridIndex": 36,
       "episodes": [
         {
           "id": "s01e01",
@@ -4984,8 +4862,8 @@
       "id": "series_002",
       "addedAt": "2026-04-01T02:28:47.687Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 87,
+      "atlas": "B",
+      "gridIndex": 37,
       "episodes": [
         {
           "id": "s01e01",
@@ -5038,8 +4916,8 @@
       "id": "series_003",
       "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 88,
+      "atlas": "B",
+      "gridIndex": 38,
       "episodes": [
         {
           "id": "s01e01",
@@ -5209,8 +5087,8 @@
       "id": "series_004",
       "addedAt": "2026-04-01T02:58:55.742Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 89,
+      "atlas": "B",
+      "gridIndex": 39,
       "episodes": [
         {
           "id": "s02e01",
@@ -5461,8 +5339,8 @@
       "id": "series_005",
       "addedAt": "2026-04-01T02:58:56.862Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 90,
+      "atlas": "B",
+      "gridIndex": 40,
       "episodes": [
         {
           "id": "s03e01",
@@ -5686,8 +5564,8 @@
       "id": "series_006",
       "addedAt": "2026-04-01T02:59:13.029Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 91,
+      "atlas": "B",
+      "gridIndex": 41,
       "episodes": [
         {
           "id": "s04e01",
@@ -5911,8 +5789,8 @@
       "id": "series_007",
       "addedAt": "2026-04-01T02:59:15.444Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 92,
+      "atlas": "B",
+      "gridIndex": 42,
       "episodes": [
         {
           "id": "s05e01",
@@ -6136,8 +6014,8 @@
       "id": "series_008",
       "addedAt": "2026-04-01T02:59:16.481Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 93,
+      "atlas": "B",
+      "gridIndex": 43,
       "episodes": [
         {
           "id": "s06e01",
@@ -6361,8 +6239,8 @@
       "id": "series_009",
       "addedAt": "2026-04-01T02:59:17.767Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 94,
+      "atlas": "B",
+      "gridIndex": 44,
       "episodes": [
         {
           "id": "s07e01",
@@ -6599,8 +6477,8 @@
       "id": "series_010",
       "addedAt": "2026-04-01T03:09:04.139Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 95,
+      "atlas": "B",
+      "gridIndex": 45,
       "episodes": [
         {
           "id": "s01e01",
@@ -6704,8 +6582,8 @@
       "id": "series_011",
       "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 96,
+      "atlas": "B",
+      "gridIndex": 46,
       "episodes": [
         {
           "id": "s03e01",
@@ -6854,8 +6732,8 @@
       "id": "series_012",
       "addedAt": "2026-04-01T03:13:49.559Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 97,
+      "atlas": "B",
+      "gridIndex": 47,
       "episodes": [
         {
           "id": "s05e01",
@@ -7004,8 +6882,8 @@
       "id": "series_013",
       "addedAt": "2026-04-01T03:13:50.760Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 98,
+      "atlas": "B",
+      "gridIndex": 48,
       "episodes": [
         {
           "id": "s01e01",
@@ -7154,8 +7032,8 @@
       "id": "series_014",
       "addedAt": "2026-04-01T03:13:51.737Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 99,
+      "atlas": "B",
+      "gridIndex": 49,
       "episodes": [
         {
           "id": "s02e01",
@@ -7295,8 +7173,8 @@
       "id": "series_015",
       "addedAt": "2026-04-01T03:13:53.891Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 100,
+      "atlas": "B",
+      "gridIndex": 50,
       "episodes": [
         {
           "id": "s04e01",
@@ -7446,8 +7324,8 @@
       "id": "series_016",
       "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 101,
+      "atlas": "B",
+      "gridIndex": 51,
       "episodes": [
         {
           "id": "s01e01",
@@ -7769,8 +7647,8 @@
       "id": "series_017",
       "addedAt": "2026-04-01T03:23:23.457Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 102,
+      "atlas": "B",
+      "gridIndex": 52,
       "episodes": [
         {
           "id": "s01e01",
@@ -7822,8 +7700,8 @@
       "id": "series_018",
       "addedAt": "2026-04-01T03:23:26.102Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 103,
+      "atlas": "B",
+      "gridIndex": 53,
       "episodes": [
         {
           "id": "s02e01",
@@ -7955,8 +7833,8 @@
       "id": "series_019",
       "addedAt": "2026-04-01T03:23:26.936Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 104,
+      "atlas": "B",
+      "gridIndex": 54,
       "episodes": [
         {
           "id": "s03e01",
@@ -8081,8 +7959,8 @@
       "id": "series_020",
       "addedAt": "2026-04-01T03:30:15.960Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 105,
+      "atlas": "B",
+      "gridIndex": 55,
       "episodes": [
         {
           "id": "s01e01",
@@ -8288,8 +8166,8 @@
       "id": "series_021",
       "addedAt": "2026-04-01T03:30:31.942Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 106,
+      "atlas": "B",
+      "gridIndex": 56,
       "episodes": [
         {
           "id": "s02e01",
@@ -8340,8 +8218,8 @@
       "id": "series_022",
       "addedAt": "2026-04-01T03:32:26.792Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 107,
+      "atlas": "B",
+      "gridIndex": 57,
       "episodes": [
         {
           "id": "s01e01",
@@ -8494,8 +8372,8 @@
       "id": "series_023",
       "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 110,
+      "atlas": "B",
+      "gridIndex": 58,
       "episodes": [
         {
           "id": "s01e01",
@@ -8702,8 +8580,8 @@
       "id": "series_024",
       "addedAt": "2026-04-01T03:37:50.167Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 111,
+      "atlas": "B",
+      "gridIndex": 59,
       "episodes": [
         {
           "id": "s02e01",
@@ -8910,8 +8788,8 @@
       "id": "series_025",
       "addedAt": "2026-04-01T03:37:52.173Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 112,
+      "atlas": "B",
+      "gridIndex": 60,
       "episodes": [
         {
           "id": "s03e01",
@@ -9111,8 +8989,8 @@
       "id": "series_026",
       "addedAt": "2026-04-06T08:20:06.980Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 113,
+      "atlas": "B",
+      "gridIndex": 61,
       "episodes": [
         {
           "id": "s01e01",
@@ -9246,8 +9124,8 @@
       "id": "series_027",
       "addedAt": "2026-04-08T20:51:20.823Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 114,
+      "atlas": "B",
+      "gridIndex": 62,
       "episodes": [
         {
           "id": "s01e01",
@@ -9469,8 +9347,8 @@
       "id": "series_028",
       "addedAt": "2026-04-09T14:49:36.765Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 115
+      "atlas": "B",
+      "gridIndex": 63
     },
     {
       "type": "series",
@@ -9558,8 +9436,8 @@
       "id": "series_029",
       "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 116
+      "atlas": "B",
+      "gridIndex": 64
     },
     {
       "type": "series",
@@ -9701,8 +9579,8 @@
       "id": "series_030",
       "addedAt": "2026-04-10T02:53:19.223Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 117
+      "atlas": "B",
+      "gridIndex": 65
     },
     {
       "type": "series",
@@ -9844,8 +9722,8 @@
       "id": "series_031",
       "addedAt": "2026-04-10T02:54:07.187Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 118
+      "atlas": "B",
+      "gridIndex": 66
     },
     {
       "type": "series",
@@ -9987,8 +9865,8 @@
       "id": "series_032",
       "addedAt": "2026-04-10T02:55:45.859Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 119
+      "atlas": "B",
+      "gridIndex": 67
     },
     {
       "type": "series",
@@ -10157,8 +10035,8 @@
       "id": "series_033",
       "addedAt": "2026-04-10T02:56:35.887Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 120
+      "atlas": "B",
+      "gridIndex": 68
     },
     {
       "type": "series",
@@ -10418,8 +10296,8 @@
       "id": "series_034",
       "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 121
+      "atlas": "B",
+      "gridIndex": 69
     },
     {
       "type": "series",
@@ -10678,8 +10556,8 @@
       "id": "series_035",
       "addedAt": "2026-04-10T03:00:49.702Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 122
+      "atlas": "B",
+      "gridIndex": 70
     },
     {
       "type": "series",
@@ -10938,8 +10816,8 @@
       "id": "series_036",
       "addedAt": "2026-04-10T03:01:38.558Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 123
+      "atlas": "B",
+      "gridIndex": 71
     },
     {
       "type": "series",
@@ -10970,8 +10848,8 @@
       "id": "series_037",
       "addedAt": "2026-04-10T03:02:29.425Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 124
+      "atlas": "B",
+      "gridIndex": 72
     },
     {
       "type": "series",
@@ -11464,8 +11342,8 @@
       "id": "series_038",
       "addedAt": "2026-04-10T03:03:08.749Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 125
+      "atlas": "B",
+      "gridIndex": 73
     },
     {
       "type": "series",
@@ -11877,8 +11755,8 @@
       "id": "series_039",
       "addedAt": "2026-04-10T03:05:34.210Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 126
+      "atlas": "B",
+      "gridIndex": 74
     },
     {
       "type": "series",
@@ -12137,8 +12015,8 @@
       "id": "series_040",
       "addedAt": "2026-04-10T03:07:10.767Z",
       "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 127
+      "atlas": "B",
+      "gridIndex": 75
     },
     {
       "type": "series",
@@ -12407,7 +12285,7 @@
       "addedAt": "2026-04-10T03:09:09.608Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 0
+      "gridIndex": 76
     },
     {
       "type": "series",
@@ -12559,7 +12437,7 @@
       "addedAt": "2026-04-10T03:10:00.726Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 1
+      "gridIndex": 77
     },
     {
       "type": "series",
@@ -12956,7 +12834,7 @@
       "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 2
+      "gridIndex": 78
     },
     {
       "type": "series",
@@ -13164,7 +13042,7 @@
       "addedAt": "2026-04-10T03:14:50.061Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 3
+      "gridIndex": 79
     },
     {
       "type": "series",
@@ -13372,7 +13250,7 @@
       "addedAt": "2026-04-10T03:15:57.996Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 4
+      "gridIndex": 80
     },
     {
       "type": "series",
@@ -13598,7 +13476,7 @@
       "addedAt": "2026-04-10T03:17:16.179Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 5
+      "gridIndex": 81
     },
     {
       "type": "series",
@@ -13738,7 +13616,7 @@
       "addedAt": "2026-04-10T03:19:12.875Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 6
+      "gridIndex": 82
     },
     {
       "type": "series",
@@ -13750,12 +13628,7 @@
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-04-10",
-      "genres": [
-        "Animation",
-        "Action",
-        "Drama",
-        "Sci-Fi"
-      ],
+      "genres": [],
       "languages": [
         "language_Spanish"
       ],
@@ -13766,64 +13639,8 @@
           "title": "Capítulo 1",
           "slotId": "ep_839",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9ccac2ed-0210-4e41-ae49-2132cf3e0ab7/playlist.m3u8",
-            "default": ""
-          }
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2200",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/55a5b61d-5308-4a85-bc5f-d8d117e7485e/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2201",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3f4cf29d-10a3-4314-86a1-c0cfc225a4ec/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2202",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ef0732ae-25d7-4ea3-a41d-775b7f6bb140/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2203",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b7ef1efa-3bb9-404f-be3d-fcbb432913a3/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2204",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9e96e3bc-5e93-42aa-80a8-581cd1638c93/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2205",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d29b443d-1cb6-4da0-95fd-9c05cc8d354e/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2206",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/78971db9-2b2d-4fd1-a251-1b9b830a4efa/playlist.m3u8"
+            "language_Spanish": "",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/32c44950-73d9-47af-af12-7c043f58ff63/playlist.m3u8"
           }
         }
       ],
@@ -13831,7 +13648,7 @@
       "addedAt": "2026-04-10T03:21:11.790Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 7
+      "gridIndex": 83
     },
     {
       "type": "series",
@@ -14034,7 +13851,7 @@
       "addedAt": "2026-04-10T19:15:21.474Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 9
+      "gridIndex": 84
     },
     {
       "type": "series",
@@ -14147,7 +13964,7 @@
       "addedAt": "2026-04-10T19:31:43.761Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 10
+      "gridIndex": 85
     },
     {
       "type": "series",
@@ -14809,7 +14626,7 @@
       "addedAt": "2026-04-10T23:50:35.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 12
+      "gridIndex": 86
     },
     {
       "type": "series",
@@ -14871,7 +14688,7 @@
       "addedAt": "2026-04-11T20:25:35.373Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 13
+      "gridIndex": 87
     },
     {
       "type": "series",
@@ -15281,7 +15098,7 @@
       "addedAt": "2026-04-11T20:57:35.313Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 16
+      "gridIndex": 88
     },
     {
       "type": "series",
@@ -15420,7 +15237,7 @@
       "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 25
+      "gridIndex": 89
     },
     {
       "type": "series",
@@ -15703,7 +15520,7 @@
       "addedAt": "2026-04-12T00:38:18.268Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 26
+      "gridIndex": 90
     },
     {
       "type": "series",
@@ -16096,7 +15913,7 @@
       "addedAt": "2026-04-12T00:42:12.628Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 27
+      "gridIndex": 91
     },
     {
       "type": "series",
@@ -16461,7 +16278,7 @@
       "addedAt": "2026-04-12T00:49:18.178Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 28
+      "gridIndex": 92
     },
     {
       "type": "series",
@@ -16745,7 +16562,7 @@
       "addedAt": "2026-04-12T00:52:07.308Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 29
+      "gridIndex": 93
     },
     {
       "type": "series",
@@ -17127,7 +16944,7 @@
       "addedAt": "2026-04-12T01:25:01.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 30
+      "gridIndex": 94
     },
     {
       "type": "series",
@@ -17385,7 +17202,7 @@
       "addedAt": "2026-04-12T01:28:40.393Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 31
+      "gridIndex": 95
     },
     {
       "type": "series",
@@ -17773,7 +17590,7 @@
       "addedAt": "2026-04-12T02:20:15.469Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 32
+      "gridIndex": 96
     },
     {
       "type": "series",
@@ -17899,7 +17716,7 @@
       "addedAt": "2026-04-13T18:35:31.168Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 34
+      "gridIndex": 97
     },
     {
       "type": "series",
@@ -18043,7 +17860,7 @@
       "addedAt": "2026-04-13T18:42:43.104Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 35
+      "gridIndex": 98
     },
     {
       "type": "series",
@@ -18142,7 +17959,7 @@
       "addedAt": "2026-04-13T18:57:54.870Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 36
+      "gridIndex": 99
     },
     {
       "type": "series",
@@ -18251,7 +18068,7 @@
       "addedAt": "2026-04-13T19:01:57.615Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 37
+      "gridIndex": 100
     },
     {
       "type": "series",
@@ -18340,7 +18157,7 @@
       "addedAt": "2026-04-13T19:23:53.440Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 38
+      "gridIndex": 101
     },
     {
       "type": "series",
@@ -18501,7 +18318,7 @@
       "addedAt": "2026-04-13T19:27:56.396Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 39
+      "gridIndex": 102
     },
     {
       "type": "series",
@@ -18653,7 +18470,7 @@
       "addedAt": "2026-04-13T19:40:08.567Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 40
+      "gridIndex": 103
     },
     {
       "type": "series",
@@ -18788,7 +18605,7 @@
       "addedAt": "2026-04-13T19:46:55.345Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 41
+      "gridIndex": 104
     },
     {
       "type": "series",
@@ -19480,7 +19297,7 @@
       "addedAt": "2026-04-13T20:17:13.981Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 42
+      "gridIndex": 105
     },
     {
       "type": "series",
@@ -19704,7 +19521,7 @@
       "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 43
+      "gridIndex": 106
     },
     {
       "type": "series",
@@ -19928,7 +19745,7 @@
       "addedAt": "2026-04-13T20:28:40.014Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 44
+      "gridIndex": 107
     },
     {
       "type": "series",
@@ -20134,7 +19951,7 @@
       "addedAt": "2026-04-13T20:33:59.728Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 45
+      "gridIndex": 108
     },
     {
       "type": "series",
@@ -20376,7 +20193,7 @@
       "addedAt": "2026-04-13T20:37:58.691Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 46
+      "gridIndex": 109
     },
     {
       "type": "series",
@@ -20618,7 +20435,7 @@
       "addedAt": "2026-04-13T20:43:34.588Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 47
+      "gridIndex": 110
     },
     {
       "type": "series",
@@ -20860,7 +20677,7 @@
       "addedAt": "2026-04-13T20:47:30.712Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 48
+      "gridIndex": 111
     },
     {
       "type": "series",
@@ -21102,7 +20919,7 @@
       "addedAt": "2026-04-13T20:51:30.723Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 49
+      "gridIndex": 112
     },
     {
       "type": "series",
@@ -21344,7 +21161,7 @@
       "addedAt": "2026-04-13T20:57:55.550Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 50
+      "gridIndex": 113
     },
     {
       "type": "series",
@@ -21586,7 +21403,7 @@
       "addedAt": "2026-04-13T21:02:17.514Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 51
+      "gridIndex": 114
     },
     {
       "type": "series",
@@ -21794,7 +21611,7 @@
       "addedAt": "2026-04-13T21:07:48.159Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 52
+      "gridIndex": 115
     },
     {
       "type": "series",
@@ -21975,7 +21792,7 @@
       "addedAt": "2026-04-13T21:10:27.045Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 53
+      "gridIndex": 116
     },
     {
       "type": "series",
@@ -22111,7 +21928,7 @@
       "addedAt": "2026-04-13T21:13:46.305Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 54
+      "gridIndex": 117
     },
     {
       "type": "series",
@@ -22229,7 +22046,7 @@
       "addedAt": "2026-04-13T21:25:46.461Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 55
+      "gridIndex": 118
     },
     {
       "type": "series",
@@ -22369,7 +22186,7 @@
       "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 57
+      "gridIndex": 119
     },
     {
       "type": "series",
@@ -22513,7 +22330,7 @@
       "addedAt": "2026-04-14T03:19:55.351Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 58
+      "gridIndex": 120
     },
     {
       "type": "series",
@@ -22657,7 +22474,7 @@
       "addedAt": "2026-04-14T03:25:22.071Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 59
+      "gridIndex": 121
     },
     {
       "type": "series",
@@ -22801,7 +22618,7 @@
       "addedAt": "2026-04-14T03:28:14.644Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 60
+      "gridIndex": 122
     },
     {
       "type": "series",
@@ -22945,7 +22762,7 @@
       "addedAt": "2026-04-14T03:31:27.477Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 61
+      "gridIndex": 123
     },
     {
       "type": "series",
@@ -23223,7 +23040,7 @@
       "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 62
+      "gridIndex": 124
     },
     {
       "type": "series",
@@ -23492,7 +23309,7 @@
       "addedAt": "2026-04-14T03:45:09.859Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 63
+      "gridIndex": 125
     },
     {
       "type": "series",
@@ -23672,7 +23489,7 @@
       "addedAt": "2026-04-14T03:57:13.234Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 64
+      "gridIndex": 126
     },
     {
       "type": "series",
@@ -23933,7 +23750,7 @@
       "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 65
+      "gridIndex": 127
     },
     {
       "type": "series",
@@ -24193,8 +24010,8 @@
       "id": "series_093",
       "addedAt": "2026-04-14T18:24:03.582Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 66
+      "atlas": "C",
+      "gridIndex": 0
     },
     {
       "type": "series",
@@ -24454,8 +24271,8 @@
       "id": "series_094",
       "addedAt": "2026-04-14T18:27:23.465Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 67
+      "atlas": "C",
+      "gridIndex": 1
     },
     {
       "type": "series",
@@ -24697,8 +24514,8 @@
       "id": "series_095",
       "addedAt": "2026-04-14T18:31:20.189Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 68
+      "atlas": "C",
+      "gridIndex": 2
     },
     {
       "type": "series",
@@ -24927,8 +24744,8 @@
       "id": "series_096",
       "addedAt": "2026-04-14T18:38:25.691Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 69
+      "atlas": "C",
+      "gridIndex": 3
     },
     {
       "type": "series",
@@ -24963,8 +24780,8 @@
       "id": "series_097",
       "addedAt": "2026-04-14T18:44:06.933Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 70
+      "atlas": "C",
+      "gridIndex": 4
     },
     {
       "type": "series",
@@ -25031,8 +24848,8 @@
       "id": "series_098",
       "addedAt": "2026-04-14T18:46:08.256Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 71
+      "atlas": "C",
+      "gridIndex": 5
     },
     {
       "type": "series",
@@ -25239,8 +25056,8 @@
       "id": "series_099",
       "addedAt": "2026-04-14T19:55:09.179Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 72
+      "atlas": "C",
+      "gridIndex": 6
     },
     {
       "type": "series",
@@ -25447,8 +25264,8 @@
       "id": "series_100",
       "addedAt": "2026-04-14T19:59:46.922Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 73
+      "atlas": "C",
+      "gridIndex": 7
     },
     {
       "type": "series",
@@ -25598,8 +25415,8 @@
       "id": "series_101",
       "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 74
+      "atlas": "C",
+      "gridIndex": 8
     },
     {
       "type": "series",
@@ -25706,8 +25523,8 @@
       "id": "series_102",
       "addedAt": "2026-04-16T02:16:18.334Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 78
+      "atlas": "C",
+      "gridIndex": 9
     },
     {
       "type": "series",
@@ -25851,8 +25668,8 @@
       "id": "series_104",
       "addedAt": "2026-04-17T21:01:11.479Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 106
+      "atlas": "C",
+      "gridIndex": 10
     },
     {
       "type": "series",
@@ -26058,8 +25875,8 @@
       "id": "series_105",
       "addedAt": "2026-04-17T21:09:41.458Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 107
+      "atlas": "C",
+      "gridIndex": 11
     },
     {
       "type": "series",
@@ -26083,8 +25900,8 @@
       "id": "series_106",
       "addedAt": "2026-04-19T01:47:31.483Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 108,
+      "atlas": "C",
+      "gridIndex": 12,
       "episodes": [
         {
           "id": "s01e01",
@@ -26472,8 +26289,8 @@
       "id": "series_107",
       "addedAt": "2026-04-19T23:02:44.083Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 115
+      "atlas": "C",
+      "gridIndex": 13
     },
     {
       "type": "series",
@@ -26574,7 +26391,7 @@
       "addedAt": "2026-04-22T00:50:03.063Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 6
+      "gridIndex": 14
     },
     {
       "type": "series",
@@ -26674,343 +26491,7 @@
       "addedAt": "2026-04-23T03:01:52.255Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 16
-    },
-    {
-      "type": "series",
-      "title": "Jujutsu Kaisen T1",
-      "description": "Yuji Itadori, un estudiante con habilidades físicas extraordinarias, se ve envuelto en el mundo de las maldiciones tras ingerir un objeto maldito. Para sobrevivir, se une a una escuela de hechicería donde aprende a combatir espíritus malignos mientras enfrenta peligros cada vez mayores.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2021,
-      "releaseDate": "2026-04-25",
-      "genres": [
-        "Animation",
-        "Action",
-        "Fantasy"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2175",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/97b85267-3c99-47c2-ab52-5246a4ec73fb/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/97b85267-3c99-47c2-ab52-5246a4ec73fb/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2176",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b6f3eac1-4326-4f02-b77d-aec9d40aebca/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/b6f3eac1-4326-4f02-b77d-aec9d40aebca/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2177",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6d94be58-eb07-4b8c-9367-3ceb3fe44461/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/6d94be58-eb07-4b8c-9367-3ceb3fe44461/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2178",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5e53b65d-087c-4ed9-b02b-359214424268/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/5e53b65d-087c-4ed9-b02b-359214424268/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2179",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b5858297-2555-4a35-b8fb-70b8583ca044/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/b5858297-2555-4a35-b8fb-70b8583ca044/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2180",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/8c603d97-54fe-4eea-820d-d5fe81a0aacc/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/8c603d97-54fe-4eea-820d-d5fe81a0aacc/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2181",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/44a87d01-8620-4bcf-a0a7-5546b6458657/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/44a87d01-8620-4bcf-a0a7-5546b6458657/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2182",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/38005847-2db6-4092-b0d6-04a2e7447b34/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/38005847-2db6-4092-b0d6-04a2e7447b34/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e09",
-          "title": "Capítulo 9",
-          "slotId": "ep_2183",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/70efbf5d-9eb3-4b7c-83d5-a958fa7775da/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/70efbf5d-9eb3-4b7c-83d5-a958fa7775da/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_2184",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5017c2fe-d6db-4b4a-bc94-5e0884b0bf95/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/5017c2fe-d6db-4b4a-bc94-5e0884b0bf95/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_2185",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b4e26817-6608-4fe4-acc9-0dfe0a5b6f0a/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/b4e26817-6608-4fe4-acc9-0dfe0a5b6f0a/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_2186",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a85ec2de-c666-4080-8cf8-adffc547d1f2/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/a85ec2de-c666-4080-8cf8-adffc547d1f2/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_2187",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/03db9d8c-4f4c-4a12-9f8a-37335c05dc64/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/03db9d8c-4f4c-4a12-9f8a-37335c05dc64/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_2188",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3756056a-df3a-4958-9c67-d9f15053e93a/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/3756056a-df3a-4958-9c67-d9f15053e93a/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_2189",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/97b12b93-3711-41f8-8857-d9a60983ca94/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/97b12b93-3711-41f8-8857-d9a60983ca94/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_2190",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6a8162e3-5639-4b4b-af21-707e0857f5ae/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/6a8162e3-5639-4b4b-af21-707e0857f5ae/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_2191",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ce86e612-223a-450e-a1e9-a6141e506a86/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/ce86e612-223a-450e-a1e9-a6141e506a86/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_2192",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/71d0fd96-ed41-4980-9a61-b90a2940bb99/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/71d0fd96-ed41-4980-9a61-b90a2940bb99/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_2193",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/166e99f8-a9fd-4be1-8968-ae59b4000c8c/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/166e99f8-a9fd-4be1-8968-ae59b4000c8c/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e20",
-          "title": "Capítulo 20",
-          "slotId": "ep_2194",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/91640f44-c24d-4ed3-b19c-abac18e62721/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/91640f44-c24d-4ed3-b19c-abac18e62721/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e21",
-          "title": "Capítulo 21",
-          "slotId": "ep_2195",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/eb10a283-4f49-4a32-8512-8c4456257c3c/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/eb10a283-4f49-4a32-8512-8c4456257c3c/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e22",
-          "title": "Capítulo 22",
-          "slotId": "ep_2196",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3b4d3b61-c2dd-40ee-9cac-2a48ac34adf7/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/3b4d3b61-c2dd-40ee-9cac-2a48ac34adf7/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e23",
-          "title": "Capítulo 23",
-          "slotId": "ep_2197",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2d78ae84-8812-4404-857e-5eafeabf357d/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/2d78ae84-8812-4404-857e-5eafeabf357d/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e24",
-          "title": "Capítulo 24",
-          "slotId": "ep_2198",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5713303f-5e86-4550-b95d-b032fd80535c/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/5713303f-5e86-4550-b95d-b032fd80535c/playlist.m3u8"
-          }
-        }
-      ],
-      "id": "series_110",
-      "addedAt": "2026-04-25T06:49:50.179Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 16
-    },
-    {
-      "type": "series",
-      "title": "The Boys T1",
-      "description": "En un mundo donde los superhéroes son celebridades corruptas controladas por una poderosa corporación, un grupo de vigilantes decide enfrentarlos y exponer la verdad. Hughie se une al equipo tras una tragedia personal, descubriendo lo peligrosos que pueden ser los “héroes”.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2012,
-      "releaseDate": "2026-04-26",
-      "genres": [
-        "Action",
-        "Drama",
-        "Sci-Fi",
-        "Crime",
-        "Comedy"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "series_111",
-      "addedAt": "2026-04-26T00:53:55.934Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 19,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2207",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/80420882-8bcf-4bc7-b5a2-3051078db98c/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2208",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2b910270-9f67-4b16-9885-f5d76d3ce8c9/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2209",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6894eff3-91fa-4869-9361-63f12dc4b4db/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2210",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b585c32b-9e3c-4f23-95fc-f4b2161c1bed/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2211",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/30044fbd-2e2e-404b-9b8b-8508be7cea49/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2212",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b7325362-7438-44c9-832d-8a67b87bddfd/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2213",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bcd67cc2-d952-4b5a-971c-1bcdab248320/playlist.m3u8"
-          }
-        },
-        {
-          "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2214",
-          "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/45c043e6-321a-401b-ac05-4e8df53f38a5/playlist.m3u8"
-          }
-        }
-      ]
+      "gridIndex": 15
     }
   ]
 }
