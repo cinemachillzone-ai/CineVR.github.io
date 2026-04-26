@@ -4755,6 +4755,124 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 15
+    },
+    {
+      "type": "movie",
+      "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet",
+      "description": "Benjamin Barker regresa a Londres bajo una nueva identidad: Sweeney Todd, un barbero marcado por un pasado trágico. Buscando venganza contra quienes destruyeron su vida, inicia un oscuro plan que lo lleva a cometer actos cada vez más extremos, con la ayuda de una peculiar aliada.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/acb969c1-26d5-4441-8537-ee2ca9a0d547/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/acb969c1-26d5-4441-8537-ee2ca9a0d547/playlist.m3u8"
+      },
+      "id": "movie_165",
+      "addedAt": "2026-04-26T00:47:49.300Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 17
+    },
+    {
+      "type": "movie",
+      "title": "La Terminal",
+      "description": "Viktor Navorski llega a Nueva York, pero debido a un conflicto político en su país, queda atrapado en el aeropuerto sin poder entrar a Estados Unidos ni regresar a casa. Mientras espera una solución, aprende a adaptarse a la vida dentro de la terminal y forma inesperadas amistades.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/f790350f-e37a-4f57-a7f2-5d73b5ff9bbc/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f790350f-e37a-4f57-a7f2-5d73b5ff9bbc/playlist.m3u8"
+      },
+      "id": "movie_166",
+      "addedAt": "2026-04-26T00:50:10.941Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 18
+    },
+    {
+      "type": "movie",
+      "title": "El Zorro y el Sabueso",
+      "description": "Tod, un zorro huérfano, y Copper, un cachorro de sabueso, desarrollan una amistad sincera durante su infancia. Sin embargo, al crecer, sus naturalezas opuestas y las expectativas de sus dueños los obligan a enfrentarse a una realidad que pone a prueba su vínculo.",
+      "duration": "",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1981,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Drama",
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/9c4d4e72-9286-4630-810c-5fde676936a5/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9c4d4e72-9286-4630-810c-5fde676936a5/playlist.m3u8"
+      },
+      "id": "movie_168",
+      "addedAt": "2026-04-26T00:55:54.028Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 20
+    },
+    {
+      "type": "movie",
+      "title": "La Hermanastra Fea",
+      "description": "Una reinterpretación oscura del clásico cuento de Cenicienta, contada desde la perspectiva de una de las hermanastras. La historia explora sus inseguridades, rivalidades y el deseo de encajar en un mundo obsesionado con la belleza.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/ddcf6c8a-4cbb-4091-8f65-bca0d200b161/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ddcf6c8a-4cbb-4091-8f65-bca0d200b161/playlist.m3u8"
+      },
+      "id": "movie_169",
+      "addedAt": "2026-04-26T01:03:45.344Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 21
     }
   ],
   "series": [
@@ -13632,7 +13750,12 @@
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -13643,8 +13766,64 @@
           "title": "Capítulo 1",
           "slotId": "ep_839",
           "links": {
-            "language_Spanish": "",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/32c44950-73d9-47af-af12-7c043f58ff63/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9ccac2ed-0210-4e41-ae49-2132cf3e0ab7/playlist.m3u8",
+            "default": ""
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2200",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/55a5b61d-5308-4a85-bc5f-d8d117e7485e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2201",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3f4cf29d-10a3-4314-86a1-c0cfc225a4ec/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2202",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ef0732ae-25d7-4ea3-a41d-775b7f6bb140/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2203",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b7ef1efa-3bb9-404f-be3d-fcbb432913a3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2204",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9e96e3bc-5e93-42aa-80a8-581cd1638c93/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2205",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d29b443d-1cb6-4da0-95fd-9c05cc8d354e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2206",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/78971db9-2b2d-4fd1-a251-1b9b830a4efa/playlist.m3u8"
           }
         }
       ],
@@ -26739,6 +26918,99 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 16
+    },
+    {
+      "type": "series",
+      "title": "The Boys T1",
+      "description": "En un mundo donde los superhéroes son celebridades corruptas controladas por una poderosa corporación, un grupo de vigilantes decide enfrentarlos y exponer la verdad. Hughie se une al equipo tras una tragedia personal, descubriendo lo peligrosos que pueden ser los “héroes”.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Crime",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_111",
+      "addedAt": "2026-04-26T00:53:55.934Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 19,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2207",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/80420882-8bcf-4bc7-b5a2-3051078db98c/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2208",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2b910270-9f67-4b16-9885-f5d76d3ce8c9/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2209",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6894eff3-91fa-4869-9361-63f12dc4b4db/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2210",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b585c32b-9e3c-4f23-95fc-f4b2161c1bed/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2211",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/30044fbd-2e2e-404b-9b8b-8508be7cea49/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2212",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b7325362-7438-44c9-832d-8a67b87bddfd/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2213",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bcd67cc2-d952-4b5a-971c-1bcdab248320/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2214",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/45c043e6-321a-401b-ac05-4e8df53f38a5/playlist.m3u8"
+          }
+        }
+      ]
     }
   ]
 }

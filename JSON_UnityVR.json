@@ -9,7 +9,7 @@
     "atlasCount": 7,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 273
+    "catalogCount": 278
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4109,6 +4109,108 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 15
+    },
+    {
+      "type": "movie",
+      "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet",
+      "description": "Benjamin Barker regresa a Londres bajo una nueva identidad: Sweeney Todd, un barbero marcado por un pasado trágico. Buscando venganza contra quienes destruyeron su vida, inicia un oscuro plan que lo lleva a cometer actos cada vez más extremos, con la ayuda de una peculiar aliada.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_165",
+      "addedAt": "2026-04-26T00:47:49.300Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 17
+    },
+    {
+      "type": "movie",
+      "title": "La Terminal",
+      "description": "Viktor Navorski llega a Nueva York, pero debido a un conflicto político en su país, queda atrapado en el aeropuerto sin poder entrar a Estados Unidos ni regresar a casa. Mientras espera una solución, aprende a adaptarse a la vida dentro de la terminal y forma inesperadas amistades.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_166",
+      "addedAt": "2026-04-26T00:50:10.941Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 18
+    },
+    {
+      "type": "movie",
+      "title": "El Zorro y el Sabueso",
+      "description": "Tod, un zorro huérfano, y Copper, un cachorro de sabueso, desarrollan una amistad sincera durante su infancia. Sin embargo, al crecer, sus naturalezas opuestas y las expectativas de sus dueños los obligan a enfrentarse a una realidad que pone a prueba su vínculo.",
+      "duration": "",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1981,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Drama",
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_168",
+      "addedAt": "2026-04-26T00:55:54.028Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 20
+    },
+    {
+      "type": "movie",
+      "title": "La Hermanastra Fea",
+      "description": "Una reinterpretación oscura del clásico cuento de Cenicienta, contada desde la perspectiva de una de las hermanastras. La historia explora sus inseguridades, rivalidades y el deseo de encajar en un mundo obsesionado con la belleza.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_169",
+      "addedAt": "2026-04-26T01:03:45.344Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 21
     },
     {
       "type": "series",
@@ -9631,7 +9733,12 @@
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -9641,6 +9748,41 @@
           "id": "s01e01",
           "title": "Capítulo 1",
           "slotId": "ep_839"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2200"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2201"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2202"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2203"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2204"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2205"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2206"
         }
       ],
       "id": "series_048",
@@ -17680,6 +17822,75 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 16
+    },
+    {
+      "type": "series",
+      "title": "The Boys T1",
+      "description": "En un mundo donde los superhéroes son celebridades corruptas controladas por una poderosa corporación, un grupo de vigilantes decide enfrentarlos y exponer la verdad. Hughie se une al equipo tras una tragedia personal, descubriendo lo peligrosos que pueden ser los “héroes”.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-04-26",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Crime",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "series_111",
+      "addedAt": "2026-04-26T00:53:55.934Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 19,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2207"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2208"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2209"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2210"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2211"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2212"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2213"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2214"
+        }
+      ]
     }
   ]
 }
