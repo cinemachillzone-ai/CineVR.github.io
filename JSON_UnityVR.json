@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 278
+    "catalogCount": 284
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -549,7 +549,7 @@
       "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero antes de poder ganar su libertad, Wick debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo.",
       "duration": "2h 49m",
       "rating": "R",
-      "quality": "BQ",
+      "quality": "HD",
       "section": "catalog",
       "year": 2023,
       "releaseDate": "2023-03-24",
@@ -1402,7 +1402,7 @@
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2014,
       "releaseDate": "2025-06-25",
       "genres": [
@@ -4187,6 +4187,163 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 20
+    },
+    {
+      "type": "movie",
+      "title": "El Laberinto del Fauno",
+      "description": "En la España de la posguerra, Ofelia, una niña con gran imaginación, descubre un misterioso laberinto donde un fauno le revela que podría ser una princesa perdida. Para demostrarlo, deberá cumplir peligrosas pruebas mientras enfrenta la dura realidad del mundo que la rodea.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "War",
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_169",
+      "addedAt": "2026-04-27T20:57:20.400Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 22
+    },
+    {
+      "type": "movie",
+      "title": "Hotel Transylvania 2",
+      "description": "Drácula está emocionado por su nieto Dennis, pero comienza a preocuparse al ver que no muestra señales de ser un monstruo. Mientras los padres del niño están fuera, Drácula y sus amigos intentan sacar su “lado monstruoso” con divertidos y caóticos resultados.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_170",
+      "addedAt": "2026-04-27T21:04:14.185Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 23
+    },
+    {
+      "type": "movie",
+      "title": "Hotel Transylvania 3: Monstruos de Vacaciones",
+      "description": "Drácula decide tomar unas vacaciones junto a su familia y amigos en un lujoso crucero para monstruos. Todo parece perfecto hasta que conoce a la misteriosa capitana del barco y se enamora, sin saber que ella guarda un secreto que podría poner a todos en peligro.",
+      "duration": "",
+      "rating": "G",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_171",
+      "addedAt": "2026-04-27T21:06:54.460Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 24
+    },
+    {
+      "type": "movie",
+      "title": "Hotel Transylvania: Transformanía",
+      "description": "Un experimento del profesor Van Helsing sale mal y convierte a Drácula y sus amigos en humanos, mientras que Johnny se transforma en monstruo. Ahora deberán viajar juntos para revertir el hechizo antes de que los cambios se vuelvan permanentes.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_172",
+      "addedAt": "2026-04-27T21:08:52.450Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 25
+    },
+    {
+      "type": "movie",
+      "title": "Tu Nombre",
+      "description": "Mitsuha, una chica de un pueblo rural, y Taki, un joven de Tokio, comienzan a intercambiar cuerpos de forma misteriosa. A medida que intentan entender lo que sucede, desarrollan una conexión profunda que trasciende el tiempo y la distancia.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_173",
+      "addedAt": "2026-04-27T21:12:17.165Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 26
+    },
+    {
+      "type": "movie",
+      "title": "Look Back",
+      "description": "La historia sigue a Fujino, una estudiante talentosa en dibujo, y Kyomoto, una chica solitaria con un estilo artístico excepcional. A través de su pasión por el manga, sus vidas se entrelazan en una relación marcada por la admiración, la rivalidad y el crecimiento personal.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2026-04-27",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_174",
+      "addedAt": "2026-04-27T21:14:23.387Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 27
     },
     {
       "type": "series",
