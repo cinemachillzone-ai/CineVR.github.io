@@ -2596,7 +2596,8 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/596bd97a-55f4-4763-926a-381e7e32e86d/playlist.m3u8"
+        "default": "https://vz-e5546235-a7a.b-cdn.net/819332de-60c8-4072-b7ce-958857e55a0b/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/819332de-60c8-4072-b7ce-958857e55a0b/playlist.m3u8"
       },
       "id": "movie_091",
       "addedAt": "2026-04-11T21:49:00.123Z",
