@@ -3034,5 +3034,101 @@
     "user": "Admin",
     "action": "ADD",
     "targetId": "series_112"
+  },
+  {
+    "timestamp": "2026-04-26T20:50:42.561Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_054"
+  },
+  {
+    "timestamp": "2026-04-27T17:54:32.401Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_001"
+  },
+  {
+    "timestamp": "2026-04-27T17:55:34.180Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_002"
+  },
+  {
+    "timestamp": "2026-04-27T18:03:01.735Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_010"
+  },
+  {
+    "timestamp": "2026-04-27T18:07:28.259Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_013"
+  },
+  {
+    "timestamp": "2026-04-27T20:53:05.908Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_020"
+  },
+  {
+    "timestamp": "2026-04-27T20:57:21.106Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_169"
+  },
+  {
+    "timestamp": "2026-04-27T21:04:14.790Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_170"
+  },
+  {
+    "timestamp": "2026-04-27T21:06:55.107Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_171"
+  },
+  {
+    "timestamp": "2026-04-27T21:08:53.094Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_172"
+  },
+  {
+    "timestamp": "2026-04-27T21:12:17.778Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_173"
+  },
+  {
+    "timestamp": "2026-04-27T21:12:25.143Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_173"
+  },
+  {
+    "timestamp": "2026-04-27T21:14:24.021Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_174"
+  },
+  {
+    "timestamp": "2026-04-27T21:14:29.356Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_174"
+  },
+  {
+    "timestamp": "2026-04-27T21:19:03.686Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_052"
+  },
+  {
+    "timestamp": "2026-04-28T00:30:10.017Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_091"
   }
 ]
