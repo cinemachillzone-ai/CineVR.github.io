@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 284
+    "catalogCount": 289
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4344,6 +4344,84 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 27
+    },
+    {
+      "type": "movie",
+      "title": "Resident Evil",
+      "description": "Alice despierta sin memoria en una mansión secreta donde una corporación ha liberado accidentalmente un virus mortal. Junto a un equipo militar, deberá adentrarse en una instalación subterránea para contener la amenaza, enfrentándose a criaturas infectadas y peligros desconocidos.",
+      "duration": "",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_175",
+      "addedAt": "2026-04-29T00:35:09.807Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 28
+    },
+    {
+      "type": "movie",
+      "title": "Resident Evil 2: Apocalipsis",
+      "description": "El virus se ha extendido fuera del laboratorio y ha invadido la ciudad de Raccoon City. Alice, ahora con nuevas habilidades, se une a otros sobrevivientes para escapar mientras enfrentan hordas de infectados y una criatura imparable creada por la corporación.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_176",
+      "addedAt": "2026-04-29T00:36:43.541Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 29
+    },
+    {
+      "type": "movie",
+      "title": "Resident Evil 3: Extinción",
+      "description": "El mundo ha sido devastado por el virus, convirtiéndose en un desierto lleno de infectados. Alice continúa su viaje junto a otros sobrevivientes en busca de un lugar seguro, mientras enfrenta nuevas amenazas y descubre más sobre los experimentos de la corporación responsable.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_177",
+      "addedAt": "2026-04-29T00:39:15.091Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 30
     },
     {
       "type": "series",
@@ -18048,6 +18126,231 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 21
+    },
+    {
+      "type": "series",
+      "title": "Rick y Morty T1",
+      "description": "Rick, un científico brillante pero irresponsable, arrastra a su nieto Morty a peligrosas aventuras a través del espacio, dimensiones alternativas y realidades absurdas. Mientras tanto, la familia intenta lidiar con las consecuencias de sus caóticas decisiones.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2215"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2216"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2217"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2218"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2219"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2220"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2221"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2222"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2223"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2224"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2225"
+        }
+      ],
+      "id": "series_113",
+      "addedAt": "2026-04-29T00:46:42.118Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 31
+    },
+    {
+      "type": "series",
+      "title": "Jujutsu Kaisen T2",
+      "description": "La historia profundiza en el pasado de Satoru Gojo y Suguru Geto, mostrando cómo su relación cambió con el tiempo. Más adelante, un gran incidente en Shibuya desata un caos masivo, enfrentando a los hechiceros contra poderosas maldiciones en una batalla intensa.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2226"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2227"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2228"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2229"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2230"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2231"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2232"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2233"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2234"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2235"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2236"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2237"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2238"
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2239"
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2240"
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2241"
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2242"
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2243"
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2244"
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2245"
+        },
+        {
+          "id": "s01e21",
+          "title": "Capítulo 21",
+          "slotId": "ep_2246"
+        },
+        {
+          "id": "s01e22",
+          "title": "Capítulo 22",
+          "slotId": "ep_2247"
+        },
+        {
+          "id": "s01e23",
+          "title": "Capítulo 23",
+          "slotId": "ep_2248"
+        }
+      ],
+      "id": "series_114",
+      "addedAt": "2026-04-29T01:15:12.520Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 32
     }
   ]
 }

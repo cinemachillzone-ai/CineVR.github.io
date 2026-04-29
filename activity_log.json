@@ -3130,5 +3130,53 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_091"
+  },
+  {
+    "timestamp": "2026-04-28T22:48:06.030Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_049"
+  },
+  {
+    "timestamp": "2026-04-29T00:35:10.625Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_175"
+  },
+  {
+    "timestamp": "2026-04-29T00:36:44.317Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_176"
+  },
+  {
+    "timestamp": "2026-04-29T00:39:15.797Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_177"
+  },
+  {
+    "timestamp": "2026-04-29T00:46:42.798Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_113"
+  },
+  {
+    "timestamp": "2026-04-29T00:46:55.646Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_113"
+  },
+  {
+    "timestamp": "2026-04-29T01:15:13.190Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_114"
+  },
+  {
+    "timestamp": "2026-04-29T01:15:20.664Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_114"
   }
 ]
