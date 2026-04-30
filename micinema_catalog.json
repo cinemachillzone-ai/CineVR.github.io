@@ -5117,6 +5117,123 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 30
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max: Salvajes de Autopista",
+      "description": "En un futuro cercano donde la sociedad comienza a colapsar, Max Rockatansky es un policía que patrulla carreteras dominadas por bandas violentas. Tras una tragedia personal, su vida cambia por completo, llevándolo por un camino de venganza en un mundo cada vez más caótico.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1979,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/220df46e-83ab-4896-93e4-5f77d0eaf80c/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/220df46e-83ab-4896-93e4-5f77d0eaf80c/playlist.m3u8"
+      },
+      "id": "movie_178",
+      "addedAt": "2026-04-29T23:52:17.676Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 33
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max 2",
+      "description": "En un mundo postapocalíptico dominado por la escasez de combustible, Max se cruza con una comunidad que intenta sobrevivir protegiendo su gasolina de una violenta banda. A regañadientes, decide ayudarlos, enfrentándose a peligrosas persecuciones y brutales enemigos.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1981,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/bae7b2d9-79c8-4400-9f02-bcbd46e35960/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bae7b2d9-79c8-4400-9f02-bcbd46e35960/playlist.m3u8"
+      },
+      "id": "movie_179",
+      "addedAt": "2026-04-29T23:56:39.226Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 34
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max 3: Más Allá de la Cúpula del Trueno",
+      "description": "Max llega a Bartertown, una ciudad controlada por una poderosa líder, donde se ve obligado a participar en combates dentro de la temida “Cúpula del Trueno”. Tras escapar, se une a un grupo de jóvenes que buscan reconstruir la civilización en un mundo devastado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1985,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/6faedbdc-db39-475a-a6da-961751ef60ee/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6faedbdc-db39-475a-a6da-961751ef60ee/playlist.m3u8"
+      },
+      "id": "movie_180",
+      "addedAt": "2026-04-29T23:59:21.537Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 35
+    },
+    {
+      "type": "movie",
+      "title": "Free Guy: Tomando el Control",
+      "description": "Guy es un cajero de banco que descubre que en realidad es un personaje dentro de un videojuego de mundo abierto. Al volverse consciente de su situación, decide cambiar su destino y convertirse en el héroe de su propia historia.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/0f97108e-3d85-4d08-ae85-a7506e65e808/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/0f97108e-3d85-4d08-ae85-a7506e65e808/playlist.m3u8"
+      },
+      "id": "movie_181",
+      "addedAt": "2026-04-30T00:02:16.010Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 36
     }
   ],
   "series": [
@@ -27280,7 +27397,7 @@
       "title": "Rick y Morty T1",
       "description": "Rick, un científico brillante pero irresponsable, arrastra a su nieto Morty a peligrosas aventuras a través del espacio, dimensiones alternativas y realidades absurdas. Mientras tanto, la familia intenta lidiar con las consecuencias de sus caóticas decisiones.",
       "duration": "",
-      "rating": "PG-13",
+      "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
       "year": 2013,
@@ -27409,7 +27526,7 @@
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2026,
+      "year": 2023,
       "releaseDate": "2026-04-29",
       "genres": [
         "Animation",
@@ -27427,8 +27544,8 @@
           "title": "Capítulo 1",
           "slotId": "ep_2226",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/db0491d6-6c22-491d-bb3c-41c88bd7ce91/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/db0491d6-6c22-491d-bb3c-41c88bd7ce91/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/fbeada5d-7431-4858-96ba-bf182d5f200a/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/fbeada5d-7431-4858-96ba-bf182d5f200a/playlist.m3u8"
           }
         },
         {
@@ -27436,8 +27553,8 @@
           "title": "Capítulo 2",
           "slotId": "ep_2227",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/80f22190-8b06-479e-a2bf-924b6a178362/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/80f22190-8b06-479e-a2bf-924b6a178362/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6c4b4c71-7eaa-4bc5-a085-29cbdf518218/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/6c4b4c71-7eaa-4bc5-a085-29cbdf518218/playlist.m3u8"
           }
         },
         {
@@ -27445,8 +27562,8 @@
           "title": "Capítulo 3",
           "slotId": "ep_2228",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/226b14ed-c701-4cf1-a3b6-6f9e672e9749/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/226b14ed-c701-4cf1-a3b6-6f9e672e9749/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/eea6602d-5b84-4e93-b744-357fbe92c1da/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/eea6602d-5b84-4e93-b744-357fbe92c1da/playlist.m3u8"
           }
         },
         {
@@ -27454,8 +27571,8 @@
           "title": "Capítulo 4",
           "slotId": "ep_2229",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c64b4ac5-6bc0-490f-8aad-22dd17dc3d49/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/c64b4ac5-6bc0-490f-8aad-22dd17dc3d49/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/fc33002d-f808-4912-8899-2856ee6345e3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/fc33002d-f808-4912-8899-2856ee6345e3/playlist.m3u8"
           }
         },
         {
@@ -27463,8 +27580,8 @@
           "title": "Capítulo 5",
           "slotId": "ep_2230",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e0fc63e8-ad8f-4d2f-9751-24d555e5ab47/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/e0fc63e8-ad8f-4d2f-9751-24d555e5ab47/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9ef636c2-fefc-4251-aafe-423bcd87afca/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/9ef636c2-fefc-4251-aafe-423bcd87afca/playlist.m3u8"
           }
         },
         {
@@ -27472,8 +27589,8 @@
           "title": "Capítulo 6",
           "slotId": "ep_2231",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e20fb613-64a5-4435-9789-81e284ce7796/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/e20fb613-64a5-4435-9789-81e284ce7796/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/27150883-03a2-4a80-a9ba-7541e81c2665/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/27150883-03a2-4a80-a9ba-7541e81c2665/playlist.m3u8"
           }
         },
         {
@@ -27481,8 +27598,8 @@
           "title": "Capítulo 7",
           "slotId": "ep_2232",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/832af617-4768-47a6-a849-20bb4b9ca828/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/832af617-4768-47a6-a849-20bb4b9ca828/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5b0e0c44-9a12-4ec9-93a7-339f97d41d03/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/5b0e0c44-9a12-4ec9-93a7-339f97d41d03/playlist.m3u8"
           }
         },
         {
@@ -27490,8 +27607,8 @@
           "title": "Capítulo 8",
           "slotId": "ep_2233",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/144ad95c-b7bf-47ae-949f-fae25d95d2d5/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/144ad95c-b7bf-47ae-949f-fae25d95d2d5/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/04b1e11c-03b0-430f-ab5c-3f56c1bd15fa/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/04b1e11c-03b0-430f-ab5c-3f56c1bd15fa/playlist.m3u8"
           }
         },
         {
@@ -27499,8 +27616,8 @@
           "title": "Capítulo 9",
           "slotId": "ep_2234",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f1afff7f-d5ab-4d30-b57d-e033645d5a6b/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/f1afff7f-d5ab-4d30-b57d-e033645d5a6b/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9fcac2fa-53e9-4a1d-95eb-870a11c3a1d7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/9fcac2fa-53e9-4a1d-95eb-870a11c3a1d7/playlist.m3u8"
           }
         },
         {
@@ -27508,8 +27625,8 @@
           "title": "Capítulo 10",
           "slotId": "ep_2235",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c476fc56-f896-40dc-a78b-0179507c08eb/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/c476fc56-f896-40dc-a78b-0179507c08eb/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b9405a8f-ddbc-450e-95ee-f935d6d1680d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/b9405a8f-ddbc-450e-95ee-f935d6d1680d/playlist.m3u8"
           }
         },
         {
@@ -27517,8 +27634,8 @@
           "title": "Capítulo 11",
           "slotId": "ep_2236",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d88f5923-4a97-4aa2-b7d4-1df3933f4bf8/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/d88f5923-4a97-4aa2-b7d4-1df3933f4bf8/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/911abe4e-daf6-433a-8cbd-d059da584b31/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/911abe4e-daf6-433a-8cbd-d059da584b31/playlist.m3u8"
           }
         },
         {
@@ -27526,8 +27643,8 @@
           "title": "Capítulo 12",
           "slotId": "ep_2237",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/57ea0470-489b-494f-b291-00d9d622c3d4/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/57ea0470-489b-494f-b291-00d9d622c3d4/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/779ef304-b9d4-4a81-b0de-3abf109fa90c/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/779ef304-b9d4-4a81-b0de-3abf109fa90c/playlist.m3u8"
           }
         },
         {
@@ -27535,8 +27652,8 @@
           "title": "Capítulo 13",
           "slotId": "ep_2238",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1ed1dcec-4f8f-469d-8d11-ac2c6bbeb09b/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/1ed1dcec-4f8f-469d-8d11-ac2c6bbeb09b/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d5ccb73d-65f6-4cc5-ac9e-01b5e177b29d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/d5ccb73d-65f6-4cc5-ac9e-01b5e177b29d/playlist.m3u8"
           }
         },
         {
@@ -27544,8 +27661,8 @@
           "title": "Capítulo 14",
           "slotId": "ep_2239",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c0528618-e088-4701-b7ee-f1294f130056/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/c0528618-e088-4701-b7ee-f1294f130056/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5a26eafc-fb8a-4bef-8c03-0d1eee1186a9/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/5a26eafc-fb8a-4bef-8c03-0d1eee1186a9/playlist.m3u8"
           }
         },
         {

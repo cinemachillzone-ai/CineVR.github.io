@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 289
+    "catalogCount": 293
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4422,6 +4422,107 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 30
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max: Salvajes de Autopista",
+      "description": "En un futuro cercano donde la sociedad comienza a colapsar, Max Rockatansky es un policía que patrulla carreteras dominadas por bandas violentas. Tras una tragedia personal, su vida cambia por completo, llevándolo por un camino de venganza en un mundo cada vez más caótico.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1979,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_178",
+      "addedAt": "2026-04-29T23:52:17.676Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 33
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max 2",
+      "description": "En un mundo postapocalíptico dominado por la escasez de combustible, Max se cruza con una comunidad que intenta sobrevivir protegiendo su gasolina de una violenta banda. A regañadientes, decide ayudarlos, enfrentándose a peligrosas persecuciones y brutales enemigos.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 1981,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_179",
+      "addedAt": "2026-04-29T23:56:39.226Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 34
+    },
+    {
+      "type": "movie",
+      "title": "Mad Max 3: Más Allá de la Cúpula del Trueno",
+      "description": "Max llega a Bartertown, una ciudad controlada por una poderosa líder, donde se ve obligado a participar en combates dentro de la temida “Cúpula del Trueno”. Tras escapar, se une a un grupo de jóvenes que buscan reconstruir la civilización en un mundo devastado.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1985,
+      "releaseDate": "2026-04-29",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_180",
+      "addedAt": "2026-04-29T23:59:21.537Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 35
+    },
+    {
+      "type": "movie",
+      "title": "Free Guy: Tomando el Control",
+      "description": "Guy es un cajero de banco que descubre que en realidad es un personaje dentro de un videojuego de mundo abierto. Al volverse consciente de su situación, decide cambiar su destino y convertirse en el héroe de su propia historia.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_181",
+      "addedAt": "2026-04-30T00:02:16.010Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 36
     },
     {
       "type": "series",
@@ -18132,7 +18233,7 @@
       "title": "Rick y Morty T1",
       "description": "Rick, un científico brillante pero irresponsable, arrastra a su nieto Morty a peligrosas aventuras a través del espacio, dimensiones alternativas y realidades absurdas. Mientras tanto, la familia intenta lidiar con las consecuencias de sus caóticas decisiones.",
       "duration": "",
-      "rating": "PG-13",
+      "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
       "year": 2013,
@@ -18217,7 +18318,7 @@
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2026,
+      "year": 2023,
       "releaseDate": "2026-04-29",
       "genres": [
         "Animation",
