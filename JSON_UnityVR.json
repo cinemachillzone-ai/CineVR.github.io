@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 293
+    "catalogCount": 297
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4523,6 +4523,92 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 36
+    },
+    {
+      "type": "movie",
+      "title": "El extraño mundo de jack",
+      "description": "Jack Skellington, el aburrido Rey de la Ciudad de Halloween, descubre la Ciudad de la Navidad y queda tan fascinado que decide secuestrar a Santa Claus para organizar la festividad él mismo. Sin embargo, su visión macabra de los regalos aterroriza al mundo humano, lo que obliga a Jack a salvar a Santa de las garras del malvado Oogie Boogie para arreglar el desastre. Al final, Jack comprende que su verdadera identidad es ser el maestro de los sustos y encuentra el amor en la inteligente Sally",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Romance",
+        "Horror",
+        "Family",
+        "Adventure",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_182",
+      "addedAt": "2026-04-30T20:25:21.947Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 38
+    },
+    {
+      "type": "movie",
+      "title": "Intensamente",
+      "description": "La historia sigue a Riley, una niña de 11 años cuya vida da un vuelco cuando se muda con su familia a San Francisco. En su mente, las emociones —Alegría, Tristeza, Temor, Desagrado y Furia— intentan guiarla a través de este difícil cambio, pero un accidente provoca que Alegría y Tristeza sean expulsadas del Cuartel General, perdiéndose en los rincones de su memoria. Mientras ambas luchan por regresar para salvar la estabilidad emocional de Riley, Alegría comprende que todas las emociones, incluso la tristeza, son esenciales para el crecimiento y el bienestar de la niña.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_183",
+      "addedAt": "2026-04-30T20:27:58.327Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 39
+    },
+    {
+      "type": "movie",
+      "title": "Megamente",
+      "description": "Megamente es una ingeniosa comedia animada que le da la vuelta al género de superhéroes al centrarse en un villano azul y cabezón que, tras derrotar finalmente a su némesis Metro Man, cae en una profunda depresión al perder su propósito de vida. Para remediar su aburrimiento, decide crear un nuevo héroe llamado Titán, pero el plan fracasa cuando este prefiere usar sus poderes para el mal, obligando a Megamente a asumir, por primera vez, el papel de salvador de Metro Ciudad. A través de este viaje, la película explora de forma divertida si nuestro destino está predeterminado o si realmente tenemos la libertad de elegir quiénes queremos ser.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Adventure",
+        "Crime",
+        "Romance",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_184",
+      "addedAt": "2026-04-30T20:29:49.010Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 40
     },
     {
       "type": "series",
@@ -18452,6 +18538,90 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 32
+    },
+    {
+      "type": "series",
+      "title": "Rick y Morty T2",
+      "description": "La segunda temporada de Rick and Morty (2015) continúa la fórmula de aventuras caóticas, pero introduce una mayor carga emocional y desarrolla la trama de la Federación Galáctica que marcará el futuro de la serie",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery",
+        "Thriller",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Music",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2249"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2250"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2251"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2252"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2253"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2254"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2255"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2256"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2257"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2258"
+        }
+      ],
+      "id": "series_115",
+      "addedAt": "2026-04-30T20:22:17.185Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 37
     }
   ]
 }

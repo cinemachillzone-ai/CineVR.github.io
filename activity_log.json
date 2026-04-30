@@ -3232,5 +3232,35 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_181"
+  },
+  {
+    "timestamp": "2026-04-30T20:22:17.662Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_115"
+  },
+  {
+    "timestamp": "2026-04-30T20:25:22.390Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_182"
+  },
+  {
+    "timestamp": "2026-04-30T20:27:58.763Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_183"
+  },
+  {
+    "timestamp": "2026-04-30T20:29:49.496Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "movie_184"
+  },
+  {
+    "timestamp": "2026-04-30T20:30:02.279Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "movie_182"
   }
 ]

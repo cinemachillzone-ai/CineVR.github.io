@@ -5234,6 +5234,104 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 36
+    },
+    {
+      "type": "movie",
+      "title": "El extraño mundo de jack",
+      "description": "Jack Skellington, el aburrido Rey de la Ciudad de Halloween, descubre la Ciudad de la Navidad y queda tan fascinado que decide secuestrar a Santa Claus para organizar la festividad él mismo. Sin embargo, su visión macabra de los regalos aterroriza al mundo humano, lo que obliga a Jack a salvar a Santa de las garras del malvado Oogie Boogie para arreglar el desastre. Al final, Jack comprende que su verdadera identidad es ser el maestro de los sustos y encuentra el amor en la inteligente Sally",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Romance",
+        "Horror",
+        "Family",
+        "Adventure",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/1b14d797-ed2c-469e-943d-b4dddc6bc31e/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1b14d797-ed2c-469e-943d-b4dddc6bc31e/playlist.m3u8"
+      },
+      "id": "movie_182",
+      "addedAt": "2026-04-30T20:25:21.947Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 38
+    },
+    {
+      "type": "movie",
+      "title": "Intensamente",
+      "description": "La historia sigue a Riley, una niña de 11 años cuya vida da un vuelco cuando se muda con su familia a San Francisco. En su mente, las emociones —Alegría, Tristeza, Temor, Desagrado y Furia— intentan guiarla a través de este difícil cambio, pero un accidente provoca que Alegría y Tristeza sean expulsadas del Cuartel General, perdiéndose en los rincones de su memoria. Mientras ambas luchan por regresar para salvar la estabilidad emocional de Riley, Alegría comprende que todas las emociones, incluso la tristeza, son esenciales para el crecimiento y el bienestar de la niña.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Adventure",
+        "Family",
+        "Fantasy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/82b3fa34-f4d7-4b39-8dee-e4d59640d643/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/82b3fa34-f4d7-4b39-8dee-e4d59640d643/playlist.m3u8"
+      },
+      "id": "movie_183",
+      "addedAt": "2026-04-30T20:27:58.327Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 39
+    },
+    {
+      "type": "movie",
+      "title": "Megamente",
+      "description": "Megamente es una ingeniosa comedia animada que le da la vuelta al género de superhéroes al centrarse en un villano azul y cabezón que, tras derrotar finalmente a su némesis Metro Man, cae en una profunda depresión al perder su propósito de vida. Para remediar su aburrimiento, decide crear un nuevo héroe llamado Titán, pero el plan fracasa cuando este prefiere usar sus poderes para el mal, obligando a Megamente a asumir, por primera vez, el papel de salvador de Metro Ciudad. A través de este viaje, la película explora de forma divertida si nuestro destino está predeterminado o si realmente tenemos la libertad de elegir quiénes queremos ser.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Adventure",
+        "Crime",
+        "Romance",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/49eb9459-d9ae-4932-9081-eb112131ff33/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/49eb9459-d9ae-4932-9081-eb112131ff33/playlist.m3u8"
+      },
+      "id": "movie_184",
+      "addedAt": "2026-04-30T20:29:49.010Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 40
     }
   ],
   "series": [
@@ -27818,6 +27916,130 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 32
+    },
+    {
+      "type": "series",
+      "title": "Rick y Morty T2",
+      "description": "La segunda temporada de Rick and Morty (2015) continúa la fórmula de aventuras caóticas, pero introduce una mayor carga emocional y desarrolla la trama de la Federación Galáctica que marcará el futuro de la serie",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery",
+        "Thriller",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Music",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2249",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/de29245d-fef2-4d6f-bedd-099909afae82/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/de29245d-fef2-4d6f-bedd-099909afae82/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2250",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/29a4ee04-78c2-4cd5-82e8-b68b78155c80/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/29a4ee04-78c2-4cd5-82e8-b68b78155c80/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2251",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/38710c06-7496-48ad-bc71-e6aa53238931/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/38710c06-7496-48ad-bc71-e6aa53238931/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2252",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/9fc1cbe9-0927-4a8c-ae0c-7e91eb937c38/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/9fc1cbe9-0927-4a8c-ae0c-7e91eb937c38/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2253",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/facddcd7-17d0-4a44-bcc4-a1143956b80a/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/facddcd7-17d0-4a44-bcc4-a1143956b80a/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2254",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6ecf59b8-26e7-46dd-b80b-4c94d2fec6c3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/6ecf59b8-26e7-46dd-b80b-4c94d2fec6c3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2255",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/093244d2-6da5-4995-b34b-cd3d9b2b25b3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/093244d2-6da5-4995-b34b-cd3d9b2b25b3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2256",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2a586823-5f1e-4ef1-92f6-e83abd39c7dc/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/2a586823-5f1e-4ef1-92f6-e83abd39c7dc/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2257",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/11ab3a12-4008-4c02-8c4b-859c2b17dec4/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/11ab3a12-4008-4c02-8c4b-859c2b17dec4/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2258",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/877f2769-67d8-49f0-a44d-57019136f70d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/877f2769-67d8-49f0-a44d-57019136f70d/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_115",
+      "addedAt": "2026-04-30T20:22:17.185Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 37
     }
   ]
 }
