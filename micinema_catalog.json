@@ -5332,6 +5332,182 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 40
+    },
+    {
+      "type": "movie",
+      "title": "Lluvia de Hamburguesas",
+      "description": "Flint Lockwood, un joven inventor, crea una máquina que convierte el agua en comida. Su invento parece ser la solución perfecta para su pueblo… hasta que comienza a salirse de control y provoca tormentas de alimentos gigantes.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/d76ecf10-66d0-459c-91c8-db1defaf9660/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d76ecf10-66d0-459c-91c8-db1defaf9660/playlist.m3u8"
+      },
+      "id": "movie_185",
+      "addedAt": "2026-05-02T02:47:44.756Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 41
+    },
+    {
+      "type": "movie",
+      "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras",
+      "description": "Después del desastre causado por su invento, Flint descubre que su máquina sigue activa y ahora está creando criaturas vivientes hechas de comida. Junto a sus amigos, deberá regresar a la isla para detenerla antes de que estas “foodimals” invadan el mundo.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/bbb07acd-3d63-42f6-a6e2-775afa0e4bce/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bbb07acd-3d63-42f6-a6e2-775afa0e4bce/playlist.m3u8"
+      },
+      "id": "movie_186",
+      "addedAt": "2026-05-02T02:49:56.789Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 42
+    },
+    {
+      "type": "movie",
+      "title": "Michael",
+      "description": "La película narra la vida de Michael Jackson, desde sus inicios como niño prodigio en los The Jackson 5 hasta convertirse en una de las mayores estrellas del pop. Explora su talento, fama, desafíos personales y legado musical.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "BQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/c9e7b8b5-bfd5-4c11-b3d7-fb335dabc9d5/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c9e7b8b5-bfd5-4c11-b3d7-fb335dabc9d5/playlist.m3u8"
+      },
+      "id": "movie_187",
+      "addedAt": "2026-05-02T02:53:17.901Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 43
+    },
+    {
+      "type": "movie",
+      "title": "Volver al Futuro",
+      "description": "Marty McFly, un adolescente común, viaja accidentalmente al pasado en una máquina del tiempo creada por el excéntrico Doc Brown. Allí, deberá asegurarse de que sus padres se enamoren para no alterar su propia existencia, mientras busca la forma de regresar al presente.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1985,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/cd332793-7c74-4e4a-b5bf-ddbe7b51d496/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/cd332793-7c74-4e4a-b5bf-ddbe7b51d496/playlist.m3u8"
+      },
+      "id": "movie_188",
+      "addedAt": "2026-05-02T02:58:34.064Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 44
+    },
+    {
+      "type": "movie",
+      "title": "Volver al Futuro II",
+      "description": "Marty McFly y Doc Brown viajan al futuro para evitar problemas en la vida de la familia McFly. Sin embargo, sus acciones provocan una alteración del pasado, creando una realidad caótica que deberán corregir antes de que sea irreversible.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1989,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Music",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/87ed73fa-8cd6-4b7f-816c-43d57980032d/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/87ed73fa-8cd6-4b7f-816c-43d57980032d/playlist.m3u8"
+      },
+      "id": "movie_189",
+      "addedAt": "2026-05-02T03:02:30.239Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 45
+    },
+    {
+      "type": "movie",
+      "title": "Volver al Futuro III",
+      "description": "Marty McFly viaja al Viejo Oeste para rescatar a Doc Brown, quien ha quedado atrapado en el pasado. Allí, deberá adaptarse a una época llena de peligros mientras buscan una forma de regresar al futuro sin alterar la historia.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1990,
+      "releaseDate": "2026-05-02",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Western",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/459ac294-0781-4345-be98-e076495e62da/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/459ac294-0781-4345-be98-e076495e62da/playlist.m3u8"
+      },
+      "id": "movie_190",
+      "addedAt": "2026-05-02T03:04:44.941Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 46
     }
   ],
   "series": [
