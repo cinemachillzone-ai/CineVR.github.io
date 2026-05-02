@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-04-30 05:09",
+  "lastUpdate": "2026-05-02 01:19",
   "stars": [
     {
       "user": "Sean F",
@@ -12,6 +12,10 @@
     {
       "user": "ForTodayDubs",
       "cellIndex": 2
+    },
+    {
+      "user": "Barrio Fexa",
+      "cellIndex": 3
     }
   ],
   "patreons": [
@@ -147,25 +151,30 @@
     },
     {
       "id": "user_011",
-      "user": "Slot 11",
+      "user": "Gaaratan",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-08-01T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 10,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "Gaaratan",
+      "starAtlasIndex": 0
     },
     {
       "id": "user_012",
-      "user": "Slot 12",
+      "user": "Barrio Fexa",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
       "expiresAt": "2026-05-17T01:21:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 11,
-      "isStar": false
+      "isStar": true,
+      "patreonAccount": "gaaratan",
+      "starCellIndex": 3,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_013",
