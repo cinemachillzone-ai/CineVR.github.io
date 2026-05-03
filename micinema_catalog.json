@@ -5508,6 +5508,191 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 46
+    },
+    {
+      "type": "movie",
+      "title": "Nimona ",
+      "description": "En un mundo futurista con estética medieval, un caballero es acusado injustamente de un crimen y decide aliarse con Nimona, una joven rebelde con la habilidad de transformarse en cualquier criatura. Juntos intentan limpiar su nombre mientras desafían las reglas del sistema.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Action",
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/209e1b30-6a31-43e0-904a-407a9686abda/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/209e1b30-6a31-43e0-904a-407a9686abda/playlist.m3u8"
+      },
+      "id": "movie_191",
+      "addedAt": "2026-05-03T03:34:17.734Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 47
+    },
+    {
+      "type": "movie",
+      "title": "Nosotros los Nobles",
+      "description": "Un empresario millonario decide darle una lección a sus hijos malcriados fingiendo que han perdido toda su fortuna. Obligados a trabajar por primera vez en sus vidas, los jóvenes deberán enfrentarse a la realidad y aprender el verdadero valor del dinero.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/6789b607-6010-420e-9e0d-9327b2b12e7c/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6789b607-6010-420e-9e0d-9327b2b12e7c/playlist.m3u8"
+      },
+      "id": "movie_192",
+      "addedAt": "2026-05-03T03:36:22.014Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 48
+    },
+    {
+      "type": "movie",
+      "title": "Shrek",
+      "description": "Shrek, un ogro solitario que disfruta su tranquilidad en el pantano, ve su hogar invadido por criaturas de cuentos. Para recuperarlo, hace un trato con un lord y emprende una misión para rescatar a una princesa, descubriendo en el camino el valor de la amistad y el amor verdadero.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/115b2692-ab1d-40e5-b7c7-21a18cce20a5/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/115b2692-ab1d-40e5-b7c7-21a18cce20a5/playlist.m3u8"
+      },
+      "id": "movie_193",
+      "addedAt": "2026-05-03T03:38:57.645Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 49
+    },
+    {
+      "type": "movie",
+      "title": "Shrek 2",
+      "description": "Shrek y Fiona viajan al reino de Muy Muy Lejano para conocer a los padres de ella, quienes no esperan que su hija se haya casado con un ogro. Mientras intentan encajar, enfrentarán intrigas, magia y un plan para separarlos.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Romance",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/cd202ab2-7216-41dd-b9e2-98fd6db7dbb9/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/cd202ab2-7216-41dd-b9e2-98fd6db7dbb9/playlist.m3u8"
+      },
+      "id": "movie_194",
+      "addedAt": "2026-05-03T03:40:20.759Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 50
+    },
+    {
+      "type": "movie",
+      "title": "Shrek Tercero",
+      "description": "Cuando el rey de Muy Muy Lejano enferma, Shrek se convierte en el heredero al trono… algo que no desea. Para evitarlo, emprende un viaje en busca de otro posible sucesor, mientras Fiona y sus amigas enfrentan nuevos desafíos en el reino.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/df8ca71e-8603-49bf-bf67-b619ce7f7898/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/df8ca71e-8603-49bf-bf67-b619ce7f7898/playlist.m3u8"
+      },
+      "id": "movie_195",
+      "addedAt": "2026-05-03T03:41:38.468Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 51
+    },
+    {
+      "type": "movie",
+      "title": "Shrek Felices Para Siempre",
+      "description": "Cansado de su vida rutinaria, Shrek hace un trato con Rumpelstiltskin que lo lleva a una realidad alternativa donde nunca nació. En este mundo oscuro, deberá encontrar la forma de recuperar su vida y el amor de Fiona antes de que sea demasiado tarde.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/04f39428-8cbc-4712-9f1f-143bcf2b6749/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/04f39428-8cbc-4712-9f1f-143bcf2b6749/playlist.m3u8"
+      },
+      "id": "movie_196",
+      "addedAt": "2026-05-03T03:43:17.210Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 52
     }
   ],
   "series": [
@@ -18648,8 +18833,8 @@
           "title": "Capítulo 1",
           "slotId": "ep_1260",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/62a775c4-444a-4508-9874-163b022fd03e/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/62a775c4-444a-4508-9874-163b022fd03e/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/55d52cf6-cfa0-4426-b955-cbd3778a1c93/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/55d52cf6-cfa0-4426-b955-cbd3778a1c93/playlist.m3u8"
           }
         },
         {
@@ -18657,8 +18842,8 @@
           "title": "Capítulo 2",
           "slotId": "ep_1261",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d35977c5-2b70-456d-ac58-e51d4db56cef/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/d35977c5-2b70-456d-ac58-e51d4db56cef/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1fc13d7a-bbbf-4578-b52c-2c5846a2a561/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/1fc13d7a-bbbf-4578-b52c-2c5846a2a561/playlist.m3u8"
           }
         },
         {
@@ -18666,8 +18851,8 @@
           "title": "Capítulo 3",
           "slotId": "ep_1262",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1c7933eb-f1f2-43dd-8427-14a08fae0aab/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/1c7933eb-f1f2-43dd-8427-14a08fae0aab/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7ca96a3c-5806-413f-85b6-c8a513b41a90/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/7ca96a3c-5806-413f-85b6-c8a513b41a90/playlist.m3u8"
           }
         },
         {
@@ -18675,8 +18860,8 @@
           "title": "Capítulo 4",
           "slotId": "ep_1263",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/03a19181-df7f-41af-971c-c539157be1dd/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/03a19181-df7f-41af-971c-c539157be1dd/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/df3198ae-b0b9-459b-9788-2385a1ba0448/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/df3198ae-b0b9-459b-9788-2385a1ba0448/playlist.m3u8"
           }
         },
         {
@@ -18684,8 +18869,8 @@
           "title": "Capítulo 5",
           "slotId": "ep_1264",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e3c7c448-e363-4eee-bdc7-789446886d32/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/e3c7c448-e363-4eee-bdc7-789446886d32/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/216ca3b2-7b6f-4a69-9b76-7bc0bb85b896/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/216ca3b2-7b6f-4a69-9b76-7bc0bb85b896/playlist.m3u8"
           }
         },
         {
@@ -18693,8 +18878,8 @@
           "title": "Capítulo 6",
           "slotId": "ep_1265",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/811f54db-77e1-420f-8620-f1c659de7588/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/811f54db-77e1-420f-8620-f1c659de7588/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a13c11cd-f1d5-4da7-a439-5089745a7135/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a13c11cd-f1d5-4da7-a439-5089745a7135/playlist.m3u8"
           }
         },
         {
@@ -18702,8 +18887,8 @@
           "title": "Capítulo 7",
           "slotId": "ep_1266",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/8439f078-26cb-4598-a071-79b50a7c7b41/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/8439f078-26cb-4598-a071-79b50a7c7b41/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ae158412-2244-4b2c-9b09-b5f2a648a3d4/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/ae158412-2244-4b2c-9b09-b5f2a648a3d4/playlist.m3u8"
           }
         },
         {
@@ -18711,8 +18896,8 @@
           "title": "Capítulo 8",
           "slotId": "ep_1267",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/366d28ee-32cb-4be4-8874-8ffeb747752b/playlist.m3u8",
-            "default": "https://vz-e5546235-a7a.b-cdn.net/366d28ee-32cb-4be4-8874-8ffeb747752b/playlist.m3u8"
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/4002971a-141a-482a-a48b-733623dca41f/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/4002971a-141a-482a-a48b-733623dca41f/playlist.m3u8"
           }
         }
       ],
@@ -26068,8 +26253,8 @@
     },
     {
       "type": "series",
-      "title": "Kenan y Kel T1",
-      "description": "La serie sigue a dos mejores amigos: Kenan, un chico trabajador que suele meterse en problemas, y Kel, un joven divertido, ingenuo y amante de la soda de naranja. Juntos viven situaciones caóticas y cómicas, normalmente causadas por los planes de Kenan y las ocurrencias de Kel.",
+      "title": "nop",
+      "description": "nop\n",
       "duration": "",
       "rating": "TV-PG",
       "quality": "LQ",

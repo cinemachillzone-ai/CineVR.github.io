@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 303
+    "catalogCount": 309
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4761,6 +4761,167 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 46
+    },
+    {
+      "type": "movie",
+      "title": "Nimona ",
+      "description": "En un mundo futurista con estética medieval, un caballero es acusado injustamente de un crimen y decide aliarse con Nimona, una joven rebelde con la habilidad de transformarse en cualquier criatura. Juntos intentan limpiar su nombre mientras desafían las reglas del sistema.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Action",
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_191",
+      "addedAt": "2026-05-03T03:34:17.734Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 47
+    },
+    {
+      "type": "movie",
+      "title": "Nosotros los Nobles",
+      "description": "Un empresario millonario decide darle una lección a sus hijos malcriados fingiendo que han perdido toda su fortuna. Obligados a trabajar por primera vez en sus vidas, los jóvenes deberán enfrentarse a la realidad y aprender el verdadero valor del dinero.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_192",
+      "addedAt": "2026-05-03T03:36:22.014Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 48
+    },
+    {
+      "type": "movie",
+      "title": "Shrek",
+      "description": "Shrek, un ogro solitario que disfruta su tranquilidad en el pantano, ve su hogar invadido por criaturas de cuentos. Para recuperarlo, hace un trato con un lord y emprende una misión para rescatar a una princesa, descubriendo en el camino el valor de la amistad y el amor verdadero.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_193",
+      "addedAt": "2026-05-03T03:38:57.645Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 49
+    },
+    {
+      "type": "movie",
+      "title": "Shrek 2",
+      "description": "Shrek y Fiona viajan al reino de Muy Muy Lejano para conocer a los padres de ella, quienes no esperan que su hija se haya casado con un ogro. Mientras intentan encajar, enfrentarán intrigas, magia y un plan para separarlos.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Romance",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_194",
+      "addedAt": "2026-05-03T03:40:20.759Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 50
+    },
+    {
+      "type": "movie",
+      "title": "Shrek Tercero",
+      "description": "Cuando el rey de Muy Muy Lejano enferma, Shrek se convierte en el heredero al trono… algo que no desea. Para evitarlo, emprende un viaje en busca de otro posible sucesor, mientras Fiona y sus amigas enfrentan nuevos desafíos en el reino.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_195",
+      "addedAt": "2026-05-03T03:41:38.468Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 51
+    },
+    {
+      "type": "movie",
+      "title": "Shrek Felices Para Siempre",
+      "description": "Cansado de su vida rutinaria, Shrek hace un trato con Rumpelstiltskin que lo lleva a una realidad alternativa donde nunca nació. En este mundo oscuro, deberá encontrar la forma de recuperar su vida y el amor de Fiona antes de que sea demasiado tarde.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Comedy",
+        "Animation",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_196",
+      "addedAt": "2026-05-03T03:43:17.210Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 52
     },
     {
       "type": "series",
@@ -17410,8 +17571,8 @@
     },
     {
       "type": "series",
-      "title": "Kenan y Kel T1",
-      "description": "La serie sigue a dos mejores amigos: Kenan, un chico trabajador que suele meterse en problemas, y Kel, un joven divertido, ingenuo y amante de la soda de naranja. Juntos viven situaciones caóticas y cómicas, normalmente causadas por los planes de Kenan y las ocurrencias de Kel.",
+      "title": "nop",
+      "description": "nop\n",
       "duration": "",
       "rating": "TV-PG",
       "quality": "LQ",
