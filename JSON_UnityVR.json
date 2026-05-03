@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 309
+    "catalogCount": 313
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -4922,6 +4922,107 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 52
+    },
+    {
+      "type": "movie",
+      "title": "Cómo Entrenar a tu Dragón",
+      "description": "Hipo, un joven vikingo que no encaja en su aldea, captura a un temido dragón… pero en lugar de matarlo, forma una inesperada amistad con él. Juntos cambiarán la forma en que humanos y dragones se ven entre sí.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Action",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_197",
+      "addedAt": "2026-05-03T22:12:45.003Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 53
+    },
+    {
+      "type": "movie",
+      "title": "Cómo Entrenar a tu Dragón 2",
+      "description": "Cinco años después, Hipo y Chimuelo exploran nuevos territorios mientras mantienen la paz entre humanos y dragones. Sin embargo, descubren una amenaza que pone en peligro todo lo que han construido, obligando a Hipo a asumir un papel más grande.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_198",
+      "addedAt": "2026-05-03T22:14:52.545Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 54
+    },
+    {
+      "type": "movie",
+      "title": "Cómo Entrenar a tu Dragón 3",
+      "description": "Hipo, ahora líder de su pueblo, busca un lugar seguro donde humanos y dragones puedan vivir en paz. Mientras tanto, Chimuelo conoce a una misteriosa dragona, y una nueva amenaza obliga a ambos a tomar decisiones que cambiarán su destino para siempre.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2026-05-03",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_199",
+      "addedAt": "2026-05-03T22:16:27.039Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 55
+    },
+    {
+      "type": "movie",
+      "title": "El Camino hacia El Dorado",
+      "description": "Tulio y Miguel, dos estafadores con gran suerte, encuentran un mapa que los lleva a la legendaria ciudad de El Dorado. Al llegar, son confundidos con dioses por los habitantes, lo que los mete en una serie de aventuras llenas de humor, peligros y decisiones importantes.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2026-05-03",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_200",
+      "addedAt": "2026-05-03T22:20:29.305Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 56
     },
     {
       "type": "series",
