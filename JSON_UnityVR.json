@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 313
+    "catalogCount": 316
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5023,6 +5023,54 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 56
+    },
+    {
+      "type": "movie",
+      "title": "Scary Movie",
+      "description": "Un grupo de adolescentes se ve envuelto en una serie de situaciones absurdas y peligrosas tras un misterioso accidente. Mientras intentan sobrevivir, la historia parodia múltiples películas de terror populares con humor exagerado y situaciones ridículas.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2026-05-04",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_201",
+      "addedAt": "2026-05-04T23:07:17.039Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 57
+    },
+    {
+      "type": "movie",
+      "title": "Scary Movie 2",
+      "description": "Un grupo de estudiantes es invitado a pasar un fin de semana en una mansión embrujada como parte de un experimento, pero pronto se enfrentan a fenómenos paranormales… todo con situaciones absurdas y humor exagerado que parodian películas de terror.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2026-05-04",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_202",
+      "addedAt": "2026-05-04T23:08:14.530Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 58
     },
     {
       "type": "series",
@@ -17672,16 +17720,19 @@
     },
     {
       "type": "series",
-      "title": "nop",
-      "description": "nop\n",
+      "title": "Rick y Morty T3",
+      "description": "Tras los eventos anteriores, Rick regresa a la familia con más caos que nunca. Las aventuras se vuelven más intensas y profundas, explorando dimensiones peligrosas, conflictos familiares y las consecuencias de las decisiones de Rick en todos los niveles.",
       "duration": "",
-      "rating": "TV-PG",
+      "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
-      "year": 1996,
+      "year": 2017,
       "releaseDate": "2026-04-14",
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
       ],
       "languages": [
         "Spanish"
@@ -17737,26 +17788,6 @@
           "id": "s01e10",
           "title": "Capítulo 10",
           "slotId": "ep_1987"
-        },
-        {
-          "id": "s01e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_1988"
-        },
-        {
-          "id": "s01e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_1989"
-        },
-        {
-          "id": "s01e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_1990"
-        },
-        {
-          "id": "s01e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_1991"
         }
       ],
       "id": "series_101",
@@ -19036,6 +19067,100 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 37
+    },
+    {
+      "type": "series",
+      "title": "Elfen Lied",
+      "description": "Lucy, una joven con habilidades telequinéticas mortales, escapa de un laboratorio donde era objeto de experimentos. Tras perder la memoria, desarrolla una segunda personalidad más inocente, mientras es perseguida por quienes quieren capturarla de nuevo.",
+      "duration": "",
+      "rating": "R",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-05-04",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Drama",
+        "Sci-Fi",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2259"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2260"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2261"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2262"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2263"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2264"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2265"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2266"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2267"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2268"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2269"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2270"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2271"
+        }
+      ],
+      "id": "series_116",
+      "addedAt": "2026-05-04T23:25:58.556Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 59
     }
   ]
 }
