@@ -5866,6 +5866,175 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 58
+    },
+    {
+      "type": "movie",
+      "title": "Memorias de un Caracol ",
+      "description": "La historia sigue a Grace, una mujer solitaria que reflexiona sobre su vida marcada por pérdidas, obsesiones y momentos extraños. A través de recuerdos íntimos y oscuros, explora su identidad y las conexiones humanas de una manera única.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2026-05-05",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/a46d1588-bea5-4a1e-ac7e-3b361e475fed/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a46d1588-bea5-4a1e-ac7e-3b361e475fed/playlist.m3u8"
+      },
+      "id": "movie_203",
+      "addedAt": "2026-05-05T23:48:51.048Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 60
+    },
+    {
+      "type": "movie",
+      "title": "Bean: El Nombre del Desastre",
+      "description": "Mr. Bean, un hombre torpe y peculiar, es enviado a Estados Unidos para supervisar una valiosa obra de arte en un museo. Sin embargo, su presencia provoca una serie de desastres cómicos que complican todo a su alrededor.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1997,
+      "releaseDate": "2026-05-05",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/2d3ae658-b45d-4077-9d2c-74f1d3bfd510/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2d3ae658-b45d-4077-9d2c-74f1d3bfd510/playlist.m3u8"
+      },
+      "id": "movie_204",
+      "addedAt": "2026-05-05T23:52:32.043Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 61
+    },
+    {
+      "type": "movie",
+      "title": "Las Vacaciones de Mr. Bean",
+      "description": "Mr. Bean gana un viaje a la Riviera francesa y se embarca en unas vacaciones que rápidamente se convierten en una serie de situaciones caóticas y divertidas. En el camino, se cruza con distintos personajes y provoca accidentes inesperados mientras intenta llegar a su destino.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-05-05",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/dc83dde6-eb7b-4bb4-9b18-e96d020df6b6/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/dc83dde6-eb7b-4bb4-9b18-e96d020df6b6/playlist.m3u8"
+      },
+      "id": "movie_205",
+      "addedAt": "2026-05-05T23:53:55.772Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 62
+    },
+    {
+      "type": "movie",
+      "title": "Las Guerreras K-Pop",
+      "description": "Un famoso grupo de idols de K-pop lleva una doble vida: mientras brillan en los escenarios, en secreto luchan contra demonios para proteger a la humanidad. Usando el poder de su música y su voz, enfrentan amenazas sobrenaturales cada vez más peligrosas.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-05",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/50221417-0f73-46d1-8b28-a7cf0fd93da2/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/50221417-0f73-46d1-8b28-a7cf0fd93da2/playlist.m3u8"
+      },
+      "id": "movie_206",
+      "addedAt": "2026-05-06T00:01:38.779Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 63
+    },
+    {
+      "type": "movie",
+      "title": "El Origen de los Guardianes",
+      "description": "Cuando un espíritu maligno amenaza con llenar de miedo el mundo, los Guardianes —como Santa Claus, el Hada de los Dientes y el Conejo de Pascua— reclutan a Jack Frost, un joven con poderes de hielo, para ayudar a proteger la esperanza y la imaginación de los niños.",
+      "duration": "",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2026-05-06",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Family",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/d03075fd-d9e6-46e4-891b-4802b2229994/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d03075fd-d9e6-46e4-891b-4802b2229994/playlist.m3u8"
+      },
+      "id": "movie_207",
+      "addedAt": "2026-05-06T00:04:24.262Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 64
+    },
+    {
+      "type": "movie",
+      "title": "BTS: El Regreso",
+      "description": "Tras completar su servicio militar, los integrantes de BTS se reúnen en Los Ángeles para crear su nuevo álbum Arirang. El documental muestra su proceso creativo, dudas, conflictos y crecimiento personal mientras intentan redefinir su identidad como grupo en esta nueva etapa",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-06",
+      "genres": [
+        "Documentary"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/f540ae06-51ba-44ed-a6ca-86cab6b50e30/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f540ae06-51ba-44ed-a6ca-86cab6b50e30/playlist.m3u8"
+      },
+      "id": "movie_208",
+      "addedAt": "2026-05-06T00:06:40.823Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 65
     }
   ],
   "series": [
