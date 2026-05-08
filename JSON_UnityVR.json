@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 322
+    "catalogCount": 326
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5216,6 +5216,76 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 65
+    },
+    {
+      "type": "movie",
+      "title": "Apocalypse Now",
+      "description": "Durante la Guerra de Vietnam, el capitán Willard recibe la misión de encontrar y eliminar al coronel Kurtz, un militar que se ha apartado del ejército y gobierna su propio territorio en la selva. A medida que avanza el viaje, la misión se convierte en una exploración oscura sobre la guerra y la locura humana.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_209",
+      "addedAt": "2026-05-08T00:49:06.004Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 66
+    },
+    {
+      "type": "movie",
+      "title": "Dulce y Amargo",
+      "description": "Una pareja comienza una relación llena de amor y emoción, pero con el tiempo las responsabilidades, el trabajo y la distancia empiezan a afectar su conexión. Ambos deberán enfrentar los cambios de la vida adulta y decidir qué significa realmente amar a alguien.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-05-08",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_210",
+      "addedAt": "2026-05-08T00:53:11.099Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 67
+    },
+    {
+      "type": "movie",
+      "title": "Ojo por Ojo",
+      "description": "Karen McCann, una madre devastada por una tragedia familiar, pierde la fe en el sistema judicial cuando el responsable queda libre. Consumida por el dolor y la impotencia, comienza a considerar hacer justicia por su propia cuenta",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1996,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_211",
+      "addedAt": "2026-05-08T00:56:06.006Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 68
     },
     {
       "type": "series",
@@ -19306,6 +19376,84 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 59
+    },
+    {
+      "type": "series",
+      "title": "Rick y Morty T4",
+      "description": "Rick y Morty continúan viajando por dimensiones y planetas extraños mientras enfrentan criaturas absurdas, tecnologías peligrosas y conflictos familiares. Esta temporada mezcla aventuras caóticas con episodios que exploran más la relación entre los personajes.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2272"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2273"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2274"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2275"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2276"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2277"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2278"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2279"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2280"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2281"
+        }
+      ],
+      "id": "series_117",
+      "addedAt": "2026-05-08T01:02:22.449Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 69
     }
   ]
 }

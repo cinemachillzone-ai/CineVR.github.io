@@ -6035,6 +6035,88 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 65
+    },
+    {
+      "type": "movie",
+      "title": "Apocalypse Now",
+      "description": "Durante la Guerra de Vietnam, el capitán Willard recibe la misión de encontrar y eliminar al coronel Kurtz, un militar que se ha apartado del ejército y gobierna su propio territorio en la selva. A medida que avanza el viaje, la misión se convierte en una exploración oscura sobre la guerra y la locura humana.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/3b13f09a-d47c-434e-9ae7-d65f8dd62fab/playlist.m3u8",
+        "language_Spanish": "https://micinemaxr.b-cdn.net/Movie/ApocalipsisAhora.mp4"
+      },
+      "id": "movie_209",
+      "addedAt": "2026-05-08T00:49:06.004Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 66
+    },
+    {
+      "type": "movie",
+      "title": "Dulce y Amargo",
+      "description": "Una pareja comienza una relación llena de amor y emoción, pero con el tiempo las responsabilidades, el trabajo y la distancia empiezan a afectar su conexión. Ambos deberán enfrentar los cambios de la vida adulta y decidir qué significa realmente amar a alguien.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2026-05-08",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/d42e9e94-e9d4-4ae8-a5e6-cd07c77182df/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d42e9e94-e9d4-4ae8-a5e6-cd07c77182df/playlist.m3u8"
+      },
+      "id": "movie_210",
+      "addedAt": "2026-05-08T00:53:11.099Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 67
+    },
+    {
+      "type": "movie",
+      "title": "Ojo por Ojo",
+      "description": "Karen McCann, una madre devastada por una tragedia familiar, pierde la fe en el sistema judicial cuando el responsable queda libre. Consumida por el dolor y la impotencia, comienza a considerar hacer justicia por su propia cuenta",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1996,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/b145ce20-3be0-4678-bfb5-2f7fbc850bdc/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/b145ce20-3be0-4678-bfb5-2f7fbc850bdc/playlist.m3u8"
+      },
+      "id": "movie_211",
+      "addedAt": "2026-05-08T00:56:06.006Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 68
     }
   ],
   "series": [
@@ -28856,6 +28938,124 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 59
+    },
+    {
+      "type": "series",
+      "title": "Rick y Morty T4",
+      "description": "Rick y Morty continúan viajando por dimensiones y planetas extraños mientras enfrentan criaturas absurdas, tecnologías peligrosas y conflictos familiares. Esta temporada mezcla aventuras caóticas con episodios que exploran más la relación entre los personajes.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-08",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2272",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7df1f3f4-9557-40ac-988a-fe300716574d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/7df1f3f4-9557-40ac-988a-fe300716574d/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2273",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/60eb5cc7-8c52-4db6-9d89-c9166b2365d9/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/60eb5cc7-8c52-4db6-9d89-c9166b2365d9/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2274",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/84924858-2ab7-4fae-bc2e-636a6ac54d2f/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/84924858-2ab7-4fae-bc2e-636a6ac54d2f/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2275",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ce747866-4bbe-4ae0-b243-dfb5226f2518/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/ce747866-4bbe-4ae0-b243-dfb5226f2518/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2276",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2e0408a7-1dbe-4777-b69e-6b6694d452e7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/2e0408a7-1dbe-4777-b69e-6b6694d452e7/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2277",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/440837e9-d334-4ae1-a458-f5093dc81d40/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/440837e9-d334-4ae1-a458-f5093dc81d40/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2278",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/8aa2ecfd-8cd1-422e-b8bf-1149ddfc1d20/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/8aa2ecfd-8cd1-422e-b8bf-1149ddfc1d20/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2279",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5692e833-b396-46d2-8b04-70b3b1d7eec3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/5692e833-b396-46d2-8b04-70b3b1d7eec3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2280",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6b31d915-56ef-4bab-b859-109c144d6960/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/6b31d915-56ef-4bab-b859-109c144d6960/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2281",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a2a99d54-dd62-407c-85c8-899c0ed8518d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a2a99d54-dd62-407c-85c8-899c0ed8518d/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_117",
+      "addedAt": "2026-05-08T01:02:22.449Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 69
     }
   ]
 }
