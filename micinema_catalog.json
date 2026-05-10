@@ -6117,6 +6117,67 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 68
+    },
+    {
+      "type": "movie",
+      "title": "Chainsaw Man: La Película – Arco de Reze",
+      "description": "Después de un encuentro inesperado bajo la lluvia, Denji conoce a Reze, una chica amable y misteriosa que rápidamente cambia su vida. Mientras intenta disfrutar una vida más normal, nuevas amenazas aparecen y lo arrastran a uno de los conflictos más peligrosos y emocionales de la historia de Chainsaw Man.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "https://vz-e5546235-a7a.b-cdn.net/c68c6d61-e3ea-43db-9fbf-40fedb1f0d7d/playlist.m3u8",
+        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c68c6d61-e3ea-43db-9fbf-40fedb1f0d7d/playlist.m3u8"
+      },
+      "id": "movie_212",
+      "addedAt": "2026-05-10T00:03:13.695Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 70
+    },
+    {
+      "type": "movie",
+      "title": "Demon Slayer: Castillo Infinito",
+      "description": "Tanjiro y los cazadores de demonios son arrastrados al misterioso Castillo Infinito, la fortaleza de Muzan Kibutsuji. Allí comienza una batalla decisiva contra las lunas superiores, donde cada enfrentamiento pone en riesgo el destino de la humanidad y de los propios protagonistas.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "links": {
+        "default": "Demon Slayer: Castillo Infinito",
+        "language_Spanish": "Demon Slayer: Castillo Infinito"
+      },
+      "id": "movie_213",
+      "addedAt": "2026-05-10T00:05:32.188Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 71
     }
   ],
   "series": [
@@ -29056,6 +29117,579 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 69
+    },
+    {
+      "type": "series",
+      "title": "Grey’s Anatomy T1",
+      "description": "Meredith Grey comienza su residencia médica en el hospital Seattle Grace junto a otros jóvenes internos. Mientras aprenden a salvar vidas y enfrentan la presión del mundo médico, también lidian con relaciones personales, amistades y problemas emocionales.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2282",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d2e58501-3af5-45d7-b6ef-eca7dda6f557/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/d2e58501-3af5-45d7-b6ef-eca7dda6f557/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2283",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e18fba36-26a1-4223-830e-375ab62bc5db/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/e18fba36-26a1-4223-830e-375ab62bc5db/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2284",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2eab05a5-d837-4bb7-a0f4-3ccc2397c9e8/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/2eab05a5-d837-4bb7-a0f4-3ccc2397c9e8/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2285",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/285009e8-5255-48b2-9e65-186e35ca646e/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/285009e8-5255-48b2-9e65-186e35ca646e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2286",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7e7f8599-26a7-417a-b96c-11af899043d2/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/7e7f8599-26a7-417a-b96c-11af899043d2/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2287",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/0132dafa-d747-49e1-b364-e254ce5865c7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/0132dafa-d747-49e1-b364-e254ce5865c7/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2288",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/844125bf-7d50-4fe0-b2d6-4fe43b21adaf/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/844125bf-7d50-4fe0-b2d6-4fe43b21adaf/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2289",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/60bd2e43-feda-428d-aa8f-f6546b247465/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/60bd2e43-feda-428d-aa8f-f6546b247465/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2290",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2a5f54a1-9760-4956-9b36-f34ec7aecd37/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/2a5f54a1-9760-4956-9b36-f34ec7aecd37/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_118",
+      "addedAt": "2026-05-10T00:12:44.876Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 72
+    },
+    {
+      "type": "series",
+      "title": "The Pitt",
+      "description": "La serie sigue al personal médico de una sala de emergencias en Pittsburgh durante un turno extremadamente intenso. Cada episodio representa una hora del mismo día, mostrando casos médicos críticos, presión emocional y los desafíos reales del sistema de salud mientras los doctores intentan salvar vidas.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2291",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6d3e3873-98fc-4e0a-a083-491c4d6169b2/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/6d3e3873-98fc-4e0a-a083-491c4d6169b2/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2292",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e83734ea-071e-4eba-95da-ba0a1f228d63/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/e83734ea-071e-4eba-95da-ba0a1f228d63/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2293",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a8850526-a10a-497d-b670-11078988fd8d/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a8850526-a10a-497d-b670-11078988fd8d/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2294",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/6026e419-8a54-4321-b3c3-60cbf4110dfe/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/6026e419-8a54-4321-b3c3-60cbf4110dfe/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2295",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d9918c84-50ef-4110-8832-78f95f491e33/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/d9918c84-50ef-4110-8832-78f95f491e33/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2296",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a7b525f5-3c22-44dc-bfa5-54e6add2fbfd/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a7b525f5-3c22-44dc-bfa5-54e6add2fbfd/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2297",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/547ec9f9-724f-494f-90a9-232a51616b68/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/547ec9f9-724f-494f-90a9-232a51616b68/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2298",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/8ec8cb73-a994-44a4-b5ec-e1c61bb71893/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/8ec8cb73-a994-44a4-b5ec-e1c61bb71893/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2299",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c1fb2e30-ed0e-481d-9f40-3fe85a13c6de/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/c1fb2e30-ed0e-481d-9f40-3fe85a13c6de/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2300",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/27b0df3e-342e-48af-a2cb-f7490d1173db/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/27b0df3e-342e-48af-a2cb-f7490d1173db/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2301",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/30d1e1be-413d-4dce-9625-daff7f161868/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/30d1e1be-413d-4dce-9625-daff7f161868/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2302",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/fd9ae506-5731-46c1-b56a-d17e3cb69eeb/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/fd9ae506-5731-46c1-b56a-d17e3cb69eeb/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2303",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d927f4b1-0b18-415c-b0b1-368e011cde61/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/d927f4b1-0b18-415c-b0b1-368e011cde61/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2304",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5365763e-bde1-47f9-8def-4faa58197445/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/5365763e-bde1-47f9-8def-4faa58197445/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2305",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c960f6dd-3311-47fa-85cb-ab21beb2ba0e/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/c960f6dd-3311-47fa-85cb-ab21beb2ba0e/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_119",
+      "addedAt": "2026-05-10T00:19:38.171Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 73
+    },
+    {
+      "type": "series",
+      "title": "Dr. House T1",
+      "description": "El Dr. Gregory House, un médico brillante pero antisocial, lidera un equipo especializado en diagnosticar enfermedades extrañas y casos casi imposibles. Mientras resuelve misterios médicos complejos, su actitud sarcástica y métodos poco convencionales generan constantes conflictos.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2306",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/0539cc1e-ce1a-4ba4-a7dd-f045bcfcdb01/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/0539cc1e-ce1a-4ba4-a7dd-f045bcfcdb01/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2307",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/cdea6d4a-06c3-47a4-9599-b338bf0e6e13/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/cdea6d4a-06c3-47a4-9599-b338bf0e6e13/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2308",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/80a91847-6a8a-4e3e-8968-ceba1e45eba7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/80a91847-6a8a-4e3e-8968-ceba1e45eba7/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2309",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/68f024f2-6ec6-468d-ae41-f45b43cd9f42/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/68f024f2-6ec6-468d-ae41-f45b43cd9f42/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2310",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/72cb1e97-db8f-4c53-9332-46771f274509/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/72cb1e97-db8f-4c53-9332-46771f274509/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2311",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/381c7e81-f356-491c-b4cd-f487c31c5efa/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/381c7e81-f356-491c-b4cd-f487c31c5efa/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2312",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/72e4dc3c-6238-4391-be10-142774ec60c3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/72e4dc3c-6238-4391-be10-142774ec60c3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2313",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7757ad34-3bab-4939-ba17-55ef9c77046f/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/7757ad34-3bab-4939-ba17-55ef9c77046f/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2314",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a4a963ba-a88e-4fd2-941d-2cda74484b74/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a4a963ba-a88e-4fd2-941d-2cda74484b74/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2315",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/5d4fe9a1-392d-4879-9310-b82b2804acc7/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/5d4fe9a1-392d-4879-9310-b82b2804acc7/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2316",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a293b230-73b0-4e03-b88a-297491665d9c/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a293b230-73b0-4e03-b88a-297491665d9c/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2317",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/c9c17b40-c914-4314-bd83-64d2a9e26f0b/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/c9c17b40-c914-4314-bd83-64d2a9e26f0b/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2318",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/54118130-980a-41ae-8cdf-7f43bed2643a/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/54118130-980a-41ae-8cdf-7f43bed2643a/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2319",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a501a12e-3650-4604-9b71-b40036144b87/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a501a12e-3650-4604-9b71-b40036144b87/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2320",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/453b0bc1-7474-43c5-a316-770cbb900d7e/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/453b0bc1-7474-43c5-a316-770cbb900d7e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2321",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/96b38ec4-965d-4878-92b8-7524f542b539/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/96b38ec4-965d-4878-92b8-7524f542b539/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2322",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/05c3e47f-c28b-40b0-8c5b-f5ee80c60e8b/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/05c3e47f-c28b-40b0-8c5b-f5ee80c60e8b/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2323",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/55c24632-f513-4dfb-b9ba-dd4b69c2223a/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/55c24632-f513-4dfb-b9ba-dd4b69c2223a/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2324",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ae958733-b3c4-4a2f-8521-53f7a11ebd4e/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/ae958733-b3c4-4a2f-8521-53f7a11ebd4e/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2325",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/02075e33-a2f7-4c31-9d9f-be40b425c26a/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/02075e33-a2f7-4c31-9d9f-be40b425c26a/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e21",
+          "title": "Capítulo 21",
+          "slotId": "ep_2326",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/a9532d9c-5e1e-4783-b153-94aaf3640ff8/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/a9532d9c-5e1e-4783-b153-94aaf3640ff8/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e22",
+          "title": "Capítulo 22",
+          "slotId": "ep_2327",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f522376c-d8dd-425d-a635-05e3547cf2cc/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/f522376c-d8dd-425d-a635-05e3547cf2cc/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_120",
+      "addedAt": "2026-05-10T00:28:37.652Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 74
+    },
+    {
+      "type": "series",
+      "title": "Takopii no Genzai",
+      "description": "Takopi, un pequeño extraterrestre proveniente del “Planeta Happy”, llega a la Tierra con la misión de hacer felices a las personas. Allí conoce a Shizuka, una niña que sufre acoso escolar y problemas familiares. Mientras intenta ayudarla con extraños gadgets futuristas, Takopi descubre lo cruel y compleja que puede ser la realidad humana.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2328",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/3381ca4e-5632-4ba2-b69d-d6ca787f9de3/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/3381ca4e-5632-4ba2-b69d-d6ca787f9de3/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2329",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2d834000-2653-4838-9074-f1fdfd15db74/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/2d834000-2653-4838-9074-f1fdfd15db74/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2330",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/85aeb188-80c0-42be-81f5-9e57e0b31c00/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/85aeb188-80c0-42be-81f5-9e57e0b31c00/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2331",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/099d484f-34f8-4dfd-97f5-dc4390cfdd76/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/099d484f-34f8-4dfd-97f5-dc4390cfdd76/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2332",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/455f8e82-6cff-481f-9547-c04b8f2ea2b2/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/455f8e82-6cff-481f-9547-c04b8f2ea2b2/playlist.m3u8"
+          }
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2333",
+          "links": {
+            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/65b486b4-c3c6-4e7b-b408-eec9b1ed69ce/playlist.m3u8",
+            "default": "https://vz-e5546235-a7a.b-cdn.net/65b486b4-c3c6-4e7b-b408-eec9b1ed69ce/playlist.m3u8"
+          }
+        }
+      ],
+      "id": "series_121",
+      "addedAt": "2026-05-10T00:33:07.125Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 75
     }
   ]
 }

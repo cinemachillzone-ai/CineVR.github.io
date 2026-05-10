@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 326
+    "catalogCount": 332
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5286,6 +5286,59 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 68
+    },
+    {
+      "type": "movie",
+      "title": "Chainsaw Man: La Película – Arco de Reze",
+      "description": "Después de un encuentro inesperado bajo la lluvia, Denji conoce a Reze, una chica amable y misteriosa que rápidamente cambia su vida. Mientras intenta disfrutar una vida más normal, nuevas amenazas aparecen y lo arrastran a uno de los conflictos más peligrosos y emocionales de la historia de Chainsaw Man.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_212",
+      "addedAt": "2026-05-10T00:03:13.695Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 70
+    },
+    {
+      "type": "movie",
+      "title": "Demon Slayer: Castillo Infinito",
+      "description": "Tanjiro y los cazadores de demonios son arrastrados al misterioso Castillo Infinito, la fortaleza de Muzan Kibutsuji. Allí comienza una batalla decisiva contra las lunas superiores, donde cada enfrentamiento pone en riesgo el destino de la humanidad y de los propios protagonistas.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_213",
+      "addedAt": "2026-05-10T00:05:32.188Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 71
     },
     {
       "type": "series",
@@ -19454,6 +19507,371 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 69
+    },
+    {
+      "type": "series",
+      "title": "Grey’s Anatomy T1",
+      "description": "Meredith Grey comienza su residencia médica en el hospital Seattle Grace junto a otros jóvenes internos. Mientras aprenden a salvar vidas y enfrentan la presión del mundo médico, también lidian con relaciones personales, amistades y problemas emocionales.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2282"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2283"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2284"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2285"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2286"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2287"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2288"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2289"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2290"
+        }
+      ],
+      "id": "series_118",
+      "addedAt": "2026-05-10T00:12:44.876Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 72
+    },
+    {
+      "type": "series",
+      "title": "The Pitt",
+      "description": "La serie sigue al personal médico de una sala de emergencias en Pittsburgh durante un turno extremadamente intenso. Cada episodio representa una hora del mismo día, mostrando casos médicos críticos, presión emocional y los desafíos reales del sistema de salud mientras los doctores intentan salvar vidas.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2291"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2292"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2293"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2294"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2295"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2296"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2297"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2298"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2299"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2300"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2301"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2302"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2303"
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2304"
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2305"
+        }
+      ],
+      "id": "series_119",
+      "addedAt": "2026-05-10T00:19:38.171Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 73
+    },
+    {
+      "type": "series",
+      "title": "Dr. House T1",
+      "description": "El Dr. Gregory House, un médico brillante pero antisocial, lidera un equipo especializado en diagnosticar enfermedades extrañas y casos casi imposibles. Mientras resuelve misterios médicos complejos, su actitud sarcástica y métodos poco convencionales generan constantes conflictos.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2306"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2307"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2308"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2309"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2310"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2311"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2312"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2313"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2314"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2315"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2316"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2317"
+        },
+        {
+          "id": "s01e13",
+          "title": "Capítulo 13",
+          "slotId": "ep_2318"
+        },
+        {
+          "id": "s01e14",
+          "title": "Capítulo 14",
+          "slotId": "ep_2319"
+        },
+        {
+          "id": "s01e15",
+          "title": "Capítulo 15",
+          "slotId": "ep_2320"
+        },
+        {
+          "id": "s01e16",
+          "title": "Capítulo 16",
+          "slotId": "ep_2321"
+        },
+        {
+          "id": "s01e17",
+          "title": "Capítulo 17",
+          "slotId": "ep_2322"
+        },
+        {
+          "id": "s01e18",
+          "title": "Capítulo 18",
+          "slotId": "ep_2323"
+        },
+        {
+          "id": "s01e19",
+          "title": "Capítulo 19",
+          "slotId": "ep_2324"
+        },
+        {
+          "id": "s01e20",
+          "title": "Capítulo 20",
+          "slotId": "ep_2325"
+        },
+        {
+          "id": "s01e21",
+          "title": "Capítulo 21",
+          "slotId": "ep_2326"
+        },
+        {
+          "id": "s01e22",
+          "title": "Capítulo 22",
+          "slotId": "ep_2327"
+        }
+      ],
+      "id": "series_120",
+      "addedAt": "2026-05-10T00:28:37.652Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 74
+    },
+    {
+      "type": "series",
+      "title": "Takopii no Genzai",
+      "description": "Takopi, un pequeño extraterrestre proveniente del “Planeta Happy”, llega a la Tierra con la misión de hacer felices a las personas. Allí conoce a Shizuka, una niña que sufre acoso escolar y problemas familiares. Mientras intenta ayudarla con extraños gadgets futuristas, Takopi descubre lo cruel y compleja que puede ser la realidad humana.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-10",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2328"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2329"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2330"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2331"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2332"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2333"
+        }
+      ],
+      "id": "series_121",
+      "addedAt": "2026-05-10T00:33:07.125Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 75
     }
   ]
 }
