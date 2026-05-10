@@ -3592,5 +3592,17 @@
     "user": "Admin",
     "action": "ADD",
     "targetId": "series_121"
+  },
+  {
+    "timestamp": "2026-05-10T00:37:29.249Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_099"
+  },
+  {
+    "timestamp": "2026-05-10T00:41:18.867Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_100"
   }
 ]
