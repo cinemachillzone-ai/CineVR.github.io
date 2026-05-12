@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 332
+    "catalogCount": 339
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5339,6 +5339,181 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 71
+    },
+    {
+      "type": "movie",
+      "title": "La Singular Vida de Ibelin",
+      "description": "El documental cuenta la vida de Mats Steen, un joven noruego con una enfermedad degenerativa que pasó gran parte de su vida conectado a videojuegos en línea. Tras su fallecimiento, su familia descubre el enorme impacto que tuvo en las vidas de muchas personas dentro del mundo virtual.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Documentary"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_214",
+      "addedAt": "2026-05-12T01:57:06.441Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 76
+    },
+    {
+      "type": "movie",
+      "title": "Criaturas Luminosas",
+      "description": "Tova, una viuda que trabaja en un pequeño acuario, desarrolla una inesperada amistad con Marcellus, un pulpo gigante extremadamente inteligente. Mientras conviven, ambos ayudan a un joven perdido a enfrentar secretos del pasado y encontrar nuevas oportunidades en la",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_215",
+      "addedAt": "2026-05-12T01:59:16.369Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 77
+    },
+    {
+      "type": "movie",
+      "title": "La Niña de la Foto",
+      "description": "Un misterioso caso comienza cuando una joven mujer aparece gravemente herida y muere poco después. A medida que avanza la investigación, salen a la luz secretos impactantes sobre su verdadera identidad, su pasado y la peligrosa persona que controló su vida durante años.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Documentary",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_216",
+      "addedAt": "2026-05-12T02:01:31.013Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 78
+    },
+    {
+      "type": "movie",
+      "title": "96 Minutos",
+      "description": "La película sigue las vidas de cuatro adolescentes cuyas decisiones los llevan a una situación violenta y desesperada. A través de diferentes perspectivas y en tiempo casi real, se muestra cómo una serie de eventos termina en un secuestro de auto que cambia sus vidas para siempre.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_217",
+      "addedAt": "2026-05-12T02:04:00.994Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 79
+    },
+    {
+      "type": "movie",
+      "title": "Intercambiados",
+      "description": "Una pequeña criatura del bosque y un majestuoso pájaro intercambian cuerpos mágicamente. Obligados a vivir en la piel de su enemigo natural, ambos deberán aprender a cooperar para sobrevivir a una aventura llena de peligros, humor y descubrimientos inesperados.",
+      "duration": "",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_218",
+      "addedAt": "2026-05-12T02:06:23.609Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 80
+    },
+    {
+      "type": "movie",
+      "title": "Proyecto Fin del Mundo",
+      "description": "Ryland Grace, un profesor de ciencias convertido en astronauta, despierta solo en una nave espacial a años luz de la Tierra sin recordar quién es ni cuál es su misión. Poco a poco descubre que debe encontrar una forma de salvar al Sol y evitar la extinción de la humanidad.",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_219",
+      "addedAt": "2026-05-12T02:08:46.999Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 81
+    },
+    {
+      "type": "movie",
+      "title": "Sangre Asesina",
+      "description": "Lhan, una joven con un tipo de sangre extremadamente raro, vive huyendo de un despiadado cazador que asesinó a sus padres. Tras ser rescatada por una organización de asesinos en Tailandia, crece rodeada de peligros y secretos, mientras desarrolla una relación con uno de los guardaespaldas encargados de protegerla. Cuando su pasado vuelve a alcanzarla, deberá luchar por su libertad y su vida",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-12",
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_220",
+      "addedAt": "2026-05-12T02:11:07.622Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 82
     },
     {
       "type": "series",
