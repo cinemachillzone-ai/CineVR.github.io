@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 339
+    "catalogCount": 346
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5514,6 +5514,185 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 82
+    },
+    {
+      "type": "movie",
+      "title": "El Chico y la Garza",
+      "description": "Después de perder a su madre durante la guerra, Mahito se muda al campo junto a su padre. Allí conoce a una misteriosa garza parlante que lo guía hacia un mundo fantástico lleno de criaturas extrañas, secretos y desafíos que cambiarán su v",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_221",
+      "addedAt": "2026-05-14T00:53:38.052Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 83
+    },
+    {
+      "type": "movie",
+      "title": "Kill Bill: Volumen 1",
+      "description": "Una exasesina conocida como “La Novia” despierta de un coma después de años y comienza una violenta misión de venganza contra las personas que intentaron matarla el día de su boda. Su camino la lleva a enfrentamientos brutales con antiguos compañeros asesinos.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_222",
+      "addedAt": "2026-05-14T00:55:50.943Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 84
+    },
+    {
+      "type": "movie",
+      "title": "Peaky Blinders: El Hombre Inmortal",
+      "description": "Tommy Shelby regresa años después de los eventos de la serie original, en plena Segunda Guerra Mundial. Mientras intenta dejar atrás su pasado, una nueva conspiración relacionada con los nazis y amenazas contra su familia lo obligan a volver al mundo criminal de Birmingham para una última batalla.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "History"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_223",
+      "addedAt": "2026-05-14T00:58:00.856Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 85
+    },
+    {
+      "type": "movie",
+      "title": "Perfect Blue",
+      "description": "Mima, una cantante pop que decide convertirse en actriz, comienza a perder el control de la realidad mientras enfrenta acoso, presión mediática y una serie de eventos perturbadores. Poco a poco, la línea entre su verdadera identidad y sus personajes se vuelve cada vez más confusa.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1997,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Animation",
+        "Thriller",
+        "Horror",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_224",
+      "addedAt": "2026-05-14T00:59:58.245Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 86
+    },
+    {
+      "type": "movie",
+      "title": "Taxi Driver",
+      "description": "Travis Bickle, un veterano de guerra solitario e insomne, trabaja como taxista nocturno en Nueva York. Mientras recorre las calles llenas de violencia y decadencia, su aislamiento y frustración comienzan a llevarlo hacia una peligrosa obsesión con “limpiar” la ciudad.",
+      "duration": "",
+      "rating": "R",
+      "quality": "None",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_225",
+      "addedAt": "2026-05-14T01:02:09.118Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 87
+    },
+    {
+      "type": "movie",
+      "title": "The Punisher: La Última Muerte",
+      "description": "Frank Castle intenta dejar atrás su vida de violencia y encontrar un propósito más allá de la venganza. Sin embargo, una nueva amenaza criminal lo obliga a volver a convertirse en The Punisher, enfrentándose nuevamente a un mundo lleno de brutalidad y corrupción",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_226",
+      "addedAt": "2026-05-14T01:08:12.452Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 88
+    },
+    {
+      "type": "movie",
+      "title": "Tropa de Élite",
+      "description": "El capitán Nascimento, líder de una unidad policial de élite en Río de Janeiro, busca a alguien que pueda reemplazarlo mientras combate el crimen organizado y la corrupción. La presión del trabajo y la violencia extrema comienzan a afectar su vida personal y mental.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-05-14",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_227",
+      "addedAt": "2026-05-14T01:10:43.387Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 89
     },
     {
       "type": "series",
