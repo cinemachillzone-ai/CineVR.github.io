@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 346
+    "catalogCount": 347
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5693,6 +5693,31 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 89
+    },
+    {
+      "type": "movie",
+      "title": "Test",
+      "description": "",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-15",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_228",
+      "addedAt": "2026-05-15T06:16:36.107Z",
+      "addedBy": "Admin",
+      "atlas": "C",
+      "gridIndex": 90
     },
     {
       "type": "series",
