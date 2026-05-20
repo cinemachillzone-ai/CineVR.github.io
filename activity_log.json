@@ -3730,5 +3730,17 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_228"
+  },
+  {
+    "timestamp": "2026-05-20T04:01:12.665Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_228"
+  },
+  {
+    "timestamp": "2026-05-20T04:01:24.596Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
   }
 ]
