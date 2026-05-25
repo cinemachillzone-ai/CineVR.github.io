@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-20 05:47",
+  "lastUpdate": "2026-05-25 03:04",
   "patreonGlobal": false,
   "stars": [
     {
@@ -316,6 +316,33 @@
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 31,
+      "isStar": false
+    },
+    {
+      "id": "user_033",
+      "user": "MrDeckMacc",
+      "link": "",
+      "role": "Pareja",
+      "atlasIndex": 1,
+      "cellIndex": 0,
+      "isStar": false
+    },
+    {
+      "id": "user_034",
+      "user": "DandY_507",
+      "link": "",
+      "role": "Pareja",
+      "atlasIndex": 1,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_035",
+      "user": "yamiyamero",
+      "link": "",
+      "role": "Cine",
+      "atlasIndex": 1,
+      "cellIndex": 2,
       "isStar": false
     }
   ]
