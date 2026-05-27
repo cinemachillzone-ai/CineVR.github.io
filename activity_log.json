@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T17:15:15.441Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_037"
-  },
-  {
     "timestamp": "2026-04-09T17:15:51.006Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3005,5 +2999,12 @@
     "target": "series_121",
     "title": "soy una prueba",
     "episodes": 1
+  },
+  {
+    "ts": "2026-05-27T01:06:08.193Z",
+    "actor": "carmesi",
+    "action": "DELETE_SERIES",
+    "target": "series_121",
+    "title": "soy una prueba"
   }
 ]
