@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T02:51:54.255Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_031"
-  },
-  {
     "timestamp": "2026-04-10T02:53:20.168Z",
     "user": "Admin",
     "action": "ADD",
@@ -3006,6 +3000,13 @@
     "ts": "2026-05-27T02:09:09.792Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
+    "target": "movie_227",
+    "title": "ejemplo"
+  },
+  {
+    "ts": "2026-05-27T02:12:43.176Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
     "target": "movie_227",
     "title": "ejemplo"
   }
