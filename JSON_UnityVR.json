@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 348
+    "catalogCount": 347
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -22592,38 +22592,6 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 75
-    },
-    {
-      "id": "series_121",
-      "type": "series",
-      "title": "Esto es un Test",
-      "description": "",
-      "year": 2026,
-      "releaseDate": "2026-05-26",
-      "rating": "PG",
-      "quality": "HD",
-      "section": "catalog",
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 90,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "slotId": "ep_2245",
-          "title": "Capítulo 1",
-          "master_url": "",
-          "createdAt": "2026-05-27T00:44:00.327Z"
-        }
-      ],
-      "createdAt": "2026-05-27T00:44:00.327Z",
-      "updatedAt": "2026-05-27T00:44:00.327Z"
     }
   ]
 }
