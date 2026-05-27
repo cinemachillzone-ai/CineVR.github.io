@@ -5478,7 +5478,9 @@
       "addedAt": "2026-05-10T00:03:13.695Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 70
+      "gridIndex": 70,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
+      "updatedAt": "2026-05-27T18:44:02.647Z"
     },
     {
       "type": "movie",
