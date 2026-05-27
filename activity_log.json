@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T17:10:59.852Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_011"
-  },
-  {
     "timestamp": "2026-04-09T17:12:02.233Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3003,5 +2997,11 @@
     "action": "DELETE_SERIES",
     "target": "series_121",
     "title": "Esto es un Test"
+  },
+  {
+    "ts": "2026-05-27T01:01:52.671Z",
+    "actor": "carmesi",
+    "action": "RECALCULATE_INDICES",
+    "renames": 0
   }
 ]
