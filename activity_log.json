@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T16:07:14.014Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_077"
-  },
-  {
     "timestamp": "2026-04-09T16:07:21.896Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3000,5 +2994,12 @@
     "target": "series_121",
     "title": "Esto es un Test",
     "episodes": 1
+  },
+  {
+    "ts": "2026-05-27T00:48:19.355Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_001",
+    "title": "Alita: Battle Angel"
   }
 ]
