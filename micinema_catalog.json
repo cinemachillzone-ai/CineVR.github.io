@@ -6784,32 +6784,6 @@
       "atlas": "C",
       "gridIndex": 89,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8"
-    },
-    {
-      "id": "movie_227",
-      "type": "movie",
-      "title": "ejemplo",
-      "description": "",
-      "duration": "2m",
-      "rating": "G",
-      "quality": "HD",
-      "section": "Estrenos",
-      "year": 2026,
-      "releaseDate": "2026-05-26",
-      "genres": [
-        "Action"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 90,
-      "links": {
-        "default": ""
-      },
-      "master_url": "",
-      "createdAt": "2026-05-27T02:09:00.160Z",
-      "updatedAt": "2026-05-27T02:09:00.160Z"
     }
   ],
   "series": [
