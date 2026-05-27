@@ -32486,42 +32486,6 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 75
-    },
-    {
-      "id": "series_121",
-      "type": "series",
-      "title": "soy una prueba",
-      "description": "",
-      "year": 2026,
-      "releaseDate": "2026-05-26",
-      "rating": "G",
-      "quality": "HD",
-      "section": "catalog",
-      "genres": [
-        "Adventure"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 91,
-      "episodes": [
-        {
-          "id": "s01e01",
-          "slotId": "ep_2245",
-          "title": "Capítulo 1",
-          "links": {
-            "default": "https://www.youtube.com/watch?v=M0EjKtoi85U"
-          },
-          "master_url": "",
-          "createdAt": "2026-05-27T01:02:17.996Z"
-        }
-      ],
-      "links": {
-        "default": ""
-      },
-      "createdAt": "2026-05-27T01:02:17.996Z",
-      "updatedAt": "2026-05-27T01:02:17.996Z"
     }
   ]
 }
