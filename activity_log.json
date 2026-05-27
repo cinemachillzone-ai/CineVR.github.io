@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T02:53:20.168Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_032"
-  },
-  {
     "timestamp": "2026-04-10T02:54:08.134Z",
     "user": "Admin",
     "action": "ADD",
@@ -3009,5 +3003,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_227",
     "title": "ejemplo"
+  },
+  {
+    "ts": "2026-05-27T18:44:10.032Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_211",
+    "title": "Chainsaw Man: La Película – Arco de Reze"
   }
 ]
