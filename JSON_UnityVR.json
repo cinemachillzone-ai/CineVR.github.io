@@ -99,7 +99,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 0,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alita/master.m3u8"
+      "master_url": "https://test.example.com/test123.m3u8",
+      "updatedAt": "2026-05-27T00:48:13.036Z"
     },
     {
       "type": "movie",
