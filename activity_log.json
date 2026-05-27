@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-09T17:19:48.865Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_078"
-  },
-  {
     "timestamp": "2026-04-10T02:51:54.255Z",
     "user": "Admin",
     "action": "ADD",
@@ -3007,5 +3001,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_227",
     "title": "soy un test"
+  },
+  {
+    "ts": "2026-05-27T02:09:09.792Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_227",
+    "title": "ejemplo"
   }
 ]
