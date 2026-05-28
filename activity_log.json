@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:10:01.459Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_044"
-  },
-  {
     "timestamp": "2026-04-10T03:10:18.915Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3024,5 +3018,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_075",
     "title": "Operacion Overlods"
+  },
+  {
+    "ts": "2026-05-28T02:55:22.912Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_078",
+    "title": "Nadie"
   }
 ]
