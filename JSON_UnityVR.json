@@ -2098,7 +2098,9 @@
       "addedAt": "2026-04-09T17:19:48.056Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 77
+      "gridIndex": 77,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:15.475Z"
     },
     {
       "type": "movie",
