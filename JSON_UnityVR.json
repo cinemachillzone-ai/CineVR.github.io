@@ -4404,7 +4404,9 @@
       "addedAt": "2026-04-26T20:33:14.806Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 17
+      "gridIndex": 17,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8",
+      "updatedAt": "2026-05-28T02:57:27.705Z"
     },
     {
       "type": "movie",
