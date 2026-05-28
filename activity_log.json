@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T07:14:47.816Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_052"
-  },
-  {
     "timestamp": "2026-04-10T08:47:46.829Z",
     "user": "Admin",
     "action": "ADD",
@@ -3034,5 +3028,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_109",
     "title": "La cabra que cambió el juego: Goat"
+  },
+  {
+    "ts": "2026-05-28T02:57:14.224Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_121",
+    "title": "Venom: Carnage liberado"
   }
 ]
