@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:21:12.550Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_050"
-  },
-  {
     "timestamp": "2026-04-10T07:14:16.844Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3032,5 +3026,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_098",
     "title": "The Legend of Aang: The Last Airbender"
+  },
+  {
+    "ts": "2026-05-28T02:56:47.871Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_105",
+    "title": "El mafioso, el policía y el diablo"
   }
 ]
