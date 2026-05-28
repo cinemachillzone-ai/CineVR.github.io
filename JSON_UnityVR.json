@@ -2613,7 +2613,9 @@
       "addedAt": "2026-04-14T02:48:57.060Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 98
+      "gridIndex": 98,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
+      "updatedAt": "2026-05-28T02:56:29.742Z"
     },
     {
       "type": "movie",
