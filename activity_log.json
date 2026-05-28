@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:02:30.306Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_039"
-  },
-  {
     "timestamp": "2026-04-10T03:03:09.640Z",
     "user": "Admin",
     "action": "ADD",
@@ -3019,5 +3013,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_032",
     "title": "Fast & Furious 6"
+  },
+  {
+    "ts": "2026-05-28T02:54:33.303Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_040",
+    "title": "The Amazing Spider-Man"
   }
 ]
