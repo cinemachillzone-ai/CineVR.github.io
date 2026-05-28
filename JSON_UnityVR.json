@@ -2029,7 +2029,9 @@
       "addedAt": "2026-04-09T16:01:07.482Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 74
+      "gridIndex": 74,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operaci%C3%B3nOverlord2018/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:06.773Z"
     },
     {
       "type": "movie",
