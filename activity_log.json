@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:01:14.514Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_081"
-  },
-  {
     "timestamp": "2026-04-10T20:05:43.965Z",
     "user": "Admin",
     "action": "ADD",
@@ -3039,5 +3033,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_172",
     "title": "Tu Nombre"
+  },
+  {
+    "ts": "2026-05-28T02:58:03.821Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_194",
+    "title": "Shrek Tercero"
   }
 ]
