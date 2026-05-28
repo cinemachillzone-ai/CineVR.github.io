@@ -3343,14 +3343,16 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://micinemaxr.b-cdn.net/Movie/GoatLaCabraQueCambi%C3%B3ElJuego.mkv",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/7f4a36b1-f529-4bcc-8c14-cab16b2e65b9/playlist.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambi%C3%B3ElJuego/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambi%C3%B3ElJuego/master.m3u8"
       },
       "id": "movie_109",
       "addedAt": "2026-04-16T21:38:50.366Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 109
+      "gridIndex": 109,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambi%C3%B3ElJuego/master.m3u8",
+      "updatedAt": "2026-05-28T02:56:50.999Z"
     },
     {
       "type": "movie",
