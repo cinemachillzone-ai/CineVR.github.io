@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T02:55:46.778Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_034"
-  },
-  {
     "timestamp": "2026-04-10T02:56:36.876Z",
     "user": "Admin",
     "action": "ADD",
@@ -3014,5 +3008,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_023",
     "title": "Spider-Man: Homecoming"
+  },
+  {
+    "ts": "2026-05-28T02:53:41.407Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_024",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
   }
 ]
