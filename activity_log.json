@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:19:13.666Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_049"
-  },
-  {
     "timestamp": "2026-04-10T03:21:12.550Z",
     "user": "Admin",
     "action": "ADD",
@@ -3031,5 +3025,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_097",
     "title": "Una voz silenciosa"
+  },
+  {
+    "ts": "2026-05-28T02:56:36.914Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_098",
+    "title": "The Legend of Aang: The Last Airbender"
   }
 ]
