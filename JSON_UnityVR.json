@@ -2213,7 +2213,9 @@
       "addedAt": "2026-04-10T20:13:50.173Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 83
+      "gridIndex": 83,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:25.991Z"
     },
     {
       "type": "movie",
