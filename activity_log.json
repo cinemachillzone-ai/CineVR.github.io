@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:13:44.508Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_045"
-  },
-  {
     "timestamp": "2026-04-10T03:14:50.831Z",
     "user": "Admin",
     "action": "ADD",
@@ -3027,5 +3021,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_085",
     "title": "Sisu"
+  },
+  {
+    "ts": "2026-05-28T02:55:54.733Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_087",
+    "title": "Ted"
   }
 ]
