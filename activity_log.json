@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T19:15:22.090Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_052"
-  },
-  {
     "timestamp": "2026-04-10T19:31:44.270Z",
     "user": "Admin",
     "action": "ADD",
@@ -3036,5 +3030,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_131",
     "title": "Cujo"
+  },
+  {
+    "ts": "2026-05-28T02:57:34.357Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_164",
+    "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet"
   }
 ]
