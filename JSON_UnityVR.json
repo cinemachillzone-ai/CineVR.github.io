@@ -5248,7 +5248,9 @@
       "addedAt": "2026-05-03T03:41:38.468Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 51
+      "gridIndex": 51,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek3/master.m3u8",
+      "updatedAt": "2026-05-28T02:57:57.394Z"
     },
     {
       "type": "movie",
