@@ -4016,14 +4016,16 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/0c2ca563-feae-455a-bbe0-a25eecd34997/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/0c2ca563-feae-455a-bbe0-a25eecd34997/playlist.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8"
       },
       "id": "movie_131",
       "addedAt": "2026-04-19T01:58:20.630Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 3
+      "gridIndex": 3,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
+      "updatedAt": "2026-05-28T02:57:17.469Z"
     },
     {
       "type": "movie",
