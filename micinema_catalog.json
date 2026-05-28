@@ -5318,14 +5318,16 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/bb687528-4960-42c6-8005-b0f85706ea06/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bb687528-4960-42c6-8005-b0f85706ea06/playlist.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8"
       },
       "id": "movie_172",
       "addedAt": "2026-04-27T21:12:17.165Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 26
+      "gridIndex": 26,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
+      "updatedAt": "2026-05-28T02:57:47.642Z"
     },
     {
       "type": "movie",
