@@ -5621,7 +5621,9 @@
       "addedAt": "2026-05-08T00:49:06.004Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 66
+      "gridIndex": 66,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
+      "updatedAt": "2026-05-28T02:58:17.087Z"
     },
     {
       "type": "movie",
