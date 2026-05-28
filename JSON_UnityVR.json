@@ -1129,7 +1129,9 @@
       "addedAt": "2026-04-01T05:33:01.867Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 39
+      "gridIndex": 39,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreAra%C3%B1a/master.m3u8",
+      "updatedAt": "2026-05-28T02:54:26.143Z"
     },
     {
       "type": "movie",
