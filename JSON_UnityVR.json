@@ -874,7 +874,9 @@
       "addedAt": "2026-04-01T05:16:29.700Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 29
+      "gridIndex": 29,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/R%C3%A1pidoYFurioso/master.m3u8",
+      "updatedAt": "2026-05-28T03:15:43.048Z"
     },
     {
       "type": "movie",
