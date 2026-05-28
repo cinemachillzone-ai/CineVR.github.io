@@ -2259,7 +2259,9 @@
       "addedAt": "2026-04-10T20:17:51.756Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 85
+      "gridIndex": 85,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:36.820Z"
     },
     {
       "type": "movie",
