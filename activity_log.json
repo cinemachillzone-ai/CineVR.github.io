@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:11:06.343Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_083"
-  },
-  {
     "timestamp": "2026-04-10T20:13:50.820Z",
     "user": "Admin",
     "action": "ADD",
@@ -3041,5 +3035,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_195",
     "title": "Shrek Felices Para Siempre"
+  },
+  {
+    "ts": "2026-05-28T02:58:25.151Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_208",
+    "title": "Apocalypse Now"
   }
 ]
