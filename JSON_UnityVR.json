@@ -2906,7 +2906,9 @@
       "addedAt": "2026-04-16T21:38:50.366Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 109
+      "gridIndex": 109,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambi%C3%B3ElJuego/master.m3u8",
+      "updatedAt": "2026-05-28T02:56:50.999Z"
     },
     {
       "type": "movie",
