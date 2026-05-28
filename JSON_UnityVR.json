@@ -681,7 +681,9 @@
       "addedAt": "2026-04-01T04:49:05.482Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 22
+      "gridIndex": 22,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarvelSpidermanRegresoACasa/master.m3u8",
+      "updatedAt": "2026-05-28T02:53:24.040Z"
     },
     {
       "type": "movie",
