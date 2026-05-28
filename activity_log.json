@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:05:43.965Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_082"
-  },
-  {
     "timestamp": "2026-04-10T20:11:06.343Z",
     "user": "Admin",
     "action": "ADD",
@@ -3040,5 +3034,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_194",
     "title": "Shrek Tercero"
+  },
+  {
+    "ts": "2026-05-28T02:58:13.866Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_195",
+    "title": "Shrek Felices Para Siempre"
   }
 ]
