@@ -2801,7 +2801,9 @@
       "addedAt": "2026-04-16T21:13:12.199Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 105
+      "gridIndex": 105,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMafiosoElPolic%C3%ADaElDemonio/master.m3u8",
+      "updatedAt": "2026-05-28T02:56:39.967Z"
     },
     {
       "type": "movie",
