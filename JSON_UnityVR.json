@@ -5277,7 +5277,9 @@
       "addedAt": "2026-05-03T03:43:17.210Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 52
+      "gridIndex": 52,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShrekParaSiempre/master.m3u8",
+      "updatedAt": "2026-05-28T02:58:06.784Z"
     },
     {
       "type": "movie",
