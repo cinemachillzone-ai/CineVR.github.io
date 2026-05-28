@@ -820,7 +820,9 @@
       "addedAt": "2026-04-01T05:15:58.192Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 27
+      "gridIndex": 27,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso04/master.m3u8",
+      "updatedAt": "2026-05-28T03:15:25.291Z"
     },
     {
       "type": "movie",
