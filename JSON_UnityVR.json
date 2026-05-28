@@ -841,7 +841,9 @@
       "addedAt": "2026-04-01T05:16:28.712Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 28
+      "gridIndex": 28,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso03RetoEnTokio/master.m3u8",
+      "updatedAt": "2026-05-28T02:53:54.561Z"
     },
     {
       "type": "movie",
