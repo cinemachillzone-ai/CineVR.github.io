@@ -2531,7 +2531,9 @@
       "addedAt": "2026-04-11T22:05:39.514Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 95
+      "gridIndex": 95,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:57.785Z"
     },
     {
       "type": "movie",
