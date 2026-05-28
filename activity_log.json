@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:09:10.389Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_043"
-  },
-  {
     "timestamp": "2026-04-10T03:10:01.459Z",
     "user": "Admin",
     "action": "ADD",
@@ -3023,5 +3017,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_071",
     "title": "El planeta de los simios: La guerra"
+  },
+  {
+    "ts": "2026-05-28T02:55:12.538Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_075",
+    "title": "Operacion Overlods"
   }
 ]
