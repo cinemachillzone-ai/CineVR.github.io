@@ -1796,7 +1796,9 @@
       "addedAt": "2026-04-09T02:26:59.787Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 64
+      "gridIndex": 64,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Akira1988/master.m3u8",
+      "updatedAt": "2026-05-28T02:54:36.403Z"
     },
     {
       "type": "movie",
