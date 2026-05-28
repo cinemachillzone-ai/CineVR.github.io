@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T19:31:44.270Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_053"
-  },
-  {
     "timestamp": "2026-04-10T19:59:04.153Z",
     "user": "Admin",
     "action": "ADD",
@@ -3037,5 +3031,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_164",
     "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet"
+  },
+  {
+    "ts": "2026-05-28T02:57:44.612Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_171",
+    "title": "Hotel Transylvania: Transformanía"
   }
 ]
