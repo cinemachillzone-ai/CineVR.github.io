@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:01:39.469Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_038"
-  },
-  {
     "timestamp": "2026-04-10T03:02:30.306Z",
     "user": "Admin",
     "action": "ADD",
@@ -3018,5 +3012,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_031",
     "title": "Fast Five"
+  },
+  {
+    "ts": "2026-05-28T02:54:23.019Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_032",
+    "title": "Fast & Furious 6"
   }
 ]
