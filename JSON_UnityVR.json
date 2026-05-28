@@ -2314,7 +2314,9 @@
       "addedAt": "2026-04-11T20:27:21.363Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 87
+      "gridIndex": 87,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8",
+      "updatedAt": "2026-05-28T02:55:47.935Z"
     },
     {
       "type": "movie",
