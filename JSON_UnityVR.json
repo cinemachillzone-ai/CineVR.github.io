@@ -4600,7 +4600,9 @@
       "addedAt": "2026-04-27T21:08:52.450Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 25
+      "gridIndex": 25,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8",
+      "updatedAt": "2026-05-28T02:57:37.563Z"
     },
     {
       "type": "movie",
