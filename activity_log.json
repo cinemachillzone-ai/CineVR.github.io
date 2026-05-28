@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:05:35.080Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_041"
-  },
-  {
     "timestamp": "2026-04-10T03:07:11.560Z",
     "user": "Admin",
     "action": "ADD",
@@ -3021,5 +3015,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_065",
     "title": "Akira"
+  },
+  {
+    "ts": "2026-05-28T02:54:53.604Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_067",
+    "title": "Hijos del los hombres"
   }
 ]
