@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T02:58:17.639Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_036"
-  },
-  {
     "timestamp": "2026-04-10T03:00:50.618Z",
     "user": "Admin",
     "action": "ADD",
@@ -3016,5 +3010,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_027",
     "title": "The Fast and the Furious"
+  },
+  {
+    "ts": "2026-05-28T02:54:02.044Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_029",
+    "title": "The Fast and the Furious: Tokyo Drift"
   }
 ]
