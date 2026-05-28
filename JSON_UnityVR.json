@@ -5728,7 +5728,9 @@
       "addedAt": "2026-05-10T00:05:32.188Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 71
+      "gridIndex": 71,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
+      "updatedAt": "2026-05-28T02:58:28.347Z"
     },
     {
       "type": "movie",
