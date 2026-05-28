@@ -629,7 +629,9 @@
       "addedAt": "2026-04-01T04:43:13.728Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 20
+      "gridIndex": 20,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LigaDeLaJusticia/master.m3u8",
+      "updatedAt": "2026-05-28T02:53:12.883Z"
     },
     {
       "type": "movie",
