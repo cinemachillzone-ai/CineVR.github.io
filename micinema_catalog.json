@@ -2973,14 +2973,16 @@
       ],
       "enabled": true,
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/2e7d38c8-368d-41f4-9c89-0a3ad2378c03/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2e7d38c8-368d-41f4-9c89-0a3ad2378c03/playlist.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8"
       },
       "id": "movie_097",
       "addedAt": "2026-04-12T03:51:07.437Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 97
+      "gridIndex": 97,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
+      "updatedAt": "2026-05-28T02:56:19.290Z"
     },
     {
       "type": "movie",
