@@ -892,15 +892,17 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://vz-e5546235-a7a.b-cdn.net/35f8a5f6-371d-4e5b-a59e-f177f383c544/playlist.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/35f8a5f6-371d-4e5b-a59e-f177f383c544/playlist.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/R%C3%A1pidoYFurioso/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/R%C3%A1pidoYFurioso/master.m3u8"
       },
       "enabled": true,
       "id": "movie_027",
       "addedAt": "2026-04-01T04:56:13.178Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 26
+      "gridIndex": 26,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/R%C3%A1pidoYFurioso/master.m3u8",
+      "updatedAt": "2026-05-28T02:53:44.398Z"
     },
     {
       "type": "movie",
