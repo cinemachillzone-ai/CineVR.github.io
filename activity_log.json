@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:14:50.831Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_046"
-  },
-  {
     "timestamp": "2026-04-10T03:15:58.759Z",
     "user": "Admin",
     "action": "ADD",
@@ -3028,5 +3022,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_087",
     "title": "Ted"
+  },
+  {
+    "ts": "2026-05-28T02:56:05.681Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_095",
+    "title": "Harry Potter y las reliquias de la Muerte: Parte 1"
   }
 ]
