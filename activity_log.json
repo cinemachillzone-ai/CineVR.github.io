@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T07:14:16.844Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_050"
-  },
-  {
     "timestamp": "2026-04-10T07:14:47.816Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3033,5 +3027,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_105",
     "title": "El mafioso, el policía y el diablo"
+  },
+  {
+    "ts": "2026-05-28T02:56:58.531Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_109",
+    "title": "La cabra que cambió el juego: Goat"
   }
 ]
