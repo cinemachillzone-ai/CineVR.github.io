@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T03:10:18.915Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_037"
-  },
-  {
     "timestamp": "2026-04-10T03:10:32.578Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3025,5 +3019,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_078",
     "title": "Nadie"
+  },
+  {
+    "ts": "2026-05-28T02:55:33.575Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_083",
+    "title": "Corazones de acero"
   }
 ]
