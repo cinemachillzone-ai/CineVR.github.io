@@ -35239,6 +35239,138 @@
       },
       "createdAt": "2026-05-31T22:02:42.217Z",
       "updatedAt": "2026-05-31T22:02:42.217Z"
+    },
+    {
+      "id": "series_123",
+      "type": "series",
+      "title": "Rick y Morty T5",
+      "description": "La trama sigue a Rick Sánchez y su nieto Morty Smith en sus aventuras interdimensionales que los llevan a todo tipo de mundos surrealistas y traumatizantes. Rick es un científico nihilista y alcohólico que realiza todo tipo de aventuras surrealistas al lado de su nieto Morty Smith, quien a diferencia de él es más temeroso, inseguro y moral. Entre las nuevas aventuras, Rick se enfrenta a un inédito némesis que amenaza la vida en la Tierra, mientras que los Smith sospechan que están siendo perseguidos. Además, Morty hace un avance importante en su vida personal al entablar una relación con un personaje femenino que no es Jessica, la chica con la que ha estado obsesionado desde el inicio de la serie",
+      "year": 2021,
+      "releaseDate": "2021-09-05",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Cyberpunk",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 95,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2261",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2262",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E02/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2263",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E03/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2264",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E04/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2265",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E05/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2266",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E06/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2267",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E07/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2268",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E08/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2269",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E09/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2270",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E10/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T23:21:43.235Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-05-31T23:21:43.235Z",
+      "updatedAt": "2026-05-31T23:21:43.235Z"
     }
   ]
 }
