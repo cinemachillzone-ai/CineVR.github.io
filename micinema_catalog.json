@@ -35036,6 +35036,116 @@
       },
       "createdAt": "2026-05-31T21:57:50.019Z",
       "updatedAt": "2026-05-31T21:57:50.019Z"
+    },
+    {
+      "id": "series_122",
+      "type": "series",
+      "title": "Spider Noir a Color",
+      "description": "Sigue a Ben Reilly, un investigador privado veterano en el Nueva York de los años 30. Tras dejar atrás su pasado como el único superhéroe de la ciudad, se ve obligado a volver a usar la máscara al verse envuelto en una red de mafiosos, monstruos y una femme fatale.",
+      "year": 2026,
+      "releaseDate": "2026-05-17",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 91,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2253",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2254",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E02/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2255",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E03/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2256",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E04/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2257",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E05/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2258",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E06/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2259",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E07/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2260",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Spider-Noir/Acolor/T1/SpiderNoirS01E08/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-05-31T22:02:42.217Z",
+      "updatedAt": "2026-05-31T22:02:42.217Z"
     }
   ]
 }
