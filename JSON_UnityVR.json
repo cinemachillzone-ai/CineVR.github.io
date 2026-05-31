@@ -1484,11 +1484,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_054",
+      "id": "movie_053",
       "addedAt": "2026-04-02T01:16:48.171Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 53,
+      "gridIndex": 52,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta%282014%29/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1511,11 +1511,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_055",
+      "id": "movie_054",
       "addedAt": "2026-04-03T21:56:07.430Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 54
+      "gridIndex": 53
     },
     {
       "type": "movie",
@@ -1536,11 +1536,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_056",
+      "id": "movie_055",
       "addedAt": "2026-04-03T22:03:40.888Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 55
+      "gridIndex": 54
     },
     {
       "type": "movie",
@@ -1560,11 +1560,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_057",
+      "id": "movie_056",
       "addedAt": "2026-04-03T22:12:22.925Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 56
+      "gridIndex": 55
     },
     {
       "type": "movie",
@@ -1585,11 +1585,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_058",
+      "id": "movie_057",
       "addedAt": "2026-04-03T22:37:25.575Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 57
+      "gridIndex": 56
     },
     {
       "type": "movie",
@@ -1611,11 +1611,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_059",
+      "id": "movie_058",
       "addedAt": "2026-04-08T00:05:30.677Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 58,
+      "gridIndex": 57,
       "videoUrl": "ads",
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSe%C3%B1orDeLosAnillosLaComunidadDelAnillo2001/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
@@ -1639,11 +1639,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_060",
+      "id": "movie_059",
       "addedAt": "2026-04-08T19:04:50.944Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 59,
+      "gridIndex": 58,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSe%C3%B1orDeLosAnillosLasDosTorres2002/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1666,11 +1666,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_061",
+      "id": "movie_060",
       "addedAt": "2026-04-08T20:02:54.337Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 60,
+      "gridIndex": 59,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSe%C3%B1orDeLosAnillosElRetornoDelRey2003/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1693,11 +1693,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_062",
+      "id": "movie_061",
       "addedAt": "2026-04-08T20:11:24.097Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 61,
+      "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPerfectoAsesino1994/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1721,11 +1721,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_063",
+      "id": "movie_062",
       "addedAt": "2026-04-08T20:30:58.159Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 62,
+      "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElIncre%C3%ADbleCastilloVagabundo2004/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1748,11 +1748,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_064",
+      "id": "movie_063",
       "addedAt": "2026-04-08T20:38:41.848Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 63,
+      "gridIndex": 62,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElViajeDeChihiro2001/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1775,11 +1775,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_065",
+      "id": "movie_064",
       "addedAt": "2026-04-09T02:26:59.787Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 64,
+      "gridIndex": 63,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Akira1988/master.m3u8",
       "updatedAt": "2026-05-28T02:54:36.403Z"
     },
@@ -1798,11 +1798,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_066",
+      "id": "movie_065",
       "addedAt": "2026-04-09T14:58:45.909Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 65,
+      "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/vDeVenganza2006/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1821,11 +1821,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_067",
+      "id": "movie_066",
       "addedAt": "2026-04-09T15:09:31.294Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 66,
+      "gridIndex": 65,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ni%C3%B1osDelHombre2006/master.m3u8",
       "updatedAt": "2026-05-28T02:54:46.429Z"
     },
@@ -1844,11 +1844,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_068",
+      "id": "movie_067",
       "addedAt": "2026-04-09T15:18:50.134Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 67,
+      "gridIndex": 66,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/goodBoy2022/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1867,11 +1867,11 @@
         "language_Spanish"
       ],
       "enabled": false,
-      "id": "movie_069",
+      "id": "movie_068",
       "addedAt": "2026-04-09T15:26:00.732Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 68,
+      "gridIndex": 67,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosREvoluci%C3%B3n2011/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1890,11 +1890,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_070",
+      "id": "movie_069",
       "addedAt": "2026-04-09T15:29:48.655Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 69,
+      "gridIndex": 68,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosConfrontaci%C3%B3n2014/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1913,11 +1913,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_071",
+      "id": "movie_070",
       "addedAt": "2026-04-09T15:33:36.731Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 70,
+      "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimios3LaGuerra2017/master.m3u8",
       "updatedAt": "2026-05-28T02:54:56.669Z"
     },
@@ -1936,11 +1936,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_072",
+      "id": "movie_071",
       "addedAt": "2026-04-09T15:37:18.974Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 71,
+      "gridIndex": 70,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosNuevoReino2024/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1959,11 +1959,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_073",
+      "id": "movie_072",
       "addedAt": "2026-04-09T15:44:36.504Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 72,
+      "gridIndex": 71,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elResplandor1980/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -1987,11 +1987,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_074",
+      "id": "movie_073",
       "addedAt": "2026-04-09T15:53:56.275Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 73
+      "gridIndex": 72
     },
     {
       "type": "movie",
@@ -2008,11 +2008,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_075",
+      "id": "movie_074",
       "addedAt": "2026-04-09T16:01:07.482Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 74,
+      "gridIndex": 73,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operaci%C3%B3nOverlord2018/master.m3u8",
       "updatedAt": "2026-05-28T02:55:06.773Z"
     },
@@ -2031,11 +2031,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_076",
+      "id": "movie_075",
       "addedAt": "2026-04-09T16:06:18.419Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 75,
+      "gridIndex": 74,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd1/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2054,11 +2054,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_077",
+      "id": "movie_076",
       "addedAt": "2026-04-09T16:07:13.239Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 76,
+      "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2077,11 +2077,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_078",
+      "id": "movie_077",
       "addedAt": "2026-04-09T17:19:48.056Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 77,
+      "gridIndex": 76,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8",
       "updatedAt": "2026-05-28T02:55:15.475Z"
     },
@@ -2100,11 +2100,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_079",
+      "id": "movie_078",
       "addedAt": "2026-04-10T19:59:03.558Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 79,
+      "gridIndex": 78,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sinNovedadEnElFrente/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2123,11 +2123,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_080",
+      "id": "movie_079",
       "addedAt": "2026-04-10T20:01:13.902Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 80,
+      "gridIndex": 79,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaParejaExplosiva1998/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2146,11 +2146,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_081",
+      "id": "movie_080",
       "addedAt": "2026-04-10T20:05:43.335Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 81,
+      "gridIndex": 80,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nadie2%282025%29/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2169,11 +2169,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_082",
+      "id": "movie_081",
       "addedAt": "2026-04-10T20:11:05.929Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 82,
+      "gridIndex": 81,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/contraataque2025/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2192,11 +2192,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_083",
+      "id": "movie_082",
       "addedAt": "2026-04-10T20:13:50.173Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 83,
+      "gridIndex": 82,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8",
       "updatedAt": "2026-05-28T02:55:25.991Z"
     },
@@ -2215,11 +2215,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_084",
+      "id": "movie_083",
       "addedAt": "2026-04-10T20:16:03.293Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 84,
+      "gridIndex": 83,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPacto2023/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2238,11 +2238,11 @@
         "language_Spanish"
       ],
       "enabled": true,
-      "id": "movie_085",
+      "id": "movie_084",
       "addedAt": "2026-04-10T20:17:51.756Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 85,
+      "gridIndex": 84,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8",
       "updatedAt": "2026-05-28T02:55:36.820Z"
     },
@@ -2267,11 +2267,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_086",
+      "id": "movie_085",
       "addedAt": "2026-04-10T23:40:42.991Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 86,
+      "gridIndex": 85,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JujutsuKaisen0/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2293,11 +2293,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_087",
+      "id": "movie_086",
       "addedAt": "2026-04-11T20:27:21.363Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 87,
+      "gridIndex": 86,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8",
       "updatedAt": "2026-05-28T02:55:47.935Z"
     },
@@ -2320,11 +2320,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_088",
+      "id": "movie_087",
       "addedAt": "2026-04-11T20:31:08.056Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 88,
+      "gridIndex": 87,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/togetherJuntosHastaLaMuerte2025/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2347,11 +2347,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_089",
+      "id": "movie_088",
       "addedAt": "2026-04-11T21:45:13.236Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 89,
+      "gridIndex": 88,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaPiedraFilosofal/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2374,11 +2374,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_090",
+      "id": "movie_089",
       "addedAt": "2026-04-11T21:49:00.123Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 90,
+      "gridIndex": 89,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HARRYPotterylac%C3%A1marasecreta/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2402,11 +2402,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_091",
+      "id": "movie_090",
       "addedAt": "2026-04-11T21:53:32.861Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 91,
+      "gridIndex": 90,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElPrisioneroDeAzkaban/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2429,11 +2429,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_092",
+      "id": "movie_091",
       "addedAt": "2026-04-11T21:56:37.963Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 92,
+      "gridIndex": 91,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElCalizDeFuego/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2456,11 +2456,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_093",
+      "id": "movie_092",
       "addedAt": "2026-04-11T21:59:09.827Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 93,
+      "gridIndex": 92,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaOrdenDelFenix/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2483,11 +2483,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_094",
+      "id": "movie_093",
       "addedAt": "2026-04-11T22:02:27.790Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 94,
+      "gridIndex": 93,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElMisterioDelPrincipe/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2510,11 +2510,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_095",
+      "id": "movie_094",
       "addedAt": "2026-04-11T22:05:39.514Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 95,
+      "gridIndex": 94,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8",
       "updatedAt": "2026-05-28T02:55:57.785Z"
     },
@@ -2537,11 +2537,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_096",
+      "id": "movie_095",
       "addedAt": "2026-04-11T22:07:42.975Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 96,
+      "gridIndex": 95,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte2/master.m3u8",
       "updatedAt": "2026-05-28T02:56:08.619Z"
     },
@@ -2564,11 +2564,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_097",
+      "id": "movie_096",
       "addedAt": "2026-04-12T03:51:07.437Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 97,
+      "gridIndex": 96,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
       "updatedAt": "2026-05-28T02:56:19.290Z"
     },
@@ -2592,11 +2592,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_098",
+      "id": "movie_097",
       "addedAt": "2026-04-14T02:48:57.060Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 98,
+      "gridIndex": 97,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
       "updatedAt": "2026-05-28T02:56:29.742Z"
     },
@@ -2621,11 +2621,11 @@
         "language_English"
       ],
       "enabled": true,
-      "id": "movie_099",
+      "id": "movie_098",
       "addedAt": "2026-04-15T19:17:03.699Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 99,
+      "gridIndex": 98,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Robot.Salvaje.2024.1080p-Lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2648,11 +2648,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_100",
+      "id": "movie_099",
       "addedAt": "2026-04-15T19:21:59.190Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 100,
+      "gridIndex": 99,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/13RuletaRusa/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2675,11 +2675,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_101",
+      "id": "movie_100",
       "addedAt": "2026-04-15T19:26:43.835Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 101,
+      "gridIndex": 100,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2701,11 +2701,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_102",
+      "id": "movie_101",
       "addedAt": "2026-04-16T20:34:56.147Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 102,
+      "gridIndex": 101,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2728,11 +2728,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_103",
+      "id": "movie_102",
       "addedAt": "2026-04-16T21:01:31.502Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 103,
+      "gridIndex": 102,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deNocheConElDiablo2024/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2755,11 +2755,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_104",
+      "id": "movie_103",
       "addedAt": "2026-04-16T21:09:56.437Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 104
+      "gridIndex": 103
     },
     {
       "type": "movie",
@@ -2780,11 +2780,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_105",
+      "id": "movie_104",
       "addedAt": "2026-04-16T21:13:12.199Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 105,
+      "gridIndex": 104,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMafiosoElPolic%C3%ADaElDemonio/master.m3u8",
       "updatedAt": "2026-05-28T02:56:39.967Z"
     },
@@ -2806,11 +2806,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_106",
+      "id": "movie_105",
       "addedAt": "2026-04-16T21:16:29.283Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 106,
+      "gridIndex": 105,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpadrino/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2833,11 +2833,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_107",
+      "id": "movie_106",
       "addedAt": "2026-04-16T21:23:30.922Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 107,
+      "gridIndex": 106,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EquipoDemolici%C3%B3n/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2859,11 +2859,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_108",
+      "id": "movie_107",
       "addedAt": "2026-04-16T21:29:56.848Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 108,
+      "gridIndex": 107,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ExterminioElTemploDeHuesos/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2885,11 +2885,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_109",
+      "id": "movie_108",
       "addedAt": "2026-04-16T21:38:50.366Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 109,
+      "gridIndex": 108,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambi%C3%B3ElJuego/master.m3u8",
       "updatedAt": "2026-05-28T02:56:50.999Z"
     },
@@ -2912,11 +2912,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_110",
+      "id": "movie_109",
       "addedAt": "2026-04-16T21:42:30.200Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 110,
+      "gridIndex": 109,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2939,11 +2939,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_111",
+      "id": "movie_110",
       "addedAt": "2026-04-16T22:02:09.067Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 111,
+      "gridIndex": 110,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2966,11 +2966,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_112",
+      "id": "movie_111",
       "addedAt": "2026-04-16T22:05:33.010Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 112,
+      "gridIndex": 111,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -2993,11 +2993,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_113",
+      "id": "movie_112",
       "addedAt": "2026-04-16T22:08:18.684Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 113,
+      "gridIndex": 112,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3019,11 +3019,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_114",
+      "id": "movie_113",
       "addedAt": "2026-04-16T22:18:14.075Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 114,
+      "gridIndex": 113,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaEmpleada/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3047,11 +3047,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_115",
+      "id": "movie_114",
       "addedAt": "2026-04-16T22:20:40.017Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 115
+      "gridIndex": 114
     },
     {
       "type": "movie",
@@ -3071,11 +3071,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_116",
+      "id": "movie_115",
       "addedAt": "2026-04-16T22:25:29.182Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 116,
+      "gridIndex": 115,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3098,11 +3098,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_117",
+      "id": "movie_116",
       "addedAt": "2026-04-16T22:30:21.855Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 117,
+      "gridIndex": 116,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinPiedad/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3125,11 +3125,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_118",
+      "id": "movie_117",
       "addedAt": "2026-04-16T22:35:10.700Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 118,
+      "gridIndex": 117,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thor/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3152,11 +3152,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_119",
+      "id": "movie_118",
       "addedAt": "2026-04-16T22:37:12.369Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 119,
+      "gridIndex": 118,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thunderbolts.2025.1080P-Dual-Lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3177,11 +3177,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_120",
+      "id": "movie_119",
       "addedAt": "2026-04-16T22:39:11.063Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 120,
+      "gridIndex": 119,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/venom/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3203,11 +3203,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_121",
+      "id": "movie_120",
       "addedAt": "2026-04-16T22:41:44.646Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 121,
+      "gridIndex": 120,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Venom2/master.m3u8",
       "updatedAt": "2026-05-28T02:57:01.856Z"
     },
@@ -3230,11 +3230,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_122",
+      "id": "movie_121",
       "addedAt": "2026-04-16T22:42:58.847Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 122,
+      "gridIndex": 121,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/WakandaForEver/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3257,11 +3257,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_123",
+      "id": "movie_122",
       "addedAt": "2026-04-16T23:02:09.214Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 123,
+      "gridIndex": 122,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3284,11 +3284,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_124",
+      "id": "movie_123",
       "addedAt": "2026-04-16T23:04:50.155Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 124,
+      "gridIndex": 123,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3311,11 +3311,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_125",
+      "id": "movie_124",
       "addedAt": "2026-04-16T23:07:27.618Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 125,
+      "gridIndex": 124,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3339,11 +3339,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_126",
+      "id": "movie_125",
       "addedAt": "2026-04-17T20:50:36.999Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 126,
+      "gridIndex": 125,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MiNovioEsUnZombie/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3366,11 +3366,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_127",
+      "id": "movie_126",
       "addedAt": "2026-04-17T20:53:42.594Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 127,
+      "gridIndex": 126,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMunecoDeArcilla1080plLat2025/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3393,11 +3393,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_128",
+      "id": "movie_127",
       "addedAt": "2026-04-19T01:52:47.884Z",
       "addedBy": "Admin",
-      "atlas": "B",
-      "gridIndex": 0,
+      "atlas": "A",
+      "gridIndex": 127,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenstein2025lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3419,11 +3419,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_129",
+      "id": "movie_128",
       "addedAt": "2026-04-19T01:54:53.335Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 1,
+      "gridIndex": 0,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unallamadaperdida2008lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3447,11 +3447,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_130",
+      "id": "movie_129",
       "addedAt": "2026-04-19T01:56:34.296Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 2,
+      "gridIndex": 1,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Godzilla.Minus.One.2023.DVDRip-Lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3470,11 +3470,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_131",
+      "id": "movie_130",
       "addedAt": "2026-04-19T01:58:20.630Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 3,
+      "gridIndex": 2,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
       "updatedAt": "2026-05-28T02:57:17.469Z"
     },
@@ -3496,11 +3496,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_132",
+      "id": "movie_131",
       "addedAt": "2026-04-19T02:00:39.622Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 4,
+      "gridIndex": 3,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elTelefonoNegro2022lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3522,11 +3522,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_133",
+      "id": "movie_132",
       "addedAt": "2026-04-19T10:11:49.497Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 5,
+      "gridIndex": 4,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RelatosSalvajes2014/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3549,11 +3549,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_134",
+      "id": "movie_133",
       "addedAt": "2026-04-19T23:08:30.216Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 6,
+      "gridIndex": 5,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LAcOsAdElOtRoMuNdO1982lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3576,11 +3576,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_135",
+      "id": "movie_134",
       "addedAt": "2026-04-19T23:12:48.460Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 7,
+      "gridIndex": 6,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ELAMaNeCeRDELOsMUeRtOs2004lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3602,11 +3602,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_136",
+      "id": "movie_135",
       "addedAt": "2026-04-19T23:23:11.534Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 8,
+      "gridIndex": 7,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Maleficio2022Lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3628,11 +3628,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_137",
+      "id": "movie_136",
       "addedAt": "2026-04-19T23:26:14.916Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 9,
+      "gridIndex": 8,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBebeDeRosemary1968lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3656,11 +3656,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_138",
+      "id": "movie_137",
       "addedAt": "2026-04-19T23:28:41.420Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 10,
+      "gridIndex": 9,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CazadoresDeTrolls2010lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3684,11 +3684,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_139",
+      "id": "movie_138",
       "addedAt": "2026-04-20T00:18:17.552Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 11,
+      "gridIndex": 10,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CoralineYLaPuertaSecreta2009lat/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3712,11 +3712,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_140",
+      "id": "movie_139",
       "addedAt": "2026-04-20T00:20:28.901Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 12,
+      "gridIndex": 11,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaNahuala2007/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3739,11 +3739,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_141",
+      "id": "movie_140",
       "addedAt": "2026-04-20T00:22:14.955Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 13,
+      "gridIndex": 12,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nosferatu2024/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3767,11 +3767,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_142",
+      "id": "movie_141",
       "addedAt": "2026-04-20T00:24:43.966Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 14,
+      "gridIndex": 13,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MonsterHighAmorMonstruoso/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3796,11 +3796,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_143",
+      "id": "movie_142",
       "addedAt": "2026-04-22T00:12:16.640Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 15,
+      "gridIndex": 14,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibroDeLaVida/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3824,11 +3824,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_144",
+      "id": "movie_143",
       "addedAt": "2026-04-22T00:14:43.421Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 16,
+      "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElQuintoElemento1997/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3852,11 +3852,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_145",
+      "id": "movie_144",
       "addedAt": "2026-04-22T00:17:28.184Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 17,
+      "gridIndex": 16,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EscuadronSuicida2016/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3880,11 +3880,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_146",
+      "id": "movie_145",
       "addedAt": "2026-04-22T00:19:42.338Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 18,
+      "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3908,11 +3908,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_147",
+      "id": "movie_146",
       "addedAt": "2026-04-22T00:21:13.267Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 19,
+      "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaLlorona2011/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3937,11 +3937,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_148",
+      "id": "movie_147",
       "addedAt": "2026-04-22T00:23:01.121Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 20,
+      "gridIndex": 19,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLasMomiasDeGuanajuato2014/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3967,11 +3967,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_149",
+      "id": "movie_148",
       "addedAt": "2026-04-22T00:28:14.865Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 21,
+      "gridIndex": 20,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDelChupacabras2016/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -3994,11 +3994,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_150",
+      "id": "movie_149",
       "addedAt": "2026-04-22T00:30:28.915Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 22,
+      "gridIndex": 21,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarcianosAlAtaque1996/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4023,11 +4023,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_151",
+      "id": "movie_150",
       "addedAt": "2026-04-22T00:32:42.089Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 23,
+      "gridIndex": 22,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PlanetaDelTesoro2002/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4050,11 +4050,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_152",
+      "id": "movie_151",
       "addedAt": "2026-04-23T02:28:44.923Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 24,
+      "gridIndex": 23,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPaisDeLasMaravillas2010/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4077,11 +4077,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_153",
+      "id": "movie_152",
       "addedAt": "2026-04-23T02:30:40.804Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 25,
+      "gridIndex": 24,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Beetlejuice1988/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4105,11 +4105,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_154",
+      "id": "movie_153",
       "addedAt": "2026-04-23T02:33:02.839Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 26,
+      "gridIndex": 25,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4133,11 +4133,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_155",
+      "id": "movie_154",
       "addedAt": "2026-04-23T02:35:51.960Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 27,
+      "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJovenManosDeTijera1990/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4162,11 +4162,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_156",
+      "id": "movie_155",
       "addedAt": "2026-04-23T02:37:40.842Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 28,
+      "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenweenie2012/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4190,11 +4190,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_157",
+      "id": "movie_156",
       "addedAt": "2026-04-23T02:40:23.433Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 29,
+      "gridIndex": 28,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MissPeregrineYLosNinosPeculiares2016/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4218,11 +4218,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_158",
+      "id": "movie_157",
       "addedAt": "2026-04-23T02:42:17.775Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 30,
+      "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuerraMundialZ2013/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4245,11 +4245,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_159",
+      "id": "movie_158",
       "addedAt": "2026-04-23T02:45:09.479Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 31,
+      "gridIndex": 30,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoLunaNueva2009/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4273,11 +4273,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_160",
+      "id": "movie_159",
       "addedAt": "2026-04-23T02:47:08.360Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 32,
+      "gridIndex": 31,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoEclipse2010/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4300,11 +4300,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_161",
+      "id": "movie_160",
       "addedAt": "2026-04-23T02:49:42.894Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 33,
+      "gridIndex": 32,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte12011/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4328,11 +4328,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_162",
+      "id": "movie_161",
       "addedAt": "2026-04-23T02:51:52.125Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 34,
+      "gridIndex": 33,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte22012/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4355,11 +4355,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_163",
+      "id": "movie_162",
       "addedAt": "2026-04-23T02:54:10.947Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 35,
+      "gridIndex": 34,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBuenoElMaloYElFeo1966/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4383,11 +4383,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_164",
+      "id": "movie_163",
       "addedAt": "2026-04-26T20:33:14.806Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 17,
+      "gridIndex": 16,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8",
       "updatedAt": "2026-05-28T02:57:27.705Z"
     },
@@ -4410,11 +4410,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_165",
+      "id": "movie_164",
       "addedAt": "2026-04-26T20:35:05.787Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 18,
+      "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laterminal/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4438,11 +4438,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_166",
+      "id": "movie_165",
       "addedAt": "2026-04-26T20:36:35.789Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 19,
+      "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elzorroyelsabueso/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4465,11 +4465,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_167",
+      "id": "movie_166",
       "addedAt": "2026-04-26T20:38:08.912Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 20,
+      "gridIndex": 19,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lahermanastrafea/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4493,11 +4493,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_168",
+      "id": "movie_167",
       "addedAt": "2026-04-27T20:57:20.400Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 22,
+      "gridIndex": 21,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLaberintoDelFauno/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4521,11 +4521,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_169",
+      "id": "movie_168",
       "addedAt": "2026-04-27T21:04:14.185Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 23,
+      "gridIndex": 22,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4550,11 +4550,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_170",
+      "id": "movie_169",
       "addedAt": "2026-04-27T21:06:54.460Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 24,
+      "gridIndex": 23,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania3/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4579,11 +4579,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_171",
+      "id": "movie_170",
       "addedAt": "2026-04-27T21:08:52.450Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 25,
+      "gridIndex": 24,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8",
       "updatedAt": "2026-05-28T02:57:37.563Z"
     },
@@ -4608,11 +4608,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_172",
+      "id": "movie_171",
       "addedAt": "2026-04-27T21:12:17.165Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 26,
+      "gridIndex": 25,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
       "updatedAt": "2026-05-28T02:57:47.642Z"
     },
@@ -4634,11 +4634,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_173",
+      "id": "movie_172",
       "addedAt": "2026-04-27T21:14:23.387Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 27,
+      "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LookBack/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4662,11 +4662,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_174",
+      "id": "movie_173",
       "addedAt": "2026-04-29T00:35:09.807Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 28,
+      "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil1/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4690,11 +4690,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_175",
+      "id": "movie_174",
       "addedAt": "2026-04-29T00:36:43.541Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 29,
+      "gridIndex": 28,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4718,11 +4718,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_176",
+      "id": "movie_175",
       "addedAt": "2026-04-29T00:39:15.091Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 30,
+      "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil3/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4745,11 +4745,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_177",
+      "id": "movie_176",
       "addedAt": "2026-04-29T23:52:17.676Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 33,
+      "gridIndex": 32,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMaxSalvajesDeAutopista/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4772,11 +4772,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_178",
+      "id": "movie_177",
       "addedAt": "2026-04-29T23:56:39.226Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 34,
+      "gridIndex": 33,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
@@ -4799,11 +4799,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_179",
+      "id": "movie_178",
       "addedAt": "2026-04-29T23:59:21.537Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 35,
+      "gridIndex": 34,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax3MasAllaDeLaCupulaDelTrueno/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4827,11 +4827,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_180",
+      "id": "movie_179",
       "addedAt": "2026-04-30T00:02:16.010Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 36,
+      "gridIndex": 35,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FreeGuyTomandoElControl/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4858,11 +4858,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_181",
+      "id": "movie_180",
       "addedAt": "2026-04-30T20:25:21.947Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 38,
+      "gridIndex": 37,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElExtranoMundoDeJack/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4888,11 +4888,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_182",
+      "id": "movie_181",
       "addedAt": "2026-04-30T20:27:58.327Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 39,
+      "gridIndex": 38,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IntensaMente/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4919,11 +4919,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_183",
+      "id": "movie_182",
       "addedAt": "2026-04-30T20:29:49.010Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 40,
+      "gridIndex": 39,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Megamente/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4947,11 +4947,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_184",
+      "id": "movie_183",
       "addedAt": "2026-05-02T02:47:44.756Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 41,
+      "gridIndex": 40,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -4976,11 +4976,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_185",
+      "id": "movie_184",
       "addedAt": "2026-05-02T02:49:56.789Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 42,
+      "gridIndex": 41,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5001,11 +5001,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_186",
+      "id": "movie_185",
       "addedAt": "2026-05-02T02:53:17.901Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 43,
+      "gridIndex": 42,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5028,11 +5028,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_187",
+      "id": "movie_186",
       "addedAt": "2026-05-02T02:58:34.064Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 44,
+      "gridIndex": 43,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5055,11 +5055,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_188",
+      "id": "movie_187",
       "addedAt": "2026-05-02T03:02:30.239Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 45,
+      "gridIndex": 44,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5083,11 +5083,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_189",
+      "id": "movie_188",
       "addedAt": "2026-05-02T03:04:44.941Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 46,
+      "gridIndex": 45,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5113,11 +5113,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_190",
+      "id": "movie_189",
       "addedAt": "2026-05-03T03:34:17.734Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 47,
+      "gridIndex": 46,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nimona/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5139,11 +5139,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_191",
+      "id": "movie_190",
       "addedAt": "2026-05-03T03:36:22.014Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 48,
+      "gridIndex": 47,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NosotrosLosNobles/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5168,11 +5168,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_192",
+      "id": "movie_191",
       "addedAt": "2026-05-03T03:38:57.645Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 49,
+      "gridIndex": 48,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5198,11 +5198,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_193",
+      "id": "movie_192",
       "addedAt": "2026-05-03T03:40:20.759Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 50,
+      "gridIndex": 49,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5227,11 +5227,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_194",
+      "id": "movie_193",
       "addedAt": "2026-05-03T03:41:38.468Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 51,
+      "gridIndex": 50,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek3/master.m3u8",
       "updatedAt": "2026-05-28T02:57:57.394Z"
     },
@@ -5256,11 +5256,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_195",
+      "id": "movie_194",
       "addedAt": "2026-05-03T03:43:17.210Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 52,
+      "gridIndex": 51,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShrekParaSiempre/master.m3u8",
       "updatedAt": "2026-05-28T02:58:06.784Z"
     },
@@ -5285,11 +5285,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_196",
+      "id": "movie_195",
       "addedAt": "2026-05-03T22:12:45.003Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 53,
+      "gridIndex": 52,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5314,11 +5314,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_197",
+      "id": "movie_196",
       "addedAt": "2026-05-03T22:14:52.545Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 54,
+      "gridIndex": 53,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5337,11 +5337,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_198",
+      "id": "movie_197",
       "addedAt": "2026-05-03T22:16:27.039Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 55,
+      "gridIndex": 54,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon3/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5365,11 +5365,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_199",
+      "id": "movie_198",
       "addedAt": "2026-05-03T22:20:29.305Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 56,
+      "gridIndex": 55,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElcaminohaciaElDorado/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5391,11 +5391,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_200",
+      "id": "movie_199",
       "addedAt": "2026-05-04T23:07:17.039Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 57,
+      "gridIndex": 56,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5417,11 +5417,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_201",
+      "id": "movie_200",
       "addedAt": "2026-05-04T23:08:14.530Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 58,
+      "gridIndex": 57,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie2/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5444,11 +5444,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_202",
+      "id": "movie_201",
       "addedAt": "2026-05-05T23:48:51.048Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 60,
+      "gridIndex": 59,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MemoriasDeUnCaracol/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5470,11 +5470,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_203",
+      "id": "movie_202",
       "addedAt": "2026-05-05T23:52:32.043Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 61,
+      "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BeanElNombreDelDesastre/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5497,11 +5497,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_204",
+      "id": "movie_203",
       "addedAt": "2026-05-05T23:53:55.772Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 62,
+      "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasVacacionesDeMrBean/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5520,11 +5520,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_205",
+      "id": "movie_204",
       "addedAt": "2026-05-06T00:01:38.779Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 63,
+      "gridIndex": 62,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPop/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5549,11 +5549,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_206",
+      "id": "movie_205",
       "addedAt": "2026-05-06T00:04:24.262Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 64,
+      "gridIndex": 63,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElOrigenDeLosGuardianes/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5574,11 +5574,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_207",
+      "id": "movie_206",
       "addedAt": "2026-05-06T00:06:40.823Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 65,
+      "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BtsElRegreso/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5600,11 +5600,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_208",
+      "id": "movie_207",
       "addedAt": "2026-05-08T00:49:06.004Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 66,
+      "gridIndex": 65,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
       "updatedAt": "2026-05-28T02:58:17.087Z"
     },
@@ -5623,11 +5623,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_209",
+      "id": "movie_208",
       "addedAt": "2026-05-08T00:53:11.099Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 67,
+      "gridIndex": 66,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DulceYAmargo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5650,11 +5650,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_210",
+      "id": "movie_209",
       "addedAt": "2026-05-08T00:56:06.006Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 68,
+      "gridIndex": 67,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/OjoPorOjo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5679,11 +5679,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_211",
+      "id": "movie_210",
       "addedAt": "2026-05-10T00:03:13.695Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 70,
+      "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
       "updatedAt": "2026-05-27T18:46:48.687Z"
     },
@@ -5707,11 +5707,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_212",
+      "id": "movie_211",
       "addedAt": "2026-05-10T00:05:32.188Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 71,
+      "gridIndex": 70,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
       "updatedAt": "2026-05-28T02:58:28.347Z"
     },
@@ -5732,11 +5732,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_213",
+      "id": "movie_212",
       "addedAt": "2026-05-12T01:57:06.441Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 76,
+      "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaSingularVidaDeIbelin/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5759,11 +5759,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_214",
+      "id": "movie_213",
       "addedAt": "2026-05-12T01:59:16.369Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 77,
+      "gridIndex": 76,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CriaturasLuminosas/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5785,11 +5785,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_215",
+      "id": "movie_214",
       "addedAt": "2026-05-12T02:01:31.013Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 78,
+      "gridIndex": 77,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaNinaDeLaFoto/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5812,11 +5812,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_216",
+      "id": "movie_215",
       "addedAt": "2026-05-12T02:04:00.994Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 79,
+      "gridIndex": 78,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/96Minutos/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5841,11 +5841,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_217",
+      "id": "movie_216",
       "addedAt": "2026-05-12T02:06:23.609Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 80,
+      "gridIndex": 79,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Intercambiados/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5868,11 +5868,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_218",
+      "id": "movie_217",
       "addedAt": "2026-05-12T02:08:46.999Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 81,
+      "gridIndex": 80,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ProyectoFinDelMundo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5896,11 +5896,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_219",
+      "id": "movie_218",
       "addedAt": "2026-05-12T02:11:07.622Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 82,
+      "gridIndex": 81,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SangreAsesina/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5924,11 +5924,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_220",
+      "id": "movie_219",
       "addedAt": "2026-05-14T00:53:38.052Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 83,
+      "gridIndex": 82,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElChicoYLaGarza/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5951,11 +5951,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_221",
+      "id": "movie_220",
       "addedAt": "2026-05-14T00:55:50.943Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 84,
+      "gridIndex": 83,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KillBillVol1/master.m3u8",
       "updatedAt": "2026-05-28T02:58:39.090Z"
     },
@@ -5979,11 +5979,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_222",
+      "id": "movie_221",
       "addedAt": "2026-05-14T00:58:00.856Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 85,
+      "gridIndex": 84,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeakyBlindersElHombreInmortal/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -6007,11 +6007,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_223",
+      "id": "movie_222",
       "addedAt": "2026-05-14T00:59:58.245Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 86,
+      "gridIndex": 85,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PerfectBlue/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -6034,11 +6034,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_224",
+      "id": "movie_223",
       "addedAt": "2026-05-14T01:02:09.118Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 87,
+      "gridIndex": 86,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TaxiDriver/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -6061,11 +6061,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_225",
+      "id": "movie_224",
       "addedAt": "2026-05-14T01:08:12.452Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 88,
+      "gridIndex": 87,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThePunisherLaUltimaMuerte/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -6089,16 +6089,16 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_226",
+      "id": "movie_225",
       "addedAt": "2026-05-14T01:10:43.387Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 89,
+      "gridIndex": 88,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
     {
-      "id": "movie_227",
+      "id": "movie_226",
       "type": "movie",
       "title": "12 Monos",
       "description": "\"12 Monos\" puede referirse tanto a la película 12 Monkeys como a la serie de televisión 12 Monkeys. Ambas comparten la misma premisa básica: viajes en el tiempo, una pandemia global y la organización conocida como el Ejército de los 12 Monos.",
@@ -6119,13 +6119,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 92,
+      "gridIndex": 91,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8",
       "createdAt": "2026-05-31T22:30:45.987Z",
       "updatedAt": "2026-05-31T22:30:45.987Z"
     },
     {
-      "id": "movie_228",
+      "id": "movie_227",
       "type": "movie",
       "title": "Cadaver de la novia",
       "description": "En la Inglaterra victoriana, el tímido y melancólico joven Víctor Van Dort, presionado por su familia, está a punto de comprometerse en un matrimonio por conveniencia con Victoria Everglot, hija de unos aristócratas venidos a menos. Mientras ensayan la boda, los nervios impiden que el novio pronuncie sus votos. Triste y decepcionado, Víctor sale a caminar al bosque y ensaya las palabras de la ceremonia justo encima de la tumba de Emily, una novia muerta años atrás. Al colocar el anillo en lo que cree es una rama, resulta ser el dedo de la difunta. Así es arrastrado al infierno y casado con la misteriosa Novia Cadáver, mientras su novia real, Victoria, espera desconsolada en la tierra de los vivos.",
@@ -6149,13 +6149,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 93,
+      "gridIndex": 92,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cadáverdelanovia/master.m3u8",
       "createdAt": "2026-05-31T23:05:56.874Z",
       "updatedAt": "2026-05-31T23:05:56.874Z"
     },
     {
-      "id": "movie_229",
+      "id": "movie_228",
       "type": "movie",
       "title": "Charlie y la Fábrica de Chocolate",
       "description": "Charlie Bucket es un niño de una familia muy pobre que vive junto a sus padres y sus abuelos. Un día compra una chocolatina de la prestigiosa marca Wonka y gana un concurso para visitar la fábrica junto a otros cuatro niños. Allí conocerá a Willy Wonka, el excéntrico dueño de la empresa, y a sus curiosos trabajadores, los Oompa Loompas. Una vez dentro, todos tendrán la oportunidad de descubrir todos los secretos de la fábrica. ",
@@ -6176,7 +6176,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 94,
+      "gridIndex": 93,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
       "createdAt": "2026-05-31T23:08:58.362Z",
       "updatedAt": "2026-05-31T23:08:58.362Z"
@@ -6200,7 +6200,7 @@
       "addedAt": "2026-04-10T08:47:46.431Z",
       "addedBy": "Admin",
       "atlas": "A",
-      "gridIndex": 78,
+      "gridIndex": 77,
       "episodes": [
         {
           "id": "s01e01",
@@ -6398,7 +6398,7 @@
       "addedAt": "2026-04-01T00:03:43.617Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 36,
+      "gridIndex": 35,
       "episodes": [
         {
           "id": "s01e01",
@@ -6469,7 +6469,7 @@
       "addedAt": "2026-04-01T02:28:47.687Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 37,
+      "gridIndex": 36,
       "episodes": [
         {
           "id": "s02e01",
@@ -6517,7 +6517,7 @@
       "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 38,
+      "gridIndex": 37,
       "episodes": [
         {
           "id": "s01e01",
@@ -6656,7 +6656,7 @@
       "addedAt": "2026-04-01T02:58:55.742Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 39,
+      "gridIndex": 38,
       "episodes": [
         {
           "id": "s02e01",
@@ -6858,7 +6858,7 @@
       "addedAt": "2026-04-01T02:58:56.862Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 40,
+      "gridIndex": 39,
       "episodes": [
         {
           "id": "s03e01",
@@ -7039,7 +7039,7 @@
       "addedAt": "2026-04-01T02:59:13.029Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 41,
+      "gridIndex": 40,
       "episodes": [
         {
           "id": "s04e01",
@@ -7220,7 +7220,7 @@
       "addedAt": "2026-04-01T02:59:15.444Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 42,
+      "gridIndex": 41,
       "episodes": [
         {
           "id": "s05e01",
@@ -7401,7 +7401,7 @@
       "addedAt": "2026-04-01T02:59:16.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 43,
+      "gridIndex": 42,
       "episodes": [
         {
           "id": "s06e01",
@@ -7582,7 +7582,7 @@
       "addedAt": "2026-04-01T02:59:17.767Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 44,
+      "gridIndex": 43,
       "episodes": [
         {
           "id": "s07e01",
@@ -7772,7 +7772,7 @@
       "addedAt": "2026-04-01T03:09:04.139Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 45,
+      "gridIndex": 44,
       "episodes": [
         {
           "id": "s01e01",
@@ -7861,7 +7861,7 @@
       "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 46,
+      "gridIndex": 45,
       "episodes": [
         {
           "id": "s03e01",
@@ -7985,7 +7985,7 @@
       "addedAt": "2026-04-01T03:13:49.559Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 47,
+      "gridIndex": 46,
       "episodes": [
         {
           "id": "s05e01",
@@ -8109,7 +8109,7 @@
       "addedAt": "2026-04-01T03:13:50.760Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 48,
+      "gridIndex": 47,
       "episodes": [
         {
           "id": "s01e01",
@@ -8233,7 +8233,7 @@
       "addedAt": "2026-04-01T03:13:51.737Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 49,
+      "gridIndex": 48,
       "episodes": [
         {
           "id": "s02e01",
@@ -8350,7 +8350,7 @@
       "addedAt": "2026-04-01T03:13:53.891Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 50,
+      "gridIndex": 49,
       "episodes": [
         {
           "id": "s04e01",
@@ -8475,7 +8475,7 @@
       "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 51,
+      "gridIndex": 50,
       "episodes": [
         {
           "id": "s01e01",
@@ -8734,7 +8734,7 @@
       "addedAt": "2026-04-01T03:23:23.457Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 52,
+      "gridIndex": 51,
       "episodes": [
         {
           "id": "s01e01",
@@ -8782,7 +8782,7 @@
       "addedAt": "2026-04-01T03:23:26.102Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 53,
+      "gridIndex": 52,
       "episodes": [
         {
           "id": "s02e01",
@@ -8893,7 +8893,7 @@
       "addedAt": "2026-04-01T03:23:26.936Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 54,
+      "gridIndex": 53,
       "episodes": [
         {
           "id": "s03e01",
@@ -8997,7 +8997,7 @@
       "addedAt": "2026-04-01T03:30:15.960Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 55,
+      "gridIndex": 54,
       "episodes": [
         {
           "id": "s01e01",
@@ -9164,7 +9164,7 @@
       "addedAt": "2026-04-01T03:30:31.942Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 56,
+      "gridIndex": 55,
       "episodes": [
         {
           "id": "s02e01",
@@ -9210,7 +9210,7 @@
       "addedAt": "2026-04-01T03:32:26.792Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 57,
+      "gridIndex": 56,
       "episodes": [
         {
           "id": "s01e01",
@@ -9308,7 +9308,7 @@
       "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 58,
+      "gridIndex": 57,
       "episodes": [
         {
           "id": "s01e01",
@@ -9476,7 +9476,7 @@
       "addedAt": "2026-04-01T03:37:50.167Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 59,
+      "gridIndex": 58,
       "episodes": [
         {
           "id": "s02e01",
@@ -9644,7 +9644,7 @@
       "addedAt": "2026-04-01T03:37:52.173Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 60,
+      "gridIndex": 59,
       "episodes": [
         {
           "id": "s03e01",
@@ -9807,7 +9807,7 @@
       "addedAt": "2026-04-06T08:20:06.980Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 61,
+      "gridIndex": 60,
       "episodes": [
         {
           "id": "s01e01",
@@ -9918,7 +9918,7 @@
       "addedAt": "2026-04-08T20:51:20.823Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 62,
+      "gridIndex": 61,
       "episodes": [
         {
           "id": "s01e01",
@@ -10097,7 +10097,7 @@
       "addedAt": "2026-04-09T14:49:36.765Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 63
+      "gridIndex": 62
     },
     {
       "type": "series",
@@ -10172,7 +10172,7 @@
       "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 64
+      "gridIndex": 63
     },
     {
       "type": "series",
@@ -10289,7 +10289,7 @@
       "addedAt": "2026-04-10T02:53:19.223Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 65
+      "gridIndex": 64
     },
     {
       "type": "series",
@@ -10406,7 +10406,7 @@
       "addedAt": "2026-04-10T02:54:07.187Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 66
+      "gridIndex": 65
     },
     {
       "type": "series",
@@ -10523,7 +10523,7 @@
       "addedAt": "2026-04-10T02:55:45.859Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 67
+      "gridIndex": 66
     },
     {
       "type": "series",
@@ -10661,7 +10661,7 @@
       "addedAt": "2026-04-10T02:56:35.887Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 68
+      "gridIndex": 67
     },
     {
       "type": "series",
@@ -10870,7 +10870,7 @@
       "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 69
+      "gridIndex": 68
     },
     {
       "type": "series",
@@ -11078,7 +11078,7 @@
       "addedAt": "2026-04-10T03:00:49.702Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 70
+      "gridIndex": 69
     },
     {
       "type": "series",
@@ -11284,7 +11284,7 @@
       "addedAt": "2026-04-10T03:01:38.558Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 71
+      "gridIndex": 70
     },
     {
       "type": "series",
@@ -11312,7 +11312,7 @@
       "addedAt": "2026-04-10T03:02:29.425Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 72
+      "gridIndex": 71
     },
     {
       "type": "series",
@@ -11702,7 +11702,7 @@
       "addedAt": "2026-04-10T03:03:08.749Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 73
+      "gridIndex": 72
     },
     {
       "type": "series",
@@ -12029,7 +12029,7 @@
       "addedAt": "2026-04-10T03:05:34.210Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 74
+      "gridIndex": 73
     },
     {
       "type": "series",
@@ -12237,7 +12237,7 @@
       "addedAt": "2026-04-10T03:07:10.767Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 75
+      "gridIndex": 74
     },
     {
       "type": "series",
@@ -12452,7 +12452,7 @@
       "addedAt": "2026-04-10T03:09:09.608Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 76
+      "gridIndex": 75
     },
     {
       "type": "series",
@@ -12576,7 +12576,7 @@
       "addedAt": "2026-04-10T03:10:00.726Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 77
+      "gridIndex": 76
     },
     {
       "type": "series",
@@ -12891,7 +12891,7 @@
       "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 78
+      "gridIndex": 77
     },
     {
       "type": "series",
@@ -13059,7 +13059,7 @@
       "addedAt": "2026-04-10T03:14:50.061Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 79
+      "gridIndex": 78
     },
     {
       "type": "series",
@@ -13227,7 +13227,7 @@
       "addedAt": "2026-04-10T03:15:57.996Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 80
+      "gridIndex": 79
     },
     {
       "type": "series",
@@ -13409,7 +13409,7 @@
       "addedAt": "2026-04-10T03:17:16.179Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 81
+      "gridIndex": 80
     },
     {
       "type": "series",
@@ -13523,7 +13523,7 @@
       "addedAt": "2026-04-10T03:19:12.875Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 82
+      "gridIndex": 81
     },
     {
       "type": "series",
@@ -13551,7 +13551,7 @@
       "addedAt": "2026-04-10T03:21:11.790Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 83
+      "gridIndex": 82
     },
     {
       "type": "series",
@@ -13712,7 +13712,7 @@
       "addedAt": "2026-04-10T19:15:21.474Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 84
+      "gridIndex": 83
     },
     {
       "type": "series",
@@ -13805,7 +13805,7 @@
       "addedAt": "2026-04-10T19:31:43.761Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 85
+      "gridIndex": 84
     },
     {
       "type": "series",
@@ -14327,7 +14327,7 @@
       "addedAt": "2026-04-10T23:50:35.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 86
+      "gridIndex": 85
     },
     {
       "type": "series",
@@ -14381,7 +14381,7 @@
       "addedAt": "2026-04-11T20:25:35.373Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 87
+      "gridIndex": 86
     },
     {
       "type": "series",
@@ -14708,7 +14708,7 @@
       "addedAt": "2026-04-11T20:57:35.313Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 88
+      "gridIndex": 87
     },
     {
       "type": "series",
@@ -14821,7 +14821,7 @@
       "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 89
+      "gridIndex": 88
     },
     {
       "type": "series",
@@ -15048,7 +15048,7 @@
       "addedAt": "2026-04-12T00:38:18.268Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 90
+      "gridIndex": 89
     },
     {
       "type": "series",
@@ -15359,7 +15359,7 @@
       "addedAt": "2026-04-12T00:42:12.628Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 91
+      "gridIndex": 90
     },
     {
       "type": "series",
@@ -15650,7 +15650,7 @@
       "addedAt": "2026-04-12T00:49:18.178Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 92
+      "gridIndex": 91
     },
     {
       "type": "series",
@@ -15878,7 +15878,7 @@
       "addedAt": "2026-04-12T00:52:07.308Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 93
+      "gridIndex": 92
     },
     {
       "type": "series",
@@ -16181,7 +16181,7 @@
       "addedAt": "2026-04-12T01:25:01.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 94
+      "gridIndex": 93
     },
     {
       "type": "series",
@@ -16383,7 +16383,7 @@
       "addedAt": "2026-04-12T01:28:40.393Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 95
+      "gridIndex": 94
     },
     {
       "type": "series",
@@ -16651,7 +16651,7 @@
       "addedAt": "2026-04-12T02:20:15.469Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 96
+      "gridIndex": 95
     },
     {
       "type": "series",
@@ -16755,7 +16755,7 @@
       "addedAt": "2026-04-13T18:35:31.168Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 97
+      "gridIndex": 96
     },
     {
       "type": "series",
@@ -16873,7 +16873,7 @@
       "addedAt": "2026-04-13T18:42:43.104Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 98
+      "gridIndex": 97
     },
     {
       "type": "series",
@@ -16940,7 +16940,7 @@
       "addedAt": "2026-04-13T18:57:54.870Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 99
+      "gridIndex": 98
     },
     {
       "type": "series",
@@ -17031,7 +17031,7 @@
       "addedAt": "2026-04-13T19:01:57.615Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 100
+      "gridIndex": 99
     },
     {
       "type": "series",
@@ -17106,7 +17106,7 @@
       "addedAt": "2026-04-13T19:23:53.440Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 101
+      "gridIndex": 100
     },
     {
       "type": "series",
@@ -17237,7 +17237,7 @@
       "addedAt": "2026-04-13T19:27:56.396Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 102
+      "gridIndex": 101
     },
     {
       "type": "series",
@@ -17361,7 +17361,7 @@
       "addedAt": "2026-04-13T19:40:08.567Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 103
+      "gridIndex": 102
     },
     {
       "type": "series",
@@ -17472,7 +17472,7 @@
       "addedAt": "2026-04-13T19:46:55.345Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 104
+      "gridIndex": 103
     },
     {
       "type": "series",
@@ -18046,7 +18046,7 @@
       "addedAt": "2026-04-13T20:17:13.981Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 105
+      "gridIndex": 104
     },
     {
       "type": "series",
@@ -18226,7 +18226,7 @@
       "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 106
+      "gridIndex": 105
     },
     {
       "type": "series",
@@ -18406,7 +18406,7 @@
       "addedAt": "2026-04-13T20:28:40.014Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 107
+      "gridIndex": 106
     },
     {
       "type": "series",
@@ -18572,7 +18572,7 @@
       "addedAt": "2026-04-13T20:33:59.728Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 108
+      "gridIndex": 107
     },
     {
       "type": "series",
@@ -18766,7 +18766,7 @@
       "addedAt": "2026-04-13T20:37:58.691Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 109
+      "gridIndex": 108
     },
     {
       "type": "series",
@@ -18960,7 +18960,7 @@
       "addedAt": "2026-04-13T20:43:34.588Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 110
+      "gridIndex": 109
     },
     {
       "type": "series",
@@ -19154,7 +19154,7 @@
       "addedAt": "2026-04-13T20:47:30.712Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 111
+      "gridIndex": 110
     },
     {
       "type": "series",
@@ -19348,7 +19348,7 @@
       "addedAt": "2026-04-13T20:51:30.723Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 112
+      "gridIndex": 111
     },
     {
       "type": "series",
@@ -19542,7 +19542,7 @@
       "addedAt": "2026-04-13T20:57:55.550Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 113
+      "gridIndex": 112
     },
     {
       "type": "series",
@@ -19736,7 +19736,7 @@
       "addedAt": "2026-04-13T21:02:17.514Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 114
+      "gridIndex": 113
     },
     {
       "type": "series",
@@ -19904,7 +19904,7 @@
       "addedAt": "2026-04-13T21:07:48.159Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 115
+      "gridIndex": 114
     },
     {
       "type": "series",
@@ -20051,7 +20051,7 @@
       "addedAt": "2026-04-13T21:10:27.045Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 116
+      "gridIndex": 115
     },
     {
       "type": "series",
@@ -20163,7 +20163,7 @@
       "addedAt": "2026-04-13T21:13:46.305Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 117
+      "gridIndex": 116
     },
     {
       "type": "series",
@@ -20261,7 +20261,7 @@
       "addedAt": "2026-04-13T21:25:46.461Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 118
+      "gridIndex": 117
     },
     {
       "type": "series",
@@ -20375,7 +20375,7 @@
       "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 119
+      "gridIndex": 118
     },
     {
       "type": "series",
@@ -20493,7 +20493,7 @@
       "addedAt": "2026-04-14T03:19:55.351Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 120
+      "gridIndex": 119
     },
     {
       "type": "series",
@@ -20611,7 +20611,7 @@
       "addedAt": "2026-04-14T03:25:22.071Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 121
+      "gridIndex": 120
     },
     {
       "type": "series",
@@ -20729,7 +20729,7 @@
       "addedAt": "2026-04-14T03:28:14.644Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 122
+      "gridIndex": 121
     },
     {
       "type": "series",
@@ -20847,7 +20847,7 @@
       "addedAt": "2026-04-14T03:31:27.477Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 123
+      "gridIndex": 122
     },
     {
       "type": "series",
@@ -21069,7 +21069,7 @@
       "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 124
+      "gridIndex": 123
     },
     {
       "type": "series",
@@ -21284,7 +21284,7 @@
       "addedAt": "2026-04-14T03:45:09.859Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 125
+      "gridIndex": 124
     },
     {
       "type": "series",
@@ -21430,7 +21430,7 @@
       "addedAt": "2026-04-14T03:57:13.234Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 126
+      "gridIndex": 125
     },
     {
       "type": "series",
@@ -21639,7 +21639,7 @@
       "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 127
+      "gridIndex": 126
     },
     {
       "type": "series",
@@ -21847,8 +21847,8 @@
       "id": "series_094",
       "addedAt": "2026-04-14T18:24:03.582Z",
       "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 0
+      "atlas": "B",
+      "gridIndex": 127
     },
     {
       "type": "series",
@@ -22057,7 +22057,7 @@
       "addedAt": "2026-04-14T18:27:23.465Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 1
+      "gridIndex": 0
     },
     {
       "type": "series",
@@ -22252,7 +22252,7 @@
       "addedAt": "2026-04-14T18:31:20.189Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 2
+      "gridIndex": 1
     },
     {
       "type": "series",
@@ -22436,7 +22436,7 @@
       "addedAt": "2026-04-14T18:38:25.691Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 3
+      "gridIndex": 2
     },
     {
       "type": "series",
@@ -22470,7 +22470,7 @@
       "addedAt": "2026-04-14T18:44:06.933Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 4
+      "gridIndex": 3
     },
     {
       "type": "series",
@@ -22528,7 +22528,7 @@
       "addedAt": "2026-04-14T18:46:08.256Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 5
+      "gridIndex": 4
     },
     {
       "type": "series",
@@ -22696,7 +22696,7 @@
       "addedAt": "2026-04-14T19:55:09.179Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 6
+      "gridIndex": 5
     },
     {
       "type": "series",
@@ -22864,7 +22864,7 @@
       "addedAt": "2026-04-14T19:59:46.922Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 7
+      "gridIndex": 6
     },
     {
       "type": "series",
@@ -22962,7 +22962,7 @@
       "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 8
+      "gridIndex": 7
     },
     {
       "type": "series",
@@ -23052,7 +23052,7 @@
       "addedAt": "2026-04-16T02:16:18.334Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 9
+      "gridIndex": 8
     },
     {
       "type": "series",
@@ -23171,7 +23171,7 @@
       "addedAt": "2026-04-17T21:01:11.479Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 10
+      "gridIndex": 9
     },
     {
       "type": "series",
@@ -23338,7 +23338,7 @@
       "addedAt": "2026-04-17T21:09:41.458Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 11
+      "gridIndex": 10
     },
     {
       "type": "series",
@@ -23363,7 +23363,7 @@
       "addedAt": "2026-04-19T01:47:31.483Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 12,
+      "gridIndex": 11,
       "episodes": [
         {
           "id": "s02e01",
@@ -23672,7 +23672,7 @@
       "addedAt": "2026-04-19T23:02:44.083Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 13
+      "gridIndex": 12
     },
     {
       "type": "series",
@@ -23757,7 +23757,7 @@
       "addedAt": "2026-04-22T00:50:03.063Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 14
+      "gridIndex": 13
     },
     {
       "type": "series",
@@ -23841,7 +23841,7 @@
       "addedAt": "2026-04-23T03:01:52.255Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 15
+      "gridIndex": 14
     },
     {
       "type": "series",
@@ -23925,7 +23925,7 @@
       "addedAt": "2026-04-26T20:31:19.532Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 16
+      "gridIndex": 15
     },
     {
       "type": "series",
@@ -24010,7 +24010,7 @@
       "addedAt": "2026-04-26T20:41:20.354Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 21
+      "gridIndex": 20
     },
     {
       "type": "series",
@@ -24114,7 +24114,7 @@
       "addedAt": "2026-04-29T00:46:42.118Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 31
+      "gridIndex": 30
     },
     {
       "type": "series",
@@ -24303,7 +24303,7 @@
       "addedAt": "2026-04-29T01:15:12.520Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 32
+      "gridIndex": 31
     },
     {
       "type": "series",
@@ -24407,7 +24407,7 @@
       "addedAt": "2026-04-30T20:22:17.185Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 37
+      "gridIndex": 36
     },
     {
       "type": "series",
@@ -24527,7 +24527,7 @@
       "addedAt": "2026-05-04T23:25:58.556Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 59
+      "gridIndex": 58
     },
     {
       "type": "series",
@@ -24625,7 +24625,7 @@
       "addedAt": "2026-05-08T01:02:22.449Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 69
+      "gridIndex": 68
     },
     {
       "type": "series",
@@ -24714,7 +24714,7 @@
       "addedAt": "2026-05-10T00:12:44.876Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 72
+      "gridIndex": 71
     },
     {
       "type": "series",
@@ -24844,7 +24844,7 @@
       "addedAt": "2026-05-10T00:19:38.171Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 73
+      "gridIndex": 72
     },
     {
       "type": "series",
@@ -25024,7 +25024,7 @@
       "addedAt": "2026-05-10T00:28:37.652Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 74
+      "gridIndex": 73
     },
     {
       "type": "series",
@@ -25094,7 +25094,7 @@
       "addedAt": "2026-05-10T00:33:07.125Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 75
+      "gridIndex": 74
     },
     {
       "id": "series_121",
@@ -25116,7 +25116,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 90,
+      "gridIndex": 89,
       "episodes": [
         {
           "id": "s01e01",
@@ -25199,7 +25199,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 91,
+      "gridIndex": 90,
       "episodes": [
         {
           "id": "s01e01",
@@ -25284,7 +25284,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 95,
+      "gridIndex": 94,
       "episodes": [
         {
           "id": "s01e01",
