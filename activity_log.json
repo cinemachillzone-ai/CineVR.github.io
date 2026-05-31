@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:20:06.042Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_084"
-  },
-  {
     "timestamp": "2026-04-10T20:55:44.429Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3045,6 +3039,14 @@
     "action": "ADD_SERIES",
     "target": "series_121",
     "title": "Spider Noir Blanco y Negro",
+    "episodes": 8
+  },
+  {
+    "ts": "2026-05-31T22:02:55.333Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_122",
+    "title": "Spider Noir a Color",
     "episodes": 8
   }
 ]
