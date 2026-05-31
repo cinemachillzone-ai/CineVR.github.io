@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:09:08.190Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_010"
-  },
-  {
     "timestamp": "2026-04-10T21:10:26.128Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3057,6 +3051,14 @@
     "action": "ADD_SERIES",
     "target": "series_125",
     "title": "Rick y Morty T7",
+    "episodes": 10
+  },
+  {
+    "ts": "2026-05-31T23:41:50.434Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_126",
+    "title": "Rick y Morty T8",
     "episodes": 10
   }
 ]
