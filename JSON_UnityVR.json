@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 353
+    "catalogCount": 354
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -25563,6 +25563,109 @@
       ],
       "createdAt": "2026-05-31T23:36:18.938Z",
       "updatedAt": "2026-05-31T23:36:18.938Z"
+    },
+    {
+      "id": "series_126",
+      "type": "series",
+      "title": "Rick y Morty T8",
+      "description": "Los nuevos capítulos llevan a Rick, Morty, Summer, Jerry, Beth y \"la otra Beth\" a una serie de aventuras que combinan el caos interdimensional característico de la serie con un regreso a la esencia clásica de las primeras temporadas. Los episodios prometen mantener el equilibrio entre aventuras absurdas y momentos emotivos, explorando la dinámica entre Rick Sánchez y su nieto Morty Smith.",
+      "year": 2025,
+      "releaseDate": "2025-05-25",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Crime",
+        "Cyberpunk",
+        "Drama",
+        "Sci-Fi",
+        "Thriller",
+        "Family",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 97,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2291",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2292",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2293",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2294",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2295",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2296",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2297",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2298",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2299",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2300",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:41:43.351Z"
+        }
+      ],
+      "createdAt": "2026-05-31T23:41:43.351Z",
+      "updatedAt": "2026-05-31T23:41:43.351Z"
     }
   ]
 }
