@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:17:52.438Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_086"
-  },
-  {
     "timestamp": "2026-04-10T20:20:06.042Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3044,5 +3038,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_221",
     "title": "Kill Bill: Volumen 1"
+  },
+  {
+    "ts": "2026-05-31T21:57:58.995Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_121",
+    "title": "Spider Noir Blanco y Negro",
+    "episodes": 8
   }
 ]
