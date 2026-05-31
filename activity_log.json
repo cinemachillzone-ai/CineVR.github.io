@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:05:12.430Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_008"
-  },
-  {
     "timestamp": "2026-04-10T21:06:03.744Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3054,5 +3048,11 @@
     "action": "DELETE_MOVIE",
     "target": "movie_053",
     "title": "The Wrecking Crew"
+  },
+  {
+    "ts": "2026-05-31T23:26:10.505Z",
+    "actor": "carmesi",
+    "action": "RECALCULATE_INDICES",
+    "renames": 176
   }
 ]
