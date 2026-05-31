@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 347
+    "catalogCount": 348
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -25118,6 +25118,89 @@
       ],
       "createdAt": "2026-05-31T21:57:50.019Z",
       "updatedAt": "2026-05-31T21:57:50.019Z"
+    },
+    {
+      "id": "series_122",
+      "type": "series",
+      "title": "Spider Noir a Color",
+      "description": "Sigue a Ben Reilly, un investigador privado veterano en el Nueva York de los años 30. Tras dejar atrás su pasado como el único superhéroe de la ciudad, se ve obligado a volver a usar la máscara al verse envuelto en una red de mafiosos, monstruos y una femme fatale.",
+      "year": 2026,
+      "releaseDate": "2026-05-17",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 91,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2253",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2254",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2255",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2256",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2257",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2258",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2259",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2260",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-05-31T22:02:42.217Z"
+        }
+      ],
+      "createdAt": "2026-05-31T22:02:42.217Z",
+      "updatedAt": "2026-05-31T22:02:42.217Z"
     }
   ]
 }
