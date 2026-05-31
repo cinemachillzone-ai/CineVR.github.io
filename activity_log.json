@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:03:25.363Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_007"
-  },
-  {
     "timestamp": "2026-04-10T21:05:12.430Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3053,5 +3047,12 @@
     "target": "series_123",
     "title": "Rick y Morty T5",
     "episodes": 10
+  },
+  {
+    "ts": "2026-05-31T23:24:50.387Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_053",
+    "title": "The Wrecking Crew"
   }
 ]
