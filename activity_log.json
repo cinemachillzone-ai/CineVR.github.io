@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:55:44.429Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_003"
-  },
-  {
     "timestamp": "2026-04-10T20:57:47.476Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3048,5 +3042,12 @@
     "target": "series_122",
     "title": "Spider Noir a Color",
     "episodes": 8
+  },
+  {
+    "ts": "2026-05-31T22:30:55.441Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_227",
+    "title": "12 Monos"
   }
 ]
