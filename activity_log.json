@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:59:49.600Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_005"
-  },
-  {
     "timestamp": "2026-04-10T21:01:44.730Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3050,5 +3044,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_228",
     "title": "Cadaver de la novia"
+  },
+  {
+    "ts": "2026-05-31T23:09:05.937Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_229",
+    "title": "Charlie y la Fábrica de Chocolate"
   }
 ]
