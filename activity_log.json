@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:57:47.476Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_004"
-  },
-  {
     "timestamp": "2026-04-10T20:59:49.600Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3049,5 +3043,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_227",
     "title": "12 Monos"
+  },
+  {
+    "ts": "2026-05-31T23:06:04.224Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_228",
+    "title": "Cadaver de la novia"
   }
 ]
