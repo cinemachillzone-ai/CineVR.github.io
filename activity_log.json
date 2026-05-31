@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:01:44.730Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_006"
-  },
-  {
     "timestamp": "2026-04-10T21:03:25.363Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3051,5 +3045,13 @@
     "action": "ADD_MOVIE",
     "target": "movie_229",
     "title": "Charlie y la Fábrica de Chocolate"
+  },
+  {
+    "ts": "2026-05-31T23:21:50.042Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_123",
+    "title": "Rick y Morty T5",
+    "episodes": 10
   }
 ]
