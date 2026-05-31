@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:06:03.744Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_001"
-  },
-  {
     "timestamp": "2026-04-10T21:06:22.084Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3054,5 +3048,13 @@
     "actor": "carmesi",
     "action": "RECALCULATE_INDICES",
     "renames": 176
+  },
+  {
+    "ts": "2026-05-31T23:33:45.260Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_124",
+    "title": "Rick y Morty T6",
+    "episodes": 10
   }
 ]
