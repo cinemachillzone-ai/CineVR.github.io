@@ -1683,35 +1683,6 @@
     },
     {
       "type": "movie",
-      "title": "The Wrecking Crew",
-      "description": "Un impulsivo detective y un disciplinado ex-soldado investigan el asesinato de su padre en Hawái, descubriendo una conspiración masiva.",
-      "duration": "2h 04m",
-      "rating": "R",
-      "quality": "HD",
-      "section": "recently_added",
-      "year": 2026,
-      "releaseDate": "2026-01-28",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Crime"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "aa",
-        "language_Spanish": "aa"
-      },
-      "enabled": true,
-      "id": "movie_053",
-      "addedAt": "2026-04-02T01:13:01.444Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 52
-    },
-    {
-      "type": "movie",
       "title": "La Dictadura Perfecta",
       "description": "Tras un escándalo político, una poderosa cadena de televisión manipula la información para desviar la atención pública. Para lograrlo, decide fabricar la imagen de un gobernador corrupto como un héroe, mostrando cómo los medios pueden influir en la percepción de la realidad.",
       "duration": "1h 38m",
