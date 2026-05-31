@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 352
+    "catalogCount": 353
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -25461,6 +25461,108 @@
       ],
       "createdAt": "2026-05-31T23:33:33.712Z",
       "updatedAt": "2026-05-31T23:33:33.712Z"
+    },
+    {
+      "id": "series_125",
+      "type": "series",
+      "title": "Rick y Morty T7",
+      "description": "La trama continúa los eventos del último capítulo de la temporada anterior, llevando a Rick y Morty a explorar las grietas de la galaxia que se han registrado como si tuvieran a Rick Prime en ellas. La descripción oficial adelanta preguntas como: ¿Qué pasa con Jerry? ¿Summer se convierte en una versión malvada de sí misma? ¿Regresarán Rick y Morty a la preparatoria? El núcleo central gira en torno a la incansable búsqueda de Rick Prime, quien logró eludir la persecución del Rick principal de la serie.",
+      "year": 2026,
+      "releaseDate": "2023-12-17",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Cyberpunk",
+        "Crime",
+        "Family",
+        "Drama",
+        "Sci-Fi",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 96,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2281",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2282",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2283",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2284",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2285",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2286",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2287",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2288",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2289",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2290",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-05-31T23:36:18.938Z"
+        }
+      ],
+      "createdAt": "2026-05-31T23:36:18.938Z",
+      "updatedAt": "2026-05-31T23:36:18.938Z"
     }
   ]
 }
