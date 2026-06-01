@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 377
+    "catalogCount": 378
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6726,6 +6726,31 @@
       "master_url": "",
       "createdAt": "2026-06-01T15:04:39.489Z",
       "updatedAt": "2026-06-01T15:04:39.489Z"
+    },
+    {
+      "id": "movie_251",
+      "type": "movie",
+      "title": "2012",
+      "description": "Cuando una serie de catástrofes globales comienzan a destruir el planeta, un escritor y su familia intentan sobrevivir mientras los gobiernos del mundo ponen en marcha un plan secreto para preservar a la humanidad.",
+      "duration": "2 horas 38 minutos",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-12-13",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 121,
+      "master_url": "",
+      "createdAt": "2026-06-01T15:16:40.792Z",
+      "updatedAt": "2026-06-01T15:16:40.792Z"
     },
     {
       "type": "series",
