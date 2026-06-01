@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 357
+    "catalogCount": 358
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6231,6 +6231,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T01:04:45.889Z",
       "updatedAt": "2026-06-01T01:04:45.889Z"
+    },
+    {
+      "id": "movie_231",
+      "type": "movie",
+      "title": "El Informante",
+      "description": "Jeffrey Wigand, un exejecutivo de una gran compañía tabacalera, decide revelar información confidencial sobre prácticas ocultas de la industria. Con la ayuda de un productor de televisión, se enfrenta a presiones, amenazas y poderosos intereses mientras intenta que la verdad salga a la luz.",
+      "duration": "2h 33min",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1999,
+      "releaseDate": "1999-11-05",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 101,
+      "master_url": "",
+      "createdAt": "2026-06-01T01:45:19.642Z",
+      "updatedAt": "2026-06-01T01:45:19.642Z"
     },
     {
       "type": "series",
