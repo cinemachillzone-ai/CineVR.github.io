@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:58.101Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_034"
-  },
-  {
     "timestamp": "2026-04-10T21:43:18.287Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3089,5 +3083,13 @@
     "target": "series_128",
     "title": "Kuroshitsuji T1",
     "episodes": 25
+  },
+  {
+    "ts": "2026-06-01T16:04:28.760Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_129",
+    "title": "Kuroshitsuji T2",
+    "episodes": 12
   }
 ]
