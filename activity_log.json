@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:21:35.408Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_018"
-  },
-  {
     "timestamp": "2026-04-10T21:22:42.646Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3070,5 +3064,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_236",
     "title": "Identidad"
+  },
+  {
+    "ts": "2026-06-01T02:32:01.635Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_237",
+    "title": "Jack Ryan: Guerra Fantasma"
   }
 ]
