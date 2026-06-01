@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:12:48.809Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_012"
-  },
-  {
     "timestamp": "2026-04-10T21:14:15.956Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3064,5 +3058,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_230",
     "title": "El Imperio del Sol"
+  },
+  {
+    "ts": "2026-06-01T01:45:32.250Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_231",
+    "title": "El Informante"
   }
 ]
