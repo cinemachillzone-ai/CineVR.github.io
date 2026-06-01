@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:15:26.401Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_015"
-  },
-  {
     "timestamp": "2026-04-10T21:20:18.877Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3068,5 +3062,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_234",
     "title": "Hacia Rutas Salvajes"
+  },
+  {
+    "ts": "2026-06-01T02:22:36.188Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_235",
+    "title": "I Am Vanessa Guillén"
   }
 ]
