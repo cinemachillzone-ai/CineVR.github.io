@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:37:33.918Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_028"
-  },
-  {
     "timestamp": "2026-04-10T21:38:02.809Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3079,5 +3073,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_246",
     "title": "Tron: El Legado"
+  },
+  {
+    "ts": "2026-06-01T14:51:06.662Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_247",
+    "title": "Al Diablo con el Diablo"
   }
 ]
