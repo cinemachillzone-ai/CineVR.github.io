@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 382
+    "catalogCount": 383
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -26603,6 +26603,116 @@
       ],
       "createdAt": "2026-06-01T15:57:17.674Z",
       "updatedAt": "2026-06-01T15:57:17.674Z"
+    },
+    {
+      "id": "series_129",
+      "type": "series",
+      "title": "Kuroshitsuji T2",
+      "description": "La historia presenta a Alois Trancy, un joven noble con un pasado traumático, y a Claude Faustus, su misterioso mayordomo. Mientras Ciel Phantomhive y Sebastian Michaelis continúan su propia historia, ambos dúos terminan enfrentándose en una compleja trama de venganza, contratos demoníacos y lucha por las almas.",
+      "year": 2010,
+      "releaseDate": "2010-07-02",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 126,
+      "episodes": [
+        {
+          "id": "s02e01",
+          "slotId": "ep_2327",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e02",
+          "slotId": "ep_2328",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e03",
+          "slotId": "ep_2329",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e04",
+          "slotId": "ep_2330",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e05",
+          "slotId": "ep_2331",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e06",
+          "slotId": "ep_2332",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.476Z"
+        },
+        {
+          "id": "s02e07",
+          "slotId": "ep_2333",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        },
+        {
+          "id": "s02e08",
+          "slotId": "ep_2334",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        },
+        {
+          "id": "s02e09",
+          "slotId": "ep_2335",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        },
+        {
+          "id": "s02e10",
+          "slotId": "ep_2336",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        },
+        {
+          "id": "s02e11",
+          "slotId": "ep_2337",
+          "title": "Capítulo 11",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        },
+        {
+          "id": "s02e12",
+          "slotId": "ep_2338",
+          "title": "Capítulo 12",
+          "master_url": "",
+          "createdAt": "2026-06-01T16:04:17.477Z"
+        }
+      ],
+      "createdAt": "2026-06-01T16:04:17.477Z",
+      "updatedAt": "2026-06-01T16:04:17.477Z"
     }
   ]
 }
