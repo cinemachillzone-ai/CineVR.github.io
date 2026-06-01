@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 355
+    "catalogCount": 356
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -25749,6 +25749,39 @@
       ],
       "createdAt": "2026-05-31T23:41:43.351Z",
       "updatedAt": "2026-05-31T23:41:43.351Z"
+    },
+    {
+      "id": "series_127",
+      "type": "series",
+      "title": "Rick y Morty – Temporada 9",
+      "description": "Rick y Morty regresan con nuevas aventuras interdimensionales llenas de caos, humor absurdo y ciencia ficción. La novena temporada continúa explorando las consecuencias de eventos pasados mientras la familia Smith enfrenta amenazas cada vez más extrañas y peligrosas.",
+      "year": 2026,
+      "releaseDate": "2026-05-24",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "Estrenos",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 99,
+      "episodes": [
+        {
+          "id": "s09e01",
+          "slotId": "ep_2301",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-01T00:53:45.607Z"
+        }
+      ],
+      "createdAt": "2026-06-01T00:53:45.607Z",
+      "updatedAt": "2026-06-01T00:53:45.607Z"
     }
   ]
 }
