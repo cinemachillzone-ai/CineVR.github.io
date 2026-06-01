@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:33:15.510Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_026"
-  },
-  {
     "timestamp": "2026-04-10T21:35:06.311Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3077,5 +3071,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_244",
     "title": "Super Mario Galaxy: La Película"
+  },
+  {
+    "ts": "2026-06-01T14:43:21.887Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_245",
+    "title": "Matrix Resurrecciones"
   }
 ]
