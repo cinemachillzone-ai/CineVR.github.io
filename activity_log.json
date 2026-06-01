@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:37.620Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_032"
-  },
-  {
     "timestamp": "2026-04-10T21:42:43.192Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3085,5 +3079,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_252",
     "title": "El Plan Perfecto"
+  },
+  {
+    "ts": "2026-06-01T15:25:05.591Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_253",
+    "title": "Jurassic Park"
   }
 ]
