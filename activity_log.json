@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:15:22.601Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_014"
-  },
-  {
     "timestamp": "2026-04-10T21:15:26.401Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3067,5 +3061,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_233",
     "title": "Fuerza Bruta: Sin Salida"
+  },
+  {
+    "ts": "2026-06-01T02:15:59.495Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_234",
+    "title": "Hacia Rutas Salvajes"
   }
 ]
