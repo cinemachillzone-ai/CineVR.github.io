@@ -1,239 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T20:17:52.438Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_086"
-  },
-  {
-    "timestamp": "2026-04-10T20:20:06.042Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_084"
-  },
-  {
-    "timestamp": "2026-04-10T20:55:44.429Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_003"
-  },
-  {
-    "timestamp": "2026-04-10T20:57:47.476Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_004"
-  },
-  {
-    "timestamp": "2026-04-10T20:59:49.600Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_005"
-  },
-  {
-    "timestamp": "2026-04-10T21:01:44.730Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_006"
-  },
-  {
-    "timestamp": "2026-04-10T21:03:25.363Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_007"
-  },
-  {
-    "timestamp": "2026-04-10T21:05:12.430Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_008"
-  },
-  {
-    "timestamp": "2026-04-10T21:06:03.744Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_001"
-  },
-  {
-    "timestamp": "2026-04-10T21:06:22.084Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_002"
-  },
-  {
-    "timestamp": "2026-04-10T21:09:08.190Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_010"
-  },
-  {
-    "timestamp": "2026-04-10T21:10:26.128Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_013"
-  },
-  {
-    "timestamp": "2026-04-10T21:11:46.927Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_011"
-  },
-  {
-    "timestamp": "2026-04-10T21:11:52.474Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_011"
-  },
-  {
-    "timestamp": "2026-04-10T21:12:48.809Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_012"
-  },
-  {
-    "timestamp": "2026-04-10T21:14:15.956Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_014"
-  },
-  {
-    "timestamp": "2026-04-10T21:15:17.708Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_015"
-  },
-  {
-    "timestamp": "2026-04-10T21:15:22.601Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_014"
-  },
-  {
-    "timestamp": "2026-04-10T21:15:26.401Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_015"
-  },
-  {
-    "timestamp": "2026-04-10T21:20:18.877Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_016"
-  },
-  {
-    "timestamp": "2026-04-10T21:21:35.408Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_018"
-  },
-  {
-    "timestamp": "2026-04-10T21:22:42.646Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_019"
-  },
-  {
-    "timestamp": "2026-04-10T21:24:27.732Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_020"
-  },
-  {
-    "timestamp": "2026-04-10T21:25:56.454Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_022"
-  },
-  {
-    "timestamp": "2026-04-10T21:28:14.327Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_023"
-  },
-  {
-    "timestamp": "2026-04-10T21:29:24.479Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_024"
-  },
-  {
-    "timestamp": "2026-04-10T21:31:27.192Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_025"
-  },
-  {
-    "timestamp": "2026-04-10T21:33:15.510Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_026"
-  },
-  {
-    "timestamp": "2026-04-10T21:35:06.311Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_027"
-  },
-  {
-    "timestamp": "2026-04-10T21:37:33.918Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_028"
-  },
-  {
-    "timestamp": "2026-04-10T21:38:02.809Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
-    "timestamp": "2026-04-10T21:38:23.431Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_030"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:06.924Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_031"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:11.443Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_032"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:29.921Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_033"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:37.620Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_032"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:43.192Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_031"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:49.165Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
-    "timestamp": "2026-04-10T21:42:58.101Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_034"
-  },
-  {
     "timestamp": "2026-04-10T21:43:18.287Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3044,5 +2810,286 @@
     "action": "EDIT_MOVIE",
     "target": "movie_221",
     "title": "Kill Bill: Volumen 1"
+  },
+  {
+    "ts": "2026-05-31T21:57:58.995Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_121",
+    "title": "Spider Noir Blanco y Negro",
+    "episodes": 8
+  },
+  {
+    "ts": "2026-05-31T22:02:55.333Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_122",
+    "title": "Spider Noir a Color",
+    "episodes": 8
+  },
+  {
+    "ts": "2026-05-31T22:30:55.441Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_227",
+    "title": "12 Monos"
+  },
+  {
+    "ts": "2026-05-31T23:06:04.224Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_228",
+    "title": "Cadaver de la novia"
+  },
+  {
+    "ts": "2026-05-31T23:09:05.937Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_229",
+    "title": "Charlie y la Fábrica de Chocolate"
+  },
+  {
+    "ts": "2026-05-31T23:21:50.042Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_123",
+    "title": "Rick y Morty T5",
+    "episodes": 10
+  },
+  {
+    "ts": "2026-05-31T23:24:50.387Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_053",
+    "title": "The Wrecking Crew"
+  },
+  {
+    "ts": "2026-05-31T23:26:10.505Z",
+    "actor": "carmesi",
+    "action": "RECALCULATE_INDICES",
+    "renames": 176
+  },
+  {
+    "ts": "2026-05-31T23:33:45.260Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_124",
+    "title": "Rick y Morty T6",
+    "episodes": 10
+  },
+  {
+    "ts": "2026-05-31T23:36:32.371Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_125",
+    "title": "Rick y Morty T7",
+    "episodes": 10
+  },
+  {
+    "ts": "2026-05-31T23:41:50.434Z",
+    "actor": "carmesi",
+    "action": "ADD_SERIES",
+    "target": "series_126",
+    "title": "Rick y Morty T8",
+    "episodes": 10
+  },
+  {
+    "ts": "2026-06-01T00:36:40.362Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_229",
+    "title": "Un Monstruo en París"
+  },
+  {
+    "ts": "2026-06-01T00:53:55.479Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_127",
+    "title": "Rick y Morty – Temporada 9",
+    "episodes": 1
+  },
+  {
+    "ts": "2026-06-01T01:04:55.454Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_230",
+    "title": "El Imperio del Sol"
+  },
+  {
+    "ts": "2026-06-01T01:45:32.250Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_231",
+    "title": "El Informante"
+  },
+  {
+    "ts": "2026-06-01T01:54:49.321Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_232",
+    "title": "El Niño y la Bestia"
+  },
+  {
+    "ts": "2026-06-01T02:10:49.101Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_233",
+    "title": "Fuerza Bruta: Sin Salida"
+  },
+  {
+    "ts": "2026-06-01T02:15:59.495Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_234",
+    "title": "Hacia Rutas Salvajes"
+  },
+  {
+    "ts": "2026-06-01T02:22:36.188Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_235",
+    "title": "I Am Vanessa Guillén"
+  },
+  {
+    "ts": "2026-06-01T02:26:35.937Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_236",
+    "title": "Identidad"
+  },
+  {
+    "ts": "2026-06-01T02:32:01.635Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_237",
+    "title": "Jack Ryan: Guerra Fantasma"
+  },
+  {
+    "ts": "2026-06-01T03:04:49.866Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_238",
+    "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
+  },
+  {
+    "ts": "2026-06-01T03:09:47.423Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_239",
+    "title": "Los Cazafantasmas 2"
+  },
+  {
+    "ts": "2026-06-01T03:33:31.520Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_240",
+    "title": "Matrix"
+  },
+  {
+    "ts": "2026-06-01T14:24:06.175Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_241",
+    "title": "Múnich"
+  },
+  {
+    "ts": "2026-06-01T14:29:13.671Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_243",
+    "title": "Número desconocido: Un escándalo de ciberacoso escolar"
+  },
+  {
+    "ts": "2026-06-01T14:39:35.162Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_244",
+    "title": "Super Mario Galaxy: La Película"
+  },
+  {
+    "ts": "2026-06-01T14:43:21.887Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_245",
+    "title": "Matrix Resurrecciones"
+  },
+  {
+    "ts": "2026-06-01T14:47:17.931Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_246",
+    "title": "Tron: El Legado"
+  },
+  {
+    "ts": "2026-06-01T14:51:06.662Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_247",
+    "title": "Al Diablo con el Diablo"
+  },
+  {
+    "ts": "2026-06-01T14:56:56.310Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_248",
+    "title": "Algo Pasa con Mary"
+  },
+  {
+    "ts": "2026-06-01T15:00:43.790Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_249",
+    "title": "Arco"
+  },
+  {
+    "ts": "2026-06-01T15:04:58.507Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_250",
+    "title": "Cabezas Huecas"
+  },
+  {
+    "ts": "2026-06-01T15:16:49.115Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_251",
+    "title": "2012"
+  },
+  {
+    "ts": "2026-06-01T15:21:24.371Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_252",
+    "title": "El Plan Perfecto"
+  },
+  {
+    "ts": "2026-06-01T15:25:05.591Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_253",
+    "title": "Jurassic Park"
+  },
+  {
+    "ts": "2026-06-01T15:28:57.828Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_254",
+    "title": "Magia Extraña"
+  },
+  {
+    "ts": "2026-06-01T15:57:30.121Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_128",
+    "title": "Kuroshitsuji T1",
+    "episodes": 25
+  },
+  {
+    "ts": "2026-06-01T16:04:28.760Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_129",
+    "title": "Kuroshitsuji T2",
+    "episodes": 12
   }
 ]
