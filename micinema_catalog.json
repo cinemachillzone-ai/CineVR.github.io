@@ -35834,6 +35834,45 @@
       },
       "createdAt": "2026-05-31T23:41:43.351Z",
       "updatedAt": "2026-05-31T23:41:43.351Z"
+    },
+    {
+      "id": "series_127",
+      "type": "series",
+      "title": "Rick y Morty – Temporada 9",
+      "description": "Rick y Morty regresan con nuevas aventuras interdimensionales llenas de caos, humor absurdo y ciencia ficción. La novena temporada continúa explorando las consecuencias de eventos pasados mientras la familia Smith enfrenta amenazas cada vez más extrañas y peligrosas.",
+      "year": 2026,
+      "releaseDate": "2026-05-24",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "Estrenos",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 99,
+      "episodes": [
+        {
+          "id": "s09e01",
+          "slotId": "ep_2301",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T9/RickYMortyS09E01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T00:53:45.607Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-06-01T00:53:45.607Z",
+      "updatedAt": "2026-06-01T00:53:45.607Z"
     }
   ]
 }
