@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 356
+    "catalogCount": 357
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6207,6 +6207,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T00:36:26.722Z",
       "updatedAt": "2026-06-01T00:36:26.722Z"
+    },
+    {
+      "id": "movie_230",
+      "type": "movie",
+      "title": "El Imperio del Sol",
+      "description": "Durante la invasión japonesa de China en la Segunda Guerra Mundial, un niño británico llamado Jim es separado de sus padres y termina en un campo de internamiento. Allí deberá aprender a sobrevivir mientras presencia los horrores y cambios que provoca la guerra",
+      "duration": "2h 33min",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1987,
+      "releaseDate": "1987-12-11",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 100,
+      "master_url": "",
+      "createdAt": "2026-06-01T01:04:45.889Z",
+      "updatedAt": "2026-06-01T01:04:45.889Z"
     },
     {
       "type": "series",
