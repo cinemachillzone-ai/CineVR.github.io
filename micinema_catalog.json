@@ -36568,6 +36568,285 @@
       },
       "createdAt": "2026-06-01T00:53:45.607Z",
       "updatedAt": "2026-06-01T00:53:45.607Z"
+    },
+    {
+      "id": "series_128",
+      "type": "series",
+      "title": "Kuroshitsuji T1",
+      "description": "En la Inglaterra victoriana, el joven conde Ciel Phantomhive dirige la poderosa familia Phantomhive mientras investiga crímenes y conspiraciones para la Corona británica. A su lado está Sebastian Michaelis, un mayordomo impecable con habilidades sobrenaturales y un oscuro secreto: ambos están unidos por un contrato demoníaco.",
+      "year": 2008,
+      "releaseDate": "2008-10-02",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 125,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2302",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.673Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2303",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E02/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2304",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E03/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2305",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E04/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2306",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E05/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2307",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E06/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2308",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E07/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2309",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E08/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2310",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E09/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2311",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E10/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2312",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E11/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2313",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E12/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2314",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E13/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2315",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E14/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2316",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E15/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2317",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E16/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2318",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E17/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e18",
+          "slotId": "ep_2319",
+          "title": "Capítulo 18",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E18/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e19",
+          "slotId": "ep_2320",
+          "title": "Capítulo 19",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E19/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e20",
+          "slotId": "ep_2321",
+          "title": "Capítulo 20",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E20/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e21",
+          "slotId": "ep_2322",
+          "title": "Capítulo 21",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E21/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e22",
+          "slotId": "ep_2323",
+          "title": "Capítulo 22",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E22/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e23",
+          "slotId": "ep_2324",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E23/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e24",
+          "slotId": "ep_2325",
+          "title": "Capítulo 24",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E24/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e25",
+          "slotId": "ep_2326",
+          "title": "Capítulo 25",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-06-01T15:57:17.674Z",
+      "updatedAt": "2026-06-01T15:57:17.674Z"
     }
   ]
 }
