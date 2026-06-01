@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 359
+    "catalogCount": 360
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6282,6 +6282,32 @@
       "master_url": "",
       "createdAt": "2026-06-01T01:54:42.195Z",
       "updatedAt": "2026-06-01T01:54:42.195Z"
+    },
+    {
+      "id": "movie_233",
+      "type": "movie",
+      "title": "Fuerza Bruta: Sin Salida",
+      "description": "El detective Ma Seok-do y su equipo investigan una serie de crímenes relacionados con una nueva droga sintética que está llegando a Corea del Sur. La investigación los lleva a enfrentarse a la yakuza japonesa, policías corruptos y peligrosas organizaciones criminales.",
+      "duration": "1 hora 45 minutos",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-05-31",
+      "genres": [
+        "Action",
+        "Crime",
+        "Comedy",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 103,
+      "master_url": "",
+      "createdAt": "2026-06-01T02:10:41.058Z",
+      "updatedAt": "2026-06-01T02:10:41.058Z"
     },
     {
       "type": "series",
