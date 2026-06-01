@@ -7458,9 +7458,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Munich/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Munich/master.m3u8",
       "createdAt": "2026-06-01T14:23:57.637Z",
-      "updatedAt": "2026-06-01T14:23:57.637Z"
+      "updatedAt": "2026-06-01T18:00:04.944Z"
     },
     {
       "id": "movie_242",
@@ -7485,9 +7485,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:27:44.661Z",
-      "updatedAt": "2026-06-01T14:27:44.661Z"
+      "updatedAt": "2026-06-01T18:00:04.944Z"
     },
     {
       "id": "movie_243",
@@ -7512,9 +7512,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:29:03.161Z",
-      "updatedAt": "2026-06-01T14:29:03.161Z"
+      "updatedAt": "2026-06-01T18:00:04.944Z"
     },
     {
       "id": "movie_244",
@@ -7541,9 +7541,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SuperMarioGalaxyLaPelicula/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SuperMarioGalaxyLaPelicula/master.m3u8",
       "createdAt": "2026-06-01T14:39:26.290Z",
-      "updatedAt": "2026-06-01T14:39:26.290Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_245",
@@ -7566,11 +7566,11 @@
       "atlas": "C",
       "gridIndex": 115,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMatrix4Resurrections/master.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MATRIX/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MATRIX/master.m3u8",
       "createdAt": "2026-06-01T14:43:13.936Z",
-      "updatedAt": "2026-06-01T14:43:13.936Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_246",
@@ -7596,9 +7596,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TronElLegado/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TronElLegado/master.m3u8",
       "createdAt": "2026-06-01T14:47:09.622Z",
-      "updatedAt": "2026-06-01T14:47:09.622Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_247",
@@ -7624,9 +7624,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlDiabloConElDiablo/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlDiabloConElDiablo/master.m3u8",
       "createdAt": "2026-06-01T14:50:57.693Z",
-      "updatedAt": "2026-06-01T14:50:57.693Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_248",
@@ -7651,9 +7651,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlgoPasaConMary/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlgoPasaConMary/master.m3u8",
       "createdAt": "2026-06-01T14:56:48.309Z",
-      "updatedAt": "2026-06-01T14:56:48.309Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_249",
@@ -7706,9 +7706,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8",
       "createdAt": "2026-06-01T15:04:39.489Z",
-      "updatedAt": "2026-06-01T15:04:39.489Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_251",
@@ -7761,9 +7761,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanPerfecto/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanPerfecto/master.m3u8",
       "createdAt": "2026-06-01T15:20:56.003Z",
-      "updatedAt": "2026-06-01T15:20:56.003Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
       "id": "movie_253",
@@ -7818,9 +7818,9 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtra%C3%B1a/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtra%C3%B1a/master.m3u8",
       "createdAt": "2026-06-01T15:28:45.393Z",
-      "updatedAt": "2026-06-01T15:28:45.393Z"
+      "updatedAt": "2026-06-01T18:00:04.945Z"
     }
   ],
   "series": [
@@ -36598,8 +36598,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E01/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.673Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E01/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.673Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e02",
@@ -36608,8 +36609,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E02/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E02/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e03",
@@ -36618,8 +36620,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E03/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E03/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e04",
@@ -36628,8 +36631,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E04/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E04/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e05",
@@ -36638,8 +36642,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E05/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E05/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e06",
@@ -36648,8 +36653,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E06/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E06/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e07",
@@ -36658,8 +36664,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E07/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E07/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e08",
@@ -36668,8 +36675,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E08/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E08/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e09",
@@ -36678,8 +36686,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E09/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E09/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e10",
@@ -36688,8 +36697,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E10/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E10/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e11",
@@ -36698,8 +36708,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E11/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E11/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e12",
@@ -36708,8 +36719,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E12/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E12/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e13",
@@ -36718,8 +36730,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E13/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E13/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e14",
@@ -36728,8 +36741,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E14/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E14/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e15",
@@ -36738,8 +36752,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E15/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E15/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.945Z"
         },
         {
           "id": "s01e16",
@@ -36748,8 +36763,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E16/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E16/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e17",
@@ -36758,8 +36774,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E17/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E17/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e18",
@@ -36768,8 +36785,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E18/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E18/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e19",
@@ -36778,8 +36796,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E19/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E19/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e20",
@@ -36788,8 +36807,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E20/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E20/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e21",
@@ -36798,8 +36818,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E21/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E21/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e22",
@@ -36808,8 +36829,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E22/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E22/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e23",
@@ -36818,8 +36840,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E23/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E23/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e24",
@@ -36828,8 +36851,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E24/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T15:57:17.674Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01E24/master.m3u8",
+          "createdAt": "2026-06-01T15:57:17.674Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s01e25",
@@ -36877,8 +36901,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E01/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E01/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e02",
@@ -36887,8 +36912,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E02/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E02/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e03",
@@ -36897,8 +36923,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E03/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E03/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e04",
@@ -36907,8 +36934,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E04/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E04/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e05",
@@ -36917,8 +36945,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E05/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E05/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e06",
@@ -36927,8 +36956,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E06/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.476Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E06/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.476Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e07",
@@ -36937,8 +36967,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E07/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E07/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e08",
@@ -36947,8 +36978,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E08/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E08/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e09",
@@ -36957,8 +36989,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E09/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E09/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e10",
@@ -36967,8 +37000,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E10/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E10/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e11",
@@ -36977,8 +37011,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E11/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E11/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         },
         {
           "id": "s02e12",
@@ -36987,8 +37022,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E12/master.m3u8"
           },
-          "master_url": "",
-          "createdAt": "2026-06-01T16:04:17.477Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T2/KuroshitsujiS02E12/master.m3u8",
+          "createdAt": "2026-06-01T16:04:17.477Z",
+          "updatedAt": "2026-06-01T18:00:04.946Z"
         }
       ],
       "links": {
