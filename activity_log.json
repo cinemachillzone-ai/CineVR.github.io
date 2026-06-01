@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:11:46.927Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_011"
-  },
-  {
     "timestamp": "2026-04-10T21:11:52.474Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3061,5 +3055,13 @@
     "action": "ADD_MOVIE",
     "target": "movie_229",
     "title": "Un Monstruo en París"
+  },
+  {
+    "ts": "2026-06-01T00:53:55.479Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_127",
+    "title": "Rick y Morty – Temporada 9",
+    "episodes": 1
   }
 ]
