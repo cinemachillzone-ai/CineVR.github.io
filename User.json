@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-05-30 17:20",
+  "lastUpdate": "2026-06-01 23:20",
   "stars": [
     {
       "user": "Sean F",
@@ -117,7 +117,7 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Familiar",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-24T00:00:00.000Z",
+      "expiresAt": "2026-06-24T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 7,
       "isStar": false,
@@ -189,25 +189,30 @@
     },
     {
       "id": "user_014",
-      "user": "Slot 14",
+      "user": "shiromahi",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-07-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 13,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "SORTEO",
+      "groupId": "shiromahi",
+      "isGroupLeader": true
     },
     {
       "id": "user_015",
-      "user": "Slot 15",
+      "user": "Kassyta",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-07-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 14,
-      "isStar": false
+      "isStar": false,
+      "groupId": "shiromahi",
+      "patreonAccount": "SORTEO"
     },
     {
       "id": "user_016",
