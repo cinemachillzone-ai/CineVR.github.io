@@ -7683,6 +7683,32 @@
       "master_url": "",
       "createdAt": "2026-06-01T15:00:33.232Z",
       "updatedAt": "2026-06-01T15:00:33.232Z"
+    },
+    {
+      "id": "movie_250",
+      "type": "movie",
+      "title": "Cabezas Huecas",
+      "description": "Tres músicos de una banda de rock llamada The Lone Rangers están desesperados por conseguir que una estación de radio reproduzca su demo. Cuando sus intentos fracasan, terminan tomando la emisora como rehén, provocando una situación caótica y muy divertida que atrae la atención de todo el país.",
+      "duration": "1 hora 32 minutos",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1994,
+      "releaseDate": "1994-08-05",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 120,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8"
+      },
+      "master_url": "",
+      "createdAt": "2026-06-01T15:04:39.489Z",
+      "updatedAt": "2026-06-01T15:04:39.489Z"
     }
   ],
   "series": [
