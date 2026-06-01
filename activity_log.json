@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:11.443Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_032"
-  },
-  {
     "timestamp": "2026-04-10T21:42:29.921Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3083,5 +3077,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_250",
     "title": "Cabezas Huecas"
+  },
+  {
+    "ts": "2026-06-01T15:16:49.115Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_251",
+    "title": "2012"
   }
 ]
