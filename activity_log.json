@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:11:52.474Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_011"
-  },
-  {
     "timestamp": "2026-04-10T21:12:48.809Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3063,5 +3057,12 @@
     "target": "series_127",
     "title": "Rick y Morty – Temporada 9",
     "episodes": 1
+  },
+  {
+    "ts": "2026-06-01T01:04:55.454Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_230",
+    "title": "El Imperio del Sol"
   }
 ]
