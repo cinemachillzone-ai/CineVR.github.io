@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:31:27.192Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_025"
-  },
-  {
     "timestamp": "2026-04-10T21:33:15.510Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3076,5 +3070,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_243",
     "title": "Número desconocido: Un escándalo de ciberacoso escolar"
+  },
+  {
+    "ts": "2026-06-01T14:39:35.162Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_244",
+    "title": "Super Mario Galaxy: La Película"
   }
 ]
