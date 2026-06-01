@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 362
+    "catalogCount": 363
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6356,6 +6356,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T02:22:27.297Z",
       "updatedAt": "2026-06-01T02:22:27.297Z"
+    },
+    {
+      "id": "movie_236",
+      "type": "movie",
+      "title": "Identidad",
+      "description": "Durante una tormenta, diez desconocidos quedan atrapados en un motel aislado en el desierto. Cuando los huéspedes comienzan a morir uno por uno, los sobrevivientes intentan descubrir quién es el asesino. Sin embargo, nada es lo que parece y un misterio mucho más complejo se esconde detrás de los acontecimientos.",
+      "duration": "1 hora 30 minutos",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-04-25",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 106,
+      "master_url": "",
+      "createdAt": "2026-06-01T02:26:21.500Z",
+      "updatedAt": "2026-06-01T02:26:21.500Z"
     },
     {
       "type": "series",
