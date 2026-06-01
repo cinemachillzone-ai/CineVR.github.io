@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:28:14.327Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_023"
-  },
-  {
     "timestamp": "2026-04-10T21:29:24.479Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3074,5 +3068,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_240",
     "title": "Matrix"
+  },
+  {
+    "ts": "2026-06-01T14:24:06.175Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_241",
+    "title": "Múnich"
   }
 ]
