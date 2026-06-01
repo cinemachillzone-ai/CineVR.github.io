@@ -7097,6 +7097,36 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
       "createdAt": "2026-05-31T23:08:58.362Z",
       "updatedAt": "2026-05-31T23:08:58.362Z"
+    },
+    {
+      "id": "movie_229",
+      "type": "movie",
+      "title": "Un Monstruo en París",
+      "description": "En el París de 1910, un experimento accidental da origen a una criatura gigante que es perseguida por las autoridades. Sin embargo, pronto se descubre que el supuesto monstruo es amable y posee un extraordinario talento para la música. Junto a nuevos amigos, intentará escapar de quienes quieren capturarlo.",
+      "duration": "1h 59min",
+      "rating": "PG",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-10-12",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 98,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnMonstruoEnPar%C3%ADs/master.m3u8"
+      },
+      "master_url": "",
+      "createdAt": "2026-06-01T00:36:26.722Z",
+      "updatedAt": "2026-06-01T00:36:26.722Z"
     }
   ],
   "series": [
