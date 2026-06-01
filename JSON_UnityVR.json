@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 368
+    "catalogCount": 369
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6505,6 +6505,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T14:23:57.637Z",
       "updatedAt": "2026-06-01T14:23:57.637Z"
+    },
+    {
+      "id": "movie_242",
+      "type": "movie",
+      "title": "Número desconocido: Un escándalo de ciberacoso escolar",
+      "description": "Una adolescente y su novio comienzan a recibir mensajes anónimos ofensivos, amenazantes y perturbadores. Lo que parece un simple caso de ciberacoso escolar se convierte en una compleja investigación policial llena de giros inesperados que revela una verdad impactante detrás del hostigamiento.",
+      "duration": "1 hora 34 minutos",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-08-29",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 112,
+      "master_url": "",
+      "createdAt": "2026-06-01T14:27:44.661Z",
+      "updatedAt": "2026-06-01T14:27:44.661Z"
     },
     {
       "type": "series",
