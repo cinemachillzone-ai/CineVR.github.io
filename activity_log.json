@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:43.192Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_031"
-  },
-  {
     "timestamp": "2026-04-10T21:42:49.165Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3086,5 +3080,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_253",
     "title": "Jurassic Park"
+  },
+  {
+    "ts": "2026-06-01T15:28:57.828Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_254",
+    "title": "Magia Extraña"
   }
 ]
