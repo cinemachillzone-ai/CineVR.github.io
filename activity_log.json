@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:29.921Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_033"
-  },
-  {
     "timestamp": "2026-04-10T21:42:37.620Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3084,5 +3078,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_251",
     "title": "2012"
+  },
+  {
+    "ts": "2026-06-01T15:21:24.371Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_252",
+    "title": "El Plan Perfecto"
   }
 ]
