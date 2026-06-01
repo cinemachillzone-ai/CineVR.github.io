@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:22:42.646Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_019"
-  },
-  {
     "timestamp": "2026-04-10T21:24:27.732Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3071,5 +3065,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_237",
     "title": "Jack Ryan: Guerra Fantasma"
+  },
+  {
+    "ts": "2026-06-01T03:04:49.866Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_238",
+    "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
   }
 ]
