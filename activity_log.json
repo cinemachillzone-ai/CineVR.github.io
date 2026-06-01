@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:06.924Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_031"
-  },
-  {
     "timestamp": "2026-04-10T21:42:11.443Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3082,5 +3076,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_249",
     "title": "Arco"
+  },
+  {
+    "ts": "2026-06-01T15:04:58.507Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_250",
+    "title": "Cabezas Huecas"
   }
 ]
