@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 381
+    "catalogCount": 382
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -26402,6 +26402,207 @@
       ],
       "createdAt": "2026-06-01T00:53:45.607Z",
       "updatedAt": "2026-06-01T00:53:45.607Z"
+    },
+    {
+      "id": "series_128",
+      "type": "series",
+      "title": "Kuroshitsuji T1",
+      "description": "En la Inglaterra victoriana, el joven conde Ciel Phantomhive dirige la poderosa familia Phantomhive mientras investiga crímenes y conspiraciones para la Corona británica. A su lado está Sebastian Michaelis, un mayordomo impecable con habilidades sobrenaturales y un oscuro secreto: ambos están unidos por un contrato demoníaco.",
+      "year": 2008,
+      "releaseDate": "2008-10-02",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 125,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2302",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.673Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2303",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2304",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2305",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2306",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2307",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2308",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2309",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2310",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2311",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2312",
+          "title": "Capítulo 11",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2313",
+          "title": "Capítulo 12",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2314",
+          "title": "Capítulo 13",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2315",
+          "title": "Capítulo 14",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2316",
+          "title": "Capítulo 15",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2317",
+          "title": "Capítulo 16",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2318",
+          "title": "Capítulo 17",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e18",
+          "slotId": "ep_2319",
+          "title": "Capítulo 18",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e19",
+          "slotId": "ep_2320",
+          "title": "Capítulo 19",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e20",
+          "slotId": "ep_2321",
+          "title": "Capítulo 20",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e21",
+          "slotId": "ep_2322",
+          "title": "Capítulo 21",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e22",
+          "slotId": "ep_2323",
+          "title": "Capítulo 22",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e23",
+          "slotId": "ep_2324",
+          "title": "Capítulo 23",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e24",
+          "slotId": "ep_2325",
+          "title": "Capítulo 24",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        },
+        {
+          "id": "s01e25",
+          "slotId": "ep_2326",
+          "title": "Capítulo 25",
+          "master_url": "",
+          "createdAt": "2026-06-01T15:57:17.674Z"
+        }
+      ],
+      "createdAt": "2026-06-01T15:57:17.674Z",
+      "updatedAt": "2026-06-01T15:57:17.674Z"
     }
   ]
 }
