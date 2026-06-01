@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:10:26.128Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_013"
-  },
-  {
     "timestamp": "2026-04-10T21:11:46.927Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3060,5 +3054,12 @@
     "target": "series_126",
     "title": "Rick y Morty T8",
     "episodes": 10
+  },
+  {
+    "ts": "2026-06-01T00:36:40.362Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_229",
+    "title": "Un Monstruo en París"
   }
 ]
