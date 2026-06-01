@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 365
+    "catalogCount": 366
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6431,6 +6431,31 @@
       "master_url": "",
       "createdAt": "2026-06-01T03:04:41.972Z",
       "updatedAt": "2026-06-01T03:04:41.972Z"
+    },
+    {
+      "id": "movie_239",
+      "type": "movie",
+      "title": "Los Cazafantasmas 2",
+      "description": "Cinco años después de salvar Nueva York, los Cazafantasmas han caído en el olvido y su negocio prácticamente ha desaparecido. Cuando una nueva amenaza paranormal emerge desde las profundidades de la ciudad, el equipo deberá reunirse para enfrentar al poderoso Vigo el Cárpato y salvar nuevamente a Nueva York",
+      "duration": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1989,
+      "releaseDate": "1989-06-16",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 109,
+      "master_url": "",
+      "createdAt": "2026-06-01T03:09:33.006Z",
+      "updatedAt": "2026-06-01T03:09:33.006Z"
     },
     {
       "type": "series",
