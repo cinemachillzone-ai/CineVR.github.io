@@ -6204,9 +6204,9 @@
       ],
       "atlas": "C",
       "gridIndex": 98,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnMonstruoEnPar%C3%ADs/master.m3u8",
       "createdAt": "2026-06-01T00:36:26.722Z",
-      "updatedAt": "2026-06-01T00:36:26.722Z"
+      "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
       "id": "movie_230",
@@ -6228,9 +6228,9 @@
       ],
       "atlas": "C",
       "gridIndex": 100,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElImperioDelSol/master.m3u8",
       "createdAt": "2026-06-01T01:04:45.889Z",
-      "updatedAt": "2026-06-01T01:04:45.889Z"
+      "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
       "id": "movie_231",
@@ -6252,9 +6252,9 @@
       ],
       "atlas": "C",
       "gridIndex": 101,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElInformante/master.m3u8",
       "createdAt": "2026-06-01T01:45:19.642Z",
-      "updatedAt": "2026-06-01T01:45:19.642Z"
+      "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
       "id": "movie_232",
@@ -6279,9 +6279,9 @@
       ],
       "atlas": "C",
       "gridIndex": 102,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElNi%C3%B1oYLaBestia/master.m3u8",
       "createdAt": "2026-06-01T01:54:42.195Z",
-      "updatedAt": "2026-06-01T01:54:42.195Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_233",
@@ -6305,9 +6305,9 @@
       ],
       "atlas": "C",
       "gridIndex": 103,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FuerzaBrutaSinSalida/master.m3u8",
       "createdAt": "2026-06-01T02:10:41.058Z",
-      "updatedAt": "2026-06-01T02:10:41.058Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_234",
@@ -6329,9 +6329,9 @@
       ],
       "atlas": "C",
       "gridIndex": 104,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HaciaRutasSalvajes/master.m3u8",
       "createdAt": "2026-06-01T02:15:47.005Z",
-      "updatedAt": "2026-06-01T02:15:47.005Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_235",
@@ -6353,9 +6353,9 @@
       ],
       "atlas": "C",
       "gridIndex": 105,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IAmVanessaGuillen/master.m3u8",
       "createdAt": "2026-06-01T02:22:27.297Z",
-      "updatedAt": "2026-06-01T02:22:27.297Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_236",
@@ -6377,9 +6377,9 @@
       ],
       "atlas": "C",
       "gridIndex": 106,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Identidad/master.m3u8",
       "createdAt": "2026-06-01T02:26:21.500Z",
-      "updatedAt": "2026-06-01T02:26:21.500Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_237",
@@ -6428,9 +6428,9 @@
       ],
       "atlas": "C",
       "gridIndex": 108,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPop/master.m3u8",
       "createdAt": "2026-06-01T03:04:41.972Z",
-      "updatedAt": "2026-06-01T03:04:41.972Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_239",
@@ -6453,9 +6453,9 @@
       ],
       "atlas": "C",
       "gridIndex": 109,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmas/master.m3u8",
       "createdAt": "2026-06-01T03:09:33.006Z",
-      "updatedAt": "2026-06-01T03:09:33.006Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "id": "movie_240",
@@ -6478,9 +6478,9 @@
       ],
       "atlas": "C",
       "gridIndex": 110,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MATRIX/master.m3u8",
       "createdAt": "2026-06-01T03:33:17.644Z",
-      "updatedAt": "2026-06-01T03:33:17.644Z"
+      "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
       "type": "series",
@@ -26050,8 +26050,9 @@
           "id": "s09e01",
           "slotId": "ep_2301",
           "title": "Capítulo 1",
-          "master_url": "",
-          "createdAt": "2026-06-01T00:53:45.607Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T9/RickYMortyS09E01/master.m3u8",
+          "createdAt": "2026-06-01T00:53:45.607Z",
+          "updatedAt": "2026-06-01T06:00:04.920Z"
         }
       ],
       "createdAt": "2026-06-01T00:53:45.607Z",
