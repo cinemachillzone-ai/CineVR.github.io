@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:38:02.809Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
     "timestamp": "2026-04-10T21:38:23.431Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3080,5 +3074,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_247",
     "title": "Al Diablo con el Diablo"
+  },
+  {
+    "ts": "2026-06-01T14:56:56.310Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_248",
+    "title": "Algo Pasa con Mary"
   }
 ]
