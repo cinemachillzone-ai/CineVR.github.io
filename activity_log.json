@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:15:17.708Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_015"
-  },
-  {
     "timestamp": "2026-04-10T21:15:22.601Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3066,5 +3060,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_232",
     "title": "El Niño y la Bestia"
+  },
+  {
+    "ts": "2026-06-01T02:10:49.101Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_233",
+    "title": "Fuerza Bruta: Sin Salida"
   }
 ]
