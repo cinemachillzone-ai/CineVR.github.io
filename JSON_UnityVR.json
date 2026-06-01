@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 374
+    "catalogCount": 375
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6653,6 +6653,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T14:50:57.693Z",
       "updatedAt": "2026-06-01T14:50:57.693Z"
+    },
+    {
+      "id": "movie_248",
+      "type": "movie",
+      "title": "Algo Pasa con Mary",
+      "description": "Ted nunca ha podido olvidar a Mary, la chica de sus sueños. Años después decide contratar a un detective para encontrarla, pero la situación se complica cuando varios hombres quedan igualmente fascinados con ella, dando lugar a una serie de situaciones absurdas y muy incómodas.",
+      "duration": "1 hora 59 minutos",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "1998-07-15",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 118,
+      "master_url": "",
+      "createdAt": "2026-06-01T14:56:48.309Z",
+      "updatedAt": "2026-06-01T14:56:48.309Z"
     },
     {
       "type": "series",
