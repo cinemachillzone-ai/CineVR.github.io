@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:14:15.956Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_014"
-  },
-  {
     "timestamp": "2026-04-10T21:15:17.708Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3065,5 +3059,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_231",
     "title": "El Informante"
+  },
+  {
+    "ts": "2026-06-01T01:54:49.321Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_232",
+    "title": "El Niño y la Bestia"
   }
 ]
