@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:38:23.431Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_030"
-  },
-  {
     "timestamp": "2026-04-10T21:42:06.924Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3081,5 +3075,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_248",
     "title": "Algo Pasa con Mary"
+  },
+  {
+    "ts": "2026-06-01T15:00:43.790Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_249",
+    "title": "Arco"
   }
 ]
