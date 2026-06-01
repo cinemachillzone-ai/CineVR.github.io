@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:20:18.877Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_016"
-  },
-  {
     "timestamp": "2026-04-10T21:21:35.408Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3069,5 +3063,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_235",
     "title": "I Am Vanessa Guillén"
+  },
+  {
+    "ts": "2026-06-01T02:26:35.937Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_236",
+    "title": "Identidad"
   }
 ]
