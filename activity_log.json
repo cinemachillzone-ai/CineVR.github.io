@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:25:56.454Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_022"
-  },
-  {
     "timestamp": "2026-04-10T21:28:14.327Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3073,5 +3067,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_239",
     "title": "Los Cazafantasmas 2"
+  },
+  {
+    "ts": "2026-06-01T03:33:31.520Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_240",
+    "title": "Matrix"
   }
 ]
