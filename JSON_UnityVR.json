@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 373
+    "catalogCount": 374
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6628,6 +6628,31 @@
       "master_url": "",
       "createdAt": "2026-06-01T14:47:09.622Z",
       "updatedAt": "2026-06-01T14:47:09.622Z"
+    },
+    {
+      "id": "movie_247",
+      "type": "movie",
+      "title": "Al Diablo con el Diablo",
+      "description": "Elliot Richards es un hombre tímido y desafortunado en el amor que hace un trato con el Diablo para conquistar a la mujer de sus sueños. A cambio de su alma, recibe siete deseos, pero cada uno termina teniendo consecuencias inesperadas y cómicas.",
+      "duration": "1 hora 33 minutos",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-10-20",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 117,
+      "master_url": "",
+      "createdAt": "2026-06-01T14:50:57.693Z",
+      "updatedAt": "2026-06-01T14:50:57.693Z"
     },
     {
       "type": "series",
