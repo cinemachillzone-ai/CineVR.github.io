@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 378
+    "catalogCount": 379
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6751,6 +6751,30 @@
       "master_url": "",
       "createdAt": "2026-06-01T15:16:40.792Z",
       "updatedAt": "2026-06-01T15:16:40.792Z"
+    },
+    {
+      "id": "movie_252",
+      "type": "movie",
+      "title": "El Plan Perfecto",
+      "description": "Un grupo de ladrones toma un banco en Manhattan y mantiene a decenas de personas como rehenes. Mientras la policía intenta resolver la situación, el detective Keith Frazier descubre que el robo es mucho más complejo de lo que parece y que oculta secretos inesperados.",
+      "duration": "2 horas 9 minutos",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2006-06-24",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 122,
+      "master_url": "",
+      "createdAt": "2026-06-01T15:20:56.003Z",
+      "updatedAt": "2026-06-01T15:20:56.003Z"
     },
     {
       "type": "series",
