@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:35:06.311Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_027"
-  },
-  {
     "timestamp": "2026-04-10T21:37:33.918Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3078,5 +3072,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_245",
     "title": "Matrix Resurrecciones"
+  },
+  {
+    "ts": "2026-06-01T14:47:17.931Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_246",
+    "title": "Tron: El Legado"
   }
 ]
