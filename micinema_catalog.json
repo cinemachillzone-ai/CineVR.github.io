@@ -7321,6 +7321,34 @@
       "master_url": "",
       "createdAt": "2026-06-01T02:26:21.500Z",
       "updatedAt": "2026-06-01T02:26:21.500Z"
+    },
+    {
+      "id": "movie_237",
+      "type": "movie",
+      "title": "Jack Ryan: Guerra Fantasma",
+      "description": "Jack Ryan es obligado a regresar al mundo del espionaje cuando una misión encubierta internacional revela una peligrosa conspiración. Junto a antiguos aliados de la CIA, deberá enfrentarse a una organización clandestina que conoce cada uno de sus movimientos y amenaza la seguridad mundial.",
+      "duration": "",
+      "rating": "R",
+      "quality": "HD",
+      "section": "Estrenos",
+      "year": 2026,
+      "releaseDate": "2026-06-25",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 107,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8"
+      },
+      "master_url": "",
+      "createdAt": "2026-06-01T02:31:49.651Z",
+      "updatedAt": "2026-06-01T02:31:49.651Z"
     }
   ],
   "series": [
