@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:42:49.165Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
     "timestamp": "2026-04-10T21:42:58.101Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3087,5 +3081,13 @@
     "action": "ADD_MOVIE",
     "target": "movie_254",
     "title": "Magia Extraña"
+  },
+  {
+    "ts": "2026-06-01T15:57:30.121Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_128",
+    "title": "Kuroshitsuji T1",
+    "episodes": 25
   }
 ]
