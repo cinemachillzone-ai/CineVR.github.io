@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:24:27.732Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_020"
-  },
-  {
     "timestamp": "2026-04-10T21:25:56.454Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3072,5 +3066,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_238",
     "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
+  },
+  {
+    "ts": "2026-06-01T03:09:47.423Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_239",
+    "title": "Los Cazafantasmas 2"
   }
 ]
