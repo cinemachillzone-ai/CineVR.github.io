@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:29:24.479Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_024"
-  },
-  {
     "timestamp": "2026-04-10T21:31:27.192Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3075,5 +3069,12 @@
     "action": "ADD_MOVIE",
     "target": "movie_241",
     "title": "Múnich"
+  },
+  {
+    "ts": "2026-06-01T14:29:13.671Z",
+    "actor": "seanf",
+    "action": "ADD_MOVIE",
+    "target": "movie_243",
+    "title": "Número desconocido: Un escándalo de ciberacoso escolar"
   }
 ]
