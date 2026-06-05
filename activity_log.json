@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T22:18:37.567Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_029"
-  },
-  {
     "timestamp": "2026-04-10T22:19:16.674Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3111,5 +3105,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_245",
     "title": "Matrix Resurrecciones"
+  },
+  {
+    "ts": "2026-06-05T13:27:15.489Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_048",
+    "title": "Redline"
   }
 ]
