@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T02:20:24.123Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_064"
-  },
-  {
     "timestamp": "2026-04-13T18:35:31.870Z",
     "user": "Admin",
     "action": "ADD",
@@ -3124,5 +3118,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_295",
     "title": "To Every You I've Loved Before"
+  },
+  {
+    "ts": "2026-06-05T13:32:14.505Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_308",
+    "title": "To Me, The One Who Loved You"
   }
 ]
