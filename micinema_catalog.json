@@ -35977,114 +35977,114 @@
       "gridIndex": 94,
       "episodes": [
         {
-          "id": "s01e01",
+          "id": "s05e01",
           "slotId": "ep_2261",
           "title": "Capítulo 1",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E01/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E01/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.832Z"
         },
         {
-          "id": "s01e02",
+          "id": "s05e02",
           "slotId": "ep_2262",
           "title": "Capítulo 2",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E02/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E02/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e03",
+          "id": "s05e03",
           "slotId": "ep_2263",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E03/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E03/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e04",
+          "id": "s05e04",
           "slotId": "ep_2264",
           "title": "Capítulo 4",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E04/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E04/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e05",
+          "id": "s05e05",
           "slotId": "ep_2265",
           "title": "Capítulo 5",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E05/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E05/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e06",
+          "id": "s05e06",
           "slotId": "ep_2266",
           "title": "Capítulo 6",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E06/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E06/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e07",
+          "id": "s05e07",
           "slotId": "ep_2267",
           "title": "Capítulo 7",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E07/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E07/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e08",
+          "id": "s05e08",
           "slotId": "ep_2268",
           "title": "Capítulo 8",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E08/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E08/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e09",
+          "id": "s05e09",
           "slotId": "ep_2269",
           "title": "Capítulo 9",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E09/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E09/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e10",
+          "id": "s05e10",
           "slotId": "ep_2270",
           "title": "Capítulo 10",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E10/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T5/RickYMortyS05E10/master.m3u8",
           "createdAt": "2026-05-31T23:21:43.235Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         }
       ],
       "links": {
@@ -36122,114 +36122,114 @@
       "gridIndex": 95,
       "episodes": [
         {
-          "id": "s01e01",
+          "id": "s06e01",
           "slotId": "ep_2271",
           "title": "Capítulo 1",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E01/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E01/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e02",
+          "id": "s06e02",
           "slotId": "ep_2272",
           "title": "Capítulo 2",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E02/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E02/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e03",
+          "id": "s06e03",
           "slotId": "ep_2273",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E03/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E03/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e04",
+          "id": "s06e04",
           "slotId": "ep_2274",
           "title": "Capítulo 4",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E04/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E04/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e05",
+          "id": "s06e05",
           "slotId": "ep_2275",
           "title": "Capítulo 5",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E05/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E05/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e06",
+          "id": "s06e06",
           "slotId": "ep_2276",
           "title": "Capítulo 6",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E06/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E06/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e07",
+          "id": "s06e07",
           "slotId": "ep_2277",
           "title": "Capítulo 7",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E07/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E07/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e08",
+          "id": "s06e08",
           "slotId": "ep_2278",
           "title": "Capítulo 8",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E08/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E08/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.595Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e09",
+          "id": "s06e09",
           "slotId": "ep_2279",
           "title": "Capítulo 9",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E09/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E09/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e10",
+          "id": "s06e10",
           "slotId": "ep_2280",
           "title": "Capítulo 10",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E10/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T6/RickYMortyS06E10/master.m3u8",
           "createdAt": "2026-05-31T23:33:33.712Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         }
       ],
       "links": {
@@ -36267,114 +36267,114 @@
       "gridIndex": 96,
       "episodes": [
         {
-          "id": "s01e01",
+          "id": "s07e01",
           "slotId": "ep_2281",
           "title": "Capítulo 1",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E01/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E01/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e02",
+          "id": "s07e02",
           "slotId": "ep_2282",
           "title": "Capítulo 2",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E02/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E02/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e03",
+          "id": "s07e03",
           "slotId": "ep_2283",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E03/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E03/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e04",
+          "id": "s07e04",
           "slotId": "ep_2284",
           "title": "Capítulo 4",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E04/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E04/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e05",
+          "id": "s07e05",
           "slotId": "ep_2285",
           "title": "Capítulo 5",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E05/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E05/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e06",
+          "id": "s07e06",
           "slotId": "ep_2286",
           "title": "Capítulo 6",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E06/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E06/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e07",
+          "id": "s07e07",
           "slotId": "ep_2287",
           "title": "Capítulo 7",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E07/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E07/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e08",
+          "id": "s07e08",
           "slotId": "ep_2288",
           "title": "Capítulo 8",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E08/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E08/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e09",
+          "id": "s07e09",
           "slotId": "ep_2289",
           "title": "Capítulo 9",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E09/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E09/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.834Z"
         },
         {
-          "id": "s01e10",
+          "id": "s07e10",
           "slotId": "ep_2290",
           "title": "Capítulo 10",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E10/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T7/RickYMortyS07E10/master.m3u8",
           "createdAt": "2026-05-31T23:36:18.938Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.837Z"
         }
       ],
       "links": {
@@ -36413,114 +36413,114 @@
       "gridIndex": 97,
       "episodes": [
         {
-          "id": "s01e01",
+          "id": "s08e01",
           "slotId": "ep_2291",
           "title": "Capítulo 1",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E01/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E01/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E01/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e02",
+          "id": "s08e02",
           "slotId": "ep_2292",
           "title": "Capítulo 2",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E02/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E02/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E02/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e03",
+          "id": "s08e03",
           "slotId": "ep_2293",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E03/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E03/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E03/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e04",
+          "id": "s08e04",
           "slotId": "ep_2294",
           "title": "Capítulo 4",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E04/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E04/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E04/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e05",
+          "id": "s08e05",
           "slotId": "ep_2295",
           "title": "Capítulo 5",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E05/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E05/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E05/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e06",
+          "id": "s08e06",
           "slotId": "ep_2296",
           "title": "Capítulo 6",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E06/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E06/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E06/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e07",
+          "id": "s08e07",
           "slotId": "ep_2297",
           "title": "Capítulo 7",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E07/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E07/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E07/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e08",
+          "id": "s08e08",
           "slotId": "ep_2298",
           "title": "Capítulo 8",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E08/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E08/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E08/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e09",
+          "id": "s08e09",
           "slotId": "ep_2299",
           "title": "Capítulo 9",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E09/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E09/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E09/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         },
         {
-          "id": "s01e10",
+          "id": "s08e10",
           "slotId": "ep_2300",
           "title": "Capítulo 10",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E10/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T1/RickYMortyS01E10/master.m3u8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Rick%20%20y%20morty/T8/RickYMortyS08E10/master.m3u8",
           "createdAt": "2026-05-31T23:41:43.351Z",
-          "updatedAt": "2026-06-01T00:00:04.596Z"
+          "updatedAt": "2026-06-04T04:52:44.838Z"
         }
       ],
       "links": {
