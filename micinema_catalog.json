@@ -7909,6 +7909,1120 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DetectivePorError/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.682Z",
       "updatedAt": "2026-06-05T12:48:00.682Z"
+    },
+    {
+      "id": "movie_258",
+      "type": "movie",
+      "title": "Batman: El caballero de la noche",
+      "description": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Ciudad Gótica, Batman debe aceptar una de las mayores pruebas psicológicas y físicas de su capacidad para luchar contra la injusticia.",
+      "duration": "2h 32m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2008-07-16",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 2,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCaballeroDeLaNocheBatman/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCaballeroDeLaNocheBatman/master.m3u8",
+      "createdAt": "2026-06-05T12:52:12.950Z",
+      "updatedAt": "2026-06-05T12:52:12.950Z"
+    },
+    {
+      "id": "movie_259",
+      "type": "movie",
+      "title": "Contactos de cuarto tipo",
+      "description": "Thriller basado en hechos reales, ambientado en Alaska, en el que una mujer investiga una serie de misteriosas desapariciones ocurridas en el lugar durante los últimos 40 años. A finales del año 2000, los pacientes de la terapeuta Abbey Tyler, bajo hipnosis, reflejaron comportamientos que sugerían encuentros con seres no humanos. Antes de dormir, todos ellos aseguraban haber visto un búho que les observaba desde fuera de la ventana. Y despertaban completamente paralizados, escuchando ruidos terroríficos que provenían de fuera de la habitación. La doctora prosiguió con sus investigaciones, descubriendo que la desaparición de personas y sucesos extraños en la región se remontaba a los años 60.",
+      "duration": "1h 39m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-11-05",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 3,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCuartoContacto/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCuartoContacto/master.m3u8",
+      "createdAt": "2026-06-05T12:52:13.162Z",
+      "updatedAt": "2026-06-05T12:52:13.162Z"
+    },
+    {
+      "id": "movie_260",
+      "type": "movie",
+      "title": "El día del fin del mundo: Migración",
+      "description": "La familia Garrity debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-01-07",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 4,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElD%C3%ADaDelFinDelMundoMigraci%C3%B3n/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElD%C3%ADaDelFinDelMundoMigraci%C3%B3n/master.m3u8",
+      "createdAt": "2026-06-05T12:52:13.428Z",
+      "updatedAt": "2026-06-05T12:52:13.428Z"
+    },
+    {
+      "id": "movie_261",
+      "type": "movie",
+      "title": "El día del fin del mundo: Migración",
+      "description": "La familia Garrity debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-01-07",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 5,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8",
+      "createdAt": "2026-06-05T12:52:13.568Z",
+      "updatedAt": "2026-06-05T12:52:13.568Z"
+    },
+    {
+      "id": "movie_262",
+      "type": "movie",
+      "title": "Guardianes de la galaxia",
+      "description": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador.",
+      "duration": "2h 01m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-07-30",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 6,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardianesDeLaGalaxia/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardianesDeLaGalaxia/master.m3u8",
+      "createdAt": "2026-06-05T12:52:14.002Z",
+      "updatedAt": "2026-06-05T12:52:14.002Z"
+    },
+    {
+      "id": "movie_263",
+      "type": "movie",
+      "title": "Han Solo: Una historia de Star Wars",
+      "description": "A bordo del Halcón Milenario Han Solo Una Historia de Star Wars trae una nueva aventura con el contrabandista más querido de todos los tiempos. A través de una serie de arriesgadas travesuras en un oscuro y peligroso submundo criminal, Han Solo conoce a su futuro amigo y copiloto y encuentra al apostador Lando Calrissian en un viaje que marcará el curso de uno de los héroes más inesperados de Star Wars.",
+      "duration": "2h 15m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-05-15",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 7,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HanSolo/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HanSolo/master.m3u8",
+      "createdAt": "2026-06-05T12:52:14.215Z",
+      "updatedAt": "2026-06-05T12:52:14.215Z"
+    },
+    {
+      "id": "movie_264",
+      "type": "movie",
+      "title": "El hombre araña",
+      "description": "Cuando es mordido por una araña genéticamente modificada, un estudiante de secundaria nerd, tímido y torpe, adquiere habilidades parecidas a las de una araña que eventualmente debe usar para luchar contra el mal como un superhéroe después de que la tragedia cae sobre su familia.",
+      "duration": "2h 01m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-05-01",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 8,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a/master.m3u8",
+      "createdAt": "2026-06-05T12:52:14.436Z",
+      "updatedAt": "2026-06-05T12:52:14.436Z"
+    },
+    {
+      "id": "movie_265",
+      "type": "movie",
+      "title": "El hombre araña 2",
+      "description": "Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante científico llamado Doctor Otto Octavius.",
+      "duration": "2h 07m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-06-25",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 9,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:14.646Z",
+      "updatedAt": "2026-06-05T12:52:14.646Z"
+    },
+    {
+      "id": "movie_266",
+      "type": "movie",
+      "title": "El hombre araña 3",
+      "description": "Una extraña entidad negra de otro mundo se vincula con Peter Parker y le provoca confusión interna mientras lucha contra nuevos villanos, tentaciones y venganza.",
+      "duration": "2h 19m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-05-01",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 10,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a3/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreAra%C3%B1a3/master.m3u8",
+      "createdAt": "2026-06-05T12:52:14.863Z",
+      "updatedAt": "2026-06-05T12:52:14.863Z"
+    },
+    {
+      "id": "movie_267",
+      "type": "movie",
+      "title": "Hotel Transylvania",
+      "description": "Cuando Mavis está a punto de cumplir 118 años, su padre, el conde Drácula, le prepara una fiesta a la que acuden los mejores amigos de la familia, Frankenstein, Hombre Invisible y la Momia; pero cuando un humano llamado Johnny, un tipo común y corriente, aparece en el hotel de monstruos... lo cambia todo.",
+      "duration": "1h 31m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-09-20",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 11,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2013/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2013/master.m3u8",
+      "createdAt": "2026-06-05T12:52:15.076Z",
+      "updatedAt": "2026-06-05T12:52:15.076Z"
+    },
+    {
+      "id": "movie_268",
+      "type": "movie",
+      "title": "Jack Ryan de Tom Clancy: Guerra fantasma",
+      "description": "En esta nueva película, Jack Ryan vuelve a regañadientes al espionaje cuando una misión encubierta internacional destapa una conspiración mortal. En una carrera contra el tiempo, se une a sus aliados de la CIA Mike November y James Greer y a la astuta oficial del MI6 Emma Marlowe para enfrentarse a una unidad renegada de operaciones encubiertas en una pelea muy personal y con mucho en juego.",
+      "duration": "1h 47m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-20",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 12,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8",
+      "createdAt": "2026-06-05T12:52:15.522Z",
+      "updatedAt": "2026-06-05T12:52:15.522Z"
+    },
+    {
+      "id": "movie_269",
+      "type": "movie",
+      "title": "John Wick 2: Un Nuevo Día para Matar",
+      "description": "En esta secuela del éxito de 2014, el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-02-08",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 13,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:15.843Z",
+      "updatedAt": "2026-06-05T12:52:15.843Z"
+    },
+    {
+      "id": "movie_270",
+      "type": "movie",
+      "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras",
+      "description": "Tiempo después de abandonar la ciudad llenó de comida, y trabajando en un puesto en The Live Corp Company, con su ídolo Chester V. Flint Lockwood descubre que su máquina todavía funciona y ahora crea bestias alimenticias mutantes, entonces él y sus amigos deben regresar para salvar el mundo.",
+      "duration": "1h 35m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-09-26",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 14,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:16.164Z",
+      "updatedAt": "2026-06-05T12:52:16.164Z"
+    },
+    {
+      "id": "movie_271",
+      "type": "movie",
+      "title": "Los Cazafantasmas 2",
+      "description": "Han pasado cinco años desde que los cazafantasmas entraron por última vez en acción. El doctor Peter Venkman, notable parapsicólogo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisión donde se discuten fenómenos psíquicos. Ray Stantz y su colega Winston Zeddemore se ganan la vida entreteniendo a niños en fiestas infantiles, y el mago tecnológico Egon Spengler continúa sus investigaciones sobre los efectos de las emociones humanas en el campo de energía psicomagnética. La relación de Dana Barrett con Venkman se disolvió; ella se casó con otro hombre y tuvo un hijo, pero el matrimonio fracasó. Ahora Dana vive sola en Nueva York, criando a Oscar, su bebé de ocho meses, y trabajando como restauradora de cuadros en el Museo de arte de Manhattan, junto a un excéntrico experto en pinturas del periodo romántico, Janosz Poha. Todo parece normal hasta que el cochecito de Oscar rueda por sí solo y se mete entre el peligroso tráfico de la ciudad.",
+      "duration": "1h 48m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1989,
+      "releaseDate": "1989-06-16",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 15,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmasIi/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmasIi/master.m3u8",
+      "createdAt": "2026-06-05T12:52:17.955Z",
+      "updatedAt": "2026-06-05T12:52:17.955Z"
+    },
+    {
+      "id": "movie_272",
+      "type": "movie",
+      "title": "Wifi Ralph",
+      "description": "Seis años después de salvar el arcade del ataque de los Cybugs y de la venganza de Turbo,5​ la historia se centrará en las aventuras de Ralph en el espacio de datos de Internet cuando un enrutador Wi-Fi se conecta en la sala de juegos, ya que debe encontrar una pieza de reemplazo para fijar Sugar Rush. A lo largo del camino, Ralph y su mejor amiga Vanellope von Schweetz encuentran nuevas costumbres, mundos y personajes, como el algoritmo de moda Yesss, las princesas de Disney, los superhéroes de Marvel y personajes de Star Wars, y más personajes de videojuegos como Mario y Sonic the Hedgehog.",
+      "duration": "1h 52m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-11-20",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 16,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RalfWifi/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RalfWifi/master.m3u8",
+      "createdAt": "2026-06-05T12:52:18.439Z",
+      "updatedAt": "2026-06-05T12:52:18.439Z"
+    },
+    {
+      "id": "movie_273",
+      "type": "movie",
+      "title": "Robot salvaje",
+      "description": "Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.",
+      "duration": "1h 41m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-09-12",
+      "genres": [
+        "Family",
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 17,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RobotSalvaje2024/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RobotSalvaje2024/master.m3u8",
+      "createdAt": "2026-06-05T12:52:18.949Z",
+      "updatedAt": "2026-06-05T12:52:18.949Z"
+    },
+    {
+      "id": "movie_274",
+      "type": "movie",
+      "title": "One Night In Baton Rouge & Cuban",
+      "description": "",
+      "duration": "0h 08m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-01-01",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 18,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RougeOne/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RougeOne/master.m3u8",
+      "createdAt": "2026-06-05T12:52:19.164Z",
+      "updatedAt": "2026-06-05T12:52:19.164Z"
+    },
+    {
+      "id": "movie_275",
+      "type": "movie",
+      "title": "El Sorprendente Hombre-Araña 2: La Amenaza de Electro",
+      "description": "Ser el Hombre Araña es genial. Para Peter Parker, no hay mejor sensación que columpiarse entre rascacielos, ser el héroe y pasar el tiempo con Gwen. Pero ser el Hombre Araña no es gratuito: solo él puede proteger a sus conciudadanos de Nueva York de los temibles villanos que amenazan a la ciudad. Con el surgimiento de Electro, Peter debe enfrentar a un enemigo mucho más poderoso que él. Y como su antiguo amigo, Harry Osborn, regresa, Peter se da cuenta de que todos sus enemigos tienen algo en común: Oscorp.",
+      "duration": "2h 22m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-04-16",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 19,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreAra%C3%B1a2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreAra%C3%B1a2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:19.590Z",
+      "updatedAt": "2026-06-05T12:52:19.590Z"
+    },
+    {
+      "id": "movie_276",
+      "type": "movie",
+      "title": "Spider-Man: A través del Spider-Verso",
+      "description": "Después de reunirse con Gwen Stacy, Miles Morales, el amigable Spider-Man del vecindario de tiempo completo de Brooklyn, es catapultado a través del Multiverso, donde se encuentra con un equipo de Spider-People encargado de proteger su existencia. Pero cuando los héroes chocan sobre cómo manejar una nueva amenaza, Miles se enfrenta a las otras arañas y debe redefinir lo que significa ser un héroe para poder salvar a las personas que más ama.",
+      "duration": "2h 20m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-05-31",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 20,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManATrav%C3%A9sDelSpiderVerso2023/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManATrav%C3%A9sDelSpiderVerso2023/master.m3u8",
+      "createdAt": "2026-06-05T12:52:19.804Z",
+      "updatedAt": "2026-06-05T12:52:19.804Z"
+    },
+    {
+      "id": "movie_277",
+      "type": "movie",
+      "title": "Spider-Man: Un nuevo universo",
+      "description": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse.",
+      "duration": "1h 57m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-12-06",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 21,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManUnNuevoUniverso2018/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManUnNuevoUniverso2018/master.m3u8",
+      "createdAt": "2026-06-05T12:52:20.017Z",
+      "updatedAt": "2026-06-05T12:52:20.017Z"
+    },
+    {
+      "id": "movie_278",
+      "type": "movie",
+      "title": "El Imperio contraataca",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "duration": "2h 04m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "1980-05-20",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 22,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars4/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars4/master.m3u8",
+      "createdAt": "2026-06-05T12:52:20.231Z",
+      "updatedAt": "2026-06-05T12:52:20.231Z"
+    },
+    {
+      "id": "movie_279",
+      "type": "movie",
+      "title": "El Imperio contraataca",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "duration": "2h 04m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "1980-05-20",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 23,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars5/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars5/master.m3u8",
+      "createdAt": "2026-06-05T12:52:20.369Z",
+      "updatedAt": "2026-06-05T12:52:20.369Z"
+    },
+    {
+      "id": "movie_280",
+      "type": "movie",
+      "title": "#TBB4",
+      "description": "",
+      "duration": "0h 08m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-10-30",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 24,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TBB/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TBB/master.m3u8",
+      "createdAt": "2026-06-05T12:52:20.952Z",
+      "updatedAt": "2026-06-05T12:52:20.952Z"
+    },
+    {
+      "id": "movie_281",
+      "type": "movie",
+      "title": "Matrix resurrecciones",
+      "description": "El retorno a un mundo de dos realidades: una, la vida cotidiana; la otra, lo que hay detrás de ella. Para descubrir si su realidad es un constructo, para verdaderamente conocerse a sí mismo, el Sr. Anderson deberá elegir seguir al conejo blanco una vez más.",
+      "duration": "2h 28m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-12-16",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 25,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMatrix4Resurrections/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMatrix4Resurrections/master.m3u8",
+      "createdAt": "2026-06-05T12:52:21.282Z",
+      "updatedAt": "2026-06-05T12:52:21.282Z"
+    },
+    {
+      "id": "movie_282",
+      "type": "movie",
+      "title": "Top Gun: Maverick",
+      "description": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especial que ningún piloto vivo ha visto antes, Maverick se encuentra con el teniente Bradley Bradshaw, señal de llamada: \"Rooster\", el hijo del difunto amigo de Maverick y el oficial de intercepción de radar, el teniente Nick Bradshaw, también conocido como \"Goose\".",
+      "duration": "2h 11m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-05-21",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 26,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TopGunMaverick/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TopGunMaverick/master.m3u8",
+      "createdAt": "2026-06-05T12:52:21.616Z",
+      "updatedAt": "2026-06-05T12:52:21.616Z"
+    },
+    {
+      "id": "movie_283",
+      "type": "movie",
+      "title": "ビーストウォーズII ライオコンボイ危機一髪!",
+      "description": "",
+      "duration": "0h 47m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "1998-12-19",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 27,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:21.857Z",
+      "updatedAt": "2026-06-05T12:52:21.857Z"
+    },
+    {
+      "id": "movie_284",
+      "type": "movie",
+      "title": "마이크로 특공대 다이야 트론 5",
+      "description": "",
+      "duration": "1h 03m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1989,
+      "releaseDate": "1989-01-01",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 28,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer3/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer3/master.m3u8",
+      "createdAt": "2026-06-05T12:52:22.084Z",
+      "updatedAt": "2026-06-05T12:52:22.084Z"
+    },
+    {
+      "id": "movie_285",
+      "type": "movie",
+      "title": "Transformers: la venganza de los caídos",
+      "description": "Dos años después de derrotar a los Decepticons, las vidas de Sam y los Autobots han cambiado mucho. Mientras Sam se prepara para ir a la universidad, sus amigos robots se han integrado en una fuerza de élite que captura a enemigos renegados. Pero todo cambia con la llegada de un malvado enemigo que, con un enrevesado plan, planea un nuevo alzamiento de los Decepticons. La humanidad vuelve a estar en peligro, y Sam y los Autobots tendrán que formar una vez más equipo para salvarla.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-06-19",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 29,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TransformesROB/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TransformesROB/master.m3u8",
+      "createdAt": "2026-06-05T12:52:22.288Z",
+      "updatedAt": "2026-06-05T12:52:22.288Z"
+    },
+    {
+      "id": "movie_286",
+      "type": "movie",
+      "title": "Flowers for Algernon",
+      "description": "",
+      "duration": "1h 31m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-02-20",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 30,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnSue%C3%B1oImposible/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnSue%C3%B1oImposible/master.m3u8",
+      "createdAt": "2026-06-05T12:52:22.520Z",
+      "updatedAt": "2026-06-05T12:52:22.520Z"
+    },
+    {
+      "id": "movie_287",
+      "type": "movie",
+      "title": "Vengadores Chiflados: La Era de Pultrón",
+      "description": "",
+      "duration": "0h 59m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-09-24",
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 31,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
+      "createdAt": "2026-06-05T12:52:22.945Z",
+      "updatedAt": "2026-06-05T12:52:22.945Z"
+    },
+    {
+      "id": "movie_288",
+      "type": "movie",
+      "title": "Volver al Futuro 2",
+      "description": "Aunque a Marty McFly todavía le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la máquina del tiempo (mucho más modernizada), e insta a que le acompañen él y su novia a viajar al futuro para solucionar un problema con la ley que tendrá uno de sus futuros hijos.",
+      "duration": "1h 48m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1989,
+      "releaseDate": "1989-11-22",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 32,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo2/master.m3u8",
+      "createdAt": "2026-06-05T12:52:23.156Z",
+      "updatedAt": "2026-06-05T12:52:23.156Z"
+    },
+    {
+      "id": "movie_289",
+      "type": "movie",
+      "title": "Volver al Futuro 3",
+      "description": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+      "duration": "1h 59m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1990,
+      "releaseDate": "1990-05-25",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 33,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo3/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo3/master.m3u8",
+      "createdAt": "2026-06-05T12:52:23.363Z",
+      "updatedAt": "2026-06-05T12:52:23.363Z"
+    },
+    {
+      "id": "movie_290",
+      "type": "movie",
+      "title": "El gran Showman",
+      "description": "Celebra el nacimiento del mundo del espectáculo y habla de un visionario que se levantó de la nada para crear un espectáculo que se convirtió en una sensación mundial.",
+      "duration": "1h 45m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-12-20",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 34,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elGranShowman2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elGranShowman2017/master.m3u8",
+      "createdAt": "2026-06-05T12:52:23.732Z",
+      "updatedAt": "2026-06-05T12:52:23.732Z"
+    },
+    {
+      "id": "movie_291",
+      "type": "movie",
+      "title": "Truman Show: Historia de una Vida",
+      "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+      "duration": "1h 43m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "1998-06-04",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 35,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/theTrumanShowHistoriaDeUnaVida1998/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/theTrumanShowHistoriaDeUnaVida1998/master.m3u8",
+      "createdAt": "2026-06-05T12:52:24.158Z",
+      "updatedAt": "2026-06-05T12:52:24.158Z"
+    },
+    {
+      "id": "movie_292",
+      "type": "movie",
+      "title": "Ao no Exorcist The Movie",
+      "description": "El ambiente en True Cross Academy es animado y bullicioso en los días previos al gran festival que se celebra una vez cada 11 años. Durante este tiempo, a Okumura Rin se le confía la responsabilidad de suprimir el Tren Fantasmal berserker. En medio de su misión, se encuentra con un demonio cuya apariencia es la de un niño.",
+      "duration": "1h 28m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-12-28",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Mystery",
+        "Horror",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 36,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/AoNoExorcistMovie/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/AoNoExorcistMovie/master.m3u8",
+      "createdAt": "2026-06-05T12:52:24.378Z",
+      "updatedAt": "2026-06-05T12:52:24.378Z"
+    },
+    {
+      "id": "movie_293",
+      "type": "movie",
+      "title": "Ao no Exorcist The Movie",
+      "description": "El ambiente en True Cross Academy es animado y bullicioso en los días previos al gran festival que se celebra una vez cada 11 años. Durante este tiempo, a Okumura Rin se le confía la responsabilidad de suprimir el Tren Fantasmal berserker. En medio de su misión, se encuentra con un demonio cuya apariencia es la de un niño.",
+      "duration": "1h 28m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-12-28",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Mystery",
+        "Horror",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 37,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/AoNoExorcistMovie/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/AoNoExorcistMovie/master.m3u8",
+      "createdAt": "2026-06-05T12:52:24.443Z",
+      "updatedAt": "2026-06-05T12:52:24.443Z"
+    },
+    {
+      "id": "movie_294",
+      "type": "movie",
+      "title": "To Every You I've Loved Before",
+      "description": "",
+      "duration": "1h 42m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-10-07",
+      "genres": [
+        "Animation",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 38,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/BokuGaAishitaSubeteNoKimiE/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/BokuGaAishitaSubeteNoKimiE/master.m3u8",
+      "createdAt": "2026-06-05T12:52:24.820Z",
+      "updatedAt": "2026-06-05T12:52:24.820Z"
+    },
+    {
+      "id": "movie_295",
+      "type": "movie",
+      "title": "To Every You I've Loved Before",
+      "description": "",
+      "duration": "1h 42m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-10-07",
+      "genres": [
+        "Animation",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 39,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/BokuGaAishitaSubeteNoKimiE/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/BokuGaAishitaSubeteNoKimiE/master.m3u8",
+      "createdAt": "2026-06-05T12:52:24.891Z",
+      "updatedAt": "2026-06-05T12:52:24.891Z"
+    },
+    {
+      "id": "movie_296",
+      "type": "movie",
+      "title": "Dead Leaves",
+      "description": "Planeta Tierra: el futuro. Los únicos humanos que quedan son clones. Retro, un joven que, por alguna razón, tiene un televisor en lugar de cabeza y Pandy, una chica con una mancha de nacimiento sobre su ojo derecho, escapan de la policía. Capturados por las fuerzas del orden, son encarcelados en la colonia penitenciaria lunar llamada \"Dead Leaves\". Pronto se dan cuenta de que no están como para aguantar el régimen brutal de la prisión, así que comienzan a planear su huida, comenzando así una aventura violenta, caótica, esperpéntica y rocambolesca.",
+      "duration": "0h 52m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-01-17",
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 40,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/DeadLeaves_2004/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/DeadLeaves_2004/master.m3u8",
+      "createdAt": "2026-06-05T12:52:25.261Z",
+      "updatedAt": "2026-06-05T12:52:25.261Z"
+    },
+    {
+      "id": "movie_297",
+      "type": "movie",
+      "title": "Dead Leaves",
+      "description": "Planeta Tierra: el futuro. Los únicos humanos que quedan son clones. Retro, un joven que, por alguna razón, tiene un televisor en lugar de cabeza y Pandy, una chica con una mancha de nacimiento sobre su ojo derecho, escapan de la policía. Capturados por las fuerzas del orden, son encarcelados en la colonia penitenciaria lunar llamada \"Dead Leaves\". Pronto se dan cuenta de que no están como para aguantar el régimen brutal de la prisión, así que comienzan a planear su huida, comenzando así una aventura violenta, caótica, esperpéntica y rocambolesca.",
+      "duration": "0h 52m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2004,
+      "releaseDate": "2004-01-17",
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 41,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/DeadLeaves_2004/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/DeadLeaves_2004/master.m3u8",
+      "createdAt": "2026-06-05T12:52:25.326Z",
+      "updatedAt": "2026-06-05T12:52:25.326Z"
     }
   ],
   "series": [
