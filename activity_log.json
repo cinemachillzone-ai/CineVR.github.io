@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T23:34:46.039Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "timestamp": "2026-04-10T23:40:43.952Z",
     "user": "Admin",
     "action": "ADD",
@@ -3113,5 +3107,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_098",
     "title": "Robot salvaje"
+  },
+  {
+    "ts": "2026-06-05T13:28:01.272Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_123",
+    "title": "Transformers: La venganza de los caídos"
   }
 ]
