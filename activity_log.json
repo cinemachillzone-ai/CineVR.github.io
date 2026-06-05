@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:46:51.600Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_048"
-  },
-  {
     "timestamp": "2026-04-10T21:47:15.619Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3107,5 +3101,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_101",
     "title": "Batman: El Caballero de la Noche"
+  },
+  {
+    "ts": "2026-06-05T13:24:24.515Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_145",
+    "title": "Hotel Transylvania"
   }
 ]
