@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T00:38:18.948Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_058"
-  },
-  {
     "timestamp": "2026-04-12T00:42:13.299Z",
     "user": "Admin",
     "action": "ADD",
@@ -3117,5 +3111,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_296",
     "title": "Dead Leaves"
+  },
+  {
+    "ts": "2026-06-05T13:29:42.813Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_305",
+    "title": "Demon Slayer: Mugen Train La película"
   }
 ]
