@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:46:43.030Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_047"
-  },
-  {
     "timestamp": "2026-04-10T21:46:51.600Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3106,5 +3100,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_307",
     "title": "Your Name"
+  },
+  {
+    "ts": "2026-06-05T13:24:02.026Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_101",
+    "title": "Batman: El Caballero de la Noche"
   }
 ]
