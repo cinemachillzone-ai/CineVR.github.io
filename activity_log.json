@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T18:42:43.685Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_066"
-  },
-  {
     "timestamp": "2026-04-13T18:42:55.440Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3126,5 +3120,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_310",
     "title": "雲のむこう、約束の場所"
+  },
+  {
+    "ts": "2026-06-05T13:32:56.898Z",
+    "actor": "carmesi",
+    "action": "DELETE_SERIES",
+    "target": "series_046",
+    "title": "Gumball T4"
   }
 ]
