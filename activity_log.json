@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:44:27.263Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_038"
-  },
-  {
     "timestamp": "2026-04-10T21:45:15.510Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3100,5 +3094,11 @@
     "target": "series_128",
     "title": "Kuroshitsuji T1",
     "eps_changed": 25
+  },
+  {
+    "ts": "2026-06-05T12:48:13.667Z",
+    "actor": "yutamir",
+    "action": "DISCOVER_MISSING",
+    "count": 3
   }
 ]
