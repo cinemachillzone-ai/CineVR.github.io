@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T23:50:35.953Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_054"
-  },
-  {
     "timestamp": "2026-04-12T00:35:34.724Z",
     "user": "Admin",
     "action": "ADD",
@@ -3115,5 +3109,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_085",
     "title": "Jujutsu Kaisen 0"
+  },
+  {
+    "ts": "2026-06-05T13:28:49.085Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_293",
+    "title": "Ao no Exorcist The Movie"
   }
 ]
