@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T00:49:18.893Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_060"
-  },
-  {
     "timestamp": "2026-04-12T00:52:08.033Z",
     "user": "Admin",
     "action": "ADD",
@@ -3119,5 +3113,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_299",
     "title": "Digimon Adventure: La última evolución – Kizuna"
+  },
+  {
+    "ts": "2026-06-05T13:30:25.816Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_317",
+    "title": "El regreso del gato"
   }
 ]
