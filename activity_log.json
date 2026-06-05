@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:47:45.639Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_037"
-  },
-  {
     "timestamp": "2026-04-10T21:51:57.802Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3109,5 +3103,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_184",
     "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras"
+  },
+  {
+    "ts": "2026-06-05T13:25:09.605Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_239",
+    "title": "Los Cazafantasmas 2"
   }
 ]
