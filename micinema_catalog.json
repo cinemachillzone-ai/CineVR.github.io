@@ -12731,8 +12731,20 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TeenTitans/t2/TeenTitans_S02E12/master.m3u8",
           "updatedAt": "2026-05-27T19:11:32.233Z"
+        },
+        {
+          "id": "s02e13",
+          "slotId": "ep_2700",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TeenTitans/t2/TeenTitans_S02E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TeenTitans/t2/TeenTitans_S02E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TeenTitans/t2/TeenTitans_S02E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
         }
-      ]
+      ],
+      "updatedAt": "2026-06-05T13:04:06.502Z"
     },
     {
       "type": "series",
@@ -13968,8 +13980,328 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E03/master.m3u8",
           "updatedAt": "2026-05-27T19:11:32.233Z"
+        },
+        {
+          "id": "s02e04",
+          "slotId": "ep_2665",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e05",
+          "slotId": "ep_2666",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e06",
+          "slotId": "ep_2667",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e07",
+          "slotId": "ep_2668",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e08",
+          "slotId": "ep_2669",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e09",
+          "slotId": "ep_2670",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e10",
+          "slotId": "ep_2671",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e11",
+          "slotId": "ep_2672",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e12",
+          "slotId": "ep_2673",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e13",
+          "slotId": "ep_2674",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e14",
+          "slotId": "ep_2675",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E14/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E14/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e15",
+          "slotId": "ep_2676",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E15/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E15/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e16",
+          "slotId": "ep_2677",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E16/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E16/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e17",
+          "slotId": "ep_2678",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E17/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E17/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e18",
+          "slotId": "ep_2679",
+          "title": "Capítulo 18",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E18/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E18/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e19",
+          "slotId": "ep_2680",
+          "title": "Capítulo 19",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E19/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E19/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e20",
+          "slotId": "ep_2681",
+          "title": "Capítulo 20",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E20/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E20/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e21",
+          "slotId": "ep_2682",
+          "title": "Capítulo 21",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E21/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E21/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e22",
+          "slotId": "ep_2683",
+          "title": "Capítulo 22",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E22/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E22/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e23",
+          "slotId": "ep_2684",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E23/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e24",
+          "slotId": "ep_2685",
+          "title": "Capítulo 24",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E24/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E24/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E24/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e25",
+          "slotId": "ep_2686",
+          "title": "Capítulo 25",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E25/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E25/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E25/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e26",
+          "slotId": "ep_2687",
+          "title": "Capítulo 26",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E26/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E26/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E26/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e27",
+          "slotId": "ep_2688",
+          "title": "Capítulo 27",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E27/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E27/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E27/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e28",
+          "slotId": "ep_2689",
+          "title": "Capítulo 28",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E28/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E28/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E28/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e29",
+          "slotId": "ep_2690",
+          "title": "Capítulo 29",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E29/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E29/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E29/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e30",
+          "slotId": "ep_2691",
+          "title": "Capítulo 30",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E30/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E30/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E30/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e31",
+          "slotId": "ep_2692",
+          "title": "Capítulo 31",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E31/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E31/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E31/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s02e32",
+          "slotId": "ep_2693",
+          "title": "Capítulo 32",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E32/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E32/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E32/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
         }
-      ]
+      ],
+      "updatedAt": "2026-06-05T13:04:06.501Z"
     },
     {
       "type": "series",
@@ -20460,6 +20792,17 @@
       "enabled": true,
       "episodes": [
         {
+          "id": "s01e00",
+          "slotId": "ep_2701",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/The%20Rookie/tem%201/TheRookieCap%C3%ADtulo7/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/The%20Rookie/tem%201/TheRookieCap%C3%ADtulo7/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/The%20Rookie/tem%201/TheRookieCap%C3%ADtulo7/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
           "id": "s01e01",
           "title": "Capítulo 1",
           "slotId": "ep_864",
@@ -20682,7 +21025,8 @@
       "addedAt": "2026-04-10T19:15:21.474Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 83
+      "gridIndex": 83,
+      "updatedAt": "2026-06-05T13:04:06.502Z"
     },
     {
       "type": "series",
@@ -20842,6 +21186,72 @@
       ],
       "enabled": true,
       "episodes": [
+        {
+          "id": "s01e00",
+          "slotId": "ep_2694",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaPeliculaEntreCap35Y36/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaPeliculaEntreCap35Y36/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaPeliculaEntreCap35Y36/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
+          "id": "s01e00",
+          "slotId": "ep_2695",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
+          "id": "s01e00",
+          "slotId": "ep_2696",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaSecci%C3%B3nDeKero/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaSecci%C3%B3nDeKero/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaSecci%C3%B3nDeKero/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
+          "id": "s01e00",
+          "slotId": "ep_2697",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial03Especial/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial03Especial/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial03Especial/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
+          "id": "s01e00",
+          "slotId": "ep_2698",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
+        {
+          "id": "s01e00",
+          "slotId": "ep_2699",
+          "title": "Capítulo 0",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaCartaSelladaFinDeLaSerie/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaCartaSelladaFinDeLaSerie/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaCartaSelladaFinDeLaSerie/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.502Z"
+        },
         {
           "id": "s01e01",
           "title": "Capítulo 1",
@@ -21617,7 +22027,8 @@
       "addedAt": "2026-04-10T23:50:35.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 85
+      "gridIndex": 85,
+      "updatedAt": "2026-06-05T13:04:06.502Z"
     },
     {
       "type": "series",
@@ -36131,6 +36542,17 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s02e01",
+          "slotId": "ep_2630",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.091Z"
+        },
+        {
           "id": "s02e02",
           "title": "Capítulo 2",
           "slotId": "ep_2138",
@@ -36140,6 +36562,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E02/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s02e02",
+          "slotId": "ep_2631",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.091Z"
         },
         {
           "id": "s02e03",
@@ -36153,6 +36586,17 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s02e03",
+          "slotId": "ep_2632",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.091Z"
+        },
+        {
           "id": "s02e04",
           "title": "Capítulo 4",
           "slotId": "ep_2140",
@@ -36162,6 +36606,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E04/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s02e04",
+          "slotId": "ep_2633",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.091Z"
         },
         {
           "id": "s02e05",
@@ -36175,6 +36630,17 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s02e05",
+          "slotId": "ep_2634",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e06",
           "title": "Capítulo 6",
           "slotId": "ep_2142",
@@ -36184,6 +36650,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E06/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s02e06",
+          "slotId": "ep_2635",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e07",
@@ -36197,6 +36674,17 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s02e07",
+          "slotId": "ep_2636",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e08",
           "title": "Capítulo 8",
           "slotId": "ep_2144",
@@ -36206,6 +36694,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E08/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s02e08",
+          "slotId": "ep_2637",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e09",
@@ -36219,6 +36718,17 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s02e09",
+          "slotId": "ep_2638",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e10",
           "title": "Capítulo 10",
           "slotId": "ep_2146",
@@ -36228,6 +36738,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E10/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e10",
+          "slotId": "ep_2639",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e11",
@@ -36241,6 +36762,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e11",
+          "slotId": "ep_2640",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e12",
           "title": "Capítulo 12",
           "slotId": "ep_2148",
@@ -36250,6 +36782,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E12/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e12",
+          "slotId": "ep_2641",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e13",
@@ -36263,6 +36806,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e13",
+          "slotId": "ep_2642",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e14",
           "title": "Capítulo 14",
           "slotId": "ep_2150",
@@ -36272,6 +36826,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E14/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e14",
+          "slotId": "ep_2643",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E14/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E14/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e15",
@@ -36285,6 +36850,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e15",
+          "slotId": "ep_2644",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E15/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E15/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e16",
           "title": "Capítulo 16",
           "slotId": "ep_2152",
@@ -36294,6 +36870,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E16/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e16",
+          "slotId": "ep_2645",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E16/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E16/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e17",
@@ -36307,6 +36894,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e17",
+          "slotId": "ep_2646",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E17/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E17/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e18",
           "title": "Capítulo 18",
           "slotId": "ep_2154",
@@ -36316,6 +36914,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E18/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e18",
+          "slotId": "ep_2647",
+          "title": "Capítulo 18",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E18/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E18/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e19",
@@ -36329,6 +36938,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e19",
+          "slotId": "ep_2648",
+          "title": "Capítulo 19",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E19/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E19/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e20",
           "title": "Capítulo 20",
           "slotId": "ep_2156",
@@ -36338,6 +36958,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E20/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e20",
+          "slotId": "ep_2649",
+          "title": "Capítulo 20",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E20/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E20/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         },
         {
           "id": "s02e21",
@@ -36351,6 +36982,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e21",
+          "slotId": "ep_2650",
+          "title": "Capítulo 21",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E21/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E21/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e22",
           "title": "Capítulo 22",
           "slotId": "ep_2158",
@@ -36362,6 +37004,17 @@
           "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
+          "id": "s02e22",
+          "slotId": "ep_2651",
+          "title": "Capítulo 22",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E22/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E22/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
+        },
+        {
           "id": "s02e23",
           "title": "Capítulo 23",
           "slotId": "ep_2159",
@@ -36371,13 +37024,25 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E23/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.359Z"
+        },
+        {
+          "id": "s02e23",
+          "slotId": "ep_2652",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E23/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.092Z"
         }
       ],
       "id": "series_113",
       "addedAt": "2026-04-29T01:15:12.520Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 31
+      "gridIndex": 31,
+      "updatedAt": "2026-06-05T13:04:06.092Z"
     },
     {
       "type": "series",
@@ -42449,6 +43114,531 @@
       ],
       "createdAt": "2026-06-05T13:02:44.504Z",
       "updatedAt": "2026-06-05T13:02:44.504Z"
+    },
+    {
+      "id": "series_147",
+      "type": "series",
+      "title": "Jujutsu Kaisen T3",
+      "description": "La vida de Itadori cambia para siempre cuando, para salvar a un compañero de clase, se come el dedo de Ryomen Sukuna y absorbe una poderosa maldición.",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2020-10-03",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 80,
+      "episodes": [
+        {
+          "id": "s03e01",
+          "slotId": "ep_2653",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e02",
+          "slotId": "ep_2654",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e03",
+          "slotId": "ep_2655",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e04",
+          "slotId": "ep_2656",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e05",
+          "slotId": "ep_2657",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e06",
+          "slotId": "ep_2658",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e07",
+          "slotId": "ep_2659",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e08",
+          "slotId": "ep_2660",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e09",
+          "slotId": "ep_2661",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e10",
+          "slotId": "ep_2662",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e11",
+          "slotId": "ep_2663",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        },
+        {
+          "id": "s03e12",
+          "slotId": "ep_2664",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T3/JujutsuKaisenS03E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.501Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:04:06.501Z",
+      "updatedAt": "2026-06-05T13:04:06.501Z"
+    },
+    {
+      "id": "series_148",
+      "type": "series",
+      "title": "beastars T2",
+      "description": "En un mundo donde conviven bestias de todo tipo, un lobo amable reprime su instinto depredador tras el asesinato de un compañero.",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-10-10",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 81,
+      "episodes": [
+        {
+          "id": "s02e01",
+          "slotId": "ep_2702",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e02",
+          "slotId": "ep_2703",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e03",
+          "slotId": "ep_2704",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e04",
+          "slotId": "ep_2705",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e05",
+          "slotId": "ep_2706",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e06",
+          "slotId": "ep_2707",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.868Z"
+        },
+        {
+          "id": "s02e07",
+          "slotId": "ep_2708",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        },
+        {
+          "id": "s02e08",
+          "slotId": "ep_2709",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        },
+        {
+          "id": "s02e09",
+          "slotId": "ep_2710",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        },
+        {
+          "id": "s02e10",
+          "slotId": "ep_2711",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        },
+        {
+          "id": "s02e11",
+          "slotId": "ep_2712",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        },
+        {
+          "id": "s02e12",
+          "slotId": "ep_2713",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/beastars/t2/beastars_S02E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.869Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:04:06.868Z",
+      "updatedAt": "2026-06-05T13:04:06.868Z"
+    },
+    {
+      "id": "series_149",
+      "type": "series",
+      "title": "blak jack T1",
+      "description": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 82,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2714",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2715",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2716",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2717",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2718",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2719",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2720",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2721",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2722",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2723",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2724",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2725",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2726",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2727",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E14/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E14/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2728",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E15/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E15/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2729",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E16/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E16/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2730",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E17/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E17/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/blak%20jack/temp1/blackJackS01E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:06.979Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:04:06.979Z",
+      "updatedAt": "2026-06-05T13:04:06.979Z"
     }
   ]
 }
