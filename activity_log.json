@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:44:05.611Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_036"
-  },
-  {
     "timestamp": "2026-04-10T21:44:16.397Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3093,5 +3087,16 @@
     "target": "series_122",
     "title": "Spider Noir a Color",
     "eps_changed": 8
+  },
+  {
+    "ts": "2026-06-05T10:55:41.127Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "movie_065",
+    "title": "V de Venganza",
+    "fields": [
+      "duration",
+      "genres"
+    ]
   }
 ]
