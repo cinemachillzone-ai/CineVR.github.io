@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T22:19:16.674Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_028"
-  },
-  {
     "timestamp": "2026-04-10T23:34:46.039Z",
     "user": "Admin",
     "action": "DEEP_REPAIR",
@@ -3112,5 +3106,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_048",
     "title": "Redline"
+  },
+  {
+    "ts": "2026-06-05T13:27:38.759Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_098",
+    "title": "Robot salvaje"
   }
 ]
