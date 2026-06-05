@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:51:57.802Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_048"
-  },
-  {
     "timestamp": "2026-04-10T22:18:37.567Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3110,5 +3104,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_239",
     "title": "Los Cazafantasmas 2"
+  },
+  {
+    "ts": "2026-06-05T13:26:52.905Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_245",
+    "title": "Matrix Resurrecciones"
   }
 ]
