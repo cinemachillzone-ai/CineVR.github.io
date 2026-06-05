@@ -3097,36 +3097,6 @@
     },
     {
       "type": "movie",
-      "title": "Batman: El Caballero de la Noche",
-      "description": "Batman enfrenta a su enemigo más icónico, el Joker, un criminal caótico que siembra el terror en Gotham y pone a prueba los límites morales del héroe.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2008,
-      "releaseDate": "2026-04-16",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8",
-        "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f7a464b2-79b7-4128-b391-683567d2a8f6/playlist.m3u8"
-      },
-      "id": "movie_101",
-      "addedAt": "2026-04-16T20:34:56.147Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 101,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z"
-    },
-    {
-      "type": "movie",
       "title": "De noche con el diablo",
       "description": "Ambientada en los años 70, la historia sigue a un presentador de televisión que, en un intento desesperado por subir el rating de su programa nocturno, realiza un especial de Halloween en vivo. Durante la transmisión, invita a una joven supuestamente poseída, lo que desata una serie de eventos sobrenaturales aterradores que salen completamente de control en directo.",
       "duration": "",
