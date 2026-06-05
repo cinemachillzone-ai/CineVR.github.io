@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 467
+    "catalogCount": 469
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -17246,6 +17246,20 @@
       "enabled": true,
       "episodes": [
         {
+          "id": "s01e00",
+          "slotId": "ep_2748",
+          "title": "Capítulo 0",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T1/UnShowMasS01E00/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.846Z"
+        },
+        {
+          "id": "s01e01",
+          "slotId": "ep_2749",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T1/UnShowMasS01E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.846Z"
+        },
+        {
           "id": "s01e02",
           "title": "Capítulo 1",
           "slotId": "ep_1011",
@@ -17332,7 +17346,8 @@
       "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 88
+      "gridIndex": 88,
+      "updatedAt": "2026-06-05T13:04:49.846Z"
     },
     {
       "type": "series",
@@ -18683,6 +18698,20 @@
           "updatedAt": "2026-05-27T19:11:32.237Z"
         },
         {
+          "id": "s04e39",
+          "slotId": "ep_2750",
+          "title": "Capítulo 39",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T4/UnShowMasS04E39/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.847Z"
+        },
+        {
+          "id": "s04e40",
+          "slotId": "ep_2751",
+          "title": "Capítulo 40",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T4/UnShowMasS04E40/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.847Z"
+        },
+        {
           "id": "s04e54",
           "title": "Capítulo 54",
           "slotId": "ep_1194"
@@ -18692,7 +18721,8 @@
       "addedAt": "2026-04-12T01:25:01.481Z",
       "addedBy": "Admin",
       "atlas": "B",
-      "gridIndex": 93
+      "gridIndex": 93,
+      "updatedAt": "2026-06-05T13:04:49.847Z"
     },
     {
       "type": "series",
@@ -26383,11 +26413,25 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s01e01",
+          "slotId": "ep_2739",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
           "id": "s01e02",
           "title": "Capítulo 2",
           "slotId": "ep_2111",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E02/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2740",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
         },
         {
           "id": "s01e03",
@@ -26397,11 +26441,25 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s01e03",
+          "slotId": "ep_2741",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
           "id": "s01e04",
           "title": "Capítulo 4",
           "slotId": "ep_2113",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E04/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2742",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
         },
         {
           "id": "s01e05",
@@ -26411,11 +26469,25 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s01e05",
+          "slotId": "ep_2743",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
           "id": "s01e06",
           "title": "Capítulo 6",
           "slotId": "ep_2115",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E06/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2744",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
         },
         {
           "id": "s01e07",
@@ -26425,18 +26497,33 @@
           "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
+          "id": "s01e07",
+          "slotId": "ep_2745",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
           "id": "s01e08",
           "title": "Capítulo 8",
           "slotId": "ep_2117",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E08/master.m3u8",
           "updatedAt": "2026-05-30T23:35:23.358Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2746",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
         }
       ],
       "id": "series_110",
       "addedAt": "2026-04-26T20:31:19.532Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 15
+      "gridIndex": 15,
+      "updatedAt": "2026-06-05T13:04:49.845Z"
     },
     {
       "type": "series",
@@ -28453,6 +28540,13 @@
       "gridIndex": 125,
       "episodes": [
         {
+          "id": "s01e00",
+          "slotId": "ep_2747",
+          "title": "Capítulo 0",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.846Z"
+        },
+        {
           "id": "s01e01",
           "slotId": "ep_2302",
           "title": "Capítulo 1",
@@ -28654,7 +28748,7 @@
         }
       ],
       "createdAt": "2026-06-01T15:57:17.674Z",
-      "updatedAt": "2026-06-05T12:20:08.444Z"
+      "updatedAt": "2026-06-05T13:04:49.846Z"
     },
     {
       "id": "series_129",
@@ -31596,6 +31690,334 @@
       ],
       "createdAt": "2026-06-05T13:04:06.979Z",
       "updatedAt": "2026-06-05T13:04:06.979Z"
+    },
+    {
+      "id": "series_150",
+      "type": "series",
+      "title": "fallout T1",
+      "description": "Basado en una de las mejores series de videojuegos de todos los tiempos, Fallout es la historia de los que tienen y los que no tienen en un mundo en el que ya casi no queda nada que tener. 200 años después del apocalipsis, los amables habitantes de los lujosos refugios nucleares se ven obligados a regresar al infierno irradiado que sus antepasados dejaron atrás y se sorprenden al descubrir un universo increíblemente complejo, alegremente extraño y altamente violento esperándolos.",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-04-10",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 83,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2731",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.844Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2732",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.844Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2733",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2734",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2735",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2736",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2737",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2738",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/fallout/t1/falloutS01E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:49.845Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:04:49.844Z",
+      "updatedAt": "2026-06-05T13:04:49.844Z"
+    },
+    {
+      "id": "series_151",
+      "type": "series",
+      "title": "un show mas T8",
+      "description": "Mordecai (un arrendajo azul) y Rigby (un mapache) son encargados de mantenimiento en un parque, y buscan cualquier excusa para no trabajar. En su día a día viven múltiples aventuras, muchas de ellas de carácter surrealista, en las que también interactúan el resto de personajes.",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2010,
+      "releaseDate": "2010-09-06",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 84,
+      "episodes": [
+        {
+          "id": "s08e01",
+          "slotId": "ep_2752",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e02",
+          "slotId": "ep_2753",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e03",
+          "slotId": "ep_2754",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e04",
+          "slotId": "ep_2755",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e05",
+          "slotId": "ep_2756",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e06",
+          "slotId": "ep_2757",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e07",
+          "slotId": "ep_2758",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e08",
+          "slotId": "ep_2759",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e09",
+          "slotId": "ep_2760",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e10",
+          "slotId": "ep_2761",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e11",
+          "slotId": "ep_2762",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e12",
+          "slotId": "ep_2763",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e13",
+          "slotId": "ep_2764",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e14",
+          "slotId": "ep_2765",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e15",
+          "slotId": "ep_2766",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e16",
+          "slotId": "ep_2767",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e17",
+          "slotId": "ep_2768",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e18",
+          "slotId": "ep_2769",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e19",
+          "slotId": "ep_2770",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e20",
+          "slotId": "ep_2771",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e21",
+          "slotId": "ep_2772",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e22",
+          "slotId": "ep_2773",
+          "title": "Capítulo 22",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e23",
+          "slotId": "ep_2774",
+          "title": "Capítulo 23",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e24",
+          "slotId": "ep_2775",
+          "title": "Capítulo 24",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E24/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e25",
+          "slotId": "ep_2776",
+          "title": "Capítulo 25",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E25/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e26",
+          "slotId": "ep_2777",
+          "title": "Capítulo 26",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E26/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e27",
+          "slotId": "ep_2778",
+          "title": "Capítulo 27",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E27/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e28",
+          "slotId": "ep_2779",
+          "title": "Capítulo 28",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E28/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e29",
+          "slotId": "ep_2780",
+          "title": "Capítulo 29",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E29/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e30",
+          "slotId": "ep_2781",
+          "title": "Capítulo 30",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E30/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        },
+        {
+          "id": "s08e31",
+          "slotId": "ep_2782",
+          "title": "Capítulo 31",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/un%20show%20mas/T8/UnShowMasS08E31/master.m3u8",
+          "updatedAt": "2026-06-05T13:04:50.220Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:04:50.220Z",
+      "updatedAt": "2026-06-05T13:04:50.220Z"
     }
   ]
 }
