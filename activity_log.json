@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:47:15.619Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_051"
-  },
-  {
     "timestamp": "2026-04-10T21:47:45.639Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3108,5 +3102,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_145",
     "title": "Hotel Transylvania"
+  },
+  {
+    "ts": "2026-06-05T13:24:45.236Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_184",
+    "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras"
   }
 ]
