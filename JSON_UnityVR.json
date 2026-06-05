@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 456
+    "catalogCount": 464
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -29654,6 +29654,1162 @@
       ],
       "createdAt": "2026-06-05T13:01:32.828Z",
       "updatedAt": "2026-06-05T13:01:32.828Z"
+    },
+    {
+      "id": "series_139",
+      "type": "series",
+      "title": "Drama Total T3",
+      "description": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 72,
+      "episodes": [
+        {
+          "id": "s03e01",
+          "slotId": "ep_2492",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e02",
+          "slotId": "ep_2493",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e03",
+          "slotId": "ep_2494",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e04",
+          "slotId": "ep_2495",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e05",
+          "slotId": "ep_2496",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e06",
+          "slotId": "ep_2497",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e07",
+          "slotId": "ep_2498",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e08",
+          "slotId": "ep_2499",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e09",
+          "slotId": "ep_2500",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e10",
+          "slotId": "ep_2501",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e11",
+          "slotId": "ep_2502",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e12",
+          "slotId": "ep_2503",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e13",
+          "slotId": "ep_2504",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e14",
+          "slotId": "ep_2505",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e15",
+          "slotId": "ep_2506",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e16",
+          "slotId": "ep_2507",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e17",
+          "slotId": "ep_2508",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e18",
+          "slotId": "ep_2509",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e19",
+          "slotId": "ep_2510",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e20",
+          "slotId": "ep_2511",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e21",
+          "slotId": "ep_2512",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e22",
+          "slotId": "ep_2513",
+          "title": "Capítulo 22",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.363Z"
+        },
+        {
+          "id": "s03e23",
+          "slotId": "ep_2514",
+          "title": "Capítulo 23",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.364Z"
+        },
+        {
+          "id": "s03e24",
+          "slotId": "ep_2515",
+          "title": "Capítulo 24",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E24/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.364Z"
+        },
+        {
+          "id": "s03e25",
+          "slotId": "ep_2516",
+          "title": "Capítulo 25",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E25/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.364Z"
+        },
+        {
+          "id": "s03e26",
+          "slotId": "ep_2517",
+          "title": "Capítulo 26",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E26/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.364Z"
+        },
+        {
+          "id": "s03e27",
+          "slotId": "ep_2518",
+          "title": "Capítulo 27",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t3/DramaTotal_S03E27/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.364Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:43.363Z",
+      "updatedAt": "2026-06-05T13:02:43.363Z"
+    },
+    {
+      "id": "series_140",
+      "type": "series",
+      "title": "Drama Total T4",
+      "description": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 73,
+      "episodes": [
+        {
+          "id": "s04e01",
+          "slotId": "ep_2519",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e02",
+          "slotId": "ep_2520",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e03",
+          "slotId": "ep_2521",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e04",
+          "slotId": "ep_2522",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e05",
+          "slotId": "ep_2523",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e06",
+          "slotId": "ep_2524",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e07",
+          "slotId": "ep_2525",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e08",
+          "slotId": "ep_2526",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e09",
+          "slotId": "ep_2527",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e10",
+          "slotId": "ep_2528",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e11",
+          "slotId": "ep_2529",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e12",
+          "slotId": "ep_2530",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e13",
+          "slotId": "ep_2531",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        },
+        {
+          "id": "s04e14",
+          "slotId": "ep_2532",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t4/DramaTotal_S04E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.601Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:43.601Z",
+      "updatedAt": "2026-06-05T13:02:43.601Z"
+    },
+    {
+      "id": "series_141",
+      "type": "series",
+      "title": "Drama Total T5",
+      "description": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 74,
+      "episodes": [
+        {
+          "id": "s05e01",
+          "slotId": "ep_2533",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e02",
+          "slotId": "ep_2534",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e03",
+          "slotId": "ep_2535",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e04",
+          "slotId": "ep_2536",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e05",
+          "slotId": "ep_2537",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e06",
+          "slotId": "ep_2538",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e07",
+          "slotId": "ep_2539",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e08",
+          "slotId": "ep_2540",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e09",
+          "slotId": "ep_2541",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e10",
+          "slotId": "ep_2542",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e11",
+          "slotId": "ep_2543",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e12",
+          "slotId": "ep_2544",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e13",
+          "slotId": "ep_2545",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e14",
+          "slotId": "ep_2546",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e15",
+          "slotId": "ep_2547",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e16",
+          "slotId": "ep_2548",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e17",
+          "slotId": "ep_2549",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e18",
+          "slotId": "ep_2550",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e19",
+          "slotId": "ep_2551",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e20",
+          "slotId": "ep_2552",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e21",
+          "slotId": "ep_2553",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e22",
+          "slotId": "ep_2554",
+          "title": "Capítulo 22",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e23",
+          "slotId": "ep_2555",
+          "title": "Capítulo 23",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.729Z"
+        },
+        {
+          "id": "s05e24",
+          "slotId": "ep_2556",
+          "title": "Capítulo 24",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E24/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.730Z"
+        },
+        {
+          "id": "s05e25",
+          "slotId": "ep_2557",
+          "title": "Capítulo 25",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E25/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.730Z"
+        },
+        {
+          "id": "s05e26",
+          "slotId": "ep_2558",
+          "title": "Capítulo 26",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E26/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.730Z"
+        },
+        {
+          "id": "s05e27",
+          "slotId": "ep_2559",
+          "title": "Capítulo 27",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t5/DramaTotal_S05E27/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.730Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:43.729Z",
+      "updatedAt": "2026-06-05T13:02:43.729Z"
+    },
+    {
+      "id": "series_142",
+      "type": "series",
+      "title": "Drama Total T6",
+      "description": "",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-07-08",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 75,
+      "episodes": [
+        {
+          "id": "s06e01",
+          "slotId": "ep_2560",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e02",
+          "slotId": "ep_2561",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e03",
+          "slotId": "ep_2562",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e04",
+          "slotId": "ep_2563",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e05",
+          "slotId": "ep_2564",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e06",
+          "slotId": "ep_2565",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e07",
+          "slotId": "ep_2566",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e08",
+          "slotId": "ep_2567",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.853Z"
+        },
+        {
+          "id": "s06e09",
+          "slotId": "ep_2568",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e10",
+          "slotId": "ep_2569",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e11",
+          "slotId": "ep_2570",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e12",
+          "slotId": "ep_2571",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e13",
+          "slotId": "ep_2572",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e14",
+          "slotId": "ep_2573",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e15",
+          "slotId": "ep_2574",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e16",
+          "slotId": "ep_2575",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e17",
+          "slotId": "ep_2576",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e18",
+          "slotId": "ep_2577",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e19",
+          "slotId": "ep_2578",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e20",
+          "slotId": "ep_2579",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        },
+        {
+          "id": "s06e21",
+          "slotId": "ep_2580",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/DramaTotal/t6/DramaTotal_S06E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.854Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:43.853Z",
+      "updatedAt": "2026-06-05T13:02:43.853Z"
+    },
+    {
+      "id": "series_143",
+      "type": "series",
+      "title": "Ed Edd NEddy T1",
+      "description": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 76,
+      "episodes": [
+        {
+          "id": "s01e00",
+          "slotId": "ep_2581",
+          "title": "Capítulo 0",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EdEddNEddy/Ed%20Edd%20y%20Eddy%20T4/91%20Ed%2C%20Edd%20N%20Eddy%20%20-%20%20Recordar%20es%20vivir/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:43.958Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:43.958Z",
+      "updatedAt": "2026-06-05T13:02:43.958Z"
+    },
+    {
+      "id": "series_144",
+      "type": "series",
+      "title": "Gumball T3",
+      "description": "La serie gira en torno a la vida de un gato azul llamado Gumball Watterson y sus frecuentes travesuras en la ficticia ciudad estadounidense de Elmore, acompañado por su hermano adoptivo y mejor amigo, Darwin. Otros miembros de la familia Watterson son: una conejita rosada e intelectual hermana menor, Anaís; un conejo holgazán como su padre, Richard; y su madre Nicole, una gata, quienes a menudo se ven involucrados en las aventuras de Gumball. Gumball y sus hermanos asisten a la escuela \"Elmore Junior School\" (Escuela primaria de Elmore), donde, a lo largo de la serie, interactúan con sus varios compañeros, principalmente con el interés amoroso de Gumball, Penny.",
+      "rating": "TV-Y7",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2011,
+      "releaseDate": "2011-05-03",
+      "genres": [
+        "Animation",
+        "Family",
+        "Sci-Fi",
+        "Fantasy",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 77,
+      "episodes": [
+        {
+          "id": "s03e01",
+          "slotId": "ep_2582",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e02",
+          "slotId": "ep_2583",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e03",
+          "slotId": "ep_2584",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e04",
+          "slotId": "ep_2585",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e05",
+          "slotId": "ep_2586",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e06",
+          "slotId": "ep_2587",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e07",
+          "slotId": "ep_2588",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e08",
+          "slotId": "ep_2589",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E08/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e09",
+          "slotId": "ep_2590",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E09/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e10",
+          "slotId": "ep_2591",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E10/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e11",
+          "slotId": "ep_2592",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E11/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e12",
+          "slotId": "ep_2593",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E12/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e13",
+          "slotId": "ep_2594",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E13/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e14",
+          "slotId": "ep_2595",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E14/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e15",
+          "slotId": "ep_2596",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E15/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e16",
+          "slotId": "ep_2597",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E16/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e17",
+          "slotId": "ep_2598",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E17/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e18",
+          "slotId": "ep_2599",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E18/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e19",
+          "slotId": "ep_2600",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E19/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e20",
+          "slotId": "ep_2601",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E20/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e21",
+          "slotId": "ep_2602",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E21/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e22",
+          "slotId": "ep_2603",
+          "title": "Capítulo 22",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E22/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e23",
+          "slotId": "ep_2604",
+          "title": "Capítulo 23",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E23/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e24",
+          "slotId": "ep_2605",
+          "title": "Capítulo 24",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E24/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e25",
+          "slotId": "ep_2606",
+          "title": "Capítulo 25",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E25/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e26",
+          "slotId": "ep_2607",
+          "title": "Capítulo 26",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E26/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e27",
+          "slotId": "ep_2608",
+          "title": "Capítulo 27",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E27/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e28",
+          "slotId": "ep_2609",
+          "title": "Capítulo 28",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E28/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e29",
+          "slotId": "ep_2610",
+          "title": "Capítulo 29",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E29/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e30",
+          "slotId": "ep_2611",
+          "title": "Capítulo 30",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E30/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e31",
+          "slotId": "ep_2612",
+          "title": "Capítulo 31",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E31/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e32",
+          "slotId": "ep_2613",
+          "title": "Capítulo 32",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E32/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e33",
+          "slotId": "ep_2614",
+          "title": "Capítulo 33",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E33/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e34",
+          "slotId": "ep_2615",
+          "title": "Capítulo 34",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E34/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e35",
+          "slotId": "ep_2616",
+          "title": "Capítulo 35",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E35/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e36",
+          "slotId": "ep_2617",
+          "title": "Capítulo 36",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E36/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e37",
+          "slotId": "ep_2618",
+          "title": "Capítulo 37",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E37/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e38",
+          "slotId": "ep_2619",
+          "title": "Capítulo 38",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E38/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e39",
+          "slotId": "ep_2620",
+          "title": "Capítulo 39",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E39/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        },
+        {
+          "id": "s03e40",
+          "slotId": "ep_2621",
+          "title": "Capítulo 40",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Gumball/T3/ElIncreibleMundoDeGumballS03E40/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.267Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:44.267Z",
+      "updatedAt": "2026-06-05T13:02:44.267Z"
+    },
+    {
+      "id": "series_145",
+      "type": "series",
+      "title": "Hll Bss Latin T1",
+      "description": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 78,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2622",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllBssLatin/t1/HllBssLatin_S01E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.379Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:44.379Z",
+      "updatedAt": "2026-06-05T13:02:44.379Z"
+    },
+    {
+      "id": "series_146",
+      "type": "series",
+      "title": "Hllva Bss T1",
+      "description": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 79,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2623",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E01/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2624",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E02/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2625",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E03/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2626",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E04/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2627",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E05/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2628",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E06/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2629",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HllvaBss/t1/HllvaBss_S01E07/master.m3u8",
+          "updatedAt": "2026-06-05T13:02:44.504Z"
+        }
+      ],
+      "createdAt": "2026-06-05T13:02:44.504Z",
+      "updatedAt": "2026-06-05T13:02:44.504Z"
     }
   ]
 }
