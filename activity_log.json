@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T00:35:34.724Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_057"
-  },
-  {
     "timestamp": "2026-04-12T00:38:18.948Z",
     "user": "Admin",
     "action": "ADD",
@@ -3116,5 +3110,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_293",
     "title": "Ao no Exorcist The Movie"
+  },
+  {
+    "ts": "2026-06-05T13:29:10.008Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_296",
+    "title": "Dead Leaves"
   }
 ]
