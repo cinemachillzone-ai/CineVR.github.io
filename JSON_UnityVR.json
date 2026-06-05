@@ -1787,13 +1787,17 @@
       "type": "movie",
       "title": "V de Venganza",
       "description": "En una Inglaterra futurista gobernada por un régimen totalitario, un misterioso enmascarado conocido como V lucha contra la opresión del gobierno. Utilizando tácticas revolucionarias y simbólicas, inspira a la población a rebelarse. En el camino, rescata a una joven llamada Evey Hammond, quien se convierte en su aliada y testigo de su lucha por la libertad.",
-      "duration": "",
+      "duration": "2h 12m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -1804,7 +1808,7 @@
       "atlas": "A",
       "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/vDeVenganza2006/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z"
+      "updatedAt": "2026-06-05T10:55:30.194Z"
     },
     {
       "type": "movie",
