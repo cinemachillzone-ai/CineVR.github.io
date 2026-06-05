@@ -3127,5 +3127,17 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 1624472
+  },
+  {
+    "timestamp": "2026-06-05T14:03:53.273Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_121"
+  },
+  {
+    "timestamp": "2026-06-05T14:04:01.490Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_120"
   }
 ]
