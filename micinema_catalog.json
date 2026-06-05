@@ -1522,37 +1522,6 @@
     },
     {
       "type": "movie",
-      "title": "Redline",
-      "description": "Cada cinco años se celebra la carrera de autos más grande y peligrosa del universo. JP piensa participar, pero deberá enfrentar a la mafia, al Gobierno y al amor.",
-      "duration": "1h 42m",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2009,
-      "releaseDate": "2009-08-14",
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/Redline_2009/master.m3u8",
-        "language_Spanish": "asddsfdsdf"
-      },
-      "enabled": true,
-      "id": "movie_048",
-      "addedAt": "2026-04-01T22:40:34.708Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 47,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie%20Anime/Movie%20Anime/Redline_2009/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z"
-    },
-    {
-      "type": "movie",
       "title": "Scream 7",
       "description": "Sidney Prescott regresa para enfrentarse a una nueva oleada de asesinatos bajo la máscara de Ghostface, en un capítulo que promete cerrar heridas del pasado.",
       "duration": "1h 49m",
