@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:46:35.546Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_046"
-  },
-  {
     "timestamp": "2026-04-10T21:46:43.030Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3105,5 +3099,12 @@
     "action": "DISCOVER_MISSING_SERIES",
     "series": 2,
     "episodes": 13
+  },
+  {
+    "ts": "2026-06-05T13:23:22.136Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_307",
+    "title": "Your Name"
   }
 ]
