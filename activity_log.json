@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:43:18.287Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_035"
-  },
-  {
     "timestamp": "2026-04-10T21:44:05.611Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3091,5 +3085,13 @@
     "target": "series_129",
     "title": "Kuroshitsuji T2",
     "episodes": 12
+  },
+  {
+    "ts": "2026-06-05T10:09:26.838Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_122",
+    "title": "Spider Noir a Color",
+    "eps_changed": 8
   }
 ]
