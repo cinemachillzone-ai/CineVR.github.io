@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T00:52:08.033Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_061"
-  },
-  {
     "timestamp": "2026-04-12T01:25:02.181Z",
     "user": "Admin",
     "action": "ADD",
@@ -3120,5 +3114,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_317",
     "title": "El regreso del gato"
+  },
+  {
+    "ts": "2026-06-05T13:30:46.430Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_301",
+    "title": "Hacia el Bosque de las Luciérnagas"
   }
 ]
