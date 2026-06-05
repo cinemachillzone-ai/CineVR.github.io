@@ -7825,6 +7825,90 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtra%C3%B1a/master.m3u8",
       "createdAt": "2026-06-01T15:28:45.393Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
+    },
+    {
+      "id": "movie_255",
+      "type": "movie",
+      "title": "Battle Angel: La última guerrera",
+      "description": "Cuenta la historia de Alita, una joven chica en el cuerpo de un cyborg que es rescatada por un científico tras ser encontrada entre los escombros de un desguace. Alita es reconstruida poco a poco, pero se da cuenta que ha perdido la memoria y no recuerda nada de lo que ha sido de ella antes de aterrizar en el desguace. La joven verá en el científico a su salvador, una figura paterna que la convertirá en un ser letal y peligroso para conseguir así un trabajo como cazarrecompensas.",
+      "duration": "2h 02m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-01-31",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 127,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alita/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alita/master.m3u8",
+      "createdAt": "2026-06-05T12:48:00.062Z",
+      "updatedAt": "2026-06-05T12:48:00.062Z"
+    },
+    {
+      "id": "movie_256",
+      "type": "movie",
+      "title": "Caracortada",
+      "description": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+      "duration": "2h 50m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "1983-12-09",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 0,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caracortada/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caracortada/master.m3u8",
+      "createdAt": "2026-06-05T12:48:00.406Z",
+      "updatedAt": "2026-06-05T12:48:00.406Z"
+    },
+    {
+      "id": "movie_257",
+      "type": "movie",
+      "title": "Detective por error",
+      "description": "Un caso de confusión de identidades obliga a un duro agente federal a unirse con un vendedor dental para lograr terminar su operación.",
+      "duration": "1h 23m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-08",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 1,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DetectivePorError/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DetectivePorError/master.m3u8",
+      "createdAt": "2026-06-05T12:48:00.682Z",
+      "updatedAt": "2026-06-05T12:48:00.682Z"
     }
   ],
   "series": [
