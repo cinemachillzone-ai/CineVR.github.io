@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 468
+    "catalogCount": 467
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -2685,32 +2685,6 @@
       "atlas": "A",
       "gridIndex": 100,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z"
-    },
-    {
-      "type": "movie",
-      "title": "Batman: El Caballero de la Noche",
-      "description": "Batman enfrenta a su enemigo más icónico, el Joker, un criminal caótico que siembra el terror en Gotham y pone a prueba los límites morales del héroe.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2008,
-      "releaseDate": "2026-04-16",
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_101",
-      "addedAt": "2026-04-16T20:34:56.147Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 101,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z"
     },
     {
