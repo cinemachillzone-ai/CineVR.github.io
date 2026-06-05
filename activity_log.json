@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T00:42:13.299Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_059"
-  },
-  {
     "timestamp": "2026-04-12T00:49:18.893Z",
     "user": "Admin",
     "action": "ADD",
@@ -3118,5 +3112,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_305",
     "title": "Demon Slayer: Mugen Train La película"
+  },
+  {
+    "ts": "2026-06-05T13:30:04.749Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_299",
+    "title": "Digimon Adventure: La última evolución – Kizuna"
   }
 ]
