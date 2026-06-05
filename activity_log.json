@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:46:04.927Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_044"
-  },
-  {
     "timestamp": "2026-04-10T21:46:23.111Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3103,5 +3097,12 @@
     "action": "DISCOVER_MISSING_SERIES",
     "series": 8,
     "episodes": 0
+  },
+  {
+    "ts": "2026-06-05T13:04:25.765Z",
+    "actor": "yutamir",
+    "action": "DISCOVER_MISSING_SERIES",
+    "series": 3,
+    "episodes": 60
   }
 ]
