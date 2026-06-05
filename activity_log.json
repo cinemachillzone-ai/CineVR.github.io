@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T01:25:02.181Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_062"
-  },
-  {
     "timestamp": "2026-04-12T01:28:40.891Z",
     "user": "Admin",
     "action": "ADD",
@@ -3121,5 +3115,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_301",
     "title": "Hacia el Bosque de las Luciérnagas"
+  },
+  {
+    "ts": "2026-06-05T13:31:07.766Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_313",
+    "title": "One Piece Film: Red"
   }
 ]
