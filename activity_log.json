@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T23:40:43.952Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_087"
-  },
-  {
     "timestamp": "2026-04-10T23:50:35.953Z",
     "user": "Admin",
     "action": "ADD",
@@ -3114,5 +3108,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_123",
     "title": "Transformers: La venganza de los caídos"
+  },
+  {
+    "ts": "2026-06-05T13:28:26.239Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_085",
+    "title": "Jujutsu Kaisen 0"
   }
 ]
