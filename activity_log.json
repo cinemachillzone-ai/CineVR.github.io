@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-10T21:45:28.453Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_041"
-  },
-  {
     "timestamp": "2026-04-10T21:45:40.401Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3100,5 +3094,11 @@
     "actor": "yutamir",
     "action": "DISCOVER_MISSING",
     "count": 40
+  },
+  {
+    "ts": "2026-06-05T12:55:58.119Z",
+    "actor": "yutamir",
+    "action": "DISCOVER_MISSING",
+    "count": 21
   }
 ]
