@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-12T02:20:15.892Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_064"
-  },
-  {
     "timestamp": "2026-04-12T02:20:24.123Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3123,5 +3117,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_316",
     "title": "Suzume"
+  },
+  {
+    "ts": "2026-06-05T13:31:52.247Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_295",
+    "title": "To Every You I've Loved Before"
   }
 ]
