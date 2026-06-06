@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T19:46:56.087Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_072"
-  },
-  {
     "timestamp": "2026-04-13T20:17:14.533Z",
     "user": "Admin",
     "action": "ADD",
@@ -3128,5 +3122,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_298",
     "title": "8 Minutos antes de morir"
+  },
+  {
+    "ts": "2026-06-06T04:12:46.041Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_299",
+    "title": "Los Descendientes"
   }
 ]
