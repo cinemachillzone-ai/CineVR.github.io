@@ -9173,7 +9173,8 @@
       "atlas": "D",
       "gridIndex": 64,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8"
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8",
       "createdAt": "2026-06-06T22:06:02.780Z",
