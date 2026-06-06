@@ -3139,5 +3139,23 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "series_120"
+  },
+  {
+    "timestamp": "2026-06-06T03:00:08.328Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "series_023"
+  },
+  {
+    "timestamp": "2026-06-06T03:00:33.978Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "series_003"
+  },
+  {
+    "timestamp": "2026-06-06T03:01:16.794Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
   }
 ]
