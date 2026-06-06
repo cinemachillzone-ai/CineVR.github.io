@@ -3140,5 +3140,47 @@
     "action": "INJECT_MOVIE",
     "target": "movie_305",
     "title": "Las guerreras k-pop"
+  },
+  {
+    "timestamp": "2026-06-06T20:45:56.040Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_180"
+  },
+  {
+    "timestamp": "2026-06-06T20:46:05.019Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_181"
+  },
+  {
+    "timestamp": "2026-06-06T20:47:51.978Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_014"
+  },
+  {
+    "timestamp": "2026-06-06T20:49:39.866Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_001"
+  },
+  {
+    "timestamp": "2026-06-06T20:49:59.476Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
+  },
+  {
+    "timestamp": "2026-06-06T20:50:36.120Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_016"
+  },
+  {
+    "timestamp": "2026-06-06T20:50:55.667Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
   }
 ]
