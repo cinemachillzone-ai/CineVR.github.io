@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:51:31.395Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_080"
-  },
-  {
     "timestamp": "2026-04-13T20:51:48.491Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3138,5 +3132,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_303",
     "title": "Parque Jurásico"
+  },
+  {
+    "ts": "2026-06-06T05:08:23.222Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_304",
+    "title": "John Wick 3: Parabellum"
   }
 ]
