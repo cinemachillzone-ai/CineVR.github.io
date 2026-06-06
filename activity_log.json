@@ -3182,5 +3182,35 @@
     "user": "Admin",
     "action": "DEEP_REPAIR",
     "targetId": "catalog"
+  },
+  {
+    "timestamp": "2026-06-06T22:03:31.738Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_192"
+  },
+  {
+    "timestamp": "2026-06-06T22:03:39.028Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_300"
+  },
+  {
+    "timestamp": "2026-06-06T22:04:06.594Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
+  },
+  {
+    "timestamp": "2026-06-06T22:05:36.523Z",
+    "user": "Admin",
+    "action": "DELETE",
+    "targetId": "movie_225"
+  },
+  {
+    "timestamp": "2026-06-06T22:06:34.846Z",
+    "user": "Admin",
+    "action": "DEEP_REPAIR",
+    "targetId": "catalog"
   }
 ]
