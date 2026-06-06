@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:28:40.761Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_075"
-  },
-  {
     "timestamp": "2026-04-13T20:34:00.409Z",
     "user": "Admin",
     "action": "ADD",
@@ -3131,5 +3125,13 @@
     "action": "DELETE_EPISODE",
     "target": "ep_2282",
     "series": "series_118"
+  },
+  {
+    "ts": "2026-06-06T04:30:40.714Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_102",
+    "title": "Ranma ½ T1",
+    "eps_changed": 20
   }
 ]
