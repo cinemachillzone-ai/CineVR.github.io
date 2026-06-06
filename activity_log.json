@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:23:34.905Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_074"
-  },
-  {
     "timestamp": "2026-04-13T20:28:40.761Z",
     "user": "Admin",
     "action": "ADD",
@@ -3130,5 +3124,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_300",
     "title": "RedLine"
+  },
+  {
+    "ts": "2026-06-06T04:21:37.812Z",
+    "actor": "yutamir",
+    "action": "DELETE_EPISODE",
+    "target": "ep_2282",
+    "series": "series_118"
   }
 ]
