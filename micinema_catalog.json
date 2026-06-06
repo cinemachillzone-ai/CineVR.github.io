@@ -34563,222 +34563,223 @@
           "title": "Capítulo 1",
           "slotId": "ep_2058",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/62a775c4-444a-4508-9874-163b022fd03e/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E01/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E21/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E21/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E01/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E21/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e02",
           "title": "Capítulo 2",
           "slotId": "ep_2059",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/d35977c5-2b70-456d-ac58-e51d4db56cef/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E02/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E22/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E22/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E02/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E22/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e03",
           "title": "Capítulo 3",
           "slotId": "ep_2060",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/1c7933eb-f1f2-43dd-8427-14a08fae0aab/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E03/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E23/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E03/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E23/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e04",
           "title": "Capítulo 4",
           "slotId": "ep_2061",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/03a19181-df7f-41af-971c-c539157be1dd/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E04/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E24/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E24/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E04/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E24/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e05",
           "title": "Capítulo 5",
           "slotId": "ep_2062",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/e3c7c448-e363-4eee-bdc7-789446886d32/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E05/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E25/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E25/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E05/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E25/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e06",
           "title": "Capítulo 6",
           "slotId": "ep_2063",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/811f54db-77e1-420f-8620-f1c659de7588/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E06/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E26/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E26/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E06/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E26/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e07",
           "title": "Capítulo 7",
           "slotId": "ep_2064",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/8439f078-26cb-4598-a071-79b50a7c7b41/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E07/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E27/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E27/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E07/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E27/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e08",
           "title": "Capítulo 8",
           "slotId": "ep_2065",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/366d28ee-32cb-4be4-8874-8ffeb747752b/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E08/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E28/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E28/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E08/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E28/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e09",
           "title": "Capítulo 9",
           "slotId": "ep_2066",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/f36bd8d5-b7f4-45b3-8c34-7aa6e0f8a0d5/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E09/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E29/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E29/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E09/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E29/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e10",
           "title": "Capítulo 10",
           "slotId": "ep_2067",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/ac5841ae-5472-457a-bfba-452c3a1bf1fa/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E10/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E30/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E30/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E10/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E30/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e11",
           "title": "Capítulo 11",
           "slotId": "ep_2068",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bb82661f-084d-4f0a-b1fe-124c1b51104d/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E11/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E31/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E31/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E11/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E31/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e12",
           "title": "Capítulo 12",
           "slotId": "ep_2069",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/847f33ec-7563-4806-a106-ae5c809117eb/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E12/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E32/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E32/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E12/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E32/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e13",
           "title": "Capítulo 13",
           "slotId": "ep_2070",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2f34a80f-8849-481c-b4ab-e5d2151c9e9f/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E13/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E33/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E33/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E13/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E33/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e14",
           "title": "Capítulo 14",
           "slotId": "ep_2071",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/10bb90e3-d62a-49a7-b443-a85f1614ca25/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E14/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E34/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E34/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E14/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E34/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e15",
           "title": "Capítulo 15",
           "slotId": "ep_2072",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/36b1b57b-1a1a-400c-a46e-d5c5808a3377/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E15/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E35/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E35/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E15/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E35/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e16",
           "title": "Capítulo 16",
           "slotId": "ep_2073",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/bfa2cb4e-fbab-41e3-99a0-1832abe49533/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E16/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E36/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E36/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E16/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E36/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e17",
           "title": "Capítulo 17",
           "slotId": "ep_2074",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/2d94fbfe-ed70-4a7a-99ed-0ef40e8044ba/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E17/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E37/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E37/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E17/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E37/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e18",
           "title": "Capítulo 18",
           "slotId": "ep_2075",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/786a87e2-1028-4205-ac0d-b6658ad92ef0/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E18/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E38/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E38/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E18/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E38/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e19",
           "title": "Capítulo 19",
           "slotId": "ep_2076",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/89ad3967-4833-4b63-92d1-8c4700b67d3f/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E19/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E39/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E39/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E19/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E39/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         },
         {
           "id": "s02e20",
           "title": "Capítulo 20",
           "slotId": "ep_2077",
           "links": {
-            "language_Spanish": "https://vz-e5546235-a7a.b-cdn.net/48502173-c43a-4b0b-93da-abad41bfb280/playlist.m3u8",
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E20/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E40/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E40/master.m3u8"
           },
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/RanmaYMedioS02E20/master.m3u8",
-          "updatedAt": "2026-05-31T00:12:13.467Z"
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/RamaYMedio/ranmaYMedioS01E40/master.m3u8",
+          "updatedAt": "2026-06-06T04:30:42.678Z"
         }
-      ]
+      ],
+      "updatedAt": "2026-06-06T04:30:42.678Z"
     },
     {
       "type": "series",
