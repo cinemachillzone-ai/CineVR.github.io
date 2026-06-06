@@ -1,23 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T19:01:58.356Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_068"
-  },
-  {
-    "timestamp": "2026-04-13T19:19:44.274Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_068"
-  },
-  {
-    "timestamp": "2026-04-13T19:23:53.945Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_069"
-  },
-  {
     "timestamp": "2026-04-13T19:24:11.455Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3139,5 +3121,12 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "series_120"
+  },
+  {
+    "ts": "2026-06-06T03:12:50.013Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_219",
+    "title": "12 Monos"
   }
 ]
