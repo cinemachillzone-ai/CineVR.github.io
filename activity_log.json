@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:47:31.384Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_079"
-  },
-  {
     "timestamp": "2026-04-13T20:51:31.395Z",
     "user": "Admin",
     "action": "ADD",
@@ -3137,5 +3131,12 @@
     "actor": "yutamir",
     "action": "DISCOVER_MISSING",
     "count": 2
+  },
+  {
+    "ts": "2026-06-06T05:08:03.054Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_303",
+    "title": "Parque Jurásico"
   }
 ]
