@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:43:35.250Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_078"
-  },
-  {
     "timestamp": "2026-04-13T20:47:31.384Z",
     "user": "Admin",
     "action": "ADD",
@@ -3137,5 +3131,11 @@
     "target": "series_104",
     "title": "Ranma ½ T3",
     "eps_changed": 20
+  },
+  {
+    "ts": "2026-06-06T05:06:50.640Z",
+    "actor": "yutamir",
+    "action": "DISCOVER_MISSING",
+    "count": 2
   }
 ]
