@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 449
+    "catalogCount": 446
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -5178,29 +5178,6 @@
     },
     {
       "type": "movie",
-      "title": "Las Guerreras K-Pop",
-      "description": "Un famoso grupo de idols de K-pop lleva una doble vida: mientras brillan en los escenarios, en secreto luchan contra demonios para proteger a la humanidad. Usando el poder de su m\u00fasica y su voz, enfrentan amenazas sobrenaturales cada vez m\u00e1s peligrosas.",
-      "duration": "",
-      "rating": "PG",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2026-05-05",
-      "genres": [],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_192",
-      "addedAt": "2026-05-06T00:01:38.779Z",
-      "addedBy": "Admin",
-      "atlas": "C",
-      "gridIndex": 47,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPop/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z"
-    },
-    {
-      "type": "movie",
       "title": "El Origen de los Guardianes",
       "description": "Cuando un esp\u00edritu maligno amenaza con llenar de miedo el mundo, los Guardianes \u2014como Santa Claus, el Hada de los Dientes y el Conejo de Pascua\u2014 reclutan a Jack Frost, un joven con poderes de hielo, para ayudar a proteger la esperanza y la imaginaci\u00f3n de los ni\u00f1os.",
       "duration": "",
@@ -5220,11 +5197,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_193",
+      "id": "movie_192",
       "addedAt": "2026-05-06T00:04:24.262Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 48,
+      "gridIndex": 47,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElOrigenDeLosGuardianes/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5245,11 +5222,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_194",
+      "id": "movie_193",
       "addedAt": "2026-05-06T00:06:40.823Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 49,
+      "gridIndex": 48,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BtsElRegreso/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5271,11 +5248,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_195",
+      "id": "movie_194",
       "addedAt": "2026-05-08T00:49:06.004Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 50,
+      "gridIndex": 49,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
       "updatedAt": "2026-05-28T02:58:17.087Z"
     },
@@ -5294,11 +5271,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_196",
+      "id": "movie_195",
       "addedAt": "2026-05-08T00:53:11.099Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 51,
+      "gridIndex": 50,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DulceYAmargo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5321,11 +5298,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_197",
+      "id": "movie_196",
       "addedAt": "2026-05-08T00:56:06.006Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 52,
+      "gridIndex": 51,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/OjoPorOjo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5350,11 +5327,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_198",
+      "id": "movie_197",
       "addedAt": "2026-05-10T00:03:13.695Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 54,
+      "gridIndex": 53,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
       "updatedAt": "2026-05-27T18:46:48.687Z"
     },
@@ -5378,11 +5355,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_199",
+      "id": "movie_198",
       "addedAt": "2026-05-10T00:05:32.188Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 55,
+      "gridIndex": 54,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
       "updatedAt": "2026-05-28T02:58:28.347Z"
     },
@@ -5403,11 +5380,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_200",
+      "id": "movie_199",
       "addedAt": "2026-05-12T01:57:06.441Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 60,
+      "gridIndex": 59,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaSingularVidaDeIbelin/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5430,11 +5407,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_201",
+      "id": "movie_200",
       "addedAt": "2026-05-12T01:59:16.369Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 61,
+      "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CriaturasLuminosas/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5456,11 +5433,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_202",
+      "id": "movie_201",
       "addedAt": "2026-05-12T02:01:31.013Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 62,
+      "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaNinaDeLaFoto/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5483,11 +5460,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_203",
+      "id": "movie_202",
       "addedAt": "2026-05-12T02:04:00.994Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 63,
+      "gridIndex": 62,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/96Minutos/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5512,11 +5489,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_204",
+      "id": "movie_203",
       "addedAt": "2026-05-12T02:06:23.609Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 64,
+      "gridIndex": 63,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Intercambiados/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5539,11 +5516,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_205",
+      "id": "movie_204",
       "addedAt": "2026-05-12T02:08:46.999Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 65,
+      "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ProyectoFinDelMundo/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5567,11 +5544,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_206",
+      "id": "movie_205",
       "addedAt": "2026-05-12T02:11:07.622Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 66,
+      "gridIndex": 65,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SangreAsesina/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5595,11 +5572,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_207",
+      "id": "movie_206",
       "addedAt": "2026-05-14T00:53:38.052Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 67,
+      "gridIndex": 66,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElChicoYLaGarza/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5622,11 +5599,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_208",
+      "id": "movie_207",
       "addedAt": "2026-05-14T00:55:50.943Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 68,
+      "gridIndex": 67,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KillBillVol1/master.m3u8",
       "updatedAt": "2026-05-28T02:58:39.090Z"
     },
@@ -5650,11 +5627,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_209",
+      "id": "movie_208",
       "addedAt": "2026-05-14T00:58:00.856Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 69,
+      "gridIndex": 68,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeakyBlindersElHombreInmortal/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5678,11 +5655,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_210",
+      "id": "movie_209",
       "addedAt": "2026-05-14T00:59:58.245Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 70,
+      "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PerfectBlue/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5705,11 +5682,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_211",
+      "id": "movie_210",
       "addedAt": "2026-05-14T01:02:09.118Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 71,
+      "gridIndex": 70,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TaxiDriver/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5732,11 +5709,11 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_212",
+      "id": "movie_211",
       "addedAt": "2026-05-14T01:08:12.452Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 72,
+      "gridIndex": 71,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThePunisherLaUltimaMuerte/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
@@ -5760,16 +5737,16 @@
         "Spanish"
       ],
       "enabled": true,
-      "id": "movie_213",
+      "id": "movie_212",
       "addedAt": "2026-05-14T01:10:43.387Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 73,
+      "gridIndex": 72,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.232Z"
     },
     {
-      "id": "movie_214",
+      "id": "movie_213",
       "type": "movie",
       "title": "12 Monos",
       "description": "\"12 Monos\" puede referirse tanto a la pel\u00edcula 12 Monkeys como a la serie de televisi\u00f3n 12 Monkeys. Ambas comparten la misma premisa b\u00e1sica: viajes en el tiempo, una pandemia global y la organizaci\u00f3n conocida como el Ej\u00e9rcito de los 12 Monos.",
@@ -5790,13 +5767,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 76,
+      "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8",
       "createdAt": "2026-05-31T22:30:45.987Z",
       "updatedAt": "2026-05-31T22:30:45.987Z"
     },
     {
-      "id": "movie_215",
+      "id": "movie_214",
       "type": "movie",
       "title": "Cadaver de la novia",
       "description": "En la Inglaterra victoriana, el t\u00edmido y melanc\u00f3lico joven V\u00edctor Van Dort, presionado por su familia, est\u00e1 a punto de comprometerse en un matrimonio por conveniencia con Victoria Everglot, hija de unos arist\u00f3cratas venidos a menos. Mientras ensayan la boda, los nervios impiden que el novio pronuncie sus votos. Triste y decepcionado, V\u00edctor sale a caminar al bosque y ensaya las palabras de la ceremonia justo encima de la tumba de Emily, una novia muerta a\u00f1os atr\u00e1s. Al colocar el anillo en lo que cree es una rama, resulta ser el dedo de la difunta. As\u00ed es arrastrado al infierno y casado con la misteriosa Novia Cad\u00e1ver, mientras su novia real, Victoria, espera desconsolada en la tierra de los vivos.",
@@ -5820,13 +5797,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 77,
+      "gridIndex": 76,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cadaverdelanovia/master.m3u8",
       "createdAt": "2026-05-31T23:05:56.874Z",
       "updatedAt": "2026-05-31T23:05:56.874Z"
     },
     {
-      "id": "movie_216",
+      "id": "movie_215",
       "type": "movie",
       "title": "Charlie y la F\u00e1brica de Chocolate",
       "description": "Charlie Bucket es un ni\u00f1o de una familia muy pobre que vive junto a sus padres y sus abuelos. Un d\u00eda compra una chocolatina de la prestigiosa marca Wonka y gana un concurso para visitar la f\u00e1brica junto a otros cuatro ni\u00f1os. All\u00ed conocer\u00e1 a Willy Wonka, el exc\u00e9ntrico due\u00f1o de la empresa, y a sus curiosos trabajadores, los Oompa Loompas. Una vez dentro, todos tendr\u00e1n la oportunidad de descubrir todos los secretos de la f\u00e1brica. ",
@@ -5847,13 +5824,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 78,
+      "gridIndex": 77,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
       "createdAt": "2026-05-31T23:08:58.362Z",
       "updatedAt": "2026-05-31T23:08:58.362Z"
     },
     {
-      "id": "movie_217",
+      "id": "movie_216",
       "type": "movie",
       "title": "Un Monstruo en Par\u00eds",
       "description": "En el Par\u00eds de 1910, un experimento accidental da origen a una criatura gigante que es perseguida por las autoridades. Sin embargo, pronto se descubre que el supuesto monstruo es amable y posee un extraordinario talento para la m\u00fasica. Junto a nuevos amigos, intentar\u00e1 escapar de quienes quieren capturarlo.",
@@ -5874,13 +5851,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 83,
+      "gridIndex": 82,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnMonstruoEnParis/master.m3u8",
       "createdAt": "2026-06-01T00:36:26.722Z",
       "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
-      "id": "movie_218",
+      "id": "movie_217",
       "type": "movie",
       "title": "El Imperio del Sol",
       "description": "Durante la invasi\u00f3n japonesa de China en la Segunda Guerra Mundial, un ni\u00f1o brit\u00e1nico llamado Jim es separado de sus padres y termina en un campo de internamiento. All\u00ed deber\u00e1 aprender a sobrevivir mientras presencia los horrores y cambios que provoca la guerra",
@@ -5898,13 +5875,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 85,
+      "gridIndex": 84,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElImperioDelSol/master.m3u8",
       "createdAt": "2026-06-01T01:04:45.889Z",
       "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
-      "id": "movie_219",
+      "id": "movie_218",
       "type": "movie",
       "title": "El Informante",
       "description": "Jeffrey Wigand, un exejecutivo de una gran compa\u00f1\u00eda tabacalera, decide revelar informaci\u00f3n confidencial sobre pr\u00e1cticas ocultas de la industria. Con la ayuda de un productor de televisi\u00f3n, se enfrenta a presiones, amenazas y poderosos intereses mientras intenta que la verdad salga a la luz.",
@@ -5922,13 +5899,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 86,
+      "gridIndex": 85,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElInformante/master.m3u8",
       "createdAt": "2026-06-01T01:45:19.642Z",
       "updatedAt": "2026-06-01T06:00:04.919Z"
     },
     {
-      "id": "movie_220",
+      "id": "movie_219",
       "type": "movie",
       "title": "El Ni\u00f1o y la Bestia",
       "description": "Ren, un ni\u00f1o que queda solo tras una tragedia familiar, entra accidentalmente en un mundo habitado por bestias antropom\u00f3rficas. All\u00ed conoce a Kumatetsu, un guerrero fuerte pero impulsivo que decide entrenarlo como su disc\u00edpulo. Juntos desarrollan una relaci\u00f3n de maestro y alumno que cambiar\u00e1 sus vidas.",
@@ -5949,13 +5926,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 87,
+      "gridIndex": 86,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElNinoYLaBestia/master.m3u8",
       "createdAt": "2026-06-01T01:54:42.195Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_221",
+      "id": "movie_220",
       "type": "movie",
       "title": "Fuerza Bruta: Sin Salida",
       "description": "El detective Ma Seok-do y su equipo investigan una serie de cr\u00edmenes relacionados con una nueva droga sint\u00e9tica que est\u00e1 llegando a Corea del Sur. La investigaci\u00f3n los lleva a enfrentarse a la yakuza japonesa, polic\u00edas corruptos y peligrosas organizaciones criminales.",
@@ -5975,13 +5952,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 88,
+      "gridIndex": 87,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FuerzaBrutaSinSalida/master.m3u8",
       "createdAt": "2026-06-01T02:10:41.058Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_222",
+      "id": "movie_221",
       "type": "movie",
       "title": "Hacia Rutas Salvajes",
       "description": "Despu\u00e9s de graduarse de la universidad, Christopher McCandless abandona sus posesiones, dona sus ahorros y emprende un viaje por Estados Unidos en busca de libertad, aventura y un sentido m\u00e1s profundo para su vida. Su recorrido lo llevar\u00e1 finalmente a las tierras salvajes de Alaska.",
@@ -5999,13 +5976,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 89,
+      "gridIndex": 88,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HaciaRutasSalvajes/master.m3u8",
       "createdAt": "2026-06-01T02:15:47.005Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_223",
+      "id": "movie_222",
       "type": "movie",
       "title": "I Am Vanessa Guill\u00e9n",
       "description": "Este documental narra la historia real de Vanessa Guill\u00e9n, una soldado del Ej\u00e9rcito de Estados Unidos cuya desaparici\u00f3n y muerte provocaron una investigaci\u00f3n nacional. La pel\u00edcula sigue la lucha de su familia por obtener respuestas y justicia, adem\u00e1s de exponer problemas sist\u00e9micos dentro de las fuerzas armadas.",
@@ -6023,13 +6000,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 90,
+      "gridIndex": 89,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IAmVanessaGuillen/master.m3u8",
       "createdAt": "2026-06-01T02:22:27.297Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_224",
+      "id": "movie_223",
       "type": "movie",
       "title": "Identidad",
       "description": "Durante una tormenta, diez desconocidos quedan atrapados en un motel aislado en el desierto. Cuando los hu\u00e9spedes comienzan a morir uno por uno, los sobrevivientes intentan descubrir qui\u00e9n es el asesino. Sin embargo, nada es lo que parece y un misterio mucho m\u00e1s complejo se esconde detr\u00e1s de los acontecimientos.",
@@ -6047,13 +6024,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 91,
+      "gridIndex": 90,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Identidad/master.m3u8",
       "createdAt": "2026-06-01T02:26:21.500Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_225",
+      "id": "movie_224",
       "type": "movie",
       "title": "Jack Ryan: Guerra Fantasma",
       "description": "Jack Ryan es obligado a regresar al mundo del espionaje cuando una misi\u00f3n encubierta internacional revela una peligrosa conspiraci\u00f3n. Junto a antiguos aliados de la CIA, deber\u00e1 enfrentarse a una organizaci\u00f3n clandestina que conoce cada uno de sus movimientos y amenaza la seguridad mundial.",
@@ -6072,13 +6049,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 92,
+      "gridIndex": 91,
       "master_url": "",
       "createdAt": "2026-06-01T02:31:49.651Z",
       "updatedAt": "2026-06-01T02:31:49.651Z"
     },
     {
-      "id": "movie_226",
+      "id": "movie_225",
       "type": "movie",
       "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en espa\u00f1ol)",
       "description": "Rumi, Mira y Zoey son estrellas mundiales del K-pop, pero cuando no est\u00e1n llenando estadios, usan poderes secretos para proteger a sus fans de amenazas sobrenaturales. Su mayor desaf\u00edo llega cuando aparece un grupo rival con oscuros secretos demon\u00edacos.\n\nEsta versi\u00f3n es la canciones en ingles y doblaje en espa\u00f1ol as\u00ed que la disfruten mucho ",
@@ -6098,13 +6075,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 93,
+      "gridIndex": 92,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPop/master.m3u8",
       "createdAt": "2026-06-01T03:04:41.972Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_227",
+      "id": "movie_226",
       "type": "movie",
       "title": "Matrix",
       "description": "Thomas Anderson, un programador conocido en internet como Neo, descubre que el mundo en el que vive es una simulaci\u00f3n creada por m\u00e1quinas inteligentes para controlar a la humanidad. Guiado por Morfeo y Trinity, deber\u00e1 decidir si acepta la verdad y lucha por liberar a la raza humana.",
@@ -6123,13 +6100,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 94,
+      "gridIndex": 93,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MATRIX/master.m3u8",
       "createdAt": "2026-06-01T03:33:17.644Z",
       "updatedAt": "2026-06-01T06:00:04.920Z"
     },
     {
-      "id": "movie_228",
+      "id": "movie_227",
       "type": "movie",
       "title": "M\u00fanich",
       "description": "Tras el asesinato de atletas israel\u00edes durante los Juegos Ol\u00edmpicos de M\u00fanich de 1972, un agente del Mossad recibe la misi\u00f3n secreta de localizar y eliminar a los responsables. A medida que avanza la operaci\u00f3n, comienza a cuestionar el costo moral y humano de la venganza.",
@@ -6147,9 +6124,33 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 95,
+      "gridIndex": 94,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Munich/master.m3u8",
       "createdAt": "2026-06-01T14:23:57.637Z",
+      "updatedAt": "2026-06-01T18:00:04.944Z"
+    },
+    {
+      "id": "movie_228",
+      "type": "movie",
+      "title": "N\u00famero desconocido: Un esc\u00e1ndalo de ciberacoso escolar",
+      "description": "Una adolescente y su novio comienzan a recibir mensajes an\u00f3nimos ofensivos, amenazantes y perturbadores. Lo que parece un simple caso de ciberacoso escolar se convierte en una compleja investigaci\u00f3n policial llena de giros inesperados que revela una verdad impactante detr\u00e1s del hostigamiento.",
+      "duration": "1 hora 34 minutos",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-08-29",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 95,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
+      "createdAt": "2026-06-01T14:27:44.661Z",
       "updatedAt": "2026-06-01T18:00:04.944Z"
     },
     {
@@ -6173,35 +6174,11 @@
       "atlas": "C",
       "gridIndex": 96,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
-      "createdAt": "2026-06-01T14:27:44.661Z",
-      "updatedAt": "2026-06-01T18:00:04.944Z"
-    },
-    {
-      "id": "movie_230",
-      "type": "movie",
-      "title": "N\u00famero desconocido: Un esc\u00e1ndalo de ciberacoso escolar",
-      "description": "Una adolescente y su novio comienzan a recibir mensajes an\u00f3nimos ofensivos, amenazantes y perturbadores. Lo que parece un simple caso de ciberacoso escolar se convierte en una compleja investigaci\u00f3n policial llena de giros inesperados que revela una verdad impactante detr\u00e1s del hostigamiento.",
-      "duration": "1 hora 34 minutos",
-      "rating": "TV-MA",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2025-08-29",
-      "genres": [
-        "Documentary",
-        "Crime"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 97,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:29:03.161Z",
       "updatedAt": "2026-06-01T18:00:04.944Z"
     },
     {
-      "id": "movie_231",
+      "id": "movie_230",
       "type": "movie",
       "title": "Super Mario Galaxy: La Pel\u00edcula",
       "description": "Despu\u00e9s de sus aventuras en el Reino Champi\u00f1\u00f3n, Mario y Luigi emprenden un viaje por el espacio para enfrentar una nueva amenaza gal\u00e1ctica. En el camino conocen a Rosalina, exploran planetas y galaxias lejanas y se enfrentan a Bowser, Bowser Jr. y otros enemigos en una misi\u00f3n para salvar el universo.",
@@ -6221,13 +6198,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 98,
+      "gridIndex": 97,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SuperMarioGalaxyLaPelicula/master.m3u8",
       "createdAt": "2026-06-01T14:39:26.290Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_232",
+      "id": "movie_231",
       "type": "movie",
       "title": "Tron: El Legado",
       "description": "Sam Flynn, el hijo de Kevin Flynn, investiga la misteriosa desaparici\u00f3n de su padre y termina siendo transportado al mundo digital de la Red. All\u00ed descubre que Kevin ha estado atrapado durante a\u00f1os y que una poderosa amenaza pone en peligro tanto el universo digital como el real.",
@@ -6246,13 +6223,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 99,
+      "gridIndex": 98,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TronElLegado/master.m3u8",
       "createdAt": "2026-06-01T14:47:09.622Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_233",
+      "id": "movie_232",
       "type": "movie",
       "title": "Al Diablo con el Diablo",
       "description": "Elliot Richards es un hombre t\u00edmido y desafortunado en el amor que hace un trato con el Diablo para conquistar a la mujer de sus sue\u00f1os. A cambio de su alma, recibe siete deseos, pero cada uno termina teniendo consecuencias inesperadas y c\u00f3micas.",
@@ -6271,13 +6248,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 100,
+      "gridIndex": 99,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlDiabloConElDiablo/master.m3u8",
       "createdAt": "2026-06-01T14:50:57.693Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_234",
+      "id": "movie_233",
       "type": "movie",
       "title": "Algo Pasa con Mary",
       "description": "Ted nunca ha podido olvidar a Mary, la chica de sus sue\u00f1os. A\u00f1os despu\u00e9s decide contratar a un detective para encontrarla, pero la situaci\u00f3n se complica cuando varios hombres quedan igualmente fascinados con ella, dando lugar a una serie de situaciones absurdas y muy inc\u00f3modas.",
@@ -6295,13 +6272,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 101,
+      "gridIndex": 100,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlgoPasaConMary/master.m3u8",
       "createdAt": "2026-06-01T14:56:48.309Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_235",
+      "id": "movie_234",
       "type": "movie",
       "title": "Arco",
       "description": "Arco, un ni\u00f1o de 10 a\u00f1os que vive en el a\u00f1o 2932, realiza un viaje en el tiempo que sale mal y termina atrapado en el a\u00f1o 2075. All\u00ed conoce a Iris, una ni\u00f1a que vive en un futuro afectado por problemas ambientales y una gran dependencia tecnol\u00f3gica. Juntos emprenden una aventura para ayudar a Arco a regresar a casa.",
@@ -6321,13 +6298,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 102,
+      "gridIndex": 101,
       "master_url": "",
       "createdAt": "2026-06-01T15:00:33.232Z",
       "updatedAt": "2026-06-01T15:00:33.232Z"
     },
     {
-      "id": "movie_236",
+      "id": "movie_235",
       "type": "movie",
       "title": "Cabezas Huecas",
       "description": "Tres m\u00fasicos de una banda de rock llamada The Lone Rangers est\u00e1n desesperados por conseguir que una estaci\u00f3n de radio reproduzca su demo. Cuando sus intentos fracasan, terminan tomando la emisora como reh\u00e9n, provocando una situaci\u00f3n ca\u00f3tica y muy divertida que atrae la atenci\u00f3n de todo el pa\u00eds.",
@@ -6344,13 +6321,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 103,
+      "gridIndex": 102,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8",
       "createdAt": "2026-06-01T15:04:39.489Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_237",
+      "id": "movie_236",
       "type": "movie",
       "title": "2012",
       "description": "Cuando una serie de cat\u00e1strofes globales comienzan a destruir el planeta, un escritor y su familia intentan sobrevivir mientras los gobiernos del mundo ponen en marcha un plan secreto para preservar a la humanidad.",
@@ -6369,13 +6346,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 104,
+      "gridIndex": 103,
       "master_url": "",
       "createdAt": "2026-06-01T15:16:40.792Z",
       "updatedAt": "2026-06-01T15:16:40.792Z"
     },
     {
-      "id": "movie_238",
+      "id": "movie_237",
       "type": "movie",
       "title": "El Plan Perfecto",
       "description": "Un grupo de ladrones toma un banco en Manhattan y mantiene a decenas de personas como rehenes. Mientras la polic\u00eda intenta resolver la situaci\u00f3n, el detective Keith Frazier descubre que el robo es mucho m\u00e1s complejo de lo que parece y que oculta secretos inesperados.",
@@ -6393,13 +6370,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 105,
+      "gridIndex": 104,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanPerfecto/master.m3u8",
       "createdAt": "2026-06-01T15:20:56.003Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_239",
+      "id": "movie_238",
       "type": "movie",
       "title": "Jurassic Park",
       "description": "Un exc\u00e9ntrico millonario crea un parque tem\u00e1tico en una isla donde los dinosaurios han sido clonados mediante ingenier\u00eda gen\u00e9tica. Antes de su apertura, un grupo de expertos es invitado a visitarlo, pero una serie de fallos de seguridad convierte la experiencia en una lucha por sobrevivir.",
@@ -6418,13 +6395,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 106,
+      "gridIndex": 105,
       "master_url": "",
       "createdAt": "2026-06-01T15:24:56.456Z",
       "updatedAt": "2026-06-01T15:24:56.456Z"
     },
     {
-      "id": "movie_240",
+      "id": "movie_239",
       "type": "movie",
       "title": "Magia Extra\u00f1a",
       "description": "En un reino m\u00e1gico dividido entre criaturas de la luz y la oscuridad, la princesa Marianne ve c\u00f3mo sus planes de amor se derrumban. Mientras tanto, el temido Rey de las Tinieblas protege su territorio de cualquiera que intente usar una poderosa poci\u00f3n de amor. Sus destinos terminan entrelaz\u00e1ndose en una aventura llena de m\u00fasica, magia y romance.",
@@ -6444,13 +6421,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 107,
+      "gridIndex": 106,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtrana/master.m3u8",
       "createdAt": "2026-06-01T15:28:45.393Z",
       "updatedAt": "2026-06-01T18:00:04.945Z"
     },
     {
-      "id": "movie_241",
+      "id": "movie_240",
       "type": "movie",
       "title": "Battle Angel: La \u00faltima guerrera",
       "description": "Cuenta la historia de Alita, una joven chica en el cuerpo de un cyborg que es rescatada por un cient\u00edfico tras ser encontrada entre los escombros de un desguace. Alita es reconstruida poco a poco, pero se da cuenta que ha perdido la memoria y no recuerda nada de lo que ha sido de ella antes de aterrizar en el desguace. La joven ver\u00e1 en el cient\u00edfico a su salvador, una figura paterna que la convertir\u00e1 en un ser letal y peligroso para conseguir as\u00ed un trabajo como cazarrecompensas.",
@@ -6469,13 +6446,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 110,
+      "gridIndex": 109,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alita/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.062Z",
       "updatedAt": "2026-06-05T12:48:00.062Z"
     },
     {
-      "id": "movie_242",
+      "id": "movie_241",
       "type": "movie",
       "title": "Caracortada",
       "description": "Tony Montana es un emigrante cubano fr\u00edo e implacable que se instala en Miami con el prop\u00f3sito de convertirse en un g\u00e1ngster importante, y poder as\u00ed ganar dinero y posici\u00f3n. Con la colaboraci\u00f3n de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de coca\u00edna, con el objetivo de acceder a la c\u00fapula de una organizaci\u00f3n de narcos.",
@@ -6494,13 +6471,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 111,
+      "gridIndex": 110,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caracortada/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.406Z",
       "updatedAt": "2026-06-05T12:48:00.406Z"
     },
     {
-      "id": "movie_243",
+      "id": "movie_242",
       "type": "movie",
       "title": "Detective por error",
       "description": "Un caso de confusi\u00f3n de identidades obliga a un duro agente federal a unirse con un vendedor dental para lograr terminar su operaci\u00f3n.",
@@ -6519,13 +6496,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 112,
+      "gridIndex": 111,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DetectivePorError/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.682Z",
       "updatedAt": "2026-06-05T12:48:00.682Z"
     },
     {
-      "id": "movie_244",
+      "id": "movie_243",
       "type": "movie",
       "title": "Batman: El caballero de la noche",
       "description": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Ciudad G\u00f3tica, Batman debe aceptar una de las mayores pruebas psicol\u00f3gicas y f\u00edsicas de su capacidad para luchar contra la injusticia.",
@@ -6544,13 +6521,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 113,
+      "gridIndex": 112,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCaballeroDeLaNocheBatman/master.m3u8",
       "createdAt": "2026-06-05T12:52:12.950Z",
       "updatedAt": "2026-06-05T12:52:12.950Z"
     },
     {
-      "id": "movie_245",
+      "id": "movie_244",
       "type": "movie",
       "title": "Contactos de cuarto tipo",
       "description": "Thriller basado en hechos reales, ambientado en Alaska, en el que una mujer investiga una serie de misteriosas desapariciones ocurridas en el lugar durante los \u00faltimos 40 a\u00f1os. A finales del a\u00f1o 2000, los pacientes de la terapeuta Abbey Tyler, bajo hipnosis, reflejaron comportamientos que suger\u00edan encuentros con seres no humanos. Antes de dormir, todos ellos aseguraban haber visto un b\u00faho que les observaba desde fuera de la ventana. Y despertaban completamente paralizados, escuchando ruidos terror\u00edficos que proven\u00edan de fuera de la habitaci\u00f3n. La doctora prosigui\u00f3 con sus investigaciones, descubriendo que la desaparici\u00f3n de personas y sucesos extra\u00f1os en la regi\u00f3n se remontaba a los a\u00f1os 60.",
@@ -6569,10 +6546,35 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 114,
+      "gridIndex": 113,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCuartoContacto/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.162Z",
       "updatedAt": "2026-06-05T12:52:13.162Z"
+    },
+    {
+      "id": "movie_245",
+      "type": "movie",
+      "title": "El d\u00eda del fin del mundo: Migraci\u00f3n",
+      "description": "La familia Garrity debe abandonar la seguridad del b\u00fanker de Groenlandia y embarcarse en un peligroso viaje a trav\u00e9s del diezmado p\u00e1ramo helado de Europa para encontrar un nuevo hogar.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-01-07",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 114,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8",
+      "createdAt": "2026-06-05T12:52:13.428Z",
+      "updatedAt": "2026-06-05T12:52:13.428Z"
     },
     {
       "id": "movie_246",
@@ -6595,37 +6597,12 @@
       ],
       "atlas": "C",
       "gridIndex": 115,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8",
-      "createdAt": "2026-06-05T12:52:13.428Z",
-      "updatedAt": "2026-06-05T12:52:13.428Z"
-    },
-    {
-      "id": "movie_247",
-      "type": "movie",
-      "title": "El d\u00eda del fin del mundo: Migraci\u00f3n",
-      "description": "La familia Garrity debe abandonar la seguridad del b\u00fanker de Groenlandia y embarcarse en un peligroso viaje a trav\u00e9s del diezmado p\u00e1ramo helado de Europa para encontrar un nuevo hogar.",
-      "duration": "1h 38m",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-01-07",
-      "genres": [
-        "Adventure",
-        "Thriller",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 116,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.568Z",
       "updatedAt": "2026-06-05T12:52:13.568Z"
     },
     {
-      "id": "movie_248",
+      "id": "movie_247",
       "type": "movie",
       "title": "Guardianes de la galaxia",
       "description": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador.",
@@ -6644,13 +6621,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 117,
+      "gridIndex": 116,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardianesDeLaGalaxia/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.002Z",
       "updatedAt": "2026-06-05T12:52:14.002Z"
     },
     {
-      "id": "movie_249",
+      "id": "movie_248",
       "type": "movie",
       "title": "Han Solo: Una historia de Star Wars",
       "description": "A bordo del Halc\u00f3n Milenario Han Solo Una Historia de Star Wars trae una nueva aventura con el contrabandista m\u00e1s querido de todos los tiempos. A trav\u00e9s de una serie de arriesgadas travesuras en un oscuro y peligroso submundo criminal, Han Solo conoce a su futuro amigo y copiloto y encuentra al apostador Lando Calrissian en un viaje que marcar\u00e1 el curso de uno de los h\u00e9roes m\u00e1s inesperados de Star Wars.",
@@ -6669,13 +6646,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 118,
+      "gridIndex": 117,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HanSolo/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.215Z",
       "updatedAt": "2026-06-05T12:52:14.215Z"
     },
     {
-      "id": "movie_250",
+      "id": "movie_249",
       "type": "movie",
       "title": "El hombre ara\u00f1a",
       "description": "Cuando es mordido por una ara\u00f1a gen\u00e9ticamente modificada, un estudiante de secundaria nerd, t\u00edmido y torpe, adquiere habilidades parecidas a las de una ara\u00f1a que eventualmente debe usar para luchar contra el mal como un superh\u00e9roe despu\u00e9s de que la tragedia cae sobre su familia.",
@@ -6693,13 +6670,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 119,
+      "gridIndex": 118,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.436Z",
       "updatedAt": "2026-06-05T12:52:14.436Z"
     },
     {
-      "id": "movie_251",
+      "id": "movie_250",
       "type": "movie",
       "title": "El hombre ara\u00f1a 2",
       "description": "Peter Parker se ve acosado por problemas en su fallida vida personal mientras lucha contra un brillante cient\u00edfico llamado Doctor Otto Octavius.",
@@ -6718,13 +6695,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 120,
+      "gridIndex": 119,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana2/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.646Z",
       "updatedAt": "2026-06-05T12:52:14.646Z"
     },
     {
-      "id": "movie_252",
+      "id": "movie_251",
       "type": "movie",
       "title": "El hombre ara\u00f1a 3",
       "description": "Una extra\u00f1a entidad negra de otro mundo se vincula con Peter Parker y le provoca confusi\u00f3n interna mientras lucha contra nuevos villanos, tentaciones y venganza.",
@@ -6743,13 +6720,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 121,
+      "gridIndex": 120,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana3/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.863Z",
       "updatedAt": "2026-06-05T12:52:14.863Z"
     },
     {
-      "id": "movie_253",
+      "id": "movie_252",
       "type": "movie",
       "title": "Hotel Transylvania",
       "description": "Cuando Mavis est\u00e1 a punto de cumplir 118 a\u00f1os, su padre, el conde Dr\u00e1cula, le prepara una fiesta a la que acuden los mejores amigos de la familia, Frankenstein, Hombre Invisible y la Momia; pero cuando un humano llamado Johnny, un tipo com\u00fan y corriente, aparece en el hotel de monstruos... lo cambia todo.",
@@ -6769,13 +6746,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 122,
+      "gridIndex": 121,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2013/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.076Z",
       "updatedAt": "2026-06-05T12:52:15.076Z"
     },
     {
-      "id": "movie_254",
+      "id": "movie_253",
       "type": "movie",
       "title": "Jack Ryan de Tom Clancy: Guerra fantasma",
       "description": "En esta nueva pel\u00edcula, Jack Ryan vuelve a rega\u00f1adientes al espionaje cuando una misi\u00f3n encubierta internacional destapa una conspiraci\u00f3n mortal. En una carrera contra el tiempo, se une a sus aliados de la CIA Mike November y James Greer y a la astuta oficial del MI6 Emma Marlowe para enfrentarse a una unidad renegada de operaciones encubiertas en una pelea muy personal y con mucho en juego.",
@@ -6793,13 +6770,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 123,
+      "gridIndex": 122,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.522Z",
       "updatedAt": "2026-06-05T12:52:15.522Z"
     },
     {
-      "id": "movie_255",
+      "id": "movie_254",
       "type": "movie",
       "title": "John Wick 2: Un Nuevo D\u00eda para Matar",
       "description": "En esta secuela del \u00e9xito de 2014, el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos m\u00e1s peligrosos del mundo.",
@@ -6818,13 +6795,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 124,
+      "gridIndex": 123,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick2/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.843Z",
       "updatedAt": "2026-06-05T12:52:15.843Z"
     },
     {
-      "id": "movie_256",
+      "id": "movie_255",
       "type": "movie",
       "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras",
       "description": "Tiempo despu\u00e9s de abandonar la ciudad llen\u00f3 de comida, y trabajando en un puesto en The Live Corp Company, con su \u00eddolo Chester V. Flint Lockwood descubre que su m\u00e1quina todav\u00eda funciona y ahora crea bestias alimenticias mutantes, entonces \u00e9l y sus amigos deben regresar para salvar el mundo.",
@@ -6843,13 +6820,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 125,
+      "gridIndex": 124,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas2/master.m3u8",
       "createdAt": "2026-06-05T12:52:16.164Z",
       "updatedAt": "2026-06-05T12:52:16.164Z"
     },
     {
-      "id": "movie_257",
+      "id": "movie_256",
       "type": "movie",
       "title": "Los Cazafantasmas 2",
       "description": "Han pasado cinco a\u00f1os desde que los cazafantasmas entraron por \u00faltima vez en acci\u00f3n. El doctor Peter Venkman, notable parapsic\u00f3logo de persuasivos encantos, ha quedado relegado a maestro de ceremonias de un programa de televisi\u00f3n donde se discuten fen\u00f3menos ps\u00edquicos. Ray Stantz y su colega Winston Zeddemore se ganan la vida entreteniendo a ni\u00f1os en fiestas infantiles, y el mago tecnol\u00f3gico Egon Spengler contin\u00faa sus investigaciones sobre los efectos de las emociones humanas en el campo de energ\u00eda psicomagn\u00e9tica. La relaci\u00f3n de Dana Barrett con Venkman se disolvi\u00f3; ella se cas\u00f3 con otro hombre y tuvo un hijo, pero el matrimonio fracas\u00f3. Ahora Dana vive sola en Nueva York, criando a Oscar, su beb\u00e9 de ocho meses, y trabajando como restauradora de cuadros en el Museo de arte de Manhattan, junto a un exc\u00e9ntrico experto en pinturas del periodo rom\u00e1ntico, Janosz Poha. Todo parece normal hasta que el cochecito de Oscar rueda por s\u00ed solo y se mete entre el peligroso tr\u00e1fico de la ciudad.",
@@ -6867,13 +6844,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 126,
+      "gridIndex": 125,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmasIi/master.m3u8",
       "createdAt": "2026-06-05T12:52:17.955Z",
       "updatedAt": "2026-06-05T12:52:17.955Z"
     },
     {
-      "id": "movie_258",
+      "id": "movie_257",
       "type": "movie",
       "title": "Wifi Ralph",
       "description": "Seis a\u00f1os despu\u00e9s de salvar el arcade del ataque de los Cybugs y de la venganza de Turbo,5\u200b la historia se centrar\u00e1 en las aventuras de Ralph en el espacio de datos de Internet cuando un enrutador Wi-Fi se conecta en la sala de juegos, ya que debe encontrar una pieza de reemplazo para fijar Sugar Rush. A lo largo del camino, Ralph y su mejor amiga Vanellope von Schweetz encuentran nuevas costumbres, mundos y personajes, como el algoritmo de moda Yesss, las princesas de Disney, los superh\u00e9roes de Marvel y personajes de Star Wars, y m\u00e1s personajes de videojuegos como Mario y Sonic the Hedgehog.",
@@ -6895,13 +6872,13 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 127,
+      "gridIndex": 126,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RalfWifi/master.m3u8",
       "createdAt": "2026-06-05T12:52:18.439Z",
       "updatedAt": "2026-06-05T12:52:18.439Z"
     },
     {
-      "id": "movie_259",
+      "id": "movie_258",
       "type": "movie",
       "title": "Robot salvaje",
       "description": "Un robot - ROZZUM unidad 7134, \"Roz\" para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirti\u00e9ndose en la madre adoptiva de un ganso hu\u00e9rfano.",
@@ -6920,14 +6897,14 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "D",
-      "gridIndex": 0,
+      "atlas": "C",
+      "gridIndex": 127,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RobotSalvaje2024/master.m3u8",
       "createdAt": "2026-06-05T12:52:18.949Z",
       "updatedAt": "2026-06-05T12:52:18.949Z"
     },
     {
-      "id": "movie_260",
+      "id": "movie_259",
       "type": "movie",
       "title": "One Night In Baton Rouge & Cuban",
       "description": "",
@@ -6942,13 +6919,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 1,
+      "gridIndex": 0,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RougeOne/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.164Z",
       "updatedAt": "2026-06-05T12:52:19.164Z"
     },
     {
-      "id": "movie_261",
+      "id": "movie_260",
       "type": "movie",
       "title": "El Sorprendente Hombre-Ara\u00f1a 2: La Amenaza de Electro",
       "description": "Ser el Hombre Ara\u00f1a es genial. Para Peter Parker, no hay mejor sensaci\u00f3n que columpiarse entre rascacielos, ser el h\u00e9roe y pasar el tiempo con Gwen. Pero ser el Hombre Ara\u00f1a no es gratuito: solo \u00e9l puede proteger a sus conciudadanos de Nueva York de los temibles villanos que amenazan a la ciudad. Con el surgimiento de Electro, Peter debe enfrentar a un enemigo mucho m\u00e1s poderoso que \u00e9l. Y como su antiguo amigo, Harry Osborn, regresa, Peter se da cuenta de que todos sus enemigos tienen algo en com\u00fan: Oscorp.",
@@ -6967,13 +6944,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 2,
+      "gridIndex": 1,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreArana2/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.590Z",
       "updatedAt": "2026-06-05T12:52:19.590Z"
     },
     {
-      "id": "movie_262",
+      "id": "movie_261",
       "type": "movie",
       "title": "Spider-Man: A trav\u00e9s del Spider-Verso",
       "description": "Despu\u00e9s de reunirse con Gwen Stacy, Miles Morales, el amigable Spider-Man del vecindario de tiempo completo de Brooklyn, es catapultado a trav\u00e9s del Multiverso, donde se encuentra con un equipo de Spider-People encargado de proteger su existencia. Pero cuando los h\u00e9roes chocan sobre c\u00f3mo manejar una nueva amenaza, Miles se enfrenta a las otras ara\u00f1as y debe redefinir lo que significa ser un h\u00e9roe para poder salvar a las personas que m\u00e1s ama.",
@@ -6993,13 +6970,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 3,
+      "gridIndex": 2,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManATravesDelSpiderVerso2023/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.804Z",
       "updatedAt": "2026-06-05T12:52:19.804Z"
     },
     {
-      "id": "movie_263",
+      "id": "movie_262",
       "type": "movie",
       "title": "Spider-Man: Un nuevo universo",
       "description": "En un universo paralelo donde Peter Parker ha muerto, un j\u00f3ven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el l\u00edder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versi\u00f3n alternativa de Peter Parker que tratar\u00e1 de ense\u00f1arle a Miles como ser un mejor Spider-Man. Pero no ser\u00e1 el \u00fanico Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecer\u00e1n y buscar\u00e1n regresar a su universo antes de que toda la realidad colapse.",
@@ -7019,10 +6996,35 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 4,
+      "gridIndex": 3,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManUnNuevoUniverso2018/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.017Z",
       "updatedAt": "2026-06-05T12:52:20.017Z"
+    },
+    {
+      "id": "movie_263",
+      "type": "movie",
+      "title": "El Imperio contraataca",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compa\u00f1\u00eda de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el \u00faltimo maestro Jedi, para que le ense\u00f1e los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halc\u00f3n Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "duration": "2h 04m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "1980-05-20",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 4,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars4/master.m3u8",
+      "createdAt": "2026-06-05T12:52:20.231Z",
+      "updatedAt": "2026-06-05T12:52:20.231Z"
     },
     {
       "id": "movie_264",
@@ -7045,37 +7047,12 @@
       ],
       "atlas": "D",
       "gridIndex": 5,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars4/master.m3u8",
-      "createdAt": "2026-06-05T12:52:20.231Z",
-      "updatedAt": "2026-06-05T12:52:20.231Z"
-    },
-    {
-      "id": "movie_265",
-      "type": "movie",
-      "title": "El Imperio contraataca",
-      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compa\u00f1\u00eda de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el \u00faltimo maestro Jedi, para que le ense\u00f1e los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halc\u00f3n Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
-      "duration": "2h 04m",
-      "rating": "PG",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 1980,
-      "releaseDate": "1980-05-20",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 6,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars5/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.369Z",
       "updatedAt": "2026-06-05T12:52:20.369Z"
     },
     {
-      "id": "movie_266",
+      "id": "movie_265",
       "type": "movie",
       "title": "#TBB4",
       "description": "",
@@ -7090,13 +7067,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 7,
+      "gridIndex": 6,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TBB/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.952Z",
       "updatedAt": "2026-06-05T12:52:20.952Z"
     },
     {
-      "id": "movie_267",
+      "id": "movie_266",
       "type": "movie",
       "title": "Matrix resurrecciones",
       "description": "El retorno a un mundo de dos realidades: una, la vida cotidiana; la otra, lo que hay detr\u00e1s de ella. Para descubrir si su realidad es un constructo, para verdaderamente conocerse a s\u00ed mismo, el Sr. Anderson deber\u00e1 elegir seguir al conejo blanco una vez m\u00e1s.",
@@ -7115,13 +7092,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 8,
+      "gridIndex": 7,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMatrix4Resurrections/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.282Z",
       "updatedAt": "2026-06-05T12:52:21.282Z"
     },
     {
-      "id": "movie_268",
+      "id": "movie_267",
       "type": "movie",
       "title": "Top Gun: Maverick",
       "description": "Despu\u00e9s de m\u00e1s de treinta a\u00f1os de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell est\u00e1 en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitar\u00eda que pudiera seguir volando. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misi\u00f3n especial que ning\u00fan piloto vivo ha visto antes, Maverick se encuentra con el teniente Bradley Bradshaw, se\u00f1al de llamada: \"Rooster\", el hijo del difunto amigo de Maverick y el oficial de intercepci\u00f3n de radar, el teniente Nick Bradshaw, tambi\u00e9n conocido como \"Goose\".",
@@ -7139,13 +7116,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 9,
+      "gridIndex": 8,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TopGunMaverick/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.616Z",
       "updatedAt": "2026-06-05T12:52:21.616Z"
     },
     {
-      "id": "movie_269",
+      "id": "movie_268",
       "type": "movie",
       "title": "\u30d3\u30fc\u30b9\u30c8\u30a6\u30a9\u30fc\u30baII \u30e9\u30a4\u30aa\u30b3\u30f3\u30dc\u30a4\u5371\u6a5f\u4e00\u9aea!",
       "description": "",
@@ -7165,13 +7142,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 10,
+      "gridIndex": 9,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer2/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.857Z",
       "updatedAt": "2026-06-05T12:52:21.857Z"
     },
     {
-      "id": "movie_270",
+      "id": "movie_269",
       "type": "movie",
       "title": "\ub9c8\uc774\ud06c\ub85c \ud2b9\uacf5\ub300 \ub2e4\uc774\uc57c \ud2b8\ub860 5",
       "description": "",
@@ -7190,13 +7167,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 11,
+      "gridIndex": 10,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer3/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.084Z",
       "updatedAt": "2026-06-05T12:52:22.084Z"
     },
     {
-      "id": "movie_271",
+      "id": "movie_270",
       "type": "movie",
       "title": "Transformers: la venganza de los ca\u00eddos",
       "description": "Dos a\u00f1os despu\u00e9s de derrotar a los Decepticons, las vidas de Sam y los Autobots han cambiado mucho. Mientras Sam se prepara para ir a la universidad, sus amigos robots se han integrado en una fuerza de \u00e9lite que captura a enemigos renegados. Pero todo cambia con la llegada de un malvado enemigo que, con un enrevesado plan, planea un nuevo alzamiento de los Decepticons. La humanidad vuelve a estar en peligro, y Sam y los Autobots tendr\u00e1n que formar una vez m\u00e1s equipo para salvarla.",
@@ -7215,13 +7192,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 12,
+      "gridIndex": 11,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TransformesROB/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.288Z",
       "updatedAt": "2026-06-05T12:52:22.288Z"
     },
     {
-      "id": "movie_272",
+      "id": "movie_271",
       "type": "movie",
       "title": "Flowers for Algernon",
       "description": "",
@@ -7238,13 +7215,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 13,
+      "gridIndex": 12,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnSuenoImposible/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.520Z",
       "updatedAt": "2026-06-05T12:52:22.520Z"
     },
     {
-      "id": "movie_273",
+      "id": "movie_272",
       "type": "movie",
       "title": "Vengadores Chiflados: La Era de Pultr\u00f3n",
       "description": "",
@@ -7264,13 +7241,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 14,
+      "gridIndex": 13,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.945Z",
       "updatedAt": "2026-06-05T12:52:22.945Z"
     },
     {
-      "id": "movie_274",
+      "id": "movie_273",
       "type": "movie",
       "title": "Volver al Futuro 2",
       "description": "Aunque a Marty McFly todav\u00eda le falta tiempo para asimilar el hecho de estar viviendo dentro de la familia perfecta gracias a su anterior viaje en el tiempo, no le queda ni espacio para respirar cuando su amigo Doc aparece de improviso con la m\u00e1quina del tiempo (mucho m\u00e1s modernizada), e insta a que le acompa\u00f1en \u00e9l y su novia a viajar al futuro para solucionar un problema con la ley que tendr\u00e1 uno de sus futuros hijos.",
@@ -7289,13 +7266,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 15,
+      "gridIndex": 14,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo2/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.156Z",
       "updatedAt": "2026-06-05T12:52:23.156Z"
     },
     {
-      "id": "movie_275",
+      "id": "movie_274",
       "type": "movie",
       "title": "Volver al Futuro 3",
       "description": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al a\u00f1o 1885, la \u00e9poca del salvaje oeste. \u00c9ste le env\u00eda una carta donde comenta que la m\u00e1quina del tiempo est\u00e1 averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues all\u00ed es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc muri\u00f3 en 1885 y, sin pens\u00e1rselo dos veces, ir\u00e1 a rescatar a su amigo.",
@@ -7314,13 +7291,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 16,
+      "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo3/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.363Z",
       "updatedAt": "2026-06-05T12:52:23.363Z"
     },
     {
-      "id": "movie_276",
+      "id": "movie_275",
       "type": "movie",
       "title": "El gran Showman",
       "description": "Celebra el nacimiento del mundo del espect\u00e1culo y habla de un visionario que se levant\u00f3 de la nada para crear un espect\u00e1culo que se convirti\u00f3 en una sensaci\u00f3n mundial.",
@@ -7337,13 +7314,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 17,
+      "gridIndex": 16,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elGranShowman2017/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.732Z",
       "updatedAt": "2026-06-05T12:52:23.732Z"
     },
     {
-      "id": "movie_277",
+      "id": "movie_276",
       "type": "movie",
       "title": "Truman Show: Historia de una Vida",
       "description": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extra\u00f1os sucesos le hacen sospechar que algo anormal est\u00e1 ocurriendo.",
@@ -7361,13 +7338,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 18,
+      "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/theTrumanShowHistoriaDeUnaVida1998/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.158Z",
       "updatedAt": "2026-06-05T12:52:24.158Z"
     },
     {
-      "id": "movie_278",
+      "id": "movie_277",
       "type": "movie",
       "title": "Ao no Exorcist The Movie",
       "description": "El ambiente en True Cross Academy es animado y bullicioso en los d\u00edas previos al gran festival que se celebra una vez cada 11 a\u00f1os. Durante este tiempo, a Okumura Rin se le conf\u00eda la responsabilidad de suprimir el Tren Fantasmal berserker. En medio de su misi\u00f3n, se encuentra con un demonio cuya apariencia es la de un ni\u00f1o.",
@@ -7388,13 +7365,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 19,
+      "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/AoNoExorcistMovie/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.378Z",
       "updatedAt": "2026-06-05T12:52:24.378Z"
     },
     {
-      "id": "movie_279",
+      "id": "movie_278",
       "type": "movie",
       "title": "To Every You I've Loved Before",
       "description": "",
@@ -7412,13 +7389,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 20,
+      "gridIndex": 19,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/BokuGaAishitaSubeteNoKimiE/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.820Z",
       "updatedAt": "2026-06-05T12:52:24.820Z"
     },
     {
-      "id": "movie_280",
+      "id": "movie_279",
       "type": "movie",
       "title": "Dead Leaves",
       "description": "Planeta Tierra: el futuro. Los \u00fanicos humanos que quedan son clones. Retro, un joven que, por alguna raz\u00f3n, tiene un televisor en lugar de cabeza y Pandy, una chica con una mancha de nacimiento sobre su ojo derecho, escapan de la polic\u00eda. Capturados por las fuerzas del orden, son encarcelados en la colonia penitenciaria lunar llamada \"Dead Leaves\". Pronto se dan cuenta de que no est\u00e1n como para aguantar el r\u00e9gimen brutal de la prisi\u00f3n, as\u00ed que comienzan a planear su huida, comenzando as\u00ed una aventura violenta, ca\u00f3tica, esperp\u00e9ntica y rocambolesca.",
@@ -7437,13 +7414,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 21,
+      "gridIndex": 20,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DeadLeaves_2004/master.m3u8",
       "createdAt": "2026-06-05T12:52:25.326Z",
       "updatedAt": "2026-06-05T12:52:25.326Z"
     },
     {
-      "id": "movie_281",
+      "id": "movie_280",
       "type": "movie",
       "title": "Digimon Adventure: La \u00faltima evoluci\u00f3n \u2013 Kizuna",
       "description": "Esta nueva entrega de la saga Digimon busca dar un cierre a la historia original, haciendo hincapi\u00e9 en la relaci\u00f3n de Tai y Agumon y present\u00e1ndonos la cinta como su \u00faltima aventura juntos (vamos, que los que crecimos viendo el primer anime podemos ir preparando los pa\u00f1uelos). La amistad entre el ni\u00f1o elegido y su digimon promete ser el centro de la trama de la pel\u00edcula, con Tai asegurandole a Agumon \"Siempre estaremos juntos\".",
@@ -7463,13 +7440,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 22,
+      "gridIndex": 21,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DigimonAdventureLastEvolutionKizuna/master.m3u8",
       "createdAt": "2026-06-05T12:55:35.180Z",
       "updatedAt": "2026-06-05T12:55:35.180Z"
     },
     {
-      "id": "movie_282",
+      "id": "movie_281",
       "type": "movie",
       "title": "Hacia el Bosque de las Luci\u00e9rnagas",
       "description": "Hotaru Takegawa es una ni\u00f1a que siempre pasa el verano en la casa de su abuelo en un peque\u00f1o pueblo. Durante un verano, cuando ten\u00eda 6 a\u00f1os, ella se pierde en el bosque de la monta\u00f1a que hay junto al pueblo y comienza a llorar desesperada por no saber c\u00f3mo salir de \u00e9l, hasta que se aparece ante ella Gin, un misterioso chico con una m\u00e1scara de zorro que resulta ser un \"y\u014dkai\", un esp\u00edritu que vive en ese bosque como muchos y que si es tocado por un humano, dejar\u00e1 de existir. Gracias a Gin, Hotaru consigue salir del bosque y encontrarse con su abuelo. A partir de ese momento, Gin y Hotaru pasan todos los d\u00edas de verano jugando dentro del bosque; no s\u00f3lo durante ese a\u00f1o, sino durante todos los veranos siguientes, desarrollando una fuerte amistad que con el paso de los a\u00f1os se transforma en amor el uno por el otro.",
@@ -7487,10 +7464,35 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 23,
+      "gridIndex": 22,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/HotarubiNoMoriE/master.m3u8",
       "createdAt": "2026-06-05T12:55:35.746Z",
       "updatedAt": "2026-06-05T12:55:35.746Z"
+    },
+    {
+      "id": "movie_282",
+      "type": "movie",
+      "title": "Jujutsu Kaisen 0",
+      "description": "Rika, amiga de la infancia de Yuta Okkotsu, muri\u00f3 en un accidente automovil\u00edstico. Su esp\u00edritu permanece con \u00e9l, m\u00e1s ya no es la dulce ni\u00f1a que \u00e9l conoc\u00eda. Se manifiesta como una entidad monstruosa y poderosa que lo protege ferozmente.",
+      "duration": "1h 45m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-12-24",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 23,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/JujutsuKaisen0/master.m3u8",
+      "createdAt": "2026-06-05T12:55:36.078Z",
+      "updatedAt": "2026-06-05T12:55:36.078Z"
     },
     {
       "id": "movie_283",
@@ -7513,37 +7515,12 @@
       ],
       "atlas": "D",
       "gridIndex": 24,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/JujutsuKaisen0/master.m3u8",
-      "createdAt": "2026-06-05T12:55:36.078Z",
-      "updatedAt": "2026-06-05T12:55:36.078Z"
-    },
-    {
-      "id": "movie_284",
-      "type": "movie",
-      "title": "Jujutsu Kaisen 0",
-      "description": "Rika, amiga de la infancia de Yuta Okkotsu, muri\u00f3 en un accidente automovil\u00edstico. Su esp\u00edritu permanece con \u00e9l, m\u00e1s ya no es la dulce ni\u00f1a que \u00e9l conoc\u00eda. Se manifiesta como una entidad monstruosa y poderosa que lo protege ferozmente.",
-      "duration": "1h 45m",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2021,
-      "releaseDate": "2021-12-24",
-      "genres": [
-        "Animation",
-        "Action",
-        "Fantasy"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 25,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/JujutsuKaisen0/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.143Z",
       "updatedAt": "2026-06-05T12:55:36.143Z"
     },
     {
-      "id": "movie_285",
+      "id": "movie_284",
       "type": "movie",
       "title": "Demon Slayer: Mugen Train La pel\u00edcula",
       "description": "Tanjiro Kamado y sus amigos de la Compa\u00f1\u00eda de Cazadores de Demonios (Kimetsu no Yaiba Corps), se unen con uno de los mejores espadachines de la compa\u00f1\u00eda, Kyojuro Rengoku, para investigar una misteriosa serie de desapariciones que han ocurrido dentro del \u201cTren Infinito\u201d. Poco saben que Enmu, uno de los miembros de las Doce Lunas Demon\u00edacas, tambi\u00e9n est\u00e1 a bordo y les ha preparado una trampa.",
@@ -7562,13 +7539,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 26,
+      "gridIndex": 25,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimetsuNoYaibaMovieMugenResshaHen/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.392Z",
       "updatedAt": "2026-06-05T12:55:36.392Z"
     },
     {
-      "id": "movie_286",
+      "id": "movie_285",
       "type": "movie",
       "title": "Your Name",
       "description": "",
@@ -7586,13 +7563,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 27,
+      "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimiNoNaWa/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.675Z",
       "updatedAt": "2026-06-05T12:55:36.675Z"
     },
     {
-      "id": "movie_287",
+      "id": "movie_286",
       "type": "movie",
       "title": "To Me, The One Who Loved You",
       "description": "",
@@ -7610,13 +7587,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 28,
+      "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimiWoAishitaHitoriNoBokuE/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.036Z",
       "updatedAt": "2026-06-05T12:55:37.036Z"
     },
     {
-      "id": "movie_288",
+      "id": "movie_287",
       "type": "movie",
       "title": "\u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240",
       "description": "",
@@ -7635,13 +7612,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 29,
+      "gridIndex": 28,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KumoNoMukouYakusokuNoBasho/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.541Z",
       "updatedAt": "2026-06-05T12:55:37.541Z"
     },
     {
-      "id": "movie_289",
+      "id": "movie_288",
       "type": "movie",
       "title": "One Piece Film: Red",
       "description": "Uta, la cantante m\u00e1s querida del mundo. Reconocida por ocultar su propia identidad cuando act\u00faa, su voz ha llegado a ser descrita como \"de otro mundo\". Ahora, por primera vez, Uta se revelar\u00e1 al mundo en un concierto en vivo. A medida que el lugar se llena con todo tipo de fan\u00e1ticos de Uta: piratas emocionados, la Armada observando de cerca y los Sombreros de Paja liderados por Luffy que simplemente vinieron a disfrutar de su actuaci\u00f3n sonora, la voz que todo el mundo ha estado esperando est\u00e1 a punto de resonar. La historia comienza con el impactante hecho de que ella es la hija de Shanks",
@@ -7661,13 +7638,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 30,
+      "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/OnePieceRed/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.755Z",
       "updatedAt": "2026-06-05T12:55:37.755Z"
     },
     {
-      "id": "movie_290",
+      "id": "movie_289",
       "type": "movie",
       "title": "RedLine",
       "description": "Cada cinco a\u00f1os se celebra la carrera de autos m\u00e1s grande y peligrosa del universo; JP piensa participar, pero deber\u00e1 enfrentar a la mafia, al Gobierno y al amor.",
@@ -7686,13 +7663,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 31,
+      "gridIndex": 30,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Redline_2009/master.m3u8",
       "createdAt": "2026-06-05T12:55:43.120Z",
       "updatedAt": "2026-06-05T12:55:43.120Z"
     },
     {
-      "id": "movie_291",
+      "id": "movie_290",
       "type": "movie",
       "title": "Suzume",
       "description": "Sin saberlo, le abri\u00f3 las puertas al caos. Ahora, Suzume, una chica de diecisiete a\u00f1os, trabaja codo a codo con un misterioso aliado para evitar que Jap\u00f3n sufra m\u00e1s calamidades.",
@@ -7712,13 +7689,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 32,
+      "gridIndex": 31,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Suzume/master.m3u8",
       "createdAt": "2026-06-05T12:55:44.902Z",
       "updatedAt": "2026-06-05T12:55:44.902Z"
     },
     {
-      "id": "movie_292",
+      "id": "movie_291",
       "type": "movie",
       "title": "El regreso del gato",
       "description": "Esta es la historia de Haru, una joven cuya suerte cambiar\u00e1 un d\u00eda al volver del instituto, cuando salvar\u00e1 a un gato de ser atropellado por un cami\u00f3n. Pero no es un gato com\u00fan, es Lune, el Pr\u00edncipe del Reino de los Gatos. En recompensa por su acci\u00f3n, Haru ser\u00e1 invitada a pasar un tiempo en el Reino de los Gatos, aunque no es lo que ella esperaba....",
@@ -7739,13 +7716,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 33,
+      "gridIndex": 32,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/elRegresoDelGato2002/master.m3u8",
       "createdAt": "2026-06-05T12:55:45.303Z",
       "updatedAt": "2026-06-05T12:55:45.303Z"
     },
     {
-      "id": "movie_293",
+      "id": "movie_292",
       "type": "movie",
       "title": "8 Minutos antes de morir",
       "description": "El capit\u00e1n Colter Stevens (Gyllenhaal), que participa en un programa experimental del gobierno para investigar un atentado terrorista, se despierta en la piel de un viajero del tiempo cuya misi\u00f3n es vivir una y otra vez el atentado a un tren hasta que consiga averiguar qui\u00e9n es el culpable. Una oficial de comunicaciones (Farmiga) guiar\u00e1 a Stevens en su viaje a trav\u00e9s del tiempo. En el tren el joven conoce a una viajera (Monaghan) por la que se sentir\u00e1 atra\u00eddo.",
@@ -7764,13 +7741,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 56,
+      "gridIndex": 55,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/8MinutosParaMorir/master.m3u8",
       "createdAt": "2026-06-06T04:10:58.501Z",
       "updatedAt": "2026-06-06T04:10:58.501Z"
     },
     {
-      "id": "movie_294",
+      "id": "movie_293",
       "type": "movie",
       "title": "Los Descendientes",
       "description": "Un reino id\u00edlico actual donde el ben\u00e9volo hijo adolescente del Rey Ad\u00e1n y la Reina Belle ofrece una oportunidad de redenci\u00f3n para los v\u00e1stagos problem\u00e1ticos de los villanos cl\u00e1sicos de Disney: Cruella De Vil (Carlos), Mal\u00e9fica (Mal), la Reina Malvada (Evvie) y Jafar (Jay).",
@@ -7790,13 +7767,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 57,
+      "gridIndex": 56,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosDescendientes/master.m3u8",
       "createdAt": "2026-06-06T04:12:34.337Z",
       "updatedAt": "2026-06-06T04:12:34.337Z"
     },
     {
-      "id": "movie_295",
+      "id": "movie_294",
       "type": "movie",
       "title": "RedLine",
       "description": "Cada cinco a\u00f1os se celebra la carrera de autos m\u00e1s grande y peligrosa del universo; JP piensa participar, pero deber\u00e1 enfrentar a la mafia, al Gobierno y al amor.",
@@ -7815,13 +7792,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 58,
+      "gridIndex": 57,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8",
       "createdAt": "2026-06-06T04:16:43.407Z",
       "updatedAt": "2026-06-06T04:16:43.407Z"
     },
     {
-      "id": "movie_296",
+      "id": "movie_295",
       "type": "movie",
       "title": "Jujutsu Kaisen 0",
       "description": "Rika, amiga de la infancia de Yuta Okkotsu, muri\u00f3 en un accidente automovil\u00edstico. Su esp\u00edritu permanece con \u00e9l, m\u00e1s ya no es la dulce ni\u00f1a que \u00e9l conoc\u00eda. Se manifiesta como una entidad monstruosa y poderosa que lo protege ferozmente.",
@@ -7840,13 +7817,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 59,
+      "gridIndex": 58,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JujutsuKaisen0/master.m3u8",
       "createdAt": "2026-06-06T05:06:33.028Z",
       "updatedAt": "2026-06-06T05:06:33.028Z"
     },
     {
-      "id": "movie_297",
+      "id": "movie_296",
       "type": "movie",
       "title": "Los Cazafantasmas",
       "description": "Los Drs. Venkman, Stantz y Epengler, son tres doctores en parapsicolog\u00eda que se quedan sin empleo tras quedar excluidos de una beca universitaria de investigaci\u00f3n. Entonces deciden formar la empresa \"Los Cazafantasmas\", dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la Gran Manzana ser\u00e1 el presagio de la llegada de un peligroso y poderoso demonio.",
@@ -7864,13 +7841,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 60,
+      "gridIndex": 59,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmas/master.m3u8",
       "createdAt": "2026-06-06T05:06:33.355Z",
       "updatedAt": "2026-06-06T05:06:33.355Z"
     },
     {
-      "id": "movie_298",
+      "id": "movie_297",
       "type": "movie",
       "title": "Parque Jur\u00e1sico",
       "description": "El multimillonario John Hammond tiene una idea para un espectacular parque tem\u00e1tico: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la \u00faltima tecnolog\u00eda en el desarrollo de DNA, los cient\u00edficos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en \u00e1mbar contenida en insectos que los mordieron hace millones de a\u00f1os. Los paleont\u00f3logos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problem\u00e1tico empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
@@ -7888,13 +7865,13 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 61,
+      "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JURASICKPARK1/master.m3u8",
       "createdAt": "2026-06-06T05:07:49.695Z",
       "updatedAt": "2026-06-06T05:07:49.695Z"
     },
     {
-      "id": "movie_299",
+      "id": "movie_298",
       "type": "movie",
       "title": "John Wick 3: Parabellum",
       "description": "Despu\u00e9s de matar a un miembro del misterioso gremio internacional de asesinos, la Mesa Alta, John Wick est\u00e1 excomulgado, pero los hombres y mujeres m\u00e1s despiadados del mundo esperan cada  uno su turno.",
@@ -7913,62 +7890,10 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 62,
+      "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Jhonwick3/master.m3u8",
       "createdAt": "2026-06-06T05:08:11.387Z",
       "updatedAt": "2026-06-06T05:08:11.387Z"
-    },
-    {
-      "id": "movie_300",
-      "type": "movie",
-      "title": "Las guerreras k-pop",
-      "description": "Cuando no est\u00e1n llenando estadios, las superestrellas del k\u2011pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
-      "duration": "1h 36m",
-      "rating": "PG",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2025-06-20",
-      "genres": [
-        "Fantasy",
-        "Music",
-        "Comedy",
-        "Animation"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 63,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/LasGuerrerasKPopMejorado/master.m3u8",
-      "createdAt": "2026-06-06T05:08:33.191Z",
-      "updatedAt": "2026-06-06T05:08:33.191Z"
-    },
-    {
-      "id": "movie_301",
-      "type": "movie",
-      "title": "Las guerreras k-pop",
-      "description": "Cuando no est\u00e1n llenando estadios, las superestrellas del k\u2011pop Rumi, Mira y Zoey usan sus superpoderes secretos para proteger a sus fans de amenazas sobrenaturales.",
-      "duration": "1h 36m",
-      "rating": "PG",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2025-06-20",
-      "genres": [
-        "Fantasy",
-        "Music",
-        "Comedy",
-        "Animation"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 64,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8",
-      "createdAt": "2026-06-06T22:06:02.780Z",
-      "updatedAt": "2026-06-06T22:06:02.780Z"
     },
     {
       "type": "series",
@@ -26616,7 +26541,7 @@
       "addedAt": "2026-05-08T01:02:22.449Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 53
+      "gridIndex": 52
     },
     {
       "type": "series",
@@ -26705,7 +26630,7 @@
       "addedAt": "2026-05-10T00:12:44.876Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 56
+      "gridIndex": 55
     },
     {
       "type": "series",
@@ -26835,7 +26760,7 @@
       "addedAt": "2026-05-10T00:19:38.171Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 57
+      "gridIndex": 56
     },
     {
       "type": "series",
@@ -27015,7 +26940,7 @@
       "addedAt": "2026-05-10T00:28:37.652Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 58
+      "gridIndex": 57
     },
     {
       "type": "series",
@@ -27085,7 +27010,7 @@
       "addedAt": "2026-05-10T00:33:07.125Z",
       "addedBy": "Admin",
       "atlas": "C",
-      "gridIndex": 59
+      "gridIndex": 58
     },
     {
       "id": "series_118",
@@ -27107,7 +27032,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 74,
+      "gridIndex": 73,
       "episodes": [
         {
           "id": "s01e01",
@@ -27190,7 +27115,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 75,
+      "gridIndex": 74,
       "episodes": [
         {
           "id": "s01e01",
@@ -27283,7 +27208,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 79,
+      "gridIndex": 78,
       "episodes": [
         {
           "id": "s05e01",
@@ -27395,7 +27320,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 80,
+      "gridIndex": 79,
       "episodes": [
         {
           "id": "s06e01",
@@ -27507,7 +27432,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 81,
+      "gridIndex": 80,
       "episodes": [
         {
           "id": "s07e01",
@@ -27620,7 +27545,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 82,
+      "gridIndex": 81,
       "episodes": [
         {
           "id": "s08e01",
@@ -27726,7 +27651,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 84,
+      "gridIndex": 83,
       "episodes": [
         {
           "id": "s09e01",
@@ -27760,7 +27685,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 108,
+      "gridIndex": 107,
       "episodes": [
         {
           "id": "s01e00",
@@ -27993,7 +27918,7 @@
         "language_Spanish"
       ],
       "atlas": "C",
-      "gridIndex": 109,
+      "gridIndex": 108,
       "episodes": [
         {
           "id": "s02e01",
@@ -28113,7 +28038,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 34,
+      "gridIndex": 33,
       "episodes": [
         {
           "id": "s01e01",
@@ -28228,7 +28153,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 35,
+      "gridIndex": 34,
       "episodes": [
         {
           "id": "s02e01",
@@ -28343,7 +28268,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 36,
+      "gridIndex": 35,
       "episodes": [
         {
           "id": "s03e01",
@@ -28458,7 +28383,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 37,
+      "gridIndex": 36,
       "episodes": [
         {
           "id": "s04e01",
@@ -28553,7 +28478,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 38,
+      "gridIndex": 37,
       "episodes": [
         {
           "id": "s01e01",
@@ -28637,7 +28562,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 39,
+      "gridIndex": 38,
       "episodes": [
         {
           "id": "s01e01",
@@ -28733,7 +28658,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 40,
+      "gridIndex": 39,
       "episodes": [
         {
           "id": "s01e01",
@@ -29020,7 +28945,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 41,
+      "gridIndex": 40,
       "episodes": [
         {
           "id": "s01e01",
@@ -29293,7 +29218,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 42,
+      "gridIndex": 41,
       "episodes": [
         {
           "id": "s03e01",
@@ -29416,7 +29341,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 43,
+      "gridIndex": 42,
       "episodes": [
         {
           "id": "s03e01",
@@ -29630,7 +29555,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 44,
+      "gridIndex": 43,
       "episodes": [
         {
           "id": "s04e01",
@@ -29753,7 +29678,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 45,
+      "gridIndex": 44,
       "episodes": [
         {
           "id": "s05e01",
@@ -29967,7 +29892,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 46,
+      "gridIndex": 45,
       "episodes": [
         {
           "id": "s06e01",
@@ -30135,7 +30060,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 47,
+      "gridIndex": 46,
       "episodes": [
         {
           "id": "s01e00",
@@ -30169,7 +30094,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 48,
+      "gridIndex": 47,
       "episodes": [
         {
           "id": "s03e01",
@@ -30470,7 +30395,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 49,
+      "gridIndex": 48,
       "episodes": [
         {
           "id": "s01e01",
@@ -30498,7 +30423,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 50,
+      "gridIndex": 49,
       "episodes": [
         {
           "id": "s01e01",
@@ -30574,7 +30499,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 51,
+      "gridIndex": 50,
       "episodes": [
         {
           "id": "s03e01",
@@ -30684,7 +30609,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 52,
+      "gridIndex": 51,
       "episodes": [
         {
           "id": "s02e01",
@@ -30789,7 +30714,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 53,
+      "gridIndex": 52,
       "episodes": [
         {
           "id": "s01e01",
@@ -30935,7 +30860,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 54,
+      "gridIndex": 53,
       "episodes": [
         {
           "id": "s01e01",
@@ -31019,7 +30944,7 @@
         "language_Spanish"
       ],
       "atlas": "D",
-      "gridIndex": 55,
+      "gridIndex": 54,
       "episodes": [
         {
           "id": "s08e01",
