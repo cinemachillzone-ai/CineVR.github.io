@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-13T20:51:48.491Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_074"
-  },
-  {
     "timestamp": "2026-04-13T20:57:56.268Z",
     "user": "Admin",
     "action": "ADD",
@@ -3139,5 +3133,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_304",
     "title": "John Wick 3: Parabellum"
+  },
+  {
+    "ts": "2026-06-06T05:08:46.438Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_305",
+    "title": "Las guerreras k-pop"
   }
 ]
