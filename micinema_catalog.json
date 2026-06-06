@@ -6809,12 +6809,12 @@
       "atlas": "C",
       "gridIndex": 83,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12MonosTmp/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12MonosTmp/master.m3u8",
       "createdAt": "2026-05-31T22:30:45.987Z",
-      "updatedAt": "2026-05-31T22:30:45.987Z"
+      "updatedAt": "2026-06-06T03:12:35.697Z"
     },
     {
       "id": "movie_220",
