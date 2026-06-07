@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:24:04.368Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_096"
-  },
-  {
     "timestamp": "2026-04-14T18:24:11.126Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3142,5 +3136,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_299",
     "title": "Las guerreras k-pop"
+  },
+  {
+    "ts": "2026-06-07T06:45:16.682Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_225",
+    "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
   }
 ]
