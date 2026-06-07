@@ -1,77 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T02:48:57.701Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_099"
-  },
-  {
-    "timestamp": "2026-04-14T03:01:21.578Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_087"
-  },
-  {
-    "timestamp": "2026-04-14T03:19:56.069Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_088"
-  },
-  {
-    "timestamp": "2026-04-14T03:20:11.203Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_087"
-  },
-  {
-    "timestamp": "2026-04-14T03:25:22.792Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_089"
-  },
-  {
-    "timestamp": "2026-04-14T03:28:15.371Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_090"
-  },
-  {
-    "timestamp": "2026-04-14T03:31:28.193Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_091"
-  },
-  {
-    "timestamp": "2026-04-14T03:41:12.077Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_092"
-  },
-  {
-    "timestamp": "2026-04-14T03:45:10.703Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_093"
-  },
-  {
-    "timestamp": "2026-04-14T03:57:13.978Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_094"
-  },
-  {
-    "timestamp": "2026-04-14T18:01:34.124Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_091"
-  },
-  {
-    "timestamp": "2026-04-14T18:20:34.415Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_095"
-  },
-  {
     "timestamp": "2026-04-14T18:24:04.368Z",
     "user": "Admin",
     "action": "ADD",
@@ -3207,5 +3135,12 @@
     "user": "Admin",
     "action": "DEEP_REPAIR",
     "targetId": "catalog"
+  },
+  {
+    "ts": "2026-06-07T06:44:39.820Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_299",
+    "title": "Las guerreras k-pop"
   }
 ]
