@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-02 04:55",
+  "lastUpdate": "2026-06-09 05:00",
   "patreonGlobal": false,
   "stars": [
     {
@@ -17,6 +17,10 @@
     {
       "user": "Barrio Fexa",
       "cellIndex": 3
+    },
+    {
+      "user": "Nath Kohai",
+      "cellIndex": 4
     }
   ],
   "patreons": [
@@ -44,10 +48,12 @@
       "id": "user_003",
       "user": "Nath Kohai",
       "link": " https://guns.lol/wolfdaver",
-      "role": "Pareja",
+      "role": "Cinefilo",
       "atlasIndex": 0,
       "cellIndex": 2,
-      "isStar": false
+      "isStar": true,
+      "starCellIndex": 4,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_004",
@@ -176,7 +182,7 @@
     },
     {
       "id": "user_017",
-      "user": "Slot 17",
+      "user": "King Karmen",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "atlasIndex": 0,
