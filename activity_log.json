@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:24:11.126Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_095"
-  },
-  {
     "timestamp": "2026-04-14T18:27:24.253Z",
     "user": "Admin",
     "action": "ADD",
@@ -3143,5 +3137,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_225",
     "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
+  },
+  {
+    "ts": "2026-06-09T08:46:07.283Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_258",
+    "title": "Robot salvaje"
   }
 ]
