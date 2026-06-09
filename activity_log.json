@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:27:33.263Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_097"
-  },
-  {
     "timestamp": "2026-04-14T18:31:20.992Z",
     "user": "Admin",
     "action": "ADD",
@@ -3145,5 +3139,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_300",
     "title": "Robot Salvaje 1080p-Lat"
+  },
+  {
+    "ts": "2026-06-09T22:04:55.320Z",
+    "actor": "carmesi",
+    "action": "EDIT_MOVIE",
+    "target": "movie_300",
+    "title": "Robot Salvaje"
   }
 ]
