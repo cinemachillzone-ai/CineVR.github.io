@@ -1,0 +1,355 @@
+{
+  "lastUpdate": "2026-06-09 04:45",
+  "patreonGlobal": false,
+  "stars": [
+    {
+      "user": "Sean F",
+      "cellIndex": 0
+    },
+    {
+      "user": "Akihide",
+      "cellIndex": 1
+    },
+    {
+      "user": "ForTodayDubs",
+      "cellIndex": 2
+    },
+    {
+      "user": "Barrio Fexa",
+      "cellIndex": 3
+    },
+    {
+      "user": "Nath Kohai",
+      "cellIndex": 4
+    }
+  ],
+  "patreons": [
+    {
+      "id": "user_001",
+      "user": "Sean F",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 0,
+      "isStar": true,
+      "starCellIndex": 0,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_002",
+      "user": "WDS\u72fc",
+      "link": "https://guns.lol/wolfdaver",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_003",
+      "user": "Nath Kohai",
+      "link": " https://guns.lol/wolfdaver",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 2,
+      "isStar": true,
+      "starCellIndex": 4,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_004",
+      "user": "Vodzka",
+      "link": "https://discord.gg/4gVCuSYP",
+      "role": "Familiar",
+      "atlasIndex": 0,
+      "cellIndex": 3,
+      "isStar": false
+    },
+    {
+      "id": "user_005",
+      "user": "Akihide",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 4,
+      "isStar": true,
+      "starCellIndex": 1,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_006",
+      "user": "ForTodayDubs",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 5,
+      "isStar": true,
+      "starCellIndex": 2,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_007",
+      "user": "P i e r r o t",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 6,
+      "isStar": false
+    },
+    {
+      "id": "user_008",
+      "user": "\u029a\u1d0d\u1d0f\u0274 \u1d04\u029c\u1d07\u0280\u0280\u028f\u025e",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Familiar",
+      "atlasIndex": 0,
+      "cellIndex": 7,
+      "isStar": false,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_009",
+      "user": "Yutaura",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 8,
+      "isStar": false
+    },
+    {
+      "id": "user_010",
+      "user": "Underharley",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 9,
+      "isStar": false
+    },
+    {
+      "id": "user_011",
+      "user": "Gaaratan",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cinefilo",
+      "atlasIndex": 0,
+      "cellIndex": 10,
+      "isStar": false,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_012",
+      "user": "Barrio Fexa",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 11,
+      "isStar": true,
+      "starCellIndex": 3,
+      "starAtlasIndex": 0
+    },
+    {
+      "id": "user_013",
+      "user": "SRHiggins",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 12,
+      "isStar": false
+    },
+    {
+      "id": "user_014",
+      "user": "shiromahi",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 13,
+      "isStar": false
+    },
+    {
+      "id": "user_015",
+      "user": "Kassyta",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Pareja",
+      "atlasIndex": 0,
+      "cellIndex": 14,
+      "isStar": false
+    },
+    {
+      "id": "user_016",
+      "user": "yamiyamero",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 15,
+      "isStar": false
+    },
+    {
+      "id": "user_017",
+      "user": "Slot 17",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 16,
+      "isStar": false
+    },
+    {
+      "id": "user_018",
+      "user": "Slot 18",
+      "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 17,
+      "isStar": false
+    },
+    {
+      "id": "user_019",
+      "user": "Slot 19",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 18,
+      "isStar": false
+    },
+    {
+      "id": "user_020",
+      "user": "Slot 20",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 19,
+      "isStar": false
+    },
+    {
+      "id": "user_021",
+      "user": "Slot 21",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 20,
+      "isStar": false
+    },
+    {
+      "id": "user_022",
+      "user": "Slot 22",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 21,
+      "isStar": false
+    },
+    {
+      "id": "user_023",
+      "user": "Slot 23",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 22,
+      "isStar": false
+    },
+    {
+      "id": "user_024",
+      "user": "Slot 24",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 23,
+      "isStar": false
+    },
+    {
+      "id": "user_025",
+      "user": "Slot 25",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 24,
+      "isStar": false
+    },
+    {
+      "id": "user_026",
+      "user": "Slot 26",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 25,
+      "isStar": false
+    },
+    {
+      "id": "user_027",
+      "user": "Slot 27",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 26,
+      "isStar": false
+    },
+    {
+      "id": "user_028",
+      "user": "Slot 28",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 27,
+      "isStar": false
+    },
+    {
+      "id": "user_029",
+      "user": "Slot 29",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 28,
+      "isStar": false
+    },
+    {
+      "id": "user_030",
+      "user": "Slot 30",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 29,
+      "isStar": false
+    },
+    {
+      "id": "user_031",
+      "user": "Slot 31",
+      "link": "https://patreon.com",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 30,
+      "isStar": false
+    },
+    {
+      "id": "user_032",
+      "user": "Natsux\u00ae",
+      "link": "",
+      "role": "Cine",
+      "atlasIndex": 0,
+      "cellIndex": 31,
+      "isStar": false
+    },
+    {
+      "id": "user_033",
+      "user": "MrDeckMacc",
+      "link": "",
+      "role": "Pareja",
+      "atlasIndex": 1,
+      "cellIndex": 0,
+      "isStar": false
+    },
+    {
+      "id": "user_034",
+      "user": "DandY_507",
+      "link": "",
+      "role": "Pareja",
+      "atlasIndex": 1,
+      "cellIndex": 1,
+      "isStar": false
+    },
+    {
+      "id": "user_035",
+      "user": "yamiyamero",
+      "link": "",
+      "role": "Cine",
+      "atlasIndex": 1,
+      "cellIndex": 2,
+      "isStar": false
+    }
+  ]
+}
