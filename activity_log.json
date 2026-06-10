@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:31:20.992Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_098"
-  },
-  {
     "timestamp": "2026-04-14T18:38:26.495Z",
     "user": "Admin",
     "action": "ADD",
@@ -3146,5 +3140,11 @@
     "action": "EDIT_MOVIE",
     "target": "movie_300",
     "title": "Robot Salvaje"
+  },
+  {
+    "ts": "2026-06-10T22:30:20.450Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 1681861
   }
 ]
