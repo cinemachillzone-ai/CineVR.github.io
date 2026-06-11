@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T20:34:57.093Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_103"
-  },
-  {
     "timestamp": "2026-04-16T20:37:27.530Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3158,5 +3152,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_312",
     "title": "Buenos días, Vietnam"
+  },
+  {
+    "ts": "2026-06-11T20:52:42.120Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_313",
+    "title": "Kung Fu Panda 2"
   }
 ]
