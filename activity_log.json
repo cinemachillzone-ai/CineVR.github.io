@@ -1,23 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:09:57.308Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_105"
-  },
-  {
-    "timestamp": "2026-04-16T21:13:13.022Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_106"
-  },
-  {
-    "timestamp": "2026-04-16T21:13:27.061Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_105"
-  },
-  {
     "timestamp": "2026-04-16T21:16:30.161Z",
     "user": "Admin",
     "action": "ADD",
@@ -3176,5 +3158,12 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "movie_308"
+  },
+  {
+    "ts": "2026-06-11T21:13:12.147Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_319",
+    "title": "Más rápido, más furioso"
   }
 ]
