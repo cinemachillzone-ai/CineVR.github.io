@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:44:32.334Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_100"
-  },
-  {
     "timestamp": "2026-04-14T18:46:09.041Z",
     "user": "Admin",
     "action": "ADD",
@@ -3148,5 +3142,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_302",
     "title": "Dulce y Amargo"
+  },
+  {
+    "ts": "2026-06-11T00:08:26.600Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_303",
+    "title": "Toy Story"
   }
 ]
