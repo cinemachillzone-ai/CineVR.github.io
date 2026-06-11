@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:38:26.495Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_099"
-  },
-  {
     "timestamp": "2026-04-14T18:44:07.701Z",
     "user": "Admin",
     "action": "ADD",
@@ -3146,5 +3140,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 1681861
+  },
+  {
+    "ts": "2026-06-11T00:04:10.046Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_301",
+    "title": "Black Clover: La espada del rey mago"
   }
 ]
