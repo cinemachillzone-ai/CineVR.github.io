@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "id": "ext_test_001",
+      "title": "Lofi Hip Hop Radio",
+      "description": "Música lofi para estudiar y relajarse. Stream en vivo 24/7.",
+      "year": 2024,
+      "duration": "Live",
+      "genres": ["Música", "Lofi"],
+      "languages": ["Instrumental"],
+      "atlas": "X1",
+      "gridIndex": 0,
+      "enabled": true
+    },
+    {
+      "id": "ext_test_002",
+      "title": "Big Buck Bunny",
+      "description": "Cortometraje animado de código abierto de la Blender Foundation.",
+      "year": 2008,
+      "duration": "9 min",
+      "genres": ["Animación", "Comedia"],
+      "languages": ["Sin diálogo"],
+      "atlas": "X1",
+      "gridIndex": 1,
+      "enabled": true
+    },
+    {
+      "id": "ext_test_003",
+      "title": "Tears of Steel",
+      "description": "Película sci-fi de código abierto. Robots, acción y drama.",
+      "year": 2012,
+      "duration": "12 min",
+      "genres": ["Sci-Fi", "Acción"],
+      "languages": ["English"],
+      "atlas": "X1",
+      "gridIndex": 2,
+      "enabled": true
+    },
+    {
+      "id": "ext_test_004",
+      "title": "Cosmos Laundromat",
+      "description": "Película de fantasía de código abierto de la Blender Foundation.",
+      "year": 2015,
+      "duration": "13 min",
+      "genres": ["Fantasía", "Drama"],
+      "languages": ["English"],
+      "atlas": "X1",
+      "gridIndex": 3,
+      "enabled": true
+    },
+    {
+      "id": "ext_test_005",
+      "title": "Elephant Dream",
+      "description": "Primera película de código abierto de la Blender Foundation.",
+      "year": 2006,
+      "duration": "10 min",
+      "genres": ["Animación", "Fantasía"],
+      "languages": ["English"],
+      "atlas": "X1",
+      "gridIndex": 4,
+      "enabled": true
+    }
+  ]
+}
