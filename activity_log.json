@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:01:32.390Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_104"
-  },
-  {
     "timestamp": "2026-04-16T21:09:57.308Z",
     "user": "Admin",
     "action": "ADD",
@@ -3163,5 +3157,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_317",
     "title": "Ratatouille"
+  },
+  {
+    "ts": "2026-06-11T20:58:21.240Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_318",
+    "title": "Mortal Kombat II"
   }
 ]
