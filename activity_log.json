@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:46:09.041Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_101"
-  },
-  {
     "timestamp": "2026-04-14T19:55:10.007Z",
     "user": "Admin",
     "action": "ADD",
@@ -3149,5 +3143,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_303",
     "title": "Toy Story"
+  },
+  {
+    "ts": "2026-06-11T00:09:02.279Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_304",
+    "title": "Toy Story 2"
   }
 ]
