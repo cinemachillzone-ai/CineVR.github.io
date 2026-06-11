@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T18:44:07.701Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_100"
-  },
-  {
     "timestamp": "2026-04-14T18:44:32.334Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3147,5 +3141,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_301",
     "title": "Black Clover: La espada del rey mago"
+  },
+  {
+    "ts": "2026-06-11T00:05:52.467Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_302",
+    "title": "Dulce y Amargo"
   }
 ]
