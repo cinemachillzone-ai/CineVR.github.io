@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T02:16:19.186Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_105"
-  },
-  {
     "timestamp": "2026-04-16T20:34:57.093Z",
     "user": "Admin",
     "action": "ADD",
@@ -3157,5 +3151,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_311",
     "title": "Arthur y los Minimoys"
+  },
+  {
+    "ts": "2026-06-11T20:48:52.900Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_312",
+    "title": "Buenos días, Vietnam"
   }
 ]
