@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 456
+    "catalogCount": 457
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -8423,6 +8423,32 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ForrestGump1994/master.m3u8",
       "createdAt": "2026-06-11T20:45:14.799Z",
       "updatedAt": "2026-06-11T20:45:14.799Z"
+    },
+    {
+      "id": "movie_311",
+      "type": "movie",
+      "title": "Arthur y los Minimoys",
+      "description": "Arthur, un niño de diez años, debe encontrar la forma de salvar la casa de su querida abuela de un desarrollador. Recordando la historia de su abuelo acerca de un tesoro, él entra a un reino de seres pequeños que viven en perfecta armonía con la naturaleza. Haciendo equipo con la Princesa Selenia y su hermano menor Betameche, Arthur va en busca del tesoro y, en el camino, descubre que su abuelo, que ha estado desaparecido por mucho tiempo, quizás ya no lo esté más.",
+      "duration": "1h 34m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2006-12-13",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 72,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ArthurYLosMinimoys/master.m3u8",
+      "createdAt": "2026-06-11T20:47:25.138Z",
+      "updatedAt": "2026-06-11T20:47:25.138Z"
     },
     {
       "type": "series",
