@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T20:16:01.141Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_104"
-  },
-  {
     "timestamp": "2026-04-15T19:17:04.641Z",
     "user": "Admin",
     "action": "ADD",
@@ -3153,5 +3147,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_307",
     "title": "Vengadores End Gamen"
+  },
+  {
+    "ts": "2026-06-11T09:28:32.810Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_308",
+    "title": "Backrooms: Sin salida"
   }
 ]
