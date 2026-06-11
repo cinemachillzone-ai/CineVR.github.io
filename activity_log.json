@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-14T20:11:25.124Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_104"
-  },
-  {
     "timestamp": "2026-04-14T20:16:01.141Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3152,5 +3146,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_306",
     "title": "Toy Story 4"
+  },
+  {
+    "ts": "2026-06-11T00:11:43.892Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_307",
+    "title": "Vengadores End Gamen"
   }
 ]
