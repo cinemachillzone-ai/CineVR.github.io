@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T20:57:37.289Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_005"
-  },
-  {
     "timestamp": "2026-04-16T20:57:42.793Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3161,5 +3155,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_315",
     "title": "Kung fu"
+  },
+  {
+    "ts": "2026-06-11T20:55:04.269Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_316",
+    "title": "La princesa Mononoke"
   }
 ]
