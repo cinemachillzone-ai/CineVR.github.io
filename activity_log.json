@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T20:37:27.530Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_003"
-  },
-  {
     "timestamp": "2026-04-16T20:43:23.503Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3159,5 +3153,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_313",
     "title": "Kung Fu Panda 2"
+  },
+  {
+    "ts": "2026-06-11T20:53:31.364Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_314",
+    "title": "Kung Fu Panda"
   }
 ]
