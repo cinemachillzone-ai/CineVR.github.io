@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:16:30.161Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_107"
-  },
-  {
     "timestamp": "2026-04-16T21:23:31.791Z",
     "user": "Admin",
     "action": "ADD",
@@ -3165,5 +3159,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_319",
     "title": "Más rápido, más furioso"
+  },
+  {
+    "ts": "2026-06-11T21:14:26.330Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_320",
+    "title": "Michael"
   }
 ]
