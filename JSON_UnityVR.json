@@ -8357,7 +8357,7 @@
       "duration": "1h 51m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-05-27",
       "genres": [
@@ -8372,7 +8372,8 @@
       "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BackroomsSinSalida2026/master.m3u8",
       "createdAt": "2026-06-11T09:28:20.539Z",
-      "updatedAt": "2026-06-11T09:28:20.539Z"
+      "updatedAt": "2026-06-11T09:28:20.539Z",
+      "tokenDuration": 0
     },
     {
       "id": "movie_309",
@@ -8612,7 +8613,7 @@
       "duration": "1h 50m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-05-06",
       "genres": [
@@ -8627,7 +8628,8 @@
       "gridIndex": 79,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MortalKombatII2026/master.m3u8",
       "createdAt": "2026-06-11T20:58:08.832Z",
-      "updatedAt": "2026-06-11T20:58:08.832Z"
+      "updatedAt": "2026-06-11T20:58:08.832Z",
+      "tokenDuration": 0
     },
     {
       "type": "series",
