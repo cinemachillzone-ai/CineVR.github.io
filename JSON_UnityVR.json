@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 463
+    "catalogCount": 464
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -8603,6 +8603,31 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ratatouille2007/master.m3u8",
       "createdAt": "2026-06-11T20:55:37.947Z",
       "updatedAt": "2026-06-11T20:55:37.947Z"
+    },
+    {
+      "id": "movie_318",
+      "type": "movie",
+      "title": "Mortal Kombat II",
+      "description": "Los campeones favoritos de los fans —ahora acompañados por el mismísimo Johnny Cage— se enfrentan entre sí en la batalla definitiva, sangrienta y sin reglas, para derrotar el oscuro dominio de Shao Kahn, que amenaza con destruir el Reino de la Tierra y a sus defensores.",
+      "duration": "1h 50m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-06",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 79,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MortalKombatII2026/master.m3u8",
+      "createdAt": "2026-06-11T20:58:08.832Z",
+      "updatedAt": "2026-06-11T20:58:08.832Z"
     },
     {
       "type": "series",
