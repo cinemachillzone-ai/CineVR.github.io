@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T20:57:42.793Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_004"
-  },
-  {
     "timestamp": "2026-04-16T21:01:32.390Z",
     "user": "Admin",
     "action": "ADD",
@@ -3162,5 +3156,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_316",
     "title": "La princesa Mononoke"
+  },
+  {
+    "ts": "2026-06-11T20:55:50.486Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_317",
+    "title": "Ratatouille"
   }
 ]
