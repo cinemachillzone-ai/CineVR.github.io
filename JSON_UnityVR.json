@@ -34643,62 +34643,86 @@
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_2745"
+          "slotId": "ep_2745",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E01/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e02",
           "title": "Capítulo 2",
-          "slotId": "ep_2746"
+          "slotId": "ep_2746",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E02/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e03",
           "title": "Capítulo 3",
-          "slotId": "ep_2747"
+          "slotId": "ep_2747",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E03/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e04",
           "title": "Capítulo 4",
-          "slotId": "ep_2748"
+          "slotId": "ep_2748",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E04/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e05",
           "title": "Capítulo 5",
-          "slotId": "ep_2749"
+          "slotId": "ep_2749",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E05/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e06",
           "title": "Capítulo 6",
-          "slotId": "ep_2750"
+          "slotId": "ep_2750",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E06/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e07",
           "title": "Capítulo 7",
-          "slotId": "ep_2751"
+          "slotId": "ep_2751",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E07/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e08",
           "title": "Capítulo 8",
-          "slotId": "ep_2752"
+          "slotId": "ep_2752",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E08/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e09",
           "title": "Capítulo 9",
-          "slotId": "ep_2753"
+          "slotId": "ep_2753",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E09/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_2754"
+          "slotId": "ep_2754",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E10/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_2755"
+          "slotId": "ep_2755",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E11/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_2756"
+          "slotId": "ep_2756",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E12/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.148Z"
         }
       ],
       "tokenDuration": "45",
