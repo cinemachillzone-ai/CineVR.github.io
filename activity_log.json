@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:42:31.140Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_111"
-  },
-  {
     "timestamp": "2026-04-16T21:48:47.883Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3170,5 +3164,13 @@
     "target": "series_150",
     "title": "Fukumenkei Noise",
     "eps_changed": 12
+  },
+  {
+    "ts": "2026-06-13T16:55:04.933Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_151",
+    "title": "Historia de un Crimen: La Búsqueda",
+    "episodes": 6
   }
 ]
