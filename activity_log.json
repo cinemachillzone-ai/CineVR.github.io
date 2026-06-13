@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:48:47.883Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_111"
-  },
-  {
     "timestamp": "2026-04-16T22:02:09.850Z",
     "user": "Admin",
     "action": "ADD",
@@ -3172,5 +3166,13 @@
     "target": "series_151",
     "title": "Historia de un Crimen: La Búsqueda",
     "episodes": 6
+  },
+  {
+    "ts": "2026-06-13T16:55:50.855Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_151",
+    "title": "Historia de un Crimen: La Búsqueda",
+    "eps_changed": 6
   }
 ]
