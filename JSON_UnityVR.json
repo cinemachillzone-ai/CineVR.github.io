@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 467
+    "catalogCount": 468
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -34731,6 +34731,116 @@
       "addedBy": "Admin",
       "atlas": "D",
       "gridIndex": 82
+    },
+    {
+      "id": "series_150",
+      "type": "series",
+      "title": "Fukumenkei Noise",
+      "description": "Nino Arisugawa es una chica que ama cantar y usa su voz para expresar sus emociones. Tras separarse de sus dos amigos de la infancia, Momo y Yuzu, promete seguir cantando para que algún día puedan volver a encontrarse. Años después, sus caminos vuelven a cruzarse a través de la música, el amor y los sueños.",
+      "year": 2017,
+      "releaseDate": "2017-04-11",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 83,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2757",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2758",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2759",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2760",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2761",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2762",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2763",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2764",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2765",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2766",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2767",
+          "title": "Capítulo 11",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2768",
+          "title": "Capítulo 12",
+          "master_url": "",
+          "createdAt": "2026-06-13T16:43:56.946Z"
+        }
+      ],
+      "createdAt": "2026-06-13T16:43:56.946Z",
+      "updatedAt": "2026-06-13T16:43:56.946Z"
     }
   ]
 }
