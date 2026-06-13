@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 466
+    "catalogCount": 467
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -34617,6 +34617,96 @@
       ],
       "createdAt": "2026-06-05T13:04:50.220Z",
       "updatedAt": "2026-06-05T13:04:50.220Z"
+    },
+    {
+      "type": "series",
+      "title": "Dance With Devils",
+      "description": "La vida de Ritsuka cambia al ser acorralada por demonios y vampiros que buscan el \"Grimorio Prohibido\".",
+      "duration": "",
+      "rating": "PG-13",
+      "quality": "None",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2026-06-13",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2745"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2746"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2747"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2748"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2749"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2750"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2751"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2752"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2753"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2754"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2755"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2756"
+        }
+      ],
+      "tokenDuration": "45",
+      "id": "series_149",
+      "addedAt": "2026-06-13T06:00:01.083Z",
+      "addedBy": "Admin",
+      "atlas": "D",
+      "gridIndex": 82
     }
   ]
 }
