@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T21:38:51.318Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_110"
-  },
-  {
     "timestamp": "2026-04-16T21:42:31.140Z",
     "user": "Admin",
     "action": "ADD",
@@ -3168,5 +3162,13 @@
     "target": "series_150",
     "title": "Fukumenkei Noise",
     "episodes": 12
+  },
+  {
+    "ts": "2026-06-13T16:49:51.361Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_150",
+    "title": "Fukumenkei Noise",
+    "eps_changed": 12
   }
 ]
