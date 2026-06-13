@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 469
+    "catalogCount": 470
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -34927,6 +34927,123 @@
       ],
       "createdAt": "2026-06-13T16:54:51.819Z",
       "updatedAt": "2026-06-13T16:55:38.333Z"
+    },
+    {
+      "id": "series_152",
+      "type": "series",
+      "title": "High Potential: Detective Inesperada",
+      "description": "Morgan Gillory es una madre soltera de tres hijos con una inteligencia extraordinaria (IQ de 160) que trabaja como limpiadora nocturna en el Departamento de Policía de Los Ángeles. Después de resolver accidentalmente un caso complejo gracias a su capacidad de observación, es reclutada como consultora para la división de crímenes mayores, donde forma una peculiar alianza con el detective Adam Karadec. Mientras ayuda a resolver asesinatos, también busca respuestas sobre la misteriosa desaparición de su expareja.",
+      "year": 2024,
+      "releaseDate": "2024-09-17",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 85,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2775",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2776",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2777",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2778",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2779",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2780",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2781",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2782",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2783",
+          "title": "Capítulo 9",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2784",
+          "title": "Capítulo 10",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2785",
+          "title": "Capítulo 11",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2786",
+          "title": "Capítulo 12",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2787",
+          "title": "Capítulo 13",
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        }
+      ],
+      "createdAt": "2026-06-13T17:02:53.410Z",
+      "updatedAt": "2026-06-13T17:02:53.410Z"
     }
   ]
 }
