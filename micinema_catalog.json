@@ -47273,6 +47273,165 @@
       },
       "createdAt": "2026-06-13T16:54:51.819Z",
       "updatedAt": "2026-06-13T16:55:38.333Z"
+    },
+    {
+      "id": "series_152",
+      "type": "series",
+      "title": "High Potential: Detective Inesperada",
+      "description": "Morgan Gillory es una madre soltera de tres hijos con una inteligencia extraordinaria (IQ de 160) que trabaja como limpiadora nocturna en el Departamento de Policía de Los Ángeles. Después de resolver accidentalmente un caso complejo gracias a su capacidad de observación, es reclutada como consultora para la división de crímenes mayores, donde forma una peculiar alianza con el detective Adam Karadec. Mientras ayuda a resolver asesinatos, también busca respuestas sobre la misteriosa desaparición de su expareja.",
+      "year": 2024,
+      "releaseDate": "2024-09-17",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 85,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2775",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2776",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E02/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2777",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E03/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2778",
+          "title": "Capítulo 4",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2779",
+          "title": "Capítulo 5",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2780",
+          "title": "Capítulo 6",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2781",
+          "title": "Capítulo 7",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2782",
+          "title": "Capítulo 8",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2783",
+          "title": "Capítulo 9",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2784",
+          "title": "Capítulo 10",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2785",
+          "title": "Capítulo 11",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2786",
+          "title": "Capítulo 12",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2787",
+          "title": "Capítulo 13",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-13T17:02:53.409Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-06-13T17:02:53.410Z",
+      "updatedAt": "2026-06-13T17:02:53.410Z"
     }
   ]
 }
