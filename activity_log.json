@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:02:09.850Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_112"
-  },
-  {
     "timestamp": "2026-04-16T22:05:33.879Z",
     "user": "Admin",
     "action": "ADD",
@@ -3174,5 +3168,13 @@
     "target": "series_151",
     "title": "Historia de un Crimen: La Búsqueda",
     "eps_changed": 6
+  },
+  {
+    "ts": "2026-06-13T17:03:05.280Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_152",
+    "title": "High Potential: Detective Inesperada",
+    "episodes": 13
   }
 ]
