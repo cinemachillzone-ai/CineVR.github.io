@@ -47477,27 +47477,30 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E01/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e02",
           "slotId": "ep_2789",
           "title": "Capítulo 2",
           "links": {
-            "default": ""
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E02/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2790",
           "title": "Capítulo 3",
           "links": {
-            "default": ""
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E03/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e04",
@@ -47507,7 +47510,8 @@
             "default": ""
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e05",
@@ -47517,7 +47521,8 @@
             "default": ""
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e06",
@@ -47527,7 +47532,8 @@
             "default": ""
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e07",
@@ -47537,7 +47543,8 @@
             "default": ""
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
           "id": "s01e08",
@@ -47547,14 +47554,15 @@
             "default": ""
           },
           "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z"
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-14T06:05:16.204Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-06-14T05:54:08.720Z",
-      "updatedAt": "2026-06-14T05:54:08.720Z"
+      "updatedAt": "2026-06-14T06:05:16.204Z"
     }
   ]
 }
