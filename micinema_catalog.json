@@ -47216,141 +47216,86 @@
         {
           "id": "s01e01",
           "slotId": "ep_2788",
-          "title": "Capítulo 1",
+          "title": "Cap�tulo 1",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E01/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E01/master.m3u8",
           "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T12:00:04.053Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e02",
           "slotId": "ep_2789",
-          "title": "Capítulo 2",
+          "title": "Cap�tulo 2",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E02/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E02/master.m3u8",
           "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T12:00:04.053Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2790",
-          "title": "Capítulo 3",
+          "title": "Cap�tulo 3",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E03/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E03/master.m3u8",
           "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T12:00:04.053Z"
-        },
-        {
-          "id": "s01e04",
-          "slotId": "ep_2791",
-          "title": "Capítulo 4",
-          "links": {
-            "default": ""
-          },
-          "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T06:05:16.204Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e04",
           "slotId": "ep_2796",
-          "title": "Capítulo 4",
+          "title": "Cap�tulo 4",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E04/master.m3u8",
             "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E04/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E04/master.m3u8",
-          "updatedAt": "2026-06-14T22:36:46.620Z"
-        },
-        {
-          "id": "s01e05",
-          "slotId": "ep_2792",
-          "title": "Capítulo 5",
-          "links": {
-            "default": ""
-          },
-          "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T06:05:16.204Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e05",
           "slotId": "ep_2797",
-          "title": "Capítulo 5",
+          "title": "Cap�tulo 5",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E05/master.m3u8",
             "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E05/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E05/master.m3u8",
-          "updatedAt": "2026-06-14T22:37:29.788Z"
-        },
-        {
-          "id": "s01e06",
-          "slotId": "ep_2793",
-          "title": "Capítulo 6",
-          "links": {
-            "default": ""
-          },
-          "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T06:05:16.204Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e06",
           "slotId": "ep_2798",
-          "title": "Capítulo 6",
+          "title": "Cap�tulo 6",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E06/master.m3u8",
             "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E06/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E06/master.m3u8",
-          "updatedAt": "2026-06-14T22:38:22.764Z"
-        },
-        {
-          "id": "s01e07",
-          "slotId": "ep_2794",
-          "title": "Capítulo 7",
-          "links": {
-            "default": ""
-          },
-          "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T06:05:16.204Z"
-        },
-        {
-          "id": "s01e08",
-          "slotId": "ep_2795",
-          "title": "Capítulo 8",
-          "links": {
-            "default": ""
-          },
-          "master_url": "",
-          "createdAt": "2026-06-14T05:54:08.720Z",
-          "updatedAt": "2026-06-14T06:05:16.204Z"
+          "updatedAt": "2026-06-14T23:53:38.460Z"
         },
         {
           "id": "s01e08",
           "slotId": "ep_2799",
-          "title": "Capítulo 8",
+          "title": "Cap�tulo 8",
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E08/master.m3u8",
             "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E08/master.m3u8"
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E08/master.m3u8",
-          "updatedAt": "2026-06-14T22:38:55.388Z"
+          "updatedAt": "2026-06-14T23:53:38.461Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-06-14T05:54:08.720Z",
-      "updatedAt": "2026-06-14T22:38:55.392Z"
+      "updatedAt": "2026-06-14T23:53:38.461Z"
     }
   ]
 }
