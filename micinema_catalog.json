@@ -9980,7 +9980,8 @@
       "releaseDate": "1969-03-15",
       "genres": [
         "Comedy",
-        "Drama"
+        "Drama",
+        "Romance"
       ],
       "languages": [
         "language_Spanish"
@@ -9992,7 +9993,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Romeoyjulieta1969/master.m3u8",
       "createdAt": "2026-06-14T23:19:09.944Z",
-      "updatedAt": "2026-06-14T23:19:09.944Z"
+      "updatedAt": "2026-06-14T23:47:48.523Z"
     },
     {
       "id": "movie_324",
