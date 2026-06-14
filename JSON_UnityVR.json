@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 470
+    "catalogCount": 471
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -35057,6 +35057,89 @@
       ],
       "createdAt": "2026-06-13T17:02:53.410Z",
       "updatedAt": "2026-06-13T17:02:53.410Z"
+    },
+    {
+      "id": "series_153",
+      "type": "series",
+      "title": "Hazbin Hotel",
+      "description": "Charlie Morningstar, la princesa del Infierno, sueña con rehabilitar demonios para reducir la sobrepoblación infernal y evitar las exterminaciones anuales. Para lograrlo, abre el Hazbin Hotel, un lugar donde los pecadores pueden intentar redimirse. Sin embargo, convencer a demonios violentos y caóticos de cambiar no será nada fácil, especialmente con la ayuda… o interferencia… del poderoso Alastor.",
+      "year": 2024,
+      "releaseDate": "2024-01-19",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Music",
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 86,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2788",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2789",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2790",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2791",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2792",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2793",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2794",
+          "title": "Capítulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2795",
+          "title": "Capítulo 8",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z"
+        }
+      ],
+      "createdAt": "2026-06-14T05:54:08.720Z",
+      "updatedAt": "2026-06-14T05:54:08.720Z"
     }
   ]
 }
