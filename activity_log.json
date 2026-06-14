@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:20:40.898Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_116"
-  },
-  {
     "timestamp": "2026-04-16T22:20:48.683Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3182,5 +3176,11 @@
     "action": "DELETE_MOVIE",
     "target": "movie_308",
     "title": "Backrooms: Sin salida"
+  },
+  {
+    "ts": "2026-06-14T22:36:58.452Z",
+    "actor": "yutamir",
+    "action": "INJECT_EPISODE",
+    "target": "series_153"
   }
 ]
