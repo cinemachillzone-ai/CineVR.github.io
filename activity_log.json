@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:41:45.615Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_122"
-  },
-  {
     "timestamp": "2026-04-16T22:42:59.767Z",
     "user": "Admin",
     "action": "ADD",
@@ -3185,5 +3179,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_324",
     "title": "Arco"
+  },
+  {
+    "ts": "2026-06-14T23:48:00.279Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_323",
+    "title": "The Secret Sex Lives of Romeo and Juliet"
   }
 ]
