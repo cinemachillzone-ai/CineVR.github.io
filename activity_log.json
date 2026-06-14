@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:43:13.030Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_120"
-  },
-  {
     "timestamp": "2026-04-16T23:02:10.149Z",
     "user": "Admin",
     "action": "ADD",
@@ -3188,5 +3182,13 @@
     "target": "series_110",
     "title": "Jujutsu Kaisen T2",
     "eps_changed": 23
+  },
+  {
+    "ts": "2026-06-14T23:52:39.137Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_107",
+    "title": "Invencible T1",
+    "eps_changed": 8
   }
 ]
