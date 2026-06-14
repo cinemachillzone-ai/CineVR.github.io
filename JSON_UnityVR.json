@@ -28855,347 +28855,186 @@
       "episodes": [
         {
           "id": "s02e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2149",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E01/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s02e01",
           "slotId": "ep_2150",
-          "title": "Capítulo 1",
+          "title": "Cap�tulo 1",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E01/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2151",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E02/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e02",
           "slotId": "ep_2152",
-          "title": "Capítulo 2",
+          "title": "Cap�tulo 2",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E02/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2153",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E03/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e03",
           "slotId": "ep_2154",
-          "title": "Capítulo 3",
+          "title": "Cap�tulo 3",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E03/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2155",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E04/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e04",
           "slotId": "ep_2156",
-          "title": "Capítulo 4",
+          "title": "Cap�tulo 4",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E04/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1436
-        },
-        {
-          "id": "s02e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2157",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E05/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e05",
           "slotId": "ep_2158",
-          "title": "Capítulo 5",
+          "title": "Cap�tulo 5",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E05/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2159",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E06/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e06",
           "slotId": "ep_2160",
-          "title": "Capítulo 6",
+          "title": "Cap�tulo 6",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E06/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2161",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E07/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e07",
           "slotId": "ep_2162",
-          "title": "Capítulo 7",
+          "title": "Cap�tulo 7",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E07/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2163",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E08/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e08",
           "slotId": "ep_2164",
-          "title": "Capítulo 8",
+          "title": "Cap�tulo 8",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E08/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e09",
-          "title": "Capítulo 9",
-          "slotId": "ep_2165",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E09/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e09",
           "slotId": "ep_2166",
-          "title": "Capítulo 9",
+          "title": "Cap�tulo 9",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E09/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e10",
-          "title": "Capítulo 10",
-          "slotId": "ep_2167",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E10/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e10",
           "slotId": "ep_2168",
-          "title": "Capítulo 10",
+          "title": "Cap�tulo 10",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E10/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1436
         },
         {
           "id": "s02e11",
-          "title": "Capítulo 11",
-          "slotId": "ep_2169",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E11/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e11",
           "slotId": "ep_2170",
-          "title": "Capítulo 11",
+          "title": "Cap�tulo 11",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E11/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e12",
-          "title": "Capítulo 12",
-          "slotId": "ep_2171",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E12/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e12",
           "slotId": "ep_2172",
-          "title": "Capítulo 12",
+          "title": "Cap�tulo 12",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E12/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e13",
-          "title": "Capítulo 13",
-          "slotId": "ep_2173",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E13/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e13",
           "slotId": "ep_2174",
-          "title": "Capítulo 13",
+          "title": "Cap�tulo 13",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E13/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e14",
-          "title": "Capítulo 14",
-          "slotId": "ep_2175",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E14/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e14",
           "slotId": "ep_2176",
-          "title": "Capítulo 14",
+          "title": "Cap�tulo 14",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E14/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e15",
-          "title": "Capítulo 15",
-          "slotId": "ep_2177",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E15/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e15",
           "slotId": "ep_2178",
-          "title": "Capítulo 15",
+          "title": "Cap�tulo 15",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E15/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e16",
-          "title": "Capítulo 16",
-          "slotId": "ep_2179",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E16/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e16",
           "slotId": "ep_2180",
-          "title": "Capítulo 16",
+          "title": "Cap�tulo 16",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E16/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
         },
         {
           "id": "s02e17",
-          "title": "Capítulo 17",
-          "slotId": "ep_2181",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E17/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e17",
           "slotId": "ep_2182",
-          "title": "Capítulo 17",
+          "title": "Cap�tulo 17",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E17/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1449
         },
         {
           "id": "s02e18",
-          "title": "Capítulo 18",
-          "slotId": "ep_2183",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E18/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e18",
           "slotId": "ep_2184",
-          "title": "Capítulo 18",
+          "title": "Cap�tulo 18",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E18/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
-        },
-        {
-          "id": "s02e19",
-          "title": "Capítulo 19",
-          "slotId": "ep_2185",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E19/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e19",
           "slotId": "ep_2186",
-          "title": "Capítulo 19",
+          "title": "Cap�tulo 19",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E19/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
         },
         {
           "id": "s02e20",
-          "title": "Capítulo 20",
-          "slotId": "ep_2187",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E20/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e20",
           "slotId": "ep_2188",
-          "title": "Capítulo 20",
+          "title": "Cap�tulo 20",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E20/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
-        },
-        {
-          "id": "s02e21",
-          "title": "Capítulo 21",
-          "slotId": "ep_2189",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E21/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e21",
           "slotId": "ep_2190",
-          "title": "Capítulo 21",
+          "title": "Cap�tulo 21",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E21/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
-        },
-        {
-          "id": "s02e22",
-          "title": "Capítulo 22",
-          "slotId": "ep_2191",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E22/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e22",
           "slotId": "ep_2192",
-          "title": "Capítulo 22",
+          "title": "Cap�tulo 22",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E22/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
         },
         {
           "id": "s02e23",
-          "title": "Capítulo 23",
-          "slotId": "ep_2193",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E23/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e23",
           "slotId": "ep_2194",
-          "title": "Capítulo 23",
+          "title": "Cap�tulo 23",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E23/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
         }
       ],
@@ -29204,7 +29043,7 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 19,
-      "updatedAt": "2026-06-05T13:04:06.092Z"
+      "updatedAt": "2026-06-14T23:52:06.868Z"
     },
     {
       "type": "series",
