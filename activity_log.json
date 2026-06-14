@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:08:19.608Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_114"
-  },
-  {
     "timestamp": "2026-04-16T22:08:28.282Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3178,5 +3172,13 @@
     "target": "series_153",
     "title": "Hazbin Hotel",
     "episodes": 8
+  },
+  {
+    "ts": "2026-06-14T06:05:29.444Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_153",
+    "title": "Hazbin Hotel",
+    "eps_changed": 8
   }
 ]
