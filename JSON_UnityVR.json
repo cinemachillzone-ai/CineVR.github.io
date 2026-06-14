@@ -28498,122 +28498,66 @@
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Capítulo 1",
-          "slotId": "ep_2114",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E01/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e01",
           "slotId": "ep_2115",
-          "title": "Capítulo 1",
+          "title": "Cap�tulo 1",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E01/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2851
         },
         {
           "id": "s01e02",
-          "title": "Capítulo 2",
-          "slotId": "ep_2116",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E02/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e02",
           "slotId": "ep_2117",
-          "title": "Capítulo 2",
+          "title": "Cap�tulo 2",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E02/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2668
         },
         {
           "id": "s01e03",
-          "title": "Capítulo 3",
-          "slotId": "ep_2118",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E03/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e03",
           "slotId": "ep_2119",
-          "title": "Capítulo 3",
+          "title": "Cap�tulo 3",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E03/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2534
         },
         {
           "id": "s01e04",
-          "title": "Capítulo 4",
-          "slotId": "ep_2120",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E04/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e04",
           "slotId": "ep_2121",
-          "title": "Capítulo 4",
+          "title": "Cap�tulo 4",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E04/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2689
         },
         {
           "id": "s01e05",
-          "title": "Capítulo 5",
-          "slotId": "ep_2122",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E05/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e05",
           "slotId": "ep_2123",
-          "title": "Capítulo 5",
+          "title": "Cap�tulo 5",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E05/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2779
         },
         {
           "id": "s01e06",
-          "title": "Capítulo 6",
-          "slotId": "ep_2124",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E06/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e06",
           "slotId": "ep_2125",
-          "title": "Capítulo 6",
+          "title": "Cap�tulo 6",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E06/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2692
         },
         {
           "id": "s01e07",
-          "title": "Capítulo 7",
-          "slotId": "ep_2126",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E07/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e07",
           "slotId": "ep_2127",
-          "title": "Capítulo 7",
+          "title": "Cap�tulo 7",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E07/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2915
         },
         {
           "id": "s01e08",
-          "title": "Capítulo 8",
-          "slotId": "ep_2128",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E08/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e08",
           "slotId": "ep_2129",
-          "title": "Capítulo 8",
+          "title": "Cap�tulo 8",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E08/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2687
         }
       ],
@@ -28622,7 +28566,7 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 3,
-      "updatedAt": "2026-06-05T13:04:49.845Z"
+      "updatedAt": "2026-06-14T23:52:26.754Z"
     },
     {
       "type": "series",
