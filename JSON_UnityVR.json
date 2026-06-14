@@ -35130,6 +35130,13 @@
           "updatedAt": "2026-06-14T06:05:16.204Z"
         },
         {
+          "id": "s01e05",
+          "slotId": "ep_2797",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E05/master.m3u8",
+          "updatedAt": "2026-06-14T22:37:29.788Z"
+        },
+        {
           "id": "s01e06",
           "slotId": "ep_2793",
           "title": "Capítulo 6",
@@ -35155,7 +35162,7 @@
         }
       ],
       "createdAt": "2026-06-14T05:54:08.720Z",
-      "updatedAt": "2026-06-14T22:36:46.626Z"
+      "updatedAt": "2026-06-14T22:37:29.794Z"
     }
   ]
 }
