@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:05:33.879Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_113"
-  },
-  {
     "timestamp": "2026-04-16T22:08:19.608Z",
     "user": "Admin",
     "action": "ADD",
@@ -3176,5 +3170,13 @@
     "target": "series_152",
     "title": "High Potential: Detective Inesperada",
     "episodes": 13
+  },
+  {
+    "ts": "2026-06-14T05:54:20.803Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_153",
+    "title": "Hazbin Hotel",
+    "episodes": 8
   }
 ]
