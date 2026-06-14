@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T23:02:10.149Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_124"
-  },
-  {
     "timestamp": "2026-04-16T23:03:18.143Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3190,5 +3184,13 @@
     "target": "series_107",
     "title": "Invencible T1",
     "eps_changed": 8
+  },
+  {
+    "ts": "2026-06-14T23:53:51.022Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_153",
+    "title": "Hazbin Hotel",
+    "eps_changed": 7
   }
 ]
