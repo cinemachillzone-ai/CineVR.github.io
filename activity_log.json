@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:42:59.767Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_123"
-  },
-  {
     "timestamp": "2026-04-16T22:43:13.030Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3186,5 +3180,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_323",
     "title": "The Secret Sex Lives of Romeo and Juliet"
+  },
+  {
+    "ts": "2026-06-14T23:52:18.934Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_110",
+    "title": "Jujutsu Kaisen T2",
+    "eps_changed": 23
   }
 ]
