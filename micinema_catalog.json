@@ -9568,36 +9568,6 @@
       "updatedAt": "2026-06-11T00:11:31.670Z"
     },
     {
-      "id": "movie_308",
-      "type": "movie",
-      "title": "Backrooms: Sin salida",
-      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
-      "duration": "1h 51m",
-      "rating": "R",
-      "quality": "HD",
-      "section": "recently_added",
-      "year": 2026,
-      "releaseDate": "2026-05-27",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 69,
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BackroomsSinSalida2026/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BackroomsSinSalida2026/master.m3u8"
-      },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BackroomsSinSalida2026/master.m3u8",
-      "createdAt": "2026-06-11T09:28:20.539Z",
-      "updatedAt": "2026-06-11T09:28:20.539Z",
-      "tokenDuration": 0
-    },
-    {
       "id": "movie_309",
       "type": "movie",
       "title": "Evangelion: 3.0+1.0 Tres veces una vez",
