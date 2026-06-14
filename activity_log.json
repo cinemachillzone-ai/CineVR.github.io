@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T22:18:15.049Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_115"
-  },
-  {
     "timestamp": "2026-04-16T22:20:40.898Z",
     "user": "Admin",
     "action": "ADD",
@@ -3181,5 +3175,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_321",
     "title": "La Leyenda Del Charro Negro"
+  },
+  {
+    "ts": "2026-06-14T22:22:32.796Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_308",
+    "title": "Backrooms: Sin salida"
   }
 ]
