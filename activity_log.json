@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T21:01:12.261Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_107"
-  },
-  {
     "timestamp": "2026-04-17T21:09:42.482Z",
     "user": "Admin",
     "action": "ADD",
@@ -3203,5 +3197,20 @@
     "action": "EDIT_MOVIE",
     "target": "movie_102",
     "title": "Los Vengadores"
+  },
+  {
+    "ts": "2026-06-15T01:23:47.938Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "movie_307",
+    "title": "Vengadores: Endgame",
+    "fields": [
+      "description",
+      "duration",
+      "rating",
+      "year",
+      "releaseDate",
+      "genres"
+    ]
   }
 ]
