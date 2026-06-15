@@ -8761,14 +8761,20 @@
       "id": "movie_325",
       "type": "movie",
       "title": "Dr Stone Ryuusui",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "Tras todo lo ocurrido Senku tiene claro su nuevo objetivo: descubrir qu� fue lo que gener� el rayo que convirti� a la humanidad en piedra. Para ello tiene que viajar al otro lado del planeta, y con los medios de la nueva era de piedra, solo puede hacerlo con barco. Es hora de buscar a un buen navegante que pueda llevarles hasta su destino.",
+      "duration": "0h 55m",
+      "rating": "TV-14",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2022,
+      "releaseDate": "2022-07-10",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Comedy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -8776,7 +8782,7 @@
       "gridIndex": 90,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DrStoneRyuusui/master.m3u8",
       "createdAt": "2026-06-15T00:03:04.452Z",
-      "updatedAt": "2026-06-15T00:03:04.452Z"
+      "updatedAt": "2026-06-15T00:20:10.171Z"
     },
     {
       "type": "series",
