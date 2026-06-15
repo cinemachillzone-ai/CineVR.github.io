@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T20:17:55.173Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_111"
-  },
-  {
     "timestamp": "2026-04-17T20:45:18.467Z",
     "user": "Admin",
     "action": "ADD",
@@ -3196,5 +3190,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_307",
     "title": "Vengadores Endgame"
+  },
+  {
+    "ts": "2026-06-15T00:46:28.176Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_307",
+    "title": "Vengadores: Endgame"
   }
 ]
