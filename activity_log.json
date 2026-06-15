@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T23:04:51.064Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_125"
-  },
-  {
     "timestamp": "2026-04-16T23:05:00.354Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3191,6 +3185,13 @@
     "ts": "2026-06-15T00:03:16.120Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
+    "target": "movie_325",
+    "title": "Dr Stone Ryuusui"
+  },
+  {
+    "ts": "2026-06-15T00:20:21.965Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
     "target": "movie_325",
     "title": "Dr Stone Ryuusui"
   }
