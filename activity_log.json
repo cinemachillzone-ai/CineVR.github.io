@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-16T23:03:18.143Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_124"
-  },
-  {
     "timestamp": "2026-04-16T23:04:51.064Z",
     "user": "Admin",
     "action": "ADD",
@@ -3192,5 +3186,12 @@
     "target": "series_153",
     "title": "Hazbin Hotel",
     "eps_changed": 7
+  },
+  {
+    "ts": "2026-06-15T00:03:16.120Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_325",
+    "title": "Dr Stone Ryuusui"
   }
 ]
