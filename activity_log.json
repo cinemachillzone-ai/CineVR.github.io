@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T20:50:37.918Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_127"
-  },
-  {
     "timestamp": "2026-04-17T20:50:43.651Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3200,5 +3194,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_105",
     "title": "Vengadores: Endgame"
+  },
+  {
+    "ts": "2026-06-15T01:20:39.677Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_103",
+    "title": "Vengadores: La era de Ultrón"
   }
 ]
