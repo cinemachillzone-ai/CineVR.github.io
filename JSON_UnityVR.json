@@ -2827,7 +2827,7 @@
       "type": "movie",
       "title": "Vengadores: La era de Ultrón",
       "description": "Tony Stark y Bruce Banner crean un programa de inteligencia artificial llamado Ultrón con la intención de proteger al mundo. Sin embargo, el sistema se vuelve consciente y decide que la mayor amenaza para la Tierra es la humanidad. Los Vengadores deberán reunirse nuevamente para detenerlo, enfrentando además nuevos aliados y enemigos.",
-      "duration": "",
+      "duration": "2h 21m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -2847,8 +2847,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 103,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
+      "updatedAt": "2026-06-15T01:20:27.676Z",
       "tokenDuration": 8575
     },
     {
