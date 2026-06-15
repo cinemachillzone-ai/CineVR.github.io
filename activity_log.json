@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T20:47:47.896Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_100"
-  },
-  {
     "timestamp": "2026-04-17T20:50:37.918Z",
     "user": "Admin",
     "action": "ADD",
@@ -3199,5 +3193,12 @@
     "target": "series_151",
     "title": "Historia de un crimen: La búsqueda",
     "eps_changed": 6
+  },
+  {
+    "ts": "2026-06-15T01:14:22.658Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_105",
+    "title": "Vengadores: Endgame"
   }
 ]
