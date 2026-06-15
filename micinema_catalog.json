@@ -8472,37 +8472,6 @@
       "updatedAt": "2026-06-05T12:52:22.520Z"
     },
     {
-      "id": "movie_272",
-      "type": "movie",
-      "title": "Vengadores Chiflados: La Era de Pultrón",
-      "description": "",
-      "duration": "0h 59m",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2016,
-      "releaseDate": "2016-09-24",
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Action",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 13,
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8"
-      },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
-      "createdAt": "2026-06-05T12:52:22.945Z",
-      "updatedAt": "2026-06-05T12:52:22.945Z",
-      "tokenDuration": 8479
-    },
-    {
       "id": "movie_273",
       "type": "movie",
       "title": "Volver al Futuro 2",
