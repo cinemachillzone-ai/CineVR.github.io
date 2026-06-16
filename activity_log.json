@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:50:03.641Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_111"
-  },
-  {
     "timestamp": "2026-04-22T00:50:30.938Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3257,5 +3251,13 @@
     "target": "ep_2801",
     "series": "series_153",
     "title": "Capítulo 9"
+  },
+  {
+    "ts": "2026-06-16T21:55:29.665Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_153",
+    "title": "Hazbin Hotel",
+    "eps_changed": 9
   }
 ]
