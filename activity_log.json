@@ -1,23 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:50:30.938Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_111"
-  },
-  {
-    "timestamp": "2026-04-22T00:50:36.438Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_111"
-  },
-  {
-    "timestamp": "2026-04-22T01:33:45.262Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_110"
-  },
-  {
     "timestamp": "2026-04-22T01:34:14.354Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3271,5 +3253,13 @@
     "user": "Admin",
     "action": "EDIT",
     "targetId": "series_153"
+  },
+  {
+    "ts": "2026-06-16T22:16:00.323Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_153",
+    "title": "Hazbin Hotel",
+    "eps_changed": 9
   }
 ]
