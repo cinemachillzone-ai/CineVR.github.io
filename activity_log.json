@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:12:49.402Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_136"
-  },
-  {
     "timestamp": "2026-04-19T23:23:12.338Z",
     "user": "Admin",
     "action": "ADD",
@@ -3227,5 +3221,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_340",
     "title": "Horizonte profundo"
+  },
+  {
+    "ts": "2026-06-16T04:15:09.270Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_341",
+    "title": "It (Eso)"
   }
 ]
