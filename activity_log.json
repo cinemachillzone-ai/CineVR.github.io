@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:28:15.288Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_150"
-  },
-  {
     "timestamp": "2026-04-22T00:30:29.500Z",
     "user": "Admin",
     "action": "ADD",
@@ -3251,5 +3245,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_363",
     "title": "El Imperio contraataca"
+  },
+  {
+    "ts": "2026-06-16T21:30:42.038Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_364",
+    "title": "Star Wars: El despertar de la fuerza"
   }
 ]
