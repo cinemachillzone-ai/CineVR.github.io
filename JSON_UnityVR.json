@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 481
+    "catalogCount": 482
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -8932,6 +8932,31 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibrodelaVida2014/master.m3u8",
       "createdAt": "2026-06-16T02:11:12.774Z",
       "updatedAt": "2026-06-16T02:11:12.774Z"
+    },
+    {
+      "id": "movie_334",
+      "type": "movie",
+      "title": "Aliens: El Regreso",
+      "description": "La teniente Ripley regresa al planeta alienígena LV-426 con un equipo de marines para investigar la desaparición de una colonia. Pronto descubren que están en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra estas criaturas y la corrupta Corporación Weyland-Yutani.",
+      "duration": "2h 17m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1986,
+      "releaseDate": "1986-07-18",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 97,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/aliensElRegreso1986/master.m3u8",
+      "createdAt": "2026-06-16T02:13:33.934Z",
+      "updatedAt": "2026-06-16T02:13:33.934Z"
     },
     {
       "type": "series",
