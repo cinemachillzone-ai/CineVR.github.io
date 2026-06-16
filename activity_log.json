@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:23:01.549Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_149"
-  },
-  {
     "timestamp": "2026-04-22T00:23:07.339Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3249,5 +3243,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_361",
     "title": "El regreso del Jedi"
+  },
+  {
+    "ts": "2026-06-16T21:28:30.426Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_362",
+    "title": "La guerra de las galaxias"
   }
 ]
