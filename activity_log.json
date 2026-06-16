@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:00:24.964Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_109"
-  },
-  {
     "timestamp": "2026-04-19T23:02:45.127Z",
     "user": "Admin",
     "action": "ADD",
@@ -3223,5 +3217,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_336",
     "title": "Juego de gemelas"
+  },
+  {
+    "ts": "2026-06-16T04:05:36.412Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_337",
+    "title": "El sueño de Walt"
   }
 ]
