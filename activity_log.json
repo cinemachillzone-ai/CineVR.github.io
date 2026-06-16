@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T00:24:44.801Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_143"
-  },
-  {
     "timestamp": "2026-04-21T05:28:15.561Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3236,5 +3230,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_349",
     "title": "Una aventura extraordinaria"
+  },
+  {
+    "ts": "2026-06-16T04:26:11.437Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_350",
+    "title": "Sin City: La Ciudad del Pecado"
   }
 ]
