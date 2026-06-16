@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T21:59:17.907Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_055"
-  },
-  {
     "timestamp": "2026-04-21T22:07:56.921Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3239,5 +3233,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_352",
     "title": "Relatos salvajes"
+  },
+  {
+    "ts": "2026-06-16T04:31:55.009Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_353",
+    "title": "Show Girls"
   }
 ]
