@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-17T21:09:42.482Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_108"
-  },
-  {
     "timestamp": "2026-04-18T23:35:40.299Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3212,5 +3206,12 @@
       "releaseDate",
       "genres"
     ]
+  },
+  {
+    "ts": "2026-06-16T02:02:10.608Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_326",
+    "title": "Coco"
   }
 ]
