@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T00:22:15.942Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_142"
-  },
-  {
     "timestamp": "2026-04-20T00:24:44.801Z",
     "user": "Admin",
     "action": "ADD",
@@ -3235,5 +3229,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_348",
     "title": "Sólo un sueño"
+  },
+  {
+    "ts": "2026-06-16T04:23:57.873Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_349",
+    "title": "Una aventura extraordinaria"
   }
 ]
