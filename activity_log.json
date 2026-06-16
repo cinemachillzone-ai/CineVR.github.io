@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:23:12.338Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_137"
-  },
-  {
     "timestamp": "2026-04-19T23:26:15.992Z",
     "user": "Admin",
     "action": "ADD",
@@ -3228,5 +3222,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_341",
     "title": "It (Eso)"
+  },
+  {
+    "ts": "2026-06-16T04:15:39.700Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_342",
+    "title": "Huérfanos de Brooklyn"
   }
 ]
