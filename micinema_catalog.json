@@ -10301,6 +10301,34 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/juegodegemelas1998/master.m3u8",
       "createdAt": "2026-06-16T04:02:50.473Z",
       "updatedAt": "2026-06-16T04:02:50.473Z"
+    },
+    {
+      "id": "movie_337",
+      "type": "movie",
+      "title": "El sueño de Walt",
+      "description": "Durante catorce años, Walt Disney intentó sin descanso que la escritora australiana P.L. Travers le cediera los derechos cinematográficos de su primera y más popular novela, 'Mary Poppins', que finalmente fue llevada a la gran pantalla en 1964.",
+      "duration": "2h 06m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-11-29",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 100,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elsuenodewalt2013/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elsuenodewalt2013/master.m3u8",
+      "createdAt": "2026-06-16T04:05:24.330Z",
+      "updatedAt": "2026-06-16T04:05:24.330Z"
     }
   ],
   "series": [
