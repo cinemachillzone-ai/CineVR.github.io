@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T01:54:54.302Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_130"
-  },
-  {
     "timestamp": "2026-04-19T01:56:35.224Z",
     "user": "Admin",
     "action": "ADD",
@@ -3218,5 +3212,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_331",
     "title": "It (Eso)"
+  },
+  {
+    "ts": "2026-06-16T02:10:27.351Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_332",
+    "title": "Corazón Valiente"
   }
 ]
