@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T01:50:17.668Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_109"
-  },
-  {
     "timestamp": "2026-04-19T01:52:48.871Z",
     "user": "Admin",
     "action": "ADD",
@@ -3216,5 +3210,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_329",
     "title": "Alien: El Octavo Pasajero"
+  },
+  {
+    "ts": "2026-06-16T02:05:23.914Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_330",
+    "title": "Alien: La resurrección"
   }
 ]
