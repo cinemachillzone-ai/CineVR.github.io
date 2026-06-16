@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T00:20:29.731Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_141"
-  },
-  {
     "timestamp": "2026-04-20T00:22:15.942Z",
     "user": "Admin",
     "action": "ADD",
@@ -3234,5 +3228,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_347",
     "title": "Mi Amigo Robot"
+  },
+  {
+    "ts": "2026-06-16T04:22:53.224Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_348",
+    "title": "Sólo un sueño"
   }
 ]
