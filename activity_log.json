@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:02:45.127Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_110"
-  },
-  {
     "timestamp": "2026-04-19T23:05:02.264Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3224,5 +3218,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_337",
     "title": "El sueño de Walt"
+  },
+  {
+    "ts": "2026-06-16T04:06:15.376Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_338",
+    "title": "La La Land: Una historia de amor"
   }
 ]
