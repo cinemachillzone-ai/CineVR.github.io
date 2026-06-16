@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T01:52:48.871Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_129"
-  },
-  {
     "timestamp": "2026-04-19T01:54:54.302Z",
     "user": "Admin",
     "action": "ADD",
@@ -3217,5 +3211,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_330",
     "title": "Alien: La resurrección"
+  },
+  {
+    "ts": "2026-06-16T02:06:16.184Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_331",
+    "title": "It (Eso)"
   }
 ]
