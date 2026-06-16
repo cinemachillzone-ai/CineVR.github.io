@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:30:29.500Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_151"
-  },
-  {
     "timestamp": "2026-04-22T00:30:35.024Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3252,5 +3246,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_364",
     "title": "Star Wars: El despertar de la fuerza"
+  },
+  {
+    "ts": "2026-06-16T21:42:10.433Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_341",
+    "title": "It (Eso) 1990"
   }
 ]
