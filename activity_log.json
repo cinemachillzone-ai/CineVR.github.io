@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:17:29.202Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_146"
-  },
-  {
     "timestamp": "2026-04-22T00:19:42.853Z",
     "user": "Admin",
     "action": "ADD",
@@ -3243,6 +3237,13 @@
     "ts": "2026-06-16T06:01:23.447Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
+    "target": "movie_358",
+    "title": "Inthum"
+  },
+  {
+    "ts": "2026-06-16T08:25:40.087Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
     "target": "movie_358",
     "title": "Inthum"
   }
