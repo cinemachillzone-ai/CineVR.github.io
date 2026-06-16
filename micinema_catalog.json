@@ -9994,6 +9994,35 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DrStoneRyuusui/master.m3u8",
       "createdAt": "2026-06-15T00:03:04.452Z",
       "updatedAt": "2026-06-15T00:20:10.171Z"
+    },
+    {
+      "id": "movie_326",
+      "type": "movie",
+      "title": "Coco",
+      "description": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de eventos. En el camino, se encuentra con el encantador y tramposo Héctor. Juntos, realizan un viaje extraordinario para descubrir la historia real detrás de la familia de Miguel.",
+      "duration": "1h 49m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-10-27",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 105,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/coco2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/coco2017/master.m3u8",
+      "createdAt": "2026-06-16T02:01:57.417Z",
+      "updatedAt": "2026-06-16T02:01:57.417Z"
     }
   ],
   "series": [
