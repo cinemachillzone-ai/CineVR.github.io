@@ -48338,6 +48338,16 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E08/master.m3u8",
           "updatedAt": "2026-06-14T23:53:38.461Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2800",
+          "title": "Capítulo 8",
+          "links": {
+            "default": ""
+          },
+          "master_url": "",
+          "createdAt": "2026-06-16T21:47:51.370Z"
         }
       ],
       "links": {
