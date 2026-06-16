@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T01:56:35.224Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_131"
-  },
-  {
     "timestamp": "2026-04-19T01:58:21.580Z",
     "user": "Admin",
     "action": "ADD",
@@ -3219,5 +3213,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_332",
     "title": "Corazón Valiente"
+  },
+  {
+    "ts": "2026-06-16T02:12:10.575Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_333",
+    "title": "El Libro de la Vida"
   }
 ]
