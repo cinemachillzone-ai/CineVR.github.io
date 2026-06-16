@@ -3259,5 +3259,17 @@
     "target": "series_153",
     "title": "Hazbin Hotel",
     "eps_changed": 9
+  },
+  {
+    "timestamp": "2026-06-16T22:11:22.632Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_153"
+  },
+  {
+    "timestamp": "2026-06-16T22:15:54.763Z",
+    "user": "Admin",
+    "action": "EDIT",
+    "targetId": "series_153"
   }
 ]

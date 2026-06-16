@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 467
+    "catalogCount": 512
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -2803,7 +2803,7 @@
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2015,
+      "year": 2012,
       "releaseDate": "2026-04-16",
       "genres": [
         "Action",
@@ -2820,14 +2820,14 @@
       "atlas": "A",
       "gridIndex": 102,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-06-15T01:22:45.417Z",
       "tokenDuration": 8575
     },
     {
       "type": "movie",
       "title": "Vengadores: La era de Ultr\u00f3n",
       "description": "Tony Stark y Bruce Banner crean un programa de inteligencia artificial llamado Ultr\u00f3n con la intenci\u00f3n de proteger al mundo. Sin embargo, el sistema se vuelve consciente y decide que la mayor amenaza para la Tierra es la humanidad. Los Vengadores deber\u00e1n reunirse nuevamente para detenerlo, enfrentando adem\u00e1s nuevos aliados y enemigos.",
-      "duration": "",
+      "duration": "2h 21m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -2847,8 +2847,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 103,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
+      "updatedAt": "2026-06-15T01:20:27.676Z",
       "tokenDuration": 8575
     },
     {
@@ -2878,34 +2878,6 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.231Z",
       "tokenDuration": 8962
-    },
-    {
-      "type": "movie",
-      "title": "Vengadores: Endgame",
-      "description": "Despu\u00e9s de los devastadores eventos causados por Thanos, los Vengadores que sobrevivieron deben encontrar una forma de revertir lo ocurrido. Para lograrlo, idean un plan arriesgado que implica viajar en el tiempo y recuperar las Gemas del Infinito, enfrentando sacrificios y tomando decisiones que cambiar\u00e1n sus vidas para siempre.",
-      "duration": "",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2019,
-      "releaseDate": "2026-04-16",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_105",
-      "addedAt": "2026-04-16T22:08:18.684Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 105,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 8575
     },
     {
       "type": "movie",
@@ -7422,33 +7394,6 @@
       "updatedAt": "2026-06-05T12:52:22.520Z"
     },
     {
-      "id": "movie_272",
-      "type": "movie",
-      "title": "Vengadores Chiflados: La Era de Pultr\u00f3n",
-      "description": "",
-      "duration": "0h 59m",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2016,
-      "releaseDate": "2016-09-24",
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Action",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 13,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
-      "createdAt": "2026-06-05T12:52:22.945Z",
-      "updatedAt": "2026-06-05T12:52:22.945Z",
-      "tokenDuration": 8479
-    },
-    {
       "id": "movie_273",
       "type": "movie",
       "title": "Volver al Futuro 2",
@@ -8331,15 +8276,19 @@
     {
       "id": "movie_307",
       "type": "movie",
-      "title": "Vengadores End Gamen",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "title": "Vengadores: Endgame",
+      "description": "Despu\u00e9s de los devastadores eventos de los Vengadores: Infinity War (2018), el universo est\u00e1 en ruinas. Con la ayuda de los aliados restantes, los Vengadores se re\u00fanen una vez m\u00e1s para revertir las acciones de Thanos y restaurar el equilibrio del universo.",
+      "duration": "3h 00m",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2019,
+      "releaseDate": "2019-04-24",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Action"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -8347,33 +8296,7 @@
       "gridIndex": 68,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEndGamen/master.m3u8",
       "createdAt": "2026-06-11T00:11:31.670Z",
-      "updatedAt": "2026-06-11T00:11:31.670Z"
-    },
-    {
-      "id": "movie_308",
-      "type": "movie",
-      "title": "Backrooms: Sin salida",
-      "description": "Una extra\u00f1a puerta aparece en el s\u00f3tano de una exposici\u00f3n de muebles. Cuando el paciente de una terapeuta desaparece en una dimensi\u00f3n m\u00e1s all\u00e1 de la realidad, ella deber\u00e1 adentrarse en lo desconocido para salvarlo.",
-      "duration": "1h 51m",
-      "rating": "R",
-      "quality": "HD",
-      "section": "recently_added",
-      "year": 2026,
-      "releaseDate": "2026-05-27",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 69,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BackroomsSinSalida2026/master.m3u8",
-      "createdAt": "2026-06-11T09:28:20.539Z",
-      "updatedAt": "2026-06-11T09:28:20.539Z",
-      "tokenDuration": 0
+      "updatedAt": "2026-06-15T01:23:33.990Z"
     },
     {
       "id": "movie_309",
@@ -8679,6 +8602,1097 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael2026/master.m3u8",
       "createdAt": "2026-06-11T21:14:11.464Z",
       "updatedAt": "2026-06-11T21:14:11.464Z"
+    },
+    {
+      "id": "movie_321",
+      "type": "movie",
+      "title": "La Leyenda Del Charro Negro",
+      "description": "Despu\u00e9s de haber liberado al Chupacabras, Leo San Juan decide que es tiempo de regresar junto con su hermano Nando a casa de su abuela. A mitad del camino, el Charro Negro logra confundir a Leo, y gracias a eso, una ni\u00f1a inocente es transportada al inframundo. Leo se ve forzado a reparar el da\u00f1o. Sus amigos ir\u00e1n a ayudarlo y saldr\u00e1n de ah\u00ed lo antes posible. Pero no es una coincidencia que el Charro haya decidido involucrar a Leo, ya que sus intenciones van m\u00e1s all\u00e1 de conseguir un alma nueva...",
+      "duration": "1h 25m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-01-19",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Action",
+        "Family",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 87,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendadelCharroNegro2018/master.m3u8",
+      "createdAt": "2026-06-14T22:00:15.442Z",
+      "updatedAt": "2026-06-14T22:00:15.442Z"
+    },
+    {
+      "id": "movie_322",
+      "type": "movie",
+      "title": "Tetris",
+      "description": "Basada en la historia real del comercial de videojuegos estadounidense Henk Rogers y su descubrimiento del Tetris en 1988. Cuando se dispone a hacer que el juego sea disponible en el mundo, se mete en una peligrosa red de mentiras y corrupci\u00f3n que hay detr\u00e1s de la Cortina de Hierro.",
+      "duration": "1h 57m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-03-15",
+      "genres": [
+        "Thriller",
+        "History",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 69,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Tetris/master.m3u8",
+      "createdAt": "2026-06-14T22:41:33.194Z",
+      "updatedAt": "2026-06-14T22:41:33.194Z"
+    },
+    {
+      "id": "movie_323",
+      "type": "movie",
+      "title": "The Secret Sex Lives of Romeo and Juliet",
+      "description": "",
+      "duration": "1h 36m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1969,
+      "releaseDate": "1969-03-15",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 88,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Romeoyjulieta1969/master.m3u8",
+      "createdAt": "2026-06-14T23:19:09.944Z",
+      "updatedAt": "2026-06-14T23:47:48.523Z"
+    },
+    {
+      "id": "movie_324",
+      "type": "movie",
+      "title": "Arco",
+      "description": "En el a\u00f1o 2075, Iris, una ni\u00f1a de 10 a\u00f1os, ve caer del cielo a un misterioso ni\u00f1o con un traje de arco\u00edris. Es Arco. Iris lo acoger\u00e1 y lo ayudar\u00e1 por todos los medios posibles a volver a su hogar.",
+      "duration": "1h 22m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-10-22",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 89,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Arco2025BDLatino/master.m3u8",
+      "createdAt": "2026-06-14T23:41:17.693Z",
+      "updatedAt": "2026-06-14T23:41:17.693Z"
+    },
+    {
+      "id": "movie_325",
+      "type": "movie",
+      "title": "Dr Stone Ryuusui",
+      "description": "Tras todo lo ocurrido Senku tiene claro su nuevo objetivo: descubrir qu\ufffd fue lo que gener\ufffd el rayo que convirti\ufffd a la humanidad en piedra. Para ello tiene que viajar al otro lado del planeta, y con los medios de la nueva era de piedra, solo puede hacerlo con barco. Es hora de buscar a un buen navegante que pueda llevarles hasta su destino.",
+      "duration": "0h 55m",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-07-10",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 90,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DrStoneRyuusui/master.m3u8",
+      "createdAt": "2026-06-15T00:03:04.452Z",
+      "updatedAt": "2026-06-15T00:20:10.171Z"
+    },
+    {
+      "id": "movie_326",
+      "type": "movie",
+      "title": "Coco",
+      "description": "A pesar de la desconcertante prohibici\u00f3n de la generaci\u00f3n de m\u00fasica de su familia, Miguel sue\u00f1a con convertirse en un m\u00fasico consumado como su \u00eddolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de eventos. En el camino, se encuentra con el encantador y tramposo H\u00e9ctor. Juntos, realizan un viaje extraordinario para descubrir la historia real detr\u00e1s de la familia de Miguel.",
+      "duration": "1h 49m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-10-27",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 105,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/coco2017/master.m3u8",
+      "createdAt": "2026-06-16T02:01:57.417Z",
+      "updatedAt": "2026-06-16T02:01:57.417Z"
+    },
+    {
+      "id": "movie_327",
+      "type": "movie",
+      "title": "Alien\u00b3",
+      "description": "Tras conseguir escapar con Newt y Bishop de un planeta alien\u00edgena, la teniente Ellen Ripley recala accidentalmente en Fiorna 161, una remota c\u00e1rcel gal\u00e1ctica cuyos peligrosos reclusos est\u00e1n absolutamente abandonados a su suerte.",
+      "duration": "1h 54m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1992,
+      "releaseDate": "1992-05-22",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 13,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alien31992/master.m3u8",
+      "createdAt": "2026-06-16T02:02:30.259Z",
+      "updatedAt": "2026-06-16T02:02:30.259Z"
+    },
+    {
+      "id": "movie_328",
+      "type": "movie",
+      "title": "Z-O-M-B-I-E-S",
+      "description": "Los estudiantes de Zombietown son transferidos a una escuela secundaria en un pueblo suburbano preocupado por la uniformidad, las tradiciones y las motivaciones.",
+      "duration": "1h 34m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2018,
+      "releaseDate": "2018-02-16",
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 91,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zombies2018/master.m3u8",
+      "createdAt": "2026-06-16T02:03:24.263Z",
+      "updatedAt": "2026-06-16T02:03:24.263Z"
+    },
+    {
+      "id": "movie_329",
+      "type": "movie",
+      "title": "Alien: El Octavo Pasajero",
+      "description": "Despu\u00e9s de que una nave espacial de comercio reciba una transmisi\u00f3n desconocida, aterrizan en la luna de origen para investigar pero un miembro de la tripulaci\u00f3n es atacado por una forma de vida misteriosa. Pronto descubren que su ciclo de vida apenas comienza.",
+      "duration": "1h 57m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1979,
+      "releaseDate": "1979-05-25",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 92,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alienElOctavoPasajero1979/master.m3u8",
+      "createdAt": "2026-06-16T02:04:32.136Z",
+      "updatedAt": "2026-06-16T02:04:32.136Z"
+    },
+    {
+      "id": "movie_330",
+      "type": "movie",
+      "title": "Alien: La resurrecci\u00f3n",
+      "description": "M\u00e1s de doscientos a\u00f1os despu\u00e9s de su muerte, Ripley vuelve a la vida gracias al empleo de t\u00e9cnicas avanzadas de clonaci\u00f3n. Pero, durante el proceso, el ADN de Ripley se ha mezclado con el de la Reina Alien, por lo que Ripley empieza a desarrollar ciertas caracter\u00edsticas de la peligrosa alien\u00edgena.",
+      "duration": "1h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1997,
+      "releaseDate": "1997-11-12",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 93,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alienLaResurreccion1997/master.m3u8",
+      "createdAt": "2026-06-16T02:05:06.157Z",
+      "updatedAt": "2026-06-16T02:05:06.157Z"
+    },
+    {
+      "id": "movie_331",
+      "type": "movie",
+      "title": "It (Eso)",
+      "description": "En el verano de 1989, un grupo de ni\u00f1os maltratados se unieron para destruir a un monstruo cambia-formas, que se disfraza de payaso y se aprovecha de los ni\u00f1os de Derry, su peque\u00f1o pueblo de Maine.",
+      "duration": "2h 15m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-09-06",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 94,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/it2017/master.m3u8",
+      "createdAt": "2026-06-16T02:05:59.280Z",
+      "updatedAt": "2026-06-16T02:05:59.280Z"
+    },
+    {
+      "id": "movie_332",
+      "type": "movie",
+      "title": "Coraz\u00f3n Valiente",
+      "description": "Drama hist\u00f3rico que narra la vida de William Wallace, un h\u00e9roe escoc\u00e9s del siglo XIII que lidera una rebeli\u00f3n contra el dominio ingl\u00e9s. Wallace lucha por la libertad de su pueblo y se convierte en un s\u00edmbolo de resistencia y valent\u00eda en la lucha por la independencia de Escocia.",
+      "duration": "2h 58m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1995,
+      "releaseDate": "1995-05-24",
+      "genres": [
+        "Action",
+        "Drama",
+        "History",
+        "War"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 95,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonvaliente1995/master.m3u8",
+      "createdAt": "2026-06-16T02:10:12.637Z",
+      "updatedAt": "2026-06-16T02:10:12.637Z"
+    },
+    {
+      "id": "movie_333",
+      "type": "movie",
+      "title": "El Libro de la Vida",
+      "description": "La pel\u00edcula cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su coraz\u00f3n y dedicarse a su verdadera pasi\u00f3n: la m\u00fasica. Antes de escoger el camino que seguir\u00e1, emprende una aventura recorriendo tres mundos fant\u00e1sticos, donde tendr\u00e1 que superar sus peores miedos.",
+      "duration": "1h 35m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-10-01",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 96,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibrodelaVida2014/master.m3u8",
+      "createdAt": "2026-06-16T02:11:12.774Z",
+      "updatedAt": "2026-06-16T02:11:12.774Z"
+    },
+    {
+      "id": "movie_334",
+      "type": "movie",
+      "title": "Aliens: El Regreso",
+      "description": "La teniente Ripley regresa al planeta alien\u00edgena LV-426 con un equipo de marines para investigar la desaparici\u00f3n de una colonia. Pronto descubren que est\u00e1n en medio de un enfrentamiento con los letales xenomorfos. Es una batalla por la supervivencia mientras luchan contra estas criaturas y la corrupta Corporaci\u00f3n Weyland-Yutani.",
+      "duration": "2h 17m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1986,
+      "releaseDate": "1986-07-18",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 97,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/aliensElRegreso1986/master.m3u8",
+      "createdAt": "2026-06-16T02:13:33.934Z",
+      "updatedAt": "2026-06-16T02:13:33.934Z"
+    },
+    {
+      "id": "movie_335",
+      "type": "movie",
+      "title": "Anatom\u00eda de un asesinato",
+      "description": "Un abogado representa a un oficial militar que asesin\u00f3 al due\u00f1o de un bar con el supuesto fin de vengarse del asalto de su novia.",
+      "duration": "2h 41m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1959,
+      "releaseDate": "1959-07-01",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 98,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/anatomiadeunasesinato1959/master.m3u8",
+      "createdAt": "2026-06-16T03:32:06.979Z",
+      "updatedAt": "2026-06-16T03:32:06.979Z"
+    },
+    {
+      "id": "movie_336",
+      "type": "movie",
+      "title": "Juego de gemelas",
+      "description": "Las gemelas id\u00e9nticas Annie y Hallie, separadas al nacer y cada una criada por uno de sus padres biol\u00f3gicos, se descubren m\u00e1s tarde por primera vez en un campamento de verano y hacen un plan para volver a reunir a sus padres descarriados.",
+      "duration": "2h 09m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "1998-07-28",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 99,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/juegodegemelas1998/master.m3u8",
+      "createdAt": "2026-06-16T04:02:50.473Z",
+      "updatedAt": "2026-06-16T04:02:50.473Z"
+    },
+    {
+      "id": "movie_337",
+      "type": "movie",
+      "title": "El sue\u00f1o de Walt",
+      "description": "Durante catorce a\u00f1os, Walt Disney intent\u00f3 sin descanso que la escritora australiana P.L. Travers le cediera los derechos cinematogr\u00e1ficos de su primera y m\u00e1s popular novela, 'Mary Poppins', que finalmente fue llevada a la gran pantalla en 1964.",
+      "duration": "2h 06m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2013,
+      "releaseDate": "2013-11-29",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 100,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elsuenodewalt2013/master.m3u8",
+      "createdAt": "2026-06-16T04:05:24.330Z",
+      "updatedAt": "2026-06-16T04:05:24.330Z"
+    },
+    {
+      "id": "movie_338",
+      "type": "movie",
+      "title": "La La Land: Una historia de amor",
+      "description": "Mia, una joven aspirante a actriz que compagina los castings con su trabajo de camarera, y Sebastian, un pianista de jazz que se gana la vida tocando en s\u00f3rdidos tugurios, se enamoran. Pero la gran ambici\u00f3n por llegar a la cima en sus carreras art\u00edsticas amenaza con separarlos.",
+      "duration": "2h 08m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-12-01",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 101,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lalalandunahistoriadeamor2016/master.m3u8",
+      "createdAt": "2026-06-16T04:06:02.505Z",
+      "updatedAt": "2026-06-16T04:06:02.505Z"
+    },
+    {
+      "id": "movie_339",
+      "type": "movie",
+      "title": "He-Man Y Los Amos Del Universo (Masters of the Universe)",
+      "description": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave c\u00f3smica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original est\u00e1 en manos de unos j\u00f3venes terr\u00edcolas, que creen que es un instrumento musical.",
+      "duration": "1h 46m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1987,
+      "releaseDate": "1987-08-07",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 102,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losamosdeluniverso1987/master.m3u8",
+      "createdAt": "2026-06-16T04:07:28.483Z",
+      "updatedAt": "2026-06-16T04:07:28.483Z"
+    },
+    {
+      "id": "movie_340",
+      "type": "movie",
+      "title": "Horizonte profundo",
+      "description": "Basado en los eventos sucedidos en el Golfo de M\u00e9xico en abril del 2010, cuando un accidente en una plataforma de la BP que perforaba para extraer petr\u00f3leo caus\u00f3 una cat\u00e1strofe que mat\u00f3 a 11 personas e hiri\u00f3 a otras 16, provocando adem\u00e1s una de las cat\u00e1strofes medioambientales m\u00e1s graves causadas por el hombre.",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-09-28",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 103,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/horizonteProfundoO2016/master.m3u8",
+      "createdAt": "2026-06-16T04:13:38.440Z",
+      "updatedAt": "2026-06-16T04:13:38.440Z"
+    },
+    {
+      "id": "movie_341",
+      "type": "movie",
+      "title": "It (Eso) 1990",
+      "description": "En 1960, siete adolescentes lucharon contra un malvado demonio que asesinaba ni\u00f1os oculto tras la m\u00e1scara de un payaso. Treinta a\u00f1os despu\u00e9s, el demonio regresa a la ciudad y los amigos deciden reunirse para detenerlo de una vez por todas.",
+      "duration": "2h 15m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1990,
+      "releaseDate": "1990-11-18",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 104,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/itEso1990/master.m3u8",
+      "createdAt": "2026-06-16T04:14:56.918Z",
+      "updatedAt": "2026-06-16T21:41:56.736Z"
+    },
+    {
+      "id": "movie_342",
+      "type": "movie",
+      "title": "Hu\u00e9rfanos de Brooklyn",
+      "description": "Nueva York, 1957. Lionel Essrog, un detective privado que convive con el s\u00edndrome de Tourette, trata de resolver el asesinato de su mentor y mejor amigo, armado solo con vagas pistas y la fuerza de su mente obsesiva.",
+      "duration": "2h 25m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-10-31",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 105,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HuerfanosDeBrooklyn/master.m3u8",
+      "createdAt": "2026-06-16T04:15:25.947Z",
+      "updatedAt": "2026-06-16T04:15:25.947Z"
+    },
+    {
+      "id": "movie_343",
+      "type": "movie",
+      "title": "Divergente la serie: Leal",
+      "description": "Despu\u00e9s de las revelaciones en insurgente, tris debe escapar con cuatro e ir m\u00e1s all\u00e1 de la pared que encierra a chicago. Por primera vez, ellos dejar\u00e1n a la \u00fanica ciudad y familia que conocen. Una vez afuera, los viejos descubrimientos se vuelven r\u00e1pidamente sin sentido con la revelaci\u00f3n de impactantes verdades. Tris y Cuatro deber\u00e1n de decidir r\u00e1pidamente en qui\u00e9n realmente pueden confiar mientras una despiadada batalla inicia m\u00e1s all\u00e1 de las paredes de Chicago, la cual amenaza a toda la humanidad. Para sobrevivir, tris se ver\u00e1 forzada a tomar decisiones sobre coraje, lealtad, sacrificio y amor.",
+      "duration": "2h 00m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-03-09",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Action",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 106,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/leal2016/master.m3u8",
+      "createdAt": "2026-06-16T04:18:01.846Z",
+      "updatedAt": "2026-06-16T04:18:01.846Z"
+    },
+    {
+      "id": "movie_344",
+      "type": "movie",
+      "title": "Milky\u2606Subway: The Galactic Limited Express - La pel\u00edcula",
+      "description": "Seis delincuentes deben limpiar un tren como parte de su programa de servicio comunitario. Pero cuando el tren despega de repente, el caos se apodera de la situaci\u00f3n.",
+      "duration": "0h 46m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-02-06",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 107,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MilkySubwayTheGalacticLimitedExpressLaPelicula/master.m3u8",
+      "createdAt": "2026-06-16T04:19:14.785Z",
+      "updatedAt": "2026-06-16T04:19:14.785Z"
+    },
+    {
+      "id": "movie_345",
+      "type": "movie",
+      "title": "Misi\u00f3n de rescate",
+      "description": "Tyler Rake, un intr\u00e9pido mercenario que ofrece sus servicios en el mercado negro, emprende una peligrosa misi\u00f3n cuando es contratado para rescatar al hijo secuestrado de un se\u00f1or del crimen de Bombay.",
+      "duration": "1h 56m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2020-04-23",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 108,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MisionDeRescate/master.m3u8",
+      "createdAt": "2026-06-16T04:20:37.638Z",
+      "updatedAt": "2026-06-16T04:20:37.638Z"
+    },
+    {
+      "id": "movie_346",
+      "type": "movie",
+      "title": "Misi\u00f3n de rescate 2",
+      "description": "El agente altamente entrenado Tyler Rake regresa del umbral de la muerte con otra peligrosa misi\u00f3n: rescatar a la familia de un mafioso despiadado.",
+      "duration": "2h 03m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-06-09",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 109,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/misionDeRescate2/master.m3u8",
+      "createdAt": "2026-06-16T04:21:03.306Z",
+      "updatedAt": "2026-06-16T04:21:03.306Z"
+    },
+    {
+      "id": "movie_347",
+      "type": "movie",
+      "title": "Mi Amigo Robot",
+      "description": "DOG es un perro solitario que vive en Manhattan. Un d\u00eda decide construirse un robot, un amigo. Su amistad crece, hasta hacerse inseparables, al ritmo del Nueva York de los ochenta. Una noche de verano, Dog con gran pena, se ve obligado a abandonar a ROBOT en la playa. \u00bfVolver\u00e1n a encontrarse?",
+      "duration": "1h 42m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-12-06",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 110,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/robotdreams2023/master.m3u8",
+      "createdAt": "2026-06-16T04:21:34.764Z",
+      "updatedAt": "2026-06-16T04:21:34.764Z"
+    },
+    {
+      "id": "movie_348",
+      "type": "movie",
+      "title": "S\u00f3lo un sue\u00f1o",
+      "description": "A\u00f1os 50. Frank (Leonardo DiCaprio) y April (Kate Winslet) se conocen en una fiesta y se enamoran. Ella quiere ser actriz. \u00c9l sue\u00f1a con viajar para huir de la rutina y experimentar emociones nuevas. Con el tiempo se convierten en un estable matrimonio con dos hijos que vive en las afueras de Connecticut, pero no son felices. Ambos se enfrentan a un dif\u00edcil dilema: o luchar por los sue\u00f1os e ideales que siempre han perseguido o conformarse con su gris y mediocre vida cotidiana",
+      "duration": "1h 59m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2008-12-19",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 111,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/solounsueno2008/master.m3u8",
+      "createdAt": "2026-06-16T04:22:39.655Z",
+      "updatedAt": "2026-06-16T04:22:39.655Z"
+    },
+    {
+      "id": "movie_349",
+      "type": "movie",
+      "title": "Una aventura extraordinaria",
+      "description": "Pi Patel es un muchacho cuyo padre es el due\u00f1o del zool\u00f3gico de la ciudad de la India en la que viven. Su familia decide marcharse a Canad\u00e1, pero una tormenta hace naufragar el barco en el que viajan. Pi consigue salvarse gracias a una barcaza en la que tambi\u00e9n hay otro \u201cpasajero\u201d, un tigre de Bengala al que el joven intentar\u00e1 domar para poder sobrevivir.",
+      "duration": "2h 06m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-11-20",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 112,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaaventuraextraordinaria2012/master.m3u8",
+      "createdAt": "2026-06-16T04:23:44.259Z",
+      "updatedAt": "2026-06-16T04:23:44.259Z"
+    },
+    {
+      "id": "movie_350",
+      "type": "movie",
+      "title": "Sin City: La Ciudad del Pecado",
+      "description": "Bienvenidos a Sin City, ciudad de polic\u00edas corruptos, atractivas damas y vigilantes desesperados. Algunos est\u00e1n buscando venganza, algunos redenci\u00f3n, y otros, ambas cosas. Un universo de h\u00e9roes inveros\u00edmiles que intentan hacer lo correcto. Sin City es una ciudad que vive entre la luz y la oscuridad, llena de personajes singulares. Est\u00e1 por ejemplo Marv (Mickey Rourke), un superviviente que busca vengar la muerte de su \u00fanico amor. Tambi\u00e9n est\u00e1 Dwight (Clive Owen), un investigador privado que intenta dejar sus problemas atr\u00e1s. Despu\u00e9s de que un polic\u00eda sea asesinado, Dwight no parar\u00e1 ante nada para proteger a sus amigos. Finalmente, est\u00e1 la historia de Hartigan (Bruce Willis), el \u00faltimo polic\u00eda honesto de Sin City, que va tras la pista de una joven en manos del s\u00e1dico hijo de un senador... con resultados inesperados.",
+      "duration": "2h 04m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-04-01",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 113,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaCiudadDelPecado/master.m3u8",
+      "createdAt": "2026-06-16T04:25:59.171Z",
+      "updatedAt": "2026-06-16T04:25:59.171Z"
+    },
+    {
+      "id": "movie_351",
+      "type": "movie",
+      "title": "Llegamos en son de paz",
+      "description": "En los \u00faltimos momentos de la Segunda Guerra Mundial, un programa espacial Nazi secreto evadi\u00f3 la destrucci\u00f3n al huir al Lado Oscuro de la Luna. Durante 70 a\u00f1os de absoluto secreto, los nazis construyen una gigantesca fortaleza espacial con una enorme armada de platillos voladores.",
+      "duration": "1h 33m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-04-04",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 114,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronSky2012/master.m3u8",
+      "createdAt": "2026-06-16T04:28:13.238Z",
+      "updatedAt": "2026-06-16T04:28:13.238Z"
+    },
+    {
+      "id": "movie_352",
+      "type": "movie",
+      "title": "Relatos salvajes",
+      "description": "Seis episodios que alternan la intriga, la comedia y la violencia. Sus personajes se ver\u00e1n empujados hacia el abismo y hacia el innegable placer de perder el control, cruzando la delgada l\u00ednea que separa la civilizaci\u00f3n de la barbarie.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-08-21",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 115,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/relatossalvaje3/master.m3u8",
+      "createdAt": "2026-06-16T04:29:21.666Z",
+      "updatedAt": "2026-06-16T04:29:21.666Z"
+    },
+    {
+      "id": "movie_353",
+      "type": "movie",
+      "title": "Show Girls",
+      "description": "",
+      "duration": "0h 52m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1998,
+      "releaseDate": "1998-01-01",
+      "genres": [
+        "Documentary"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 116,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/showgirls1995/master.m3u8",
+      "createdAt": "2026-06-16T04:31:42.887Z",
+      "updatedAt": "2026-06-16T04:31:42.887Z"
+    },
+    {
+      "id": "movie_354",
+      "type": "movie",
+      "title": "Sin lugar para los d\u00e9biles",
+      "description": "Un cazador de tesoros se encuentra en una espiral de violencia despu\u00e9s de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un juego donde cada decisi\u00f3n tiene consecuencias letales.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-11-09",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 117,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinLugarParaLosDebiles2007/master.m3u8",
+      "createdAt": "2026-06-16T04:33:00.672Z",
+      "updatedAt": "2026-06-16T04:33:00.672Z"
+    },
+    {
+      "id": "movie_355",
+      "type": "movie",
+      "title": "Un paso adelante 4D",
+      "description": "Step up Revolution es un drama con mucho baile urbano y que se desarrolla en la ciudad de Miami. Cuenta la historia de Emily, qui\u00e9n viaja hasta Miami con las apiraciones de convertirse en bailarina profesional pero pronto se enamora de Sean, un joven que dirige un equipo de baile de competici\u00f3n. Sean se esfuerza por llevar a su equipo, The MOB, para ganar un importante concurso y as\u00ed obtener un patrocinador. La \u00fanica posibilidad de que el barrio sobreviva es ganar el concurso de baile y as\u00ed poder hacer realidad sus sue\u00f1os, a la vez que conservan sus hogares.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-07-26",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 118,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnPasoAdelante2006/master.m3u8",
+      "createdAt": "2026-06-16T04:37:10.209Z",
+      "updatedAt": "2026-06-16T04:37:10.209Z"
+    },
+    {
+      "id": "movie_356",
+      "type": "movie",
+      "title": "Una Voz Silenciosa",
+      "description": "\u2018A Silent Voice\u2019 es una pel\u00edcula de anime nip\u00f3n centrada en una peque\u00f1a llamada Nishimiya Shoko, una escolar con un serio problema de audici\u00f3n. Cuando Shoko decide mudarse de instituto, padecer\u00e1 acoso escolar por la parte de sus compa\u00f1eros de clase, en especial de una parte de Ishida Shouya.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-09-17",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 119,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KoenoKatachiBDLatino/master.m3u8",
+      "createdAt": "2026-06-16T04:39:04.956Z",
+      "updatedAt": "2026-06-16T04:39:04.956Z"
+    },
+    {
+      "id": "movie_357",
+      "type": "movie",
+      "title": "Shiny Flakes: El cibernarco adolescente",
+      "description": "Max S. revela c\u00f3mo construy\u00f3 un imperio de drogas desde su cuarto en esta historia real que inspir\u00f3 la serie How to Sell Drugs Online (Fast).",
+      "duration": "1h 36m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2021,
+      "releaseDate": "2021-08-02",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 120,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShinyFlakesElCibernarcoAdolescente/master.m3u8",
+      "createdAt": "2026-06-16T04:41:03.111Z",
+      "updatedAt": "2026-06-16T04:41:03.111Z"
+    },
+    {
+      "id": "movie_358",
+      "type": "movie",
+      "title": "Inthum",
+      "description": "",
+      "duration": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 121,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Inthum/master.m3u8",
+      "createdAt": "2026-06-16T06:01:10.941Z",
+      "updatedAt": "2026-06-16T08:25:26.635Z"
+    },
+    {
+      "id": "movie_359",
+      "type": "movie",
+      "title": "Batman",
+      "description": "Cuando un asesino se dirige a la \u00e9lite de Gotham con una serie de maquinaciones s\u00e1dicas, un rastro de pistas cr\u00edpticas env\u00eda Batman a una investigaci\u00f3n en los bajos fondos. A medida que las pruebas comienzan a acercarse a su casa y se hace evidente la magnitud de los planes del autor, Batman debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia al abuso de poder y la corrupci\u00f3n que durante mucho tiempo han asolado Gotham City.",
+      "duration": "2h 55m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-03-01",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 122,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thebatman/master.m3u8",
+      "createdAt": "2026-06-16T21:19:02.765Z",
+      "updatedAt": "2026-06-16T21:19:02.765Z"
+    },
+    {
+      "id": "movie_360",
+      "type": "movie",
+      "title": "Star Wars: Los \u00faltimos Jedi",
+      "description": "La Primera Orden se ha vuelto m\u00e1s poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misi\u00f3n para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendr\u00e1 que definir su futuro y su vocaci\u00f3n, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-12-13",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 123,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SFTPREAL_1780201617/master.m3u8",
+      "createdAt": "2026-06-16T21:22:43.486Z",
+      "updatedAt": "2026-06-16T21:22:43.486Z"
+    },
+    {
+      "id": "movie_361",
+      "type": "movie",
+      "title": "El regreso del Jedi",
+      "description": "Para ir a Tatooine y liberar a Han Solo, Luke Skywalker y la princesa Leia deben infiltrarse en la peligrosa guarida de Jabba the Hutt, el g\u00e1ngster m\u00e1s temido de la galaxia. Una vez reunidos, el equipo recluta a tribus de Ewoks para combatir a las fuerzas imperiales en los bosques de la luna de Endor. Mientras tanto, el Emperador y Darth Vader conspiran para atraer a Luke al lado oscuro, pero el joven est\u00e1 decidido a reavivar el esp\u00edritu del Jedi en su padre. La guerra civil gal\u00e1ctica termina con un \u00faltimo enfrentamiento entre las fuerzas rebeldes unificadas y una segunda Estrella de la Muerte, indefensa e incompleta, en una batalla que decidir\u00e1 el destino de la galaxia.",
+      "duration": "2h 13m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "1983-05-25",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 124,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars6/master.m3u8",
+      "createdAt": "2026-06-16T21:25:31.169Z",
+      "updatedAt": "2026-06-16T21:25:31.169Z"
+    },
+    {
+      "id": "movie_362",
+      "type": "movie",
+      "title": "La guerra de las galaxias",
+      "description": "La princesa Leia es capturada y retenida como reh\u00e9n por las malvadas fuerzas imperiales en su af\u00e1n por apoderarse del Imperio Gal\u00e1ctico. El audaz Luke Skywalker y el audaz capit\u00e1n Han Solo se unen al encantador d\u00fao de robots R2-D2 y C-3PO para rescatar a la bella princesa y restaurar la paz y la justicia en el Imperio.",
+      "duration": "2h 01m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1977,
+      "releaseDate": "1977-05-25",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 125,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeIV/master.m3u8",
+      "createdAt": "2026-06-16T21:28:16.854Z",
+      "updatedAt": "2026-06-16T21:28:16.854Z"
+    },
+    {
+      "id": "movie_363",
+      "type": "movie",
+      "title": "El Imperio contraataca",
+      "description": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compa\u00f1\u00eda de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el \u00faltimo maestro Jedi, para que le ense\u00f1e los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halc\u00f3n Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+      "duration": "2h 04m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1980,
+      "releaseDate": "1980-05-20",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 126,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeV/master.m3u8",
+      "createdAt": "2026-06-16T21:28:54.309Z",
+      "updatedAt": "2026-06-16T21:28:54.309Z"
+    },
+    {
+      "id": "movie_364",
+      "type": "movie",
+      "title": "Star Wars: El despertar de la fuerza",
+      "description": "Treinta a\u00f1os despu\u00e9s de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia est\u00e1 todav\u00eda en guerra. Una nueva Rep\u00fablica se ha constituido, pero una siniestra organizaci\u00f3n, la Primera Orden, ha resurgido de las cenizas del Imperio Gal\u00e1ctico. A los h\u00e9roes de anta\u00f1o, que luchan ahora en la Resistencia, se suman nuevos h\u00e9roes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capit\u00e1n Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empu\u00f1a un sable de luz roja.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-12-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 127,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVII/master.m3u8",
+      "createdAt": "2026-06-16T21:30:25.975Z",
+      "updatedAt": "2026-06-16T21:30:25.975Z"
     },
     {
       "type": "series",
@@ -28421,122 +29435,66 @@
       "episodes": [
         {
           "id": "s01e01",
-          "title": "Cap\u00edtulo 1",
-          "slotId": "ep_2114",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E01/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e01",
           "slotId": "ep_2115",
-          "title": "Cap\u00edtulo 1",
+          "title": "Cap\ufffdtulo 1",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E01/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2851
         },
         {
           "id": "s01e02",
-          "title": "Cap\u00edtulo 2",
-          "slotId": "ep_2116",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E02/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e02",
           "slotId": "ep_2117",
-          "title": "Cap\u00edtulo 2",
+          "title": "Cap\ufffdtulo 2",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E02/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2668
         },
         {
           "id": "s01e03",
-          "title": "Cap\u00edtulo 3",
-          "slotId": "ep_2118",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E03/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e03",
           "slotId": "ep_2119",
-          "title": "Cap\u00edtulo 3",
+          "title": "Cap\ufffdtulo 3",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E03/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2534
         },
         {
           "id": "s01e04",
-          "title": "Cap\u00edtulo 4",
-          "slotId": "ep_2120",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E04/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e04",
           "slotId": "ep_2121",
-          "title": "Cap\u00edtulo 4",
+          "title": "Cap\ufffdtulo 4",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E04/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2689
         },
         {
           "id": "s01e05",
-          "title": "Cap\u00edtulo 5",
-          "slotId": "ep_2122",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E05/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e05",
           "slotId": "ep_2123",
-          "title": "Cap\u00edtulo 5",
+          "title": "Cap\ufffdtulo 5",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E05/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2779
         },
         {
           "id": "s01e06",
-          "title": "Cap\u00edtulo 6",
-          "slotId": "ep_2124",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E06/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e06",
           "slotId": "ep_2125",
-          "title": "Cap\u00edtulo 6",
+          "title": "Cap\ufffdtulo 6",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E06/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2692
         },
         {
           "id": "s01e07",
-          "title": "Cap\u00edtulo 7",
-          "slotId": "ep_2126",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E07/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e07",
           "slotId": "ep_2127",
-          "title": "Cap\u00edtulo 7",
+          "title": "Cap\ufffdtulo 7",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E07/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2915
         },
         {
           "id": "s01e08",
-          "title": "Cap\u00edtulo 8",
-          "slotId": "ep_2128",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S01E08/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s01e08",
           "slotId": "ep_2129",
-          "title": "Cap\u00edtulo 8",
+          "title": "Cap\ufffdtulo 8",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/invencible/T1/invencible_S10E08/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:49.845Z",
+          "updatedAt": "2026-06-14T23:52:26.754Z",
           "tokenDuration": 2687
         }
       ],
@@ -28545,7 +29503,7 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 3,
-      "updatedAt": "2026-06-05T13:04:49.845Z"
+      "updatedAt": "2026-06-14T23:52:26.754Z"
     },
     {
       "type": "series",
@@ -28778,347 +29736,186 @@
       "episodes": [
         {
           "id": "s02e01",
-          "title": "Cap\u00edtulo 1",
-          "slotId": "ep_2149",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E01/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
-        },
-        {
-          "id": "s02e01",
           "slotId": "ep_2150",
-          "title": "Cap\u00edtulo 1",
+          "title": "Cap\ufffdtulo 1",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E01/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e02",
-          "title": "Cap\u00edtulo 2",
-          "slotId": "ep_2151",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E02/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e02",
           "slotId": "ep_2152",
-          "title": "Cap\u00edtulo 2",
+          "title": "Cap\ufffdtulo 2",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E02/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e03",
-          "title": "Cap\u00edtulo 3",
-          "slotId": "ep_2153",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E03/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e03",
           "slotId": "ep_2154",
-          "title": "Cap\u00edtulo 3",
+          "title": "Cap\ufffdtulo 3",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E03/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e04",
-          "title": "Cap\u00edtulo 4",
-          "slotId": "ep_2155",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E04/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e04",
           "slotId": "ep_2156",
-          "title": "Cap\u00edtulo 4",
+          "title": "Cap\ufffdtulo 4",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E04/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.091Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1436
-        },
-        {
-          "id": "s02e05",
-          "title": "Cap\u00edtulo 5",
-          "slotId": "ep_2157",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E05/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e05",
           "slotId": "ep_2158",
-          "title": "Cap\u00edtulo 5",
+          "title": "Cap\ufffdtulo 5",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E05/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e06",
-          "title": "Cap\u00edtulo 6",
-          "slotId": "ep_2159",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E06/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e06",
           "slotId": "ep_2160",
-          "title": "Cap\u00edtulo 6",
+          "title": "Cap\ufffdtulo 6",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E06/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e07",
-          "title": "Cap\u00edtulo 7",
-          "slotId": "ep_2161",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E07/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e07",
           "slotId": "ep_2162",
-          "title": "Cap\u00edtulo 7",
+          "title": "Cap\ufffdtulo 7",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E07/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e08",
-          "title": "Cap\u00edtulo 8",
-          "slotId": "ep_2163",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E08/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e08",
           "slotId": "ep_2164",
-          "title": "Cap\u00edtulo 8",
+          "title": "Cap\ufffdtulo 8",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E08/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e09",
-          "title": "Cap\u00edtulo 9",
-          "slotId": "ep_2165",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E09/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.358Z"
         },
         {
           "id": "s02e09",
           "slotId": "ep_2166",
-          "title": "Cap\u00edtulo 9",
+          "title": "Cap\ufffdtulo 9",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E09/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e10",
-          "title": "Cap\u00edtulo 10",
-          "slotId": "ep_2167",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E10/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e10",
           "slotId": "ep_2168",
-          "title": "Cap\u00edtulo 10",
+          "title": "Cap\ufffdtulo 10",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E10/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1436
         },
         {
           "id": "s02e11",
-          "title": "Cap\u00edtulo 11",
-          "slotId": "ep_2169",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E11/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e11",
           "slotId": "ep_2170",
-          "title": "Cap\u00edtulo 11",
+          "title": "Cap\ufffdtulo 11",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E11/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e12",
-          "title": "Cap\u00edtulo 12",
-          "slotId": "ep_2171",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E12/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e12",
           "slotId": "ep_2172",
-          "title": "Cap\u00edtulo 12",
+          "title": "Cap\ufffdtulo 12",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E12/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e13",
-          "title": "Cap\u00edtulo 13",
-          "slotId": "ep_2173",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E13/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e13",
           "slotId": "ep_2174",
-          "title": "Cap\u00edtulo 13",
+          "title": "Cap\ufffdtulo 13",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E13/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e14",
-          "title": "Cap\u00edtulo 14",
-          "slotId": "ep_2175",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E14/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e14",
           "slotId": "ep_2176",
-          "title": "Cap\u00edtulo 14",
+          "title": "Cap\ufffdtulo 14",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E14/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e15",
-          "title": "Cap\u00edtulo 15",
-          "slotId": "ep_2177",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E15/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e15",
           "slotId": "ep_2178",
-          "title": "Cap\u00edtulo 15",
+          "title": "Cap\ufffdtulo 15",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E15/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
-        },
-        {
-          "id": "s02e16",
-          "title": "Cap\u00edtulo 16",
-          "slotId": "ep_2179",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E16/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e16",
           "slotId": "ep_2180",
-          "title": "Cap\u00edtulo 16",
+          "title": "Cap\ufffdtulo 16",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E16/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1437
         },
         {
           "id": "s02e17",
-          "title": "Cap\u00edtulo 17",
-          "slotId": "ep_2181",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E17/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e17",
           "slotId": "ep_2182",
-          "title": "Cap\u00edtulo 17",
+          "title": "Cap\ufffdtulo 17",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E17/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1449
         },
         {
           "id": "s02e18",
-          "title": "Cap\u00edtulo 18",
-          "slotId": "ep_2183",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E18/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e18",
           "slotId": "ep_2184",
-          "title": "Cap\u00edtulo 18",
+          "title": "Cap\ufffdtulo 18",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E18/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
-        },
-        {
-          "id": "s02e19",
-          "title": "Cap\u00edtulo 19",
-          "slotId": "ep_2185",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E19/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e19",
           "slotId": "ep_2186",
-          "title": "Cap\u00edtulo 19",
+          "title": "Cap\ufffdtulo 19",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E19/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
         },
         {
           "id": "s02e20",
-          "title": "Cap\u00edtulo 20",
-          "slotId": "ep_2187",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E20/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e20",
           "slotId": "ep_2188",
-          "title": "Cap\u00edtulo 20",
+          "title": "Cap\ufffdtulo 20",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E20/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
-        },
-        {
-          "id": "s02e21",
-          "title": "Cap\u00edtulo 21",
-          "slotId": "ep_2189",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E21/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e21",
           "slotId": "ep_2190",
-          "title": "Cap\u00edtulo 21",
+          "title": "Cap\ufffdtulo 21",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E21/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
-        },
-        {
-          "id": "s02e22",
-          "title": "Cap\u00edtulo 22",
-          "slotId": "ep_2191",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E22/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
         },
         {
           "id": "s02e22",
           "slotId": "ep_2192",
-          "title": "Cap\u00edtulo 22",
+          "title": "Cap\ufffdtulo 22",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E22/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1421
         },
         {
           "id": "s02e23",
-          "title": "Cap\u00edtulo 23",
-          "slotId": "ep_2193",
-          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/T2/JujutsuKaisen_S02E23/master.m3u8",
-          "updatedAt": "2026-05-30T23:35:23.359Z"
-        },
-        {
-          "id": "s02e23",
           "slotId": "ep_2194",
-          "title": "Cap\u00edtulo 23",
+          "title": "Cap\ufffdtulo 23",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JujutsuKaisen/t2/JujutsuKaisenS02E23/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.092Z",
+          "updatedAt": "2026-06-14T23:52:06.868Z",
           "tokenDuration": 1422
         }
       ],
@@ -29127,7 +29924,7 @@
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 19,
-      "updatedAt": "2026-06-05T13:04:06.092Z"
+      "updatedAt": "2026-06-14T23:52:06.868Z"
     },
     {
       "type": "series",
@@ -34643,62 +35440,86 @@
         {
           "id": "s01e01",
           "title": "Cap\u00edtulo 1",
-          "slotId": "ep_2745"
+          "slotId": "ep_2745",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E01/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e02",
           "title": "Cap\u00edtulo 2",
-          "slotId": "ep_2746"
+          "slotId": "ep_2746",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E02/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e03",
           "title": "Cap\u00edtulo 3",
-          "slotId": "ep_2747"
+          "slotId": "ep_2747",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E03/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e04",
           "title": "Cap\u00edtulo 4",
-          "slotId": "ep_2748"
+          "slotId": "ep_2748",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E04/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e05",
           "title": "Cap\u00edtulo 5",
-          "slotId": "ep_2749"
+          "slotId": "ep_2749",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E05/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e06",
           "title": "Cap\u00edtulo 6",
-          "slotId": "ep_2750"
+          "slotId": "ep_2750",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E06/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e07",
           "title": "Cap\u00edtulo 7",
-          "slotId": "ep_2751"
+          "slotId": "ep_2751",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E07/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e08",
           "title": "Cap\u00edtulo 8",
-          "slotId": "ep_2752"
+          "slotId": "ep_2752",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E08/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e09",
           "title": "Cap\u00edtulo 9",
-          "slotId": "ep_2753"
+          "slotId": "ep_2753",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E09/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e10",
           "title": "Cap\u00edtulo 10",
-          "slotId": "ep_2754"
+          "slotId": "ep_2754",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E10/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e11",
           "title": "Cap\u00edtulo 11",
-          "slotId": "ep_2755"
+          "slotId": "ep_2755",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E11/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.147Z"
         },
         {
           "id": "s01e12",
           "title": "Cap\u00edtulo 12",
-          "slotId": "ep_2756"
+          "slotId": "ep_2756",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dancewisthdevil/T1/DanceWithDevilsS01E12/master.m3u8",
+          "updatedAt": "2026-06-13T12:00:05.148Z"
         }
       ],
       "tokenDuration": "45",
@@ -34707,6 +35528,427 @@
       "addedBy": "Admin",
       "atlas": "D",
       "gridIndex": 82
+    },
+    {
+      "id": "series_150",
+      "type": "series",
+      "title": "Fukumenkei Noise",
+      "description": "Nino Arisugawa es una chica que ama cantar y usa su voz para expresar sus emociones. Tras separarse de sus dos amigos de la infancia, Momo y Yuzu, promete seguir cantando para que alg\u00fan d\u00eda puedan volver a encontrarse. A\u00f1os despu\u00e9s, sus caminos vuelven a cruzarse a trav\u00e9s de la m\u00fasica, el amor y los sue\u00f1os.",
+      "year": 2017,
+      "releaseDate": "2017-04-11",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 83,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2757",
+          "title": "Cap\u00edtulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E01/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2758",
+          "title": "Cap\u00edtulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E02/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2759",
+          "title": "Cap\u00edtulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E03/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2760",
+          "title": "Cap\u00edtulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E04/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2761",
+          "title": "Cap\u00edtulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E05/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2762",
+          "title": "Cap\u00edtulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E06/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2763",
+          "title": "Cap\u00edtulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E07/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2764",
+          "title": "Cap\u00edtulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E08/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2765",
+          "title": "Cap\u00edtulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E09/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2766",
+          "title": "Cap\u00edtulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E10/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2767",
+          "title": "Cap\u00edtulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E11/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2768",
+          "title": "Cap\u00edtulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/FukumenkeiNoise/T1/FukumenkeiNoiseS01E12/master.m3u8",
+          "createdAt": "2026-06-13T16:43:56.946Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        }
+      ],
+      "createdAt": "2026-06-13T16:43:56.946Z",
+      "updatedAt": "2026-06-13T16:49:39.608Z"
+    },
+    {
+      "id": "series_151",
+      "type": "series",
+      "title": "Historia de un crimen: La b\u00fasqueda",
+      "description": "La serie est\u00e1 inspirada en el caso real de la desaparici\u00f3n de Paulette Gebara Farah, una ni\u00f1a mexicana de 4 a\u00f1os cuyo caso conmocion\u00f3 a todo M\u00e9xico. A medida que avanza la investigaci\u00f3n, salen a la luz errores, contradicciones y la intensa presi\u00f3n medi\u00e1tica que rode\u00f3 la b\u00fasqueda, mostrando c\u00f3mo el caso se convirti\u00f3 en un fen\u00f3meno nacional.",
+      "year": 2020,
+      "releaseDate": "2020-06-12",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 84,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2769",
+          "title": "Cap\u00edtulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E01/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2770",
+          "title": "Cap\u00edtulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E02/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2771",
+          "title": "Cap\u00edtulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E03/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2772",
+          "title": "Cap\u00edtulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E04/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2773",
+          "title": "Cap\u00edtulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E05/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2774",
+          "title": "Cap\u00edtulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HistoriadeuncrimenLabusqueda/T1/HistoriaDeUnCrimenLaBusquedaS01E06/master.m3u8",
+          "createdAt": "2026-06-13T16:54:51.819Z",
+          "updatedAt": "2026-06-15T01:00:37.368Z"
+        }
+      ],
+      "createdAt": "2026-06-13T16:54:51.819Z",
+      "updatedAt": "2026-06-15T01:00:37.368Z"
+    },
+    {
+      "id": "series_152",
+      "type": "series",
+      "title": "High Potential: Detective Inesperada",
+      "description": "Morgan Gillory es una madre soltera de tres hijos con una inteligencia extraordinaria (IQ de 160) que trabaja como limpiadora nocturna en el Departamento de Polic\u00eda de Los \u00c1ngeles. Despu\u00e9s de resolver accidentalmente un caso complejo gracias a su capacidad de observaci\u00f3n, es reclutada como consultora para la divisi\u00f3n de cr\u00edmenes mayores, donde forma una peculiar alianza con el detective Adam Karadec. Mientras ayuda a resolver asesinatos, tambi\u00e9n busca respuestas sobre la misteriosa desaparici\u00f3n de su expareja.",
+      "year": 2024,
+      "releaseDate": "2024-09-17",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 85,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2775",
+          "title": "Cap\u00edtulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E01/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2776",
+          "title": "Cap\u00edtulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E02/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2777",
+          "title": "Cap\u00edtulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E03/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2778",
+          "title": "Cap\u00edtulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E04/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.119Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2779",
+          "title": "Cap\u00edtulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E05/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2780",
+          "title": "Cap\u00edtulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E06/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2781",
+          "title": "Cap\u00edtulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E07/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2782",
+          "title": "Cap\u00edtulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E08/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2783",
+          "title": "Cap\u00edtulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E09/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2784",
+          "title": "Cap\u00edtulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E10/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2785",
+          "title": "Cap\u00edtulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E11/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2786",
+          "title": "Cap\u00edtulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E12/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2787",
+          "title": "Cap\u00edtulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/HighPotentialDetectiveInesperada/T1/HighPotentialDetectiveInesperadaS01E13/master.m3u8",
+          "createdAt": "2026-06-13T17:02:53.409Z",
+          "updatedAt": "2026-06-13T18:00:04.120Z"
+        }
+      ],
+      "createdAt": "2026-06-13T17:02:53.410Z",
+      "updatedAt": "2026-06-13T17:02:53.410Z"
+    },
+    {
+      "id": "series_153",
+      "type": "series",
+      "title": "Hazbin Hotel",
+      "description": "Charlie Morningstar, la princesa del Infierno, sue\u00f1a con rehabilitar demonios para reducir la sobrepoblaci\u00f3n infernal y evitar las exterminaciones anuales. Para lograrlo, abre el Hazbin Hotel, un lugar donde los pecadores pueden intentar redimirse. Sin embargo, convencer a demonios violentos y ca\u00f3ticos de cambiar no ser\u00e1 nada f\u00e1cil, especialmente con la ayuda\u2026 o interferencia\u2026 del poderoso Alastor.",
+      "year": 2024,
+      "releaseDate": "2024-01-19",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Music",
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 86,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2788",
+          "title": "Capitulo piloto",
+          "master_url": "",
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2789",
+          "title": "Capitulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E01/master.m3u8",
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2790",
+          "title": "Capitulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E02/master.m3u8",
+          "createdAt": "2026-06-14T05:54:08.720Z",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2796",
+          "title": "Capitulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E03/master.m3u8",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2797",
+          "title": "Capitulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E04/master.m3u8",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2798",
+          "title": "Capitulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E05/master.m3u8",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2799",
+          "title": "Capitulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E06/master.m3u8",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2800",
+          "title": "Cap\u00edtulo 7",
+          "master_url": "",
+          "createdAt": "2026-06-16T21:47:51.370Z",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2801",
+          "title": "Cap\u00edtulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T1/HazbinhotelS01E08/master.m3u8",
+          "createdAt": "2026-06-16T21:52:11.420Z",
+          "updatedAt": "2026-06-16T21:55:15.830Z"
+        }
+      ],
+      "createdAt": "2026-06-14T05:54:08.720Z",
+      "updatedAt": "2026-06-16T21:55:15.830Z"
     }
   ]
 }
