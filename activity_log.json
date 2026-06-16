@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T22:07:56.921Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_110"
-  },
-  {
     "timestamp": "2026-04-21T22:08:11.341Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3240,5 +3234,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_353",
     "title": "Show Girls"
+  },
+  {
+    "ts": "2026-06-16T04:33:13.365Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_354",
+    "title": "Sin lugar para los débiles"
   }
 ]
