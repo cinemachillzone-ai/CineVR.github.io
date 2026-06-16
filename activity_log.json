@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:09:53.112Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_052"
-  },
-  {
     "timestamp": "2026-04-22T00:12:17.681Z",
     "user": "Admin",
     "action": "ADD",
@@ -3242,5 +3236,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_355",
     "title": "Un paso adelante 4D"
+  },
+  {
+    "ts": "2026-06-16T04:39:16.983Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_356",
+    "title": "Una Voz Silenciosa"
   }
 ]
