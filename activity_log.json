@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T10:11:50.428Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_134"
-  },
-  {
     "timestamp": "2026-04-19T23:00:24.964Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3222,5 +3216,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_335",
     "title": "Anatomía de un asesinato"
+  },
+  {
+    "ts": "2026-06-16T04:03:04.214Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_336",
+    "title": "Juego de gemelas"
   }
 ]
