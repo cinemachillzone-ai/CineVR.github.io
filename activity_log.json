@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T21:55:24.663Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_055"
-  },
-  {
     "timestamp": "2026-04-21T21:59:17.907Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3238,5 +3232,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_351",
     "title": "Llegamos en son de paz"
+  },
+  {
+    "ts": "2026-06-16T04:29:33.711Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_352",
+    "title": "Relatos salvajes"
   }
 ]
