@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:30:35.024Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_151"
-  },
-  {
     "timestamp": "2026-04-22T00:32:42.719Z",
     "user": "Admin",
     "action": "ADD",
@@ -3253,5 +3247,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_341",
     "title": "It (Eso) 1990"
+  },
+  {
+    "ts": "2026-06-16T21:48:04.517Z",
+    "actor": "seanf",
+    "action": "ADD_EPISODE",
+    "target": "ep_2800",
+    "series": "series_153",
+    "title": "Capítulo 8"
   }
 ]
