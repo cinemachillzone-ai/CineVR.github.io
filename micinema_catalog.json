@@ -10023,6 +10023,34 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/coco2017/master.m3u8",
       "createdAt": "2026-06-16T02:01:57.417Z",
       "updatedAt": "2026-06-16T02:01:57.417Z"
+    },
+    {
+      "id": "movie_327",
+      "type": "movie",
+      "title": "Alien³",
+      "description": "Tras conseguir escapar con Newt y Bishop de un planeta alienígena, la teniente Ellen Ripley recala accidentalmente en Fiorna 161, una remota cárcel galáctica cuyos peligrosos reclusos están absolutamente abandonados a su suerte.",
+      "duration": "1h 54m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1992,
+      "releaseDate": "1992-05-22",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 13,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alien31992/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alien31992/master.m3u8",
+      "createdAt": "2026-06-16T02:02:30.259Z",
+      "updatedAt": "2026-06-16T02:02:30.259Z"
     }
   ],
   "series": [
