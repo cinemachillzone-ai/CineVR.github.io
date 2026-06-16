@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-20T00:18:26.331Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_140"
-  },
-  {
     "timestamp": "2026-04-20T00:20:29.731Z",
     "user": "Admin",
     "action": "ADD",
@@ -3233,5 +3227,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_346",
     "title": "Misión de rescate 2"
+  },
+  {
+    "ts": "2026-06-16T04:21:47.417Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_347",
+    "title": "Mi Amigo Robot"
   }
 ]
