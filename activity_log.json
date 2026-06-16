@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T05:28:15.561Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_055"
-  },
-  {
     "timestamp": "2026-04-21T21:55:24.663Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3237,5 +3231,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_350",
     "title": "Sin City: La Ciudad del Pecado"
+  },
+  {
+    "ts": "2026-06-16T04:28:25.757Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_351",
+    "title": "Llegamos en son de paz"
   }
 ]
