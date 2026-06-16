@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-18T23:35:40.299Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_106"
-  },
-  {
     "timestamp": "2026-04-19T01:47:32.575Z",
     "user": "Admin",
     "action": "ADD",
@@ -3213,5 +3207,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_326",
     "title": "Coco"
+  },
+  {
+    "ts": "2026-06-16T02:02:45.502Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_327",
+    "title": "Alien³"
   }
 ]
