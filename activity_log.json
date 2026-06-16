@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:32:42.719Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_152"
-  },
-  {
     "timestamp": "2026-04-22T00:50:03.641Z",
     "user": "Admin",
     "action": "ADD",
@@ -3255,5 +3249,13 @@
     "target": "ep_2800",
     "series": "series_153",
     "title": "Capítulo 8"
+  },
+  {
+    "ts": "2026-06-16T21:52:24.082Z",
+    "actor": "seanf",
+    "action": "ADD_EPISODE",
+    "target": "ep_2801",
+    "series": "series_153",
+    "title": "Capítulo 9"
   }
 ]
