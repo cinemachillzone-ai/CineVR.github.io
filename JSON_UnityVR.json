@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 501
+    "catalogCount": 502
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -9425,6 +9425,31 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/showgirls1995/master.m3u8",
       "createdAt": "2026-06-16T04:31:42.887Z",
       "updatedAt": "2026-06-16T04:31:42.887Z"
+    },
+    {
+      "id": "movie_354",
+      "type": "movie",
+      "title": "Sin lugar para los débiles",
+      "description": "Un cazador de tesoros se encuentra en una espiral de violencia después de tropezar con una bolsa de dinero en medio del desierto texano. Perseguido por un despiadado asesino, se desencadena una serie de eventos mortales que ponen a prueba su astucia y su supervivencia en un juego donde cada decisión tiene consecuencias letales.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-11-09",
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 117,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinLugarParaLosDebiles2007/master.m3u8",
+      "createdAt": "2026-06-16T04:33:00.672Z",
+      "updatedAt": "2026-06-16T04:33:00.672Z"
     },
     {
       "type": "series",
