@@ -10635,6 +10635,33 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/solounsueno2008/master.m3u8",
       "createdAt": "2026-06-16T04:22:39.655Z",
       "updatedAt": "2026-06-16T04:22:39.655Z"
+    },
+    {
+      "id": "movie_349",
+      "type": "movie",
+      "title": "Una aventura extraordinaria",
+      "description": "Pi Patel es un muchacho cuyo padre es el dueño del zoológico de la ciudad de la India en la que viven. Su familia decide marcharse a Canadá, pero una tormenta hace naufragar el barco en el que viajan. Pi consigue salvarse gracias a una barcaza en la que también hay otro “pasajero”, un tigre de Bengala al que el joven intentará domar para poder sobrevivir.",
+      "duration": "2h 06m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-11-20",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 112,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaaventuraextraordinaria2012/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaaventuraextraordinaria2012/master.m3u8",
+      "createdAt": "2026-06-16T04:23:44.259Z",
+      "updatedAt": "2026-06-16T04:23:44.259Z"
     }
   ],
   "series": [
