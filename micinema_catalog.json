@@ -10466,6 +10466,35 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HuerfanosDeBrooklyn/master.m3u8",
       "createdAt": "2026-06-16T04:15:25.947Z",
       "updatedAt": "2026-06-16T04:15:25.947Z"
+    },
+    {
+      "id": "movie_343",
+      "type": "movie",
+      "title": "Divergente la serie: Leal",
+      "description": "Después de las revelaciones en insurgente, tris debe escapar con cuatro e ir más allá de la pared que encierra a chicago. Por primera vez, ellos dejarán a la única ciudad y familia que conocen. Una vez afuera, los viejos descubrimientos se vuelven rápidamente sin sentido con la revelación de impactantes verdades. Tris y Cuatro deberán de decidir rápidamente en quién realmente pueden confiar mientras una despiadada batalla inicia más allá de las paredes de Chicago, la cual amenaza a toda la humanidad. Para sobrevivir, tris se verá forzada a tomar decisiones sobre coraje, lealtad, sacrificio y amor.",
+      "duration": "2h 00m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-03-09",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Action",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 106,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/leal2016/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/leal2016/master.m3u8",
+      "createdAt": "2026-06-16T04:18:01.846Z",
+      "updatedAt": "2026-06-16T04:18:01.846Z"
     }
   ],
   "series": [
