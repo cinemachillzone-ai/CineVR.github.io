@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:28:48.866Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_139"
-  },
-  {
     "timestamp": "2026-04-20T00:18:18.591Z",
     "user": "Admin",
     "action": "ADD",
@@ -3231,5 +3225,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_344",
     "title": "Milky☆Subway: The Galactic Limited Express - La película"
+  },
+  {
+    "ts": "2026-06-16T04:20:50.220Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_345",
+    "title": "Misión de rescate"
   }
 ]
