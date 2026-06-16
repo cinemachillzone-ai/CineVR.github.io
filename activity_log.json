@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-19T23:08:31.244Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_135"
-  },
-  {
     "timestamp": "2026-04-19T23:12:49.402Z",
     "user": "Admin",
     "action": "ADD",
@@ -3226,5 +3220,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_339",
     "title": "He-Man Y Los Amos Del Universo (Masters of the Universe)"
+  },
+  {
+    "ts": "2026-06-16T04:13:50.719Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_340",
+    "title": "Horizonte profundo"
   }
 ]
