@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 495
+    "catalogCount": 496
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -9281,6 +9281,29 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/robotdreams2023/master.m3u8",
       "createdAt": "2026-06-16T04:21:34.764Z",
       "updatedAt": "2026-06-16T04:21:34.764Z"
+    },
+    {
+      "id": "movie_348",
+      "type": "movie",
+      "title": "Sólo un sueño",
+      "description": "Años 50. Frank (Leonardo DiCaprio) y April (Kate Winslet) se conocen en una fiesta y se enamoran. Ella quiere ser actriz. Él sueña con viajar para huir de la rutina y experimentar emociones nuevas. Con el tiempo se convierten en un estable matrimonio con dos hijos que vive en las afueras de Connecticut, pero no son felices. Ambos se enfrentan a un difícil dilema: o luchar por los sueños e ideales que siempre han perseguido o conformarse con su gris y mediocre vida cotidiana",
+      "duration": "1h 59m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2008-12-19",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 111,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/solounsueno2008/master.m3u8",
+      "createdAt": "2026-06-16T04:22:39.655Z",
+      "updatedAt": "2026-06-16T04:22:39.655Z"
     },
     {
       "type": "series",
