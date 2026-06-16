@@ -10826,6 +10826,33 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnPasoAdelante2006/master.m3u8",
       "createdAt": "2026-06-16T04:37:10.209Z",
       "updatedAt": "2026-06-16T04:37:10.209Z"
+    },
+    {
+      "id": "movie_356",
+      "type": "movie",
+      "title": "Una Voz Silenciosa",
+      "description": "‘A Silent Voice’ es una película de anime nipón centrada en una pequeña llamada Nishimiya Shoko, una escolar con un serio problema de audición. Cuando Shoko decide mudarse de instituto, padecerá acoso escolar por la parte de sus compañeros de clase, en especial de una parte de Ishida Shouya.",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2016,
+      "releaseDate": "2016-09-17",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 119,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KoenoKatachiBDLatino/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KoenoKatachiBDLatino/master.m3u8",
+      "createdAt": "2026-06-16T04:39:04.956Z",
+      "updatedAt": "2026-06-16T04:39:04.956Z"
     }
   ],
   "series": [
