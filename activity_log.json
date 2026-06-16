@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T00:21:20.756Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_148"
-  },
-  {
     "timestamp": "2026-04-22T00:23:01.549Z",
     "user": "Admin",
     "action": "ADD",
@@ -3248,5 +3242,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_360",
     "title": "Star Wars: Los últimos Jedi"
+  },
+  {
+    "ts": "2026-06-16T21:25:44.144Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_361",
+    "title": "El regreso del Jedi"
   }
 ]
