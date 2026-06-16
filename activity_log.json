@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-21T22:08:11.341Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_110"
-  },
-  {
     "timestamp": "2026-04-22T00:09:53.112Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3241,5 +3235,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_354",
     "title": "Sin lugar para los débiles"
+  },
+  {
+    "ts": "2026-06-16T04:37:22.295Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_355",
+    "title": "Un paso adelante 4D"
   }
 ]
