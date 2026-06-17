@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T03:17:24.112Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_051"
-  },
-  {
     "timestamp": "2026-04-22T03:17:46.186Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3263,5 +3257,11 @@
     "action": "INJECT_MOVIE",
     "target": "movie_365",
     "title": "Rapido Y Furioso 9"
+  },
+  {
+    "ts": "2026-06-17T22:30:29.246Z",
+    "actor": "yutamir",
+    "action": "INJECT_EPISODE",
+    "target": "series_154"
   }
 ]
