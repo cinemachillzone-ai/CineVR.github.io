@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T01:34:14.354Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_055"
-  },
-  {
     "timestamp": "2026-04-22T03:05:24.795Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3261,5 +3255,12 @@
     "target": "series_153",
     "title": "Hazbin Hotel",
     "eps_changed": 9
+  },
+  {
+    "ts": "2026-06-17T12:30:20.793Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_154",
+    "title": "Kaoru Hana Rin Saku T1"
   }
 ]
