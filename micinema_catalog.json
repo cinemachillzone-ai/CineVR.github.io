@@ -48355,6 +48355,42 @@
       ],
       "createdAt": "2026-06-14T05:54:08.720Z",
       "updatedAt": "2026-06-16T22:15:48.044Z"
+    },
+    {
+      "id": "series_154",
+      "type": "series",
+      "title": "Kaoru Hana Rin Saku T1",
+      "description": "Cuando el intimidante Rintarō conoce a la tierna Kaoruko, nace una inesperada relación cercana. Solo hay un pequeño problema: las escuelas a las que van son archienemigas.",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-07-06",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 0,
+      "_seasonKey": "kaoruhanarinsaku|1",
+      "episodes": [
+        {
+          "id": "s01e12",
+          "slotId": "ep_2802",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E12/master.m3u8",
+          "updatedAt": "2026-06-17T12:30:06.203Z"
+        }
+      ],
+      "createdAt": "2026-06-17T12:30:06.608Z",
+      "updatedAt": "2026-06-17T12:30:06.608Z"
     }
   ]
 }
