@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T21:25:06.445Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "series_024"
-  },
-  {
     "timestamp": "2026-04-22T21:25:08.127Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3287,5 +3281,13 @@
     "target": "ep_2815",
     "series": "series_154",
     "title": "Capítulo 14"
+  },
+  {
+    "ts": "2026-06-17T23:42:01.074Z",
+    "actor": "yutamir",
+    "action": "ADD_EPISODE",
+    "target": "ep_2816",
+    "series": "series_154",
+    "title": "Capítulo 15"
   }
 ]
