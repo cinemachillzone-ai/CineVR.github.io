@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T03:22:09.973Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_087"
-  },
-  {
     "timestamp": "2026-04-22T03:45:47.616Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3265,5 +3259,13 @@
     "target": "ep_2805",
     "series": "series_154",
     "title": "Capítulo 4"
+  },
+  {
+    "ts": "2026-06-17T22:34:42.958Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_154",
+    "title": "Kaoru Hana Rin Saku T1",
+    "eps_changed": 4
   }
 ]
