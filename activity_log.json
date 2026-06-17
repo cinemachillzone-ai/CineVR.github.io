@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T03:48:18.710Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_003"
-  },
-  {
     "timestamp": "2026-04-22T03:50:08.392Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3277,5 +3271,13 @@
     "target": "ep_2810",
     "series": "series_154",
     "title": "Capítulo 9"
+  },
+  {
+    "ts": "2026-06-17T23:39:20.262Z",
+    "actor": "yutamir",
+    "action": "ADD_EPISODE",
+    "target": "ep_2811",
+    "series": "series_154",
+    "title": "Capítulo 10"
   }
 ]
