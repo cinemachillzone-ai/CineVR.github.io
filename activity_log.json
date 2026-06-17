@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T03:45:47.616Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_052"
-  },
-  {
     "timestamp": "2026-04-22T03:46:33.472Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3267,5 +3261,13 @@
     "target": "series_154",
     "title": "Kaoru Hana Rin Saku T1",
     "eps_changed": 4
+  },
+  {
+    "ts": "2026-06-17T23:02:18.027Z",
+    "actor": "yutamir",
+    "action": "ADD_EPISODE",
+    "target": "ep_2806",
+    "series": "series_154",
+    "title": "Capítulo 5"
   }
 ]
