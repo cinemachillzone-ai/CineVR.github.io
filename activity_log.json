@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T03:05:24.795Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_052"
-  },
-  {
     "timestamp": "2026-04-22T03:17:24.112Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3262,5 +3256,12 @@
     "action": "INJECT_SERIES",
     "target": "series_154",
     "title": "Kaoru Hana Rin Saku T1"
+  },
+  {
+    "ts": "2026-06-17T18:17:40.683Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_365",
+    "title": "Rapido Y Furioso 9"
   }
 ]
