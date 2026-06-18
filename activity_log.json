@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-22T21:25:37.981Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "series_051"
-  },
-  {
     "timestamp": "2026-04-22T21:49:12.221Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3291,5 +3285,12 @@
     "target": "ep_2817",
     "series": "series_154",
     "title": "Capítulo 16"
+  },
+  {
+    "ts": "2026-06-18T00:19:20.380Z",
+    "actor": "yutamir",
+    "action": "DELETE_SERIES",
+    "target": "series_154",
+    "title": "Kaoru Hana Rin Saku T1"
   }
 ]
