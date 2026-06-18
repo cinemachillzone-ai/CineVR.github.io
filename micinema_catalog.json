@@ -48455,10 +48455,21 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E06/master.m3u8",
           "updatedAt": "2026-06-18T02:18:49.307Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2807",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E07/master.m3u8",
+          "updatedAt": "2026-06-18T02:19:37.439Z"
         }
       ],
       "createdAt": "2026-06-18T00:50:08.556Z",
-      "updatedAt": "2026-06-18T02:18:49.313Z"
+      "updatedAt": "2026-06-18T02:19:37.445Z"
     }
   ]
 }
