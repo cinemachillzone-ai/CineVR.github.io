@@ -48499,10 +48499,21 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E12/master.m3u8",
           "updatedAt": "2026-06-18T06:52:31.819Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2811",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KaoruHanaRinSaku/T1/watchKaoruHanaRinSakuLatinoS01E13/master.m3u8",
+          "updatedAt": "2026-06-18T06:53:49.203Z"
         }
       ],
       "createdAt": "2026-06-18T00:50:08.556Z",
-      "updatedAt": "2026-06-18T06:52:31.824Z"
+      "updatedAt": "2026-06-18T06:53:49.222Z"
     }
   ]
 }
