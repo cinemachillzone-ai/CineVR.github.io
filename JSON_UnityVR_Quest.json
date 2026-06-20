@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 512
+    "catalogCount": 513
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -9693,6 +9693,33 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVII/master.m3u8",
       "createdAt": "2026-06-16T21:30:25.975Z",
       "updatedAt": "2026-06-16T21:30:25.975Z"
+    },
+    {
+      "type": "movie",
+      "title": " THE AMAZING DIGITAL CIRCUS: Recuerden",
+      "description": "Con Caine desaparecido y el circo digital sumido en la oscuridad, Pomni y los dem\u00e1s quedan atrapados enfrentando sus traumas, errores del pasado y la posibilidad de pasar la eternidad dentro de ese mundo virtual. Mientras descubren la verdadera historia del circo, deber\u00e1n decidir si aceptan la realidad\u2026 o toman otro camino.",
+      "duration": "",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "recently_added",
+      "year": 2026,
+      "releaseDate": "2026-06-20",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "id": "movie_365",
+      "addedAt": "2026-06-20T07:51:35.182Z",
+      "addedBy": "Admin",
+      "atlas": "E",
+      "gridIndex": 0
     },
     {
       "type": "series",
