@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:47:24.957Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_160"
-  },
-  {
     "timestamp": "2026-04-23T02:47:48.913Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3298,5 +3292,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_370",
     "title": "Max Steel: Cuenta Regresiva"
+  },
+  {
+    "ts": "2026-06-23T07:59:57.824Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_371",
+    "title": "Divergente la serie Insurgente"
   }
 ]
