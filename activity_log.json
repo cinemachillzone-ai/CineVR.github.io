@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:31:45.071Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_054"
-  },
-  {
     "timestamp": "2026-04-24T11:32:35.075Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3318,5 +3312,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_384",
     "title": "Z-O-M-B-I-E-S 3"
+  },
+  {
+    "ts": "2026-06-23T19:24:18.669Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_385",
+    "title": "El Juez"
   }
 ]
