@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:34:09.918Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_086"
-  },
-  {
     "timestamp": "2026-04-24T11:35:05.579Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3320,5 +3314,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_386",
     "title": "Z-O-M-B-I-E-S 2"
+  },
+  {
+    "ts": "2026-06-23T19:25:31.110Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_387",
+    "title": "Exit 8"
   }
 ]
