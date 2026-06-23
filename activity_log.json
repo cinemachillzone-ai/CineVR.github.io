@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:34:43.132Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_104"
-  },
-  {
     "timestamp": "2026-04-23T10:35:44.459Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3311,5 +3305,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_382",
     "title": "Descendientes: el ascenso de Red"
+  },
+  {
+    "ts": "2026-06-23T12:35:56.357Z",
+    "actor": "yutamir",
+    "action": "INJECT_SERIES",
+    "target": "series_154",
+    "title": "asi Aprenderas T1"
   }
 ]
