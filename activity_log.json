@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T06:03:48.672Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_108"
-  },
-  {
     "timestamp": "2026-04-23T06:04:28.317Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3306,5 +3300,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_378",
     "title": "max Steel La Alianza Monstruosa"
+  },
+  {
+    "ts": "2026-06-23T08:08:12.416Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_378",
+    "title": "Max Steel: La Alianza Monstruosa"
   }
 ]
