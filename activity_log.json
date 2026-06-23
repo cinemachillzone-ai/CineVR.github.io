@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:45:18.161Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_160"
-  },
-  {
     "timestamp": "2026-04-23T02:47:08.960Z",
     "user": "Admin",
     "action": "ADD",
@@ -3295,5 +3289,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_367",
     "title": "Max Steel: Bio Crisis"
+  },
+  {
+    "ts": "2026-06-23T07:55:06.187Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_368",
+    "title": "La La Land: Una historia de amor"
   }
 ]
