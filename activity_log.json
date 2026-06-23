@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T09:55:01.423Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_008"
-  },
-  {
     "timestamp": "2026-04-24T11:29:50.363Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3315,5 +3309,12 @@
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
     "target": "series_154"
+  },
+  {
+    "ts": "2026-06-23T13:09:48.601Z",
+    "actor": "yutamir",
+    "action": "INJECT_MOVIE",
+    "target": "movie_383",
+    "title": "Drácula"
   }
 ]
