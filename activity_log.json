@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:31:12.934Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_055"
-  },
-  {
     "timestamp": "2026-04-24T11:31:45.071Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3317,5 +3311,12 @@
     "action": "DELETE_EPISODE",
     "target": "ep_2800",
     "series": "series_153"
+  },
+  {
+    "ts": "2026-06-23T19:23:39.343Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_384",
+    "title": "Z-O-M-B-I-E-S 3"
   }
 ]
