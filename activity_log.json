@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:35:44.459Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_154"
-  },
-  {
     "timestamp": "2026-04-23T10:37:28.634Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3312,5 +3306,11 @@
     "action": "INJECT_SERIES",
     "target": "series_154",
     "title": "asi Aprenderas T1"
+  },
+  {
+    "ts": "2026-06-23T12:37:10.204Z",
+    "actor": "yutamir",
+    "action": "INJECT_EPISODE",
+    "target": "series_154"
   }
 ]
