@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:40:31.983Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_157"
-  },
-  {
-    "timestamp": "2026-04-23T02:42:18.443Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_159"
-  },
-  {
     "timestamp": "2026-04-23T02:45:10.157Z",
     "user": "Admin",
     "action": "ADD",
@@ -3299,5 +3287,12 @@
     "user": "Admin",
     "action": "ADD",
     "targetId": "movie_365"
+  },
+  {
+    "ts": "2026-06-23T07:54:03.908Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_366",
+    "title": "Los Descendientes 2"
   }
 ]
