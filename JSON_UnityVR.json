@@ -36845,10 +36845,17 @@
           "title": "Capítulo 3",
           "master_url": "",
           "createdAt": "2026-06-23T12:40:29.495Z"
+        },
+        {
+          "id": "s01e32026",
+          "slotId": "ep_2805",
+          "title": "Capítulo 32026",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/asiAprenderas/T1/asiaprenderass01e032026/master.m3u8",
+          "updatedAt": "2026-06-23T12:43:01.663Z"
         }
       ],
       "createdAt": "2026-06-23T12:35:44.165Z",
-      "updatedAt": "2026-06-23T12:36:57.960Z"
+      "updatedAt": "2026-06-23T12:43:01.669Z"
     }
   ]
 }
