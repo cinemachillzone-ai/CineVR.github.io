@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T03:02:04.456Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_109"
-  },
-  {
     "timestamp": "2026-04-23T06:03:48.672Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3305,5 +3299,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_377",
     "title": "Max Steel: En peligro de extinción"
+  },
+  {
+    "ts": "2026-06-23T08:05:04.014Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_378",
+    "title": "max Steel La Alianza Monstruosa"
   }
 ]
