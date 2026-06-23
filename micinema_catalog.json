@@ -49373,10 +49373,21 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/asiAprenderas/T1/asiaprenderass01e082026/master.m3u8",
           "updatedAt": "2026-06-23T13:05:08.595Z"
+        },
+        {
+          "id": "s01e102026",
+          "slotId": "ep_2811",
+          "title": "Capítulo 102026",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/asiAprenderas/T1/asiaprenderass01e102026/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/asiAprenderas/T1/asiaprenderass01e102026/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/asiAprenderas/T1/asiaprenderass01e102026/master.m3u8",
+          "updatedAt": "2026-06-23T13:06:23.546Z"
         }
       ],
       "createdAt": "2026-06-23T12:35:44.165Z",
-      "updatedAt": "2026-06-23T13:05:08.599Z"
+      "updatedAt": "2026-06-23T13:06:23.551Z"
     }
   ]
 }
