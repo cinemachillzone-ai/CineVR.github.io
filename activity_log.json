@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:54:11.553Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_164"
-  },
-  {
     "timestamp": "2026-04-23T03:01:52.746Z",
     "user": "Admin",
     "action": "ADD",
@@ -3303,5 +3297,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_375",
     "title": "Max Steel vs El Oscuro Enemigo"
+  },
+  {
+    "ts": "2026-06-23T08:03:07.765Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_376",
+    "title": "Max Steel Vs The Mutant Menace"
   }
 ]
