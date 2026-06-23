@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:51:52.779Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_163"
-  },
-  {
     "timestamp": "2026-04-23T02:54:11.553Z",
     "user": "Admin",
     "action": "ADD",
@@ -3302,5 +3296,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_374",
     "title": "Max Steel: Makino's Revenge"
+  },
+  {
+    "ts": "2026-06-23T08:02:42.534Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_375",
+    "title": "Max Steel vs El Oscuro Enemigo"
   }
 ]
