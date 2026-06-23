@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:34:01.661Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_105"
-  },
-  {
     "timestamp": "2026-04-23T10:34:43.132Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3310,5 +3304,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_381",
     "title": "El tigre y el dragón"
+  },
+  {
+    "ts": "2026-06-23T08:33:24.926Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_382",
+    "title": "Descendientes: el ascenso de Red"
   }
 ]
