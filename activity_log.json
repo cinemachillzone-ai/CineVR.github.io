@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:45:10.157Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_160"
-  },
-  {
     "timestamp": "2026-04-23T02:45:18.161Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3294,5 +3288,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_366",
     "title": "Los Descendientes 2"
+  },
+  {
+    "ts": "2026-06-23T07:54:26.001Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_367",
+    "title": "Max Steel: Bio Crisis"
   }
 ]
