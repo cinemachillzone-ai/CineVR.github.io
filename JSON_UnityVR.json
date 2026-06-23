@@ -10869,7 +10869,7 @@
       ],
       "enabled": true,
       "id": "series_004",
-      "addedAt": "2026-04-01T02:58:55.742Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 28,
@@ -11096,7 +11096,7 @@
       ],
       "enabled": true,
       "id": "series_005",
-      "addedAt": "2026-04-01T02:58:56.862Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 29,
@@ -11299,7 +11299,7 @@
       ],
       "enabled": true,
       "id": "series_006",
-      "addedAt": "2026-04-01T02:59:13.029Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 30,
@@ -11502,7 +11502,7 @@
       ],
       "enabled": true,
       "id": "series_007",
-      "addedAt": "2026-04-01T02:59:15.444Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 31,
@@ -11705,7 +11705,7 @@
       ],
       "enabled": true,
       "id": "series_008",
-      "addedAt": "2026-04-01T02:59:16.481Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 32,
@@ -11908,7 +11908,7 @@
       ],
       "enabled": true,
       "id": "series_009",
-      "addedAt": "2026-04-01T02:59:17.767Z",
+      "addedAt": "2026-04-01T02:58:42.907Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 33,
@@ -12354,7 +12354,7 @@
       ],
       "enabled": true,
       "id": "series_012",
-      "addedAt": "2026-04-01T03:13:49.559Z",
+      "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 36,
@@ -12491,7 +12491,7 @@
       ],
       "enabled": true,
       "id": "series_013",
-      "addedAt": "2026-04-01T03:13:50.760Z",
+      "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 37,
@@ -12628,7 +12628,7 @@
       ],
       "enabled": true,
       "id": "series_014",
-      "addedAt": "2026-04-01T03:13:51.737Z",
+      "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 38,
@@ -12766,7 +12766,7 @@
       ],
       "enabled": true,
       "id": "series_015",
-      "addedAt": "2026-04-01T03:13:53.891Z",
+      "addedAt": "2026-04-01T03:13:34.985Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 39,
@@ -13195,7 +13195,7 @@
       ],
       "enabled": true,
       "id": "series_017",
-      "addedAt": "2026-04-01T03:23:23.457Z",
+      "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 41,
@@ -13245,7 +13245,7 @@
       ],
       "enabled": true,
       "id": "series_018",
-      "addedAt": "2026-04-01T03:23:26.102Z",
+      "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 42,
@@ -13367,7 +13367,7 @@
       ],
       "enabled": true,
       "id": "series_019",
-      "addedAt": "2026-04-01T03:23:26.936Z",
+      "addedAt": "2026-04-01T03:23:03.032Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 43,
@@ -13669,7 +13669,7 @@
       ],
       "enabled": true,
       "id": "series_021",
-      "addedAt": "2026-04-01T03:30:31.942Z",
+      "addedAt": "2026-04-01T03:30:15.960Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 45,
@@ -14142,7 +14142,7 @@
       ],
       "enabled": true,
       "id": "series_023",
-      "addedAt": "2026-04-01T03:37:50.167Z",
+      "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 47,
@@ -14330,7 +14330,7 @@
       ],
       "enabled": true,
       "id": "series_024",
-      "addedAt": "2026-04-01T03:37:52.173Z",
+      "addedAt": "2026-04-01T03:37:21.231Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 48,
@@ -15048,7 +15048,7 @@
         }
       ],
       "id": "series_029",
-      "addedAt": "2026-04-10T02:53:19.223Z",
+      "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 53
@@ -15178,7 +15178,7 @@
         }
       ],
       "id": "series_030",
-      "addedAt": "2026-04-10T02:54:07.187Z",
+      "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 54
@@ -15308,7 +15308,7 @@
         }
       ],
       "id": "series_031",
-      "addedAt": "2026-04-10T02:55:45.859Z",
+      "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 55
@@ -15462,7 +15462,7 @@
         }
       ],
       "id": "series_032",
-      "addedAt": "2026-04-10T02:56:35.887Z",
+      "addedAt": "2026-04-10T02:51:53.420Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 56
@@ -15931,7 +15931,7 @@
         }
       ],
       "id": "series_034",
-      "addedAt": "2026-04-10T03:00:49.702Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 58
@@ -16162,7 +16162,7 @@
         }
       ],
       "id": "series_035",
-      "addedAt": "2026-04-10T03:01:38.558Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 59
@@ -16190,7 +16190,7 @@
         }
       ],
       "id": "series_036",
-      "addedAt": "2026-04-10T03:02:29.425Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 60
@@ -16632,7 +16632,7 @@
         }
       ],
       "id": "series_037",
-      "addedAt": "2026-04-10T03:03:08.749Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 61
@@ -17002,7 +17002,7 @@
         }
       ],
       "id": "series_038",
-      "addedAt": "2026-04-10T03:05:34.210Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 62
@@ -17236,7 +17236,7 @@
         }
       ],
       "id": "series_039",
-      "addedAt": "2026-04-10T03:07:10.767Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 63
@@ -17478,7 +17478,7 @@
         }
       ],
       "id": "series_040",
-      "addedAt": "2026-04-10T03:09:09.608Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 64
@@ -17616,7 +17616,7 @@
         }
       ],
       "id": "series_041",
-      "addedAt": "2026-04-10T03:10:00.726Z",
+      "addedAt": "2026-04-10T02:58:16.752Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 65
@@ -18160,7 +18160,7 @@
         }
       ],
       "id": "series_043",
-      "addedAt": "2026-04-10T03:14:50.061Z",
+      "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 67
@@ -18364,7 +18364,7 @@
         }
       ],
       "id": "series_044",
-      "addedAt": "2026-04-10T03:17:16.179Z",
+      "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 68
@@ -20276,7 +20276,7 @@
         }
       ],
       "id": "series_053",
-      "addedAt": "2026-04-12T00:38:18.268Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 77
@@ -20626,7 +20626,7 @@
         }
       ],
       "id": "series_054",
-      "addedAt": "2026-04-12T00:42:12.628Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 78
@@ -20954,7 +20954,7 @@
         }
       ],
       "id": "series_055",
-      "addedAt": "2026-04-12T00:49:18.178Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 79
@@ -21210,7 +21210,7 @@
         }
       ],
       "id": "series_056",
-      "addedAt": "2026-04-12T00:52:07.308Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 80
@@ -21567,7 +21567,7 @@
         }
       ],
       "id": "series_057",
-      "addedAt": "2026-04-12T01:25:01.481Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 81,
@@ -22080,7 +22080,7 @@
         }
       ],
       "id": "series_059",
-      "addedAt": "2026-04-12T02:20:15.469Z",
+      "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 83
@@ -22721,7 +22721,7 @@
         }
       ],
       "id": "series_065",
-      "addedAt": "2026-04-13T19:27:56.396Z",
+      "addedAt": "2026-04-13T19:23:53.440Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 89
@@ -22859,7 +22859,7 @@
         }
       ],
       "id": "series_066",
-      "addedAt": "2026-04-13T19:40:08.567Z",
+      "addedAt": "2026-04-13T19:23:53.440Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 90
@@ -24037,7 +24037,7 @@
         }
       ],
       "id": "series_070",
-      "addedAt": "2026-04-13T20:28:40.014Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 94
@@ -24223,7 +24223,7 @@
         }
       ],
       "id": "series_071",
-      "addedAt": "2026-04-13T20:33:59.728Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 95
@@ -24441,7 +24441,7 @@
         }
       ],
       "id": "series_072",
-      "addedAt": "2026-04-13T20:37:58.691Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 96
@@ -24659,7 +24659,7 @@
         }
       ],
       "id": "series_073",
-      "addedAt": "2026-04-13T20:43:34.588Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 97
@@ -24877,7 +24877,7 @@
         }
       ],
       "id": "series_074",
-      "addedAt": "2026-04-13T20:47:30.712Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 98
@@ -25095,7 +25095,7 @@
         }
       ],
       "id": "series_075",
-      "addedAt": "2026-04-13T20:51:30.723Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 99
@@ -25313,7 +25313,7 @@
         }
       ],
       "id": "series_076",
-      "addedAt": "2026-04-13T20:57:55.550Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 100
@@ -25531,7 +25531,7 @@
         }
       ],
       "id": "series_077",
-      "addedAt": "2026-04-13T21:02:17.514Z",
+      "addedAt": "2026-04-13T20:23:34.227Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 101
@@ -25883,7 +25883,7 @@
         }
       ],
       "id": "series_079",
-      "addedAt": "2026-04-13T21:10:27.045Z",
+      "addedAt": "2026-04-13T21:07:48.159Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 103
@@ -26007,7 +26007,7 @@
         }
       ],
       "id": "series_080",
-      "addedAt": "2026-04-13T21:13:46.305Z",
+      "addedAt": "2026-04-13T21:07:48.159Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 104
@@ -26373,7 +26373,7 @@
         }
       ],
       "id": "series_083",
-      "addedAt": "2026-04-14T03:19:55.351Z",
+      "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 107
@@ -26504,7 +26504,7 @@
         }
       ],
       "id": "series_084",
-      "addedAt": "2026-04-14T03:25:22.071Z",
+      "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 108
@@ -26635,7 +26635,7 @@
         }
       ],
       "id": "series_085",
-      "addedAt": "2026-04-14T03:28:14.644Z",
+      "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 109
@@ -26766,7 +26766,7 @@
         }
       ],
       "id": "series_086",
-      "addedAt": "2026-04-14T03:31:27.477Z",
+      "addedAt": "2026-04-14T03:01:20.871Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 110
@@ -27258,7 +27258,7 @@
         }
       ],
       "id": "series_088",
-      "addedAt": "2026-04-14T03:45:09.859Z",
+      "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 112
@@ -27891,7 +27891,7 @@
         }
       ],
       "id": "series_091",
-      "addedAt": "2026-04-14T18:24:03.582Z",
+      "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 115
@@ -28126,7 +28126,7 @@
         }
       ],
       "id": "series_092",
-      "addedAt": "2026-04-14T18:27:23.465Z",
+      "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 116
@@ -28345,7 +28345,7 @@
         }
       ],
       "id": "series_093",
-      "addedAt": "2026-04-14T18:31:20.189Z",
+      "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 117
@@ -28552,7 +28552,7 @@
         }
       ],
       "id": "series_094",
-      "addedAt": "2026-04-14T18:38:25.691Z",
+      "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 118
@@ -28650,7 +28650,7 @@
         }
       ],
       "id": "series_096",
-      "addedAt": "2026-04-14T18:46:08.256Z",
+      "addedAt": "2026-04-14T18:20:33.619Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 120
@@ -29026,7 +29026,7 @@
         }
       ],
       "id": "series_098",
-      "addedAt": "2026-04-14T19:59:46.922Z",
+      "addedAt": "2026-04-14T19:55:09.179Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 122
@@ -29578,7 +29578,7 @@
       ],
       "enabled": true,
       "id": "series_103",
-      "addedAt": "2026-04-19T01:47:31.483Z",
+      "addedAt": "2026-04-17T21:09:41.458Z",
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 127,
@@ -29928,7 +29928,7 @@
         }
       ],
       "id": "series_104",
-      "addedAt": "2026-04-19T23:02:44.083Z",
+      "addedAt": "2026-04-17T21:09:41.458Z",
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 0,
@@ -30415,7 +30415,7 @@
         }
       ],
       "id": "series_109",
-      "addedAt": "2026-04-29T00:46:42.118Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 18
@@ -30627,7 +30627,7 @@
         }
       ],
       "id": "series_110",
-      "addedAt": "2026-04-29T01:15:12.520Z",
+      "addedAt": "2026-04-10T08:47:46.431Z",
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 19,
@@ -30742,7 +30742,7 @@
         }
       ],
       "id": "series_111",
-      "addedAt": "2026-04-30T20:22:17.185Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 24
@@ -30983,7 +30983,7 @@
         }
       ],
       "id": "series_113",
-      "addedAt": "2026-05-08T01:02:22.449Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Admin",
       "atlas": "C",
       "gridIndex": 52
@@ -31819,7 +31819,7 @@
       ],
       "createdAt": "2026-05-31T23:21:43.235Z",
       "updatedAt": "2026-05-31T23:21:43.235Z",
-      "addedAt": "2026-05-13T05:33:45.000Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Sistema"
     },
     {
@@ -31943,7 +31943,7 @@
       ],
       "createdAt": "2026-05-31T23:33:33.712Z",
       "updatedAt": "2026-05-31T23:33:33.712Z",
-      "addedAt": "2026-05-14T07:13:58.000Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Sistema"
     },
     {
@@ -32067,7 +32067,7 @@
       ],
       "createdAt": "2026-05-31T23:36:18.938Z",
       "updatedAt": "2026-05-31T23:36:18.938Z",
-      "addedAt": "2026-05-15T08:54:11.000Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Sistema"
     },
     {
@@ -32192,7 +32192,7 @@
       ],
       "createdAt": "2026-05-31T23:41:43.351Z",
       "updatedAt": "2026-05-31T23:41:43.351Z",
-      "addedAt": "2026-05-16T10:34:24.000Z",
+      "addedAt": "2026-04-14T20:11:24.387Z",
       "addedBy": "Sistema"
     },
     {
@@ -32625,7 +32625,7 @@
       ],
       "createdAt": "2026-06-01T16:04:17.477Z",
       "updatedAt": "2026-06-01T16:04:17.477Z",
-      "addedAt": "2026-05-19T15:35:03.000Z",
+      "addedAt": "2026-05-18T13:54:50.000Z",
       "addedBy": "Sistema"
     },
     {
@@ -32885,7 +32885,7 @@
       ],
       "createdAt": "2026-06-05T13:01:30.852Z",
       "updatedAt": "2026-06-05T13:01:30.852Z",
-      "addedAt": "2026-05-21T18:55:29.000Z",
+      "addedAt": "2026-05-20T17:15:16.000Z",
       "addedBy": "Sistema"
     },
     {
@@ -33015,7 +33015,7 @@
       ],
       "createdAt": "2026-06-05T13:01:31.007Z",
       "updatedAt": "2026-06-05T13:01:31.007Z",
-      "addedAt": "2026-05-22T20:35:42.000Z",
+      "addedAt": "2026-05-20T17:15:16.000Z",
       "addedBy": "Sistema"
     },
     {
@@ -33121,7 +33121,7 @@
       ],
       "createdAt": "2026-06-05T13:01:31.183Z",
       "updatedAt": "2026-06-05T13:01:31.183Z",
-      "addedAt": "2026-05-23T22:15:55.000Z",
+      "addedAt": "2026-05-20T17:15:16.000Z",
       "addedBy": "Sistema"
     },
     {
@@ -34092,7 +34092,7 @@
       ],
       "createdAt": "2026-06-05T13:01:32.828Z",
       "updatedAt": "2026-06-05T13:01:32.828Z",
-      "addedAt": "2026-05-29T06:36:59.000Z",
+      "addedAt": "2026-05-28T04:56:47.000Z",
       "addedBy": "Sistema"
     },
     {
@@ -34335,7 +34335,7 @@
       ],
       "createdAt": "2026-06-05T13:02:43.363Z",
       "updatedAt": "2026-06-05T13:02:43.363Z",
-      "addedAt": "2026-05-30T08:17:12.000Z",
+      "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Sistema"
     },
     {
@@ -34474,7 +34474,7 @@
       ],
       "createdAt": "2026-06-05T13:02:43.601Z",
       "updatedAt": "2026-06-05T13:02:43.601Z",
-      "addedAt": "2026-05-31T09:57:25.000Z",
+      "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Sistema"
     },
     {
@@ -34717,7 +34717,7 @@
       ],
       "createdAt": "2026-06-05T13:02:43.729Z",
       "updatedAt": "2026-06-05T13:02:43.729Z",
-      "addedAt": "2026-06-01T11:37:38.000Z",
+      "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Sistema"
     },
     {
@@ -34912,7 +34912,7 @@
       ],
       "createdAt": "2026-06-05T13:02:43.853Z",
       "updatedAt": "2026-06-05T13:02:43.853Z",
-      "addedAt": "2026-06-02T13:17:51.000Z",
+      "addedAt": "2026-04-14T03:41:11.247Z",
       "addedBy": "Sistema"
     },
     {
@@ -35292,7 +35292,7 @@
       ],
       "createdAt": "2026-06-05T13:02:44.267Z",
       "updatedAt": "2026-06-05T13:02:44.267Z",
-      "addedAt": "2026-06-04T16:38:17.000Z",
+      "addedAt": "2026-04-10T03:13:43.744Z",
       "addedBy": "Sistema"
     },
     {
@@ -35527,7 +35527,7 @@
       ],
       "createdAt": "2026-06-05T13:04:06.501Z",
       "updatedAt": "2026-06-05T13:04:06.501Z",
-      "addedAt": "2026-06-07T21:38:56.000Z",
+      "addedAt": "2026-04-10T08:47:46.431Z",
       "addedBy": "Sistema"
     },
     {
@@ -35651,7 +35651,7 @@
       ],
       "createdAt": "2026-06-05T13:04:06.868Z",
       "updatedAt": "2026-06-05T13:04:06.868Z",
-      "addedAt": "2026-06-08T23:19:09.000Z",
+      "addedAt": "2026-04-06T08:20:06.980Z",
       "addedBy": "Sistema"
     },
     {
@@ -36181,7 +36181,7 @@
       ],
       "createdAt": "2026-06-05T13:04:50.220Z",
       "updatedAt": "2026-06-05T13:04:50.220Z",
-      "addedAt": "2026-06-12T04:19:48.000Z",
+      "addedAt": "2026-04-12T00:35:33.975Z",
       "addedBy": "Sistema"
     },
     {
