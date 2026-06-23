@@ -11216,6 +11216,35 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/divergente720p2014/master.m3u8",
       "createdAt": "2026-06-23T07:56:25.301Z",
       "updatedAt": "2026-06-23T07:56:25.301Z"
+    },
+    {
+      "id": "movie_370",
+      "type": "movie",
+      "title": "Max Steel: Cuenta Regresiva",
+      "description": "Max Steel deberá luchar contra uno de sus rivales más importantes: Elementor. Este puede controlar los cuatro elementos: tierra, fuego, agua y aire. Max Steel se verá obligado a usar toda su energía para derribar a su rival. Además de todo esto, tiene un límite de tiempo para detener a Elementor. De lo contrario, todo el planeta será destruido.",
+      "duration": "0h 51m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2006-10-01",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Action",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 5,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelCuentaRegresiva2006/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelCuentaRegresiva2006/master.m3u8",
+      "createdAt": "2026-06-23T07:58:05.209Z",
+      "updatedAt": "2026-06-23T07:58:05.209Z"
     }
   ],
   "series": [
