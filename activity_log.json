@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:32:40.755Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_107"
-  },
-  {
     "timestamp": "2026-04-23T10:33:22.364Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3308,5 +3302,12 @@
     "actor": "carmesi",
     "action": "FULL_SAVE",
     "size": 1772338
+  },
+  {
+    "ts": "2026-06-23T08:31:30.830Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_380",
+    "title": "Muy parecido al amor"
   }
 ]
