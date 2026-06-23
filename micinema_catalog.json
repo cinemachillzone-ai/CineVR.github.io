@@ -11134,6 +11134,33 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losDescendientes2O2017/master.m3u8",
       "createdAt": "2026-06-23T07:53:51.339Z",
       "updatedAt": "2026-06-23T07:53:51.339Z"
+    },
+    {
+      "id": "movie_367",
+      "type": "movie",
+      "title": "Max Steel: Bio Crisis",
+      "description": "",
+      "duration": "0h 52m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2008-10-01",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 2,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelBioCrisis2008/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelBioCrisis2008/master.m3u8",
+      "createdAt": "2026-06-23T07:54:13.729Z",
+      "updatedAt": "2026-06-23T07:54:13.729Z"
     }
   ],
   "series": [
