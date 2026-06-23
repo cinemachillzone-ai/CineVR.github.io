@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:31:53.528Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_108"
-  },
-  {
     "timestamp": "2026-04-23T10:32:40.755Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3305,6 +3299,12 @@
   },
   {
     "ts": "2026-06-23T08:12:34.819Z",
+    "actor": "carmesi",
+    "action": "FULL_SAVE",
+    "size": 1772338
+  },
+  {
+    "ts": "2026-06-23T08:26:04.549Z",
     "actor": "carmesi",
     "action": "FULL_SAVE",
     "size": 1772338
