@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T06:04:28.317Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_151"
-  },
-  {
     "timestamp": "2026-04-23T06:05:45.974Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3307,5 +3301,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_378",
     "title": "Max Steel: La Alianza Monstruosa"
+  },
+  {
+    "ts": "2026-06-23T08:09:45.117Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_379",
+    "title": "Descendientes: el ascenso de Red"
   }
 ]
