@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:47:48.913Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_157"
-  },
-  {
     "timestamp": "2026-04-23T02:49:43.550Z",
     "user": "Admin",
     "action": "ADD",
@@ -3299,5 +3293,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_371",
     "title": "Divergente la serie Insurgente"
+  },
+  {
+    "ts": "2026-06-23T08:00:45.848Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_372",
+    "title": "Max Steel - El Dominio de los Elementos"
   }
 ]
