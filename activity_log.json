@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T02:50:57.045Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_162"
-  },
-  {
     "timestamp": "2026-04-23T02:51:52.779Z",
     "user": "Admin",
     "action": "ADD",
@@ -3301,5 +3295,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_373",
     "title": "Max Steel vs The Toxic Legion"
+  },
+  {
+    "ts": "2026-06-23T08:02:03.513Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_374",
+    "title": "Max Steel: Makino's Revenge"
   }
 ]
