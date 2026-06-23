@@ -6798,7 +6798,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/12Monos/master.m3u8",
       "createdAt": "2026-05-31T22:30:45.987Z",
       "updatedAt": "2026-05-31T22:30:45.987Z",
-      "tokenDuration": 7775
+      "tokenDuration": 7775,
+      "addedAt": "2026-05-14T07:01:34.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_214",
@@ -6833,7 +6835,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cadaverdelanovia/master.m3u8",
       "createdAt": "2026-05-31T23:05:56.874Z",
       "updatedAt": "2026-05-31T23:05:56.874Z",
-      "tokenDuration": 4630
+      "tokenDuration": 4630,
+      "addedAt": "2026-05-14T12:52:26.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_215",
@@ -6865,7 +6869,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
       "createdAt": "2026-05-31T23:08:58.362Z",
       "updatedAt": "2026-05-31T23:08:58.362Z",
-      "tokenDuration": 6923
+      "tokenDuration": 6923,
+      "addedAt": "2026-05-14T18:43:17.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_216",
@@ -6897,7 +6903,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnMonstruoEnParis/master.m3u8",
       "createdAt": "2026-06-01T00:36:26.722Z",
       "updatedAt": "2026-06-01T06:00:04.919Z",
-      "tokenDuration": 5400
+      "tokenDuration": 5400,
+      "addedAt": "2026-05-15T00:34:08.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_217",
@@ -6926,7 +6934,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElImperioDelSol/master.m3u8",
       "createdAt": "2026-06-01T01:04:45.889Z",
       "updatedAt": "2026-06-01T06:00:04.919Z",
-      "tokenDuration": 9166
+      "tokenDuration": 9166,
+      "addedAt": "2026-05-15T06:24:59.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_218",
@@ -6955,7 +6965,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElInformante/master.m3u8",
       "createdAt": "2026-06-01T01:45:19.642Z",
       "updatedAt": "2026-06-01T06:00:04.919Z",
-      "tokenDuration": 6162
+      "tokenDuration": 6162,
+      "addedAt": "2026-05-15T12:15:51.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_219",
@@ -6987,7 +6999,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElNinoYLaBestia/master.m3u8",
       "createdAt": "2026-06-01T01:54:42.195Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 7147
+      "tokenDuration": 7147,
+      "addedAt": "2026-05-15T18:06:42.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_220",
@@ -7018,7 +7032,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FuerzaBrutaSinSalida/master.m3u8",
       "createdAt": "2026-06-01T02:10:41.058Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 6332
+      "tokenDuration": 6332,
+      "addedAt": "2026-05-15T23:57:33.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_221",
@@ -7047,7 +7063,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HaciaRutasSalvajes/master.m3u8",
       "createdAt": "2026-06-01T02:15:47.005Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 8918
+      "tokenDuration": 8918,
+      "addedAt": "2026-05-16T05:48:25.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_222",
@@ -7076,7 +7094,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IAmVanessaGuillen/master.m3u8",
       "createdAt": "2026-06-01T02:22:27.297Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 5765
+      "tokenDuration": 5765,
+      "addedAt": "2026-05-16T11:39:16.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_223",
@@ -7105,7 +7125,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Identidad/master.m3u8",
       "createdAt": "2026-06-01T02:26:21.500Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 5261
+      "tokenDuration": 5261,
+      "addedAt": "2026-05-16T17:30:07.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_224",
@@ -7134,7 +7156,9 @@
       },
       "master_url": "",
       "createdAt": "2026-06-01T02:31:49.651Z",
-      "updatedAt": "2026-06-01T02:31:49.651Z"
+      "updatedAt": "2026-06-01T02:31:49.651Z",
+      "addedAt": "2026-05-16T23:20:59.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_226",
@@ -7164,7 +7188,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MATRIX/master.m3u8",
       "createdAt": "2026-06-01T03:33:17.644Z",
       "updatedAt": "2026-06-01T06:00:04.920Z",
-      "tokenDuration": 8178
+      "tokenDuration": 8178,
+      "addedAt": "2026-05-17T11:02:41.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_227",
@@ -7193,7 +7219,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Munich/master.m3u8",
       "createdAt": "2026-06-01T14:23:57.637Z",
       "updatedAt": "2026-06-01T18:00:04.944Z",
-      "tokenDuration": 9888
+      "tokenDuration": 9888,
+      "addedAt": "2026-05-17T16:53:33.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_228",
@@ -7222,7 +7250,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:27:44.661Z",
       "updatedAt": "2026-06-01T18:00:04.944Z",
-      "tokenDuration": 5692
+      "tokenDuration": 5692,
+      "addedAt": "2026-05-17T22:44:24.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_229",
@@ -7251,7 +7281,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:29:03.161Z",
       "updatedAt": "2026-06-01T18:00:04.944Z",
-      "tokenDuration": 5692
+      "tokenDuration": 5692,
+      "addedAt": "2026-05-18T04:35:15.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_230",
@@ -7282,7 +7314,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SuperMarioGalaxyLaPelicula/master.m3u8",
       "createdAt": "2026-06-01T14:39:26.290Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 5904
+      "tokenDuration": 5904,
+      "addedAt": "2026-05-18T10:26:07.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_231",
@@ -7312,7 +7346,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TronElLegado/master.m3u8",
       "createdAt": "2026-06-01T14:47:09.622Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 7508
+      "tokenDuration": 7508,
+      "addedAt": "2026-05-18T16:16:58.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_232",
@@ -7342,7 +7378,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlDiabloConElDiablo/master.m3u8",
       "createdAt": "2026-06-01T14:50:57.693Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 5589
+      "tokenDuration": 5589,
+      "addedAt": "2026-05-18T22:07:49.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_233",
@@ -7371,7 +7409,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AlgoPasaConMary/master.m3u8",
       "createdAt": "2026-06-01T14:56:48.309Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 7842
+      "tokenDuration": 7842,
+      "addedAt": "2026-05-19T03:58:41.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_234",
@@ -7401,7 +7441,9 @@
       },
       "master_url": "",
       "createdAt": "2026-06-01T15:00:33.232Z",
-      "updatedAt": "2026-06-01T15:00:33.232Z"
+      "updatedAt": "2026-06-01T15:00:33.232Z",
+      "addedAt": "2026-05-19T09:49:32.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_235",
@@ -7429,7 +7471,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8",
       "createdAt": "2026-06-01T15:04:39.489Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 5534
+      "tokenDuration": 5534,
+      "addedAt": "2026-05-19T15:40:23.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_236",
@@ -7458,7 +7502,9 @@
       },
       "master_url": "",
       "createdAt": "2026-06-01T15:16:40.792Z",
-      "updatedAt": "2026-06-01T15:16:40.792Z"
+      "updatedAt": "2026-06-01T15:16:40.792Z",
+      "addedAt": "2026-05-19T21:31:15.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_237",
@@ -7487,7 +7533,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanPerfecto/master.m3u8",
       "createdAt": "2026-06-01T15:20:56.003Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 7717
+      "tokenDuration": 7717,
+      "addedAt": "2026-05-20T03:22:06.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_238",
@@ -7516,7 +7564,9 @@
       },
       "master_url": "",
       "createdAt": "2026-06-01T15:24:56.456Z",
-      "updatedAt": "2026-06-01T15:24:56.456Z"
+      "updatedAt": "2026-06-01T15:24:56.456Z",
+      "addedAt": "2026-05-20T09:12:57.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_239",
@@ -7547,7 +7597,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtrana/master.m3u8",
       "createdAt": "2026-06-01T15:28:45.393Z",
       "updatedAt": "2026-06-01T18:00:04.945Z",
-      "tokenDuration": 5978
+      "tokenDuration": 5978,
+      "addedAt": "2026-05-20T15:03:48.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_240",
@@ -7577,7 +7629,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alita/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.062Z",
       "updatedAt": "2026-06-05T12:48:00.062Z",
-      "tokenDuration": 7318
+      "tokenDuration": 7318,
+      "addedAt": "2026-05-20T20:54:40.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_241",
@@ -7607,7 +7661,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caracortada/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.406Z",
       "updatedAt": "2026-06-05T12:48:00.406Z",
-      "tokenDuration": 10223
+      "tokenDuration": 10223,
+      "addedAt": "2026-05-21T02:45:31.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_242",
@@ -7637,7 +7693,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DetectivePorError/master.m3u8",
       "createdAt": "2026-06-05T12:48:00.682Z",
       "updatedAt": "2026-06-05T12:48:00.682Z",
-      "tokenDuration": 4989
+      "tokenDuration": 4989,
+      "addedAt": "2026-05-21T08:36:22.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_243",
@@ -7667,7 +7725,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCaballeroDeLaNocheBatman/master.m3u8",
       "createdAt": "2026-06-05T12:52:12.950Z",
       "updatedAt": "2026-06-05T12:52:12.950Z",
-      "tokenDuration": 9134
+      "tokenDuration": 9134,
+      "addedAt": "2026-05-21T14:27:14.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_244",
@@ -7697,7 +7757,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCuartoContacto/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.162Z",
       "updatedAt": "2026-06-05T12:52:13.162Z",
-      "tokenDuration": 5881
+      "tokenDuration": 5881,
+      "addedAt": "2026-05-21T20:18:05.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_245",
@@ -7727,7 +7789,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.428Z",
       "updatedAt": "2026-06-05T12:52:13.428Z",
-      "tokenDuration": 5879
+      "tokenDuration": 5879,
+      "addedAt": "2026-05-22T02:08:56.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_246",
@@ -7757,7 +7821,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.568Z",
       "updatedAt": "2026-06-05T12:52:13.568Z",
-      "tokenDuration": 9470
+      "tokenDuration": 9470,
+      "addedAt": "2026-05-22T07:59:48.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_247",
@@ -7787,7 +7853,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardianesDeLaGalaxia/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.002Z",
       "updatedAt": "2026-06-05T12:52:14.002Z",
-      "tokenDuration": 7252
+      "tokenDuration": 7252,
+      "addedAt": "2026-05-22T13:50:39.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_248",
@@ -7817,7 +7885,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HanSolo/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.215Z",
       "updatedAt": "2026-06-05T12:52:14.215Z",
-      "tokenDuration": 8087
+      "tokenDuration": 8087,
+      "addedAt": "2026-05-22T19:41:30.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_249",
@@ -7846,7 +7916,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.436Z",
       "updatedAt": "2026-06-05T12:52:14.436Z",
-      "tokenDuration": 7273
+      "tokenDuration": 7273,
+      "addedAt": "2026-05-23T01:32:22.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_250",
@@ -7876,7 +7948,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana2/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.646Z",
       "updatedAt": "2026-06-05T12:52:14.646Z",
-      "tokenDuration": 8149
+      "tokenDuration": 8149,
+      "addedAt": "2026-05-23T07:23:13.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_251",
@@ -7906,7 +7980,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HombreArana3/master.m3u8",
       "createdAt": "2026-06-05T12:52:14.863Z",
       "updatedAt": "2026-06-05T12:52:14.863Z",
-      "tokenDuration": 8351
+      "tokenDuration": 8351,
+      "addedAt": "2026-05-23T13:14:04.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_252",
@@ -7937,7 +8013,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2013/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.076Z",
       "updatedAt": "2026-06-05T12:52:15.076Z",
-      "tokenDuration": 5492
+      "tokenDuration": 5492,
+      "addedAt": "2026-05-23T19:04:56.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_253",
@@ -7966,7 +8044,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.522Z",
       "updatedAt": "2026-06-05T12:52:15.522Z",
-      "tokenDuration": 6409
+      "tokenDuration": 6409,
+      "addedAt": "2026-05-24T00:55:47.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_254",
@@ -7996,7 +8076,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick2/master.m3u8",
       "createdAt": "2026-06-05T12:52:15.843Z",
       "updatedAt": "2026-06-05T12:52:15.843Z",
-      "tokenDuration": 7343
+      "tokenDuration": 7343,
+      "addedAt": "2026-05-24T06:46:38.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_255",
@@ -8026,7 +8108,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas2/master.m3u8",
       "createdAt": "2026-06-05T12:52:16.164Z",
       "updatedAt": "2026-06-05T12:52:16.164Z",
-      "tokenDuration": 5712
+      "tokenDuration": 5712,
+      "addedAt": "2026-05-24T12:37:30.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_256",
@@ -8055,7 +8139,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmasIi/master.m3u8",
       "createdAt": "2026-06-05T12:52:17.955Z",
       "updatedAt": "2026-06-05T12:52:17.955Z",
-      "tokenDuration": 6498
+      "tokenDuration": 6498,
+      "addedAt": "2026-05-24T18:28:21.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_257",
@@ -8088,7 +8174,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RalfWifi/master.m3u8",
       "createdAt": "2026-06-05T12:52:18.439Z",
       "updatedAt": "2026-06-05T12:52:18.439Z",
-      "tokenDuration": 6752
+      "tokenDuration": 6752,
+      "addedAt": "2026-05-25T00:19:12.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_259",
@@ -8114,7 +8202,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RougeOne/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.164Z",
       "updatedAt": "2026-06-05T12:52:19.164Z",
-      "tokenDuration": 8038
+      "tokenDuration": 8038,
+      "addedAt": "2026-05-25T12:00:55.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_260",
@@ -8144,7 +8234,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreArana2/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.590Z",
       "updatedAt": "2026-06-05T12:52:19.590Z",
-      "tokenDuration": 8495
+      "tokenDuration": 8495,
+      "addedAt": "2026-05-25T17:51:46.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_261",
@@ -8175,7 +8267,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManATravesDelSpiderVerso2023/master.m3u8",
       "createdAt": "2026-06-05T12:52:19.804Z",
       "updatedAt": "2026-06-05T12:52:19.804Z",
-      "tokenDuration": 8406
+      "tokenDuration": 8406,
+      "addedAt": "2026-05-25T23:42:38.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_262",
@@ -8206,7 +8300,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManUnNuevoUniverso2018/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.017Z",
       "updatedAt": "2026-06-05T12:52:20.017Z",
-      "tokenDuration": 7011
+      "tokenDuration": 7011,
+      "addedAt": "2026-05-26T05:33:29.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_263",
@@ -8236,7 +8332,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars4/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.231Z",
       "updatedAt": "2026-06-05T12:52:20.231Z",
-      "tokenDuration": 8172
+      "tokenDuration": 8172,
+      "addedAt": "2026-05-26T11:24:20.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_264",
@@ -8266,7 +8364,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars5/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.369Z",
       "updatedAt": "2026-06-05T12:52:20.369Z",
-      "tokenDuration": 8549
+      "tokenDuration": 8549,
+      "addedAt": "2026-05-26T17:15:11.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_265",
@@ -8292,7 +8392,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TBB/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.952Z",
       "updatedAt": "2026-06-05T12:52:20.952Z",
-      "tokenDuration": 6834
+      "tokenDuration": 6834,
+      "addedAt": "2026-05-26T23:06:03.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_266",
@@ -8322,7 +8424,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMatrix4Resurrections/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.282Z",
       "updatedAt": "2026-06-05T12:52:21.282Z",
-      "tokenDuration": 8875
+      "tokenDuration": 8875,
+      "addedAt": "2026-05-27T04:56:54.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_267",
@@ -8351,7 +8455,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TopGunMaverick/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.616Z",
       "updatedAt": "2026-06-05T12:52:21.616Z",
-      "tokenDuration": 7814
+      "tokenDuration": 7814,
+      "addedAt": "2026-05-27T10:47:45.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_268",
@@ -8382,7 +8488,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer2/master.m3u8",
       "createdAt": "2026-06-05T12:52:21.857Z",
       "updatedAt": "2026-06-05T12:52:21.857Z",
-      "tokenDuration": 8994
+      "tokenDuration": 8994,
+      "addedAt": "2026-05-27T16:38:37.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_269",
@@ -8412,7 +8520,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Transformer3/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.084Z",
       "updatedAt": "2026-06-05T12:52:22.084Z",
-      "tokenDuration": 9264
+      "tokenDuration": 9264,
+      "addedAt": "2026-05-27T22:29:28.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_270",
@@ -8442,7 +8552,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TransformesROB/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.288Z",
       "updatedAt": "2026-06-05T12:52:22.288Z",
-      "tokenDuration": 7638
+      "tokenDuration": 7638,
+      "addedAt": "2026-05-28T04:20:19.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_271",
@@ -8469,7 +8581,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnSuenoImposible/master.m3u8",
       "createdAt": "2026-06-05T12:52:22.520Z",
-      "updatedAt": "2026-06-05T12:52:22.520Z"
+      "updatedAt": "2026-06-05T12:52:22.520Z",
+      "addedAt": "2026-05-28T10:11:11.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_273",
@@ -8499,7 +8613,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo2/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.156Z",
       "updatedAt": "2026-06-05T12:52:23.156Z",
-      "tokenDuration": 6486
+      "tokenDuration": 6486,
+      "addedAt": "2026-05-28T21:52:53.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_274",
@@ -8529,7 +8645,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo3/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.363Z",
       "updatedAt": "2026-06-05T12:52:23.363Z",
-      "tokenDuration": 7105
+      "tokenDuration": 7105,
+      "addedAt": "2026-05-29T03:43:45.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_275",
@@ -8557,7 +8675,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elGranShowman2017/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.732Z",
       "updatedAt": "2026-06-05T12:52:23.732Z",
-      "tokenDuration": 6289
+      "tokenDuration": 6289,
+      "addedAt": "2026-05-29T09:34:36.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_276",
@@ -8586,7 +8706,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/theTrumanShowHistoriaDeUnaVida1998/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.158Z",
       "updatedAt": "2026-06-05T12:52:24.158Z",
-      "tokenDuration": 6177
+      "tokenDuration": 6177,
+      "addedAt": "2026-05-29T15:25:27.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_277",
@@ -8618,7 +8740,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/AoNoExorcistMovie/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.378Z",
       "updatedAt": "2026-06-05T12:52:24.378Z",
-      "tokenDuration": 5328
+      "tokenDuration": 5328,
+      "addedAt": "2026-05-29T21:16:19.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_278",
@@ -8647,7 +8771,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/BokuGaAishitaSubeteNoKimiE/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.820Z",
       "updatedAt": "2026-06-05T12:52:24.820Z",
-      "tokenDuration": 6138
+      "tokenDuration": 6138,
+      "addedAt": "2026-05-30T03:07:10.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_279",
@@ -8677,7 +8803,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DeadLeaves_2004/master.m3u8",
       "createdAt": "2026-06-05T12:52:25.326Z",
       "updatedAt": "2026-06-05T12:52:25.326Z",
-      "tokenDuration": 3020
+      "tokenDuration": 3020,
+      "addedAt": "2026-05-30T08:58:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_280",
@@ -8708,7 +8836,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DigimonAdventureLastEvolutionKizuna/master.m3u8",
       "createdAt": "2026-06-05T12:55:35.180Z",
       "updatedAt": "2026-06-05T12:55:35.180Z",
-      "tokenDuration": 5649
+      "tokenDuration": 5649,
+      "addedAt": "2026-05-30T14:48:53.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_281",
@@ -8737,7 +8867,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/HotarubiNoMoriE/master.m3u8",
       "createdAt": "2026-06-05T12:55:35.746Z",
       "updatedAt": "2026-06-05T12:55:35.746Z",
-      "tokenDuration": 2700
+      "tokenDuration": 2700,
+      "addedAt": "2026-05-30T20:39:44.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_282",
@@ -8767,7 +8899,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/JujutsuKaisen0/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.078Z",
       "updatedAt": "2026-06-05T12:55:36.078Z",
-      "tokenDuration": 6296
+      "tokenDuration": 6296,
+      "addedAt": "2026-05-31T02:30:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_283",
@@ -8797,7 +8931,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/JujutsuKaisen0/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.143Z",
       "updatedAt": "2026-06-05T12:55:36.143Z",
-      "tokenDuration": 6296
+      "tokenDuration": 6296,
+      "addedAt": "2026-05-31T08:21:27.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_284",
@@ -8827,7 +8963,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimetsuNoYaibaMovieMugenResshaHen/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.392Z",
       "updatedAt": "2026-06-05T12:55:36.392Z",
-      "tokenDuration": 7009
+      "tokenDuration": 7009,
+      "addedAt": "2026-05-31T14:12:18.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_285",
@@ -8856,7 +8994,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimiNoNaWa/master.m3u8",
       "createdAt": "2026-06-05T12:55:36.675Z",
       "updatedAt": "2026-06-05T12:55:36.675Z",
-      "tokenDuration": 6396
+      "tokenDuration": 6396,
+      "addedAt": "2026-05-31T20:03:09.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_286",
@@ -8885,7 +9025,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KimiWoAishitaHitoriNoBokuE/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.036Z",
       "updatedAt": "2026-06-05T12:55:37.036Z",
-      "tokenDuration": 5913
+      "tokenDuration": 5913,
+      "addedAt": "2026-06-01T01:54:00.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_287",
@@ -8915,7 +9057,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KumoNoMukouYakusokuNoBasho/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.541Z",
       "updatedAt": "2026-06-05T12:55:37.541Z",
-      "tokenDuration": 5420
+      "tokenDuration": 5420,
+      "addedAt": "2026-06-01T07:44:52.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_288",
@@ -8946,7 +9090,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/OnePieceRed/master.m3u8",
       "createdAt": "2026-06-05T12:55:37.755Z",
       "updatedAt": "2026-06-05T12:55:37.755Z",
-      "tokenDuration": 6889
+      "tokenDuration": 6889,
+      "addedAt": "2026-06-01T13:35:43.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_289",
@@ -8976,7 +9122,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Redline_2009/master.m3u8",
       "createdAt": "2026-06-05T12:55:43.120Z",
       "updatedAt": "2026-06-05T12:55:43.120Z",
-      "tokenDuration": 6169
+      "tokenDuration": 6169,
+      "addedAt": "2026-06-01T19:26:34.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_290",
@@ -9007,7 +9155,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Suzume/master.m3u8",
       "createdAt": "2026-06-05T12:55:44.902Z",
       "updatedAt": "2026-06-05T12:55:44.902Z",
-      "tokenDuration": 7256
+      "tokenDuration": 7256,
+      "addedAt": "2026-06-02T01:17:26.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_291",
@@ -9039,7 +9189,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/elRegresoDelGato2002/master.m3u8",
       "createdAt": "2026-06-05T12:55:45.303Z",
       "updatedAt": "2026-06-05T12:55:45.303Z",
-      "tokenDuration": 4504
+      "tokenDuration": 4504,
+      "addedAt": "2026-06-02T07:08:17.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_292",
@@ -9069,7 +9221,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/8MinutosParaMorir/master.m3u8",
       "createdAt": "2026-06-06T04:10:58.501Z",
       "updatedAt": "2026-06-06T04:10:58.501Z",
-      "tokenDuration": 5592
+      "tokenDuration": 5592,
+      "addedAt": "2026-06-02T12:59:08.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_293",
@@ -9100,7 +9254,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosDescendientes/master.m3u8",
       "createdAt": "2026-06-06T04:12:34.337Z",
       "updatedAt": "2026-06-06T04:12:34.337Z",
-      "tokenDuration": 6714
+      "tokenDuration": 6714,
+      "addedAt": "2026-06-02T18:50:00.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_294",
@@ -9130,7 +9286,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8",
       "createdAt": "2026-06-06T04:16:43.407Z",
       "updatedAt": "2026-06-06T04:16:43.407Z",
-      "tokenDuration": 6169
+      "tokenDuration": 6169,
+      "addedAt": "2026-06-03T00:40:51.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_295",
@@ -9160,7 +9318,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JujutsuKaisen0/master.m3u8",
       "createdAt": "2026-06-06T05:06:33.028Z",
       "updatedAt": "2026-06-06T05:06:33.028Z",
-      "tokenDuration": 6270
+      "tokenDuration": 6270,
+      "addedAt": "2026-06-03T06:31:42.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_296",
@@ -9189,7 +9349,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosCazafantasmas/master.m3u8",
       "createdAt": "2026-06-06T05:06:33.355Z",
       "updatedAt": "2026-06-06T05:06:33.355Z",
-      "tokenDuration": 6309
+      "tokenDuration": 6309,
+      "addedAt": "2026-06-03T12:22:34.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_297",
@@ -9218,7 +9380,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JURASICKPARK1/master.m3u8",
       "createdAt": "2026-06-06T05:07:49.695Z",
       "updatedAt": "2026-06-06T05:07:49.695Z",
-      "tokenDuration": 7597
+      "tokenDuration": 7597,
+      "addedAt": "2026-06-03T18:13:25.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_298",
@@ -9248,7 +9412,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Jhonwick3/master.m3u8",
       "createdAt": "2026-06-06T05:08:11.387Z",
       "updatedAt": "2026-06-06T05:08:11.387Z",
-      "tokenDuration": 7865
+      "tokenDuration": 7865,
+      "addedAt": "2026-06-04T00:04:16.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_299",
@@ -9278,7 +9444,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasGuerrerasKPopMejorado/master.m3u8",
       "createdAt": "2026-06-07T06:44:26.998Z",
       "updatedAt": "2026-06-07T06:44:26.998Z",
-      "tokenDuration": 5978
+      "tokenDuration": 5978,
+      "addedAt": "2026-06-04T05:55:08.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_300",
@@ -9290,7 +9458,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "",
+      "releaseDate": "2024-01-01",
       "genres": [
         "Adventure",
         "Animation",
@@ -9308,7 +9476,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Robot.Salvaje.2024.1080p-Lat/master.m3u8",
       "createdAt": "2026-06-09T08:46:38.264Z",
       "updatedAt": "2026-06-09T22:04:42.673Z",
-      "tokenDuration": 6101
+      "tokenDuration": 6101,
+      "addedAt": "2026-06-04T11:45:59.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_301",
@@ -9337,7 +9507,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/BlackCloverMovieJP/master.m3u8",
       "createdAt": "2026-06-11T00:03:57.230Z",
-      "updatedAt": "2026-06-11T00:03:57.230Z"
+      "updatedAt": "2026-06-11T00:03:57.230Z",
+      "addedAt": "2026-06-04T17:36:50.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_302",
@@ -9364,7 +9536,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dulceyamargo/master.m3u8",
       "createdAt": "2026-06-11T00:05:38.039Z",
-      "updatedAt": "2026-06-11T00:05:38.039Z"
+      "updatedAt": "2026-06-11T00:05:38.039Z",
+      "addedAt": "2026-06-04T23:27:42.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_303",
@@ -9393,7 +9567,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/toystory1/master.m3u8",
       "createdAt": "2026-06-11T00:08:13.939Z",
-      "updatedAt": "2026-06-11T00:08:13.939Z"
+      "updatedAt": "2026-06-11T00:08:13.939Z",
+      "addedAt": "2026-06-05T05:18:33.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_304",
@@ -9421,7 +9597,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/toystory2/master.m3u8",
       "createdAt": "2026-06-11T00:08:50.092Z",
-      "updatedAt": "2026-06-11T00:08:50.092Z"
+      "updatedAt": "2026-06-11T00:08:50.092Z",
+      "addedAt": "2026-06-05T11:09:24.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_305",
@@ -9449,7 +9627,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/toystory3/master.m3u8",
       "createdAt": "2026-06-11T00:09:25.308Z",
-      "updatedAt": "2026-06-11T00:09:25.308Z"
+      "updatedAt": "2026-06-11T00:09:25.308Z",
+      "addedAt": "2026-06-05T17:00:16.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_306",
@@ -9478,7 +9658,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/toystory4/master.m3u8",
       "createdAt": "2026-06-11T00:10:04.266Z",
-      "updatedAt": "2026-06-11T00:10:04.266Z"
+      "updatedAt": "2026-06-11T00:10:04.266Z",
+      "addedAt": "2026-06-05T22:51:07.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_307",
@@ -9506,7 +9688,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEndGamen/master.m3u8",
       "createdAt": "2026-06-11T00:11:31.670Z",
-      "updatedAt": "2026-06-15T01:23:33.990Z"
+      "updatedAt": "2026-06-15T01:23:33.990Z",
+      "addedAt": "2026-06-06T04:41:58.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_309",
@@ -9535,7 +9719,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Evangelion3010ThriceUponATime/master.m3u8",
       "createdAt": "2026-06-11T20:44:40.171Z",
-      "updatedAt": "2026-06-11T20:44:40.171Z"
+      "updatedAt": "2026-06-11T20:44:40.171Z",
+      "addedAt": "2026-06-06T16:23:41.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_310",
@@ -9562,7 +9748,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ForrestGump1994/master.m3u8",
       "createdAt": "2026-06-11T20:45:14.799Z",
-      "updatedAt": "2026-06-11T20:45:14.799Z"
+      "updatedAt": "2026-06-11T20:45:14.799Z",
+      "addedAt": "2026-06-06T22:14:32.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_311",
@@ -9591,7 +9779,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ArthurYLosMinimoys/master.m3u8",
       "createdAt": "2026-06-11T20:47:25.138Z",
-      "updatedAt": "2026-06-11T20:47:25.138Z"
+      "updatedAt": "2026-06-11T20:47:25.138Z",
+      "addedAt": "2026-06-07T04:05:23.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_312",
@@ -9619,7 +9809,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BuenosDiasVietnam/master.m3u8",
       "createdAt": "2026-06-11T20:48:40.322Z",
-      "updatedAt": "2026-06-11T20:48:40.322Z"
+      "updatedAt": "2026-06-11T20:48:40.322Z",
+      "addedAt": "2026-06-07T09:56:15.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_313",
@@ -9648,7 +9840,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Kungfupanda2/master.m3u8",
       "createdAt": "2026-06-11T20:52:28.253Z",
-      "updatedAt": "2026-06-11T20:52:28.253Z"
+      "updatedAt": "2026-06-11T20:52:28.253Z",
+      "addedAt": "2026-06-07T15:47:06.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_314",
@@ -9677,7 +9871,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KungFuPanda2008/master.m3u8",
       "createdAt": "2026-06-11T20:53:17.933Z",
-      "updatedAt": "2026-06-11T20:53:17.933Z"
+      "updatedAt": "2026-06-11T20:53:17.933Z",
+      "addedAt": "2026-06-07T21:37:57.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_315",
@@ -9706,7 +9902,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Kungfusion2004/master.m3u8",
       "createdAt": "2026-06-11T20:53:56.968Z",
-      "updatedAt": "2026-06-11T20:53:56.968Z"
+      "updatedAt": "2026-06-11T20:53:56.968Z",
+      "addedAt": "2026-06-08T03:28:49.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_316",
@@ -9734,7 +9932,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaprincesaMononoke1997/master.m3u8",
       "createdAt": "2026-06-11T20:54:49.859Z",
-      "updatedAt": "2026-06-11T20:54:49.859Z"
+      "updatedAt": "2026-06-11T20:54:49.859Z",
+      "addedAt": "2026-06-08T09:19:40.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_317",
@@ -9763,7 +9963,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ratatouille2007/master.m3u8",
       "createdAt": "2026-06-11T20:55:37.947Z",
-      "updatedAt": "2026-06-11T20:55:37.947Z"
+      "updatedAt": "2026-06-11T20:55:37.947Z",
+      "addedAt": "2026-06-08T15:10:31.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_318",
@@ -9793,7 +9995,9 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MortalKombatII2026/master.m3u8",
       "createdAt": "2026-06-11T20:58:08.832Z",
       "updatedAt": "2026-06-11T20:58:08.832Z",
-      "tokenDuration": 0
+      "tokenDuration": 0,
+      "addedAt": "2026-06-08T21:01:23.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_319",
@@ -9821,7 +10025,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso02/master.m3u8",
       "createdAt": "2026-06-11T21:12:59.048Z",
-      "updatedAt": "2026-06-11T21:12:59.048Z"
+      "updatedAt": "2026-06-11T21:12:59.048Z",
+      "addedAt": "2026-06-09T02:52:14.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_320",
@@ -9848,7 +10054,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael2026/master.m3u8",
       "createdAt": "2026-06-11T21:14:11.464Z",
-      "updatedAt": "2026-06-11T21:14:11.464Z"
+      "updatedAt": "2026-06-11T21:14:11.464Z",
+      "addedAt": "2026-06-09T08:43:05.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_321",
@@ -9878,7 +10086,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendadelCharroNegro2018/master.m3u8",
       "createdAt": "2026-06-14T22:00:15.442Z",
-      "updatedAt": "2026-06-14T22:00:15.442Z"
+      "updatedAt": "2026-06-14T22:00:15.442Z",
+      "addedAt": "2026-06-09T14:33:57.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_322",
@@ -9906,7 +10116,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Tetris/master.m3u8",
       "createdAt": "2026-06-14T22:41:33.194Z",
-      "updatedAt": "2026-06-14T22:41:33.194Z"
+      "updatedAt": "2026-06-14T22:41:33.194Z",
+      "addedAt": "2026-06-09T20:24:48.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_323",
@@ -9934,7 +10146,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Romeoyjulieta1969/master.m3u8",
       "createdAt": "2026-06-14T23:19:09.944Z",
-      "updatedAt": "2026-06-14T23:47:48.523Z"
+      "updatedAt": "2026-06-14T23:47:48.523Z",
+      "addedAt": "2026-06-10T02:15:39.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_324",
@@ -9963,7 +10177,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Arco2025BDLatino/master.m3u8",
       "createdAt": "2026-06-14T23:41:17.693Z",
-      "updatedAt": "2026-06-14T23:41:17.693Z"
+      "updatedAt": "2026-06-14T23:41:17.693Z",
+      "addedAt": "2026-06-10T08:06:31.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_325",
@@ -9993,7 +10209,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/DrStoneRyuusui/master.m3u8",
       "createdAt": "2026-06-15T00:03:04.452Z",
-      "updatedAt": "2026-06-15T00:20:10.171Z"
+      "updatedAt": "2026-06-15T00:20:10.171Z",
+      "addedAt": "2026-06-10T13:57:22.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_326",
@@ -10022,7 +10240,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/coco2017/master.m3u8",
       "createdAt": "2026-06-16T02:01:57.417Z",
-      "updatedAt": "2026-06-16T02:01:57.417Z"
+      "updatedAt": "2026-06-16T02:01:57.417Z",
+      "addedAt": "2026-06-10T19:48:13.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_327",
@@ -10050,7 +10270,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alien31992/master.m3u8",
       "createdAt": "2026-06-16T02:02:30.259Z",
-      "updatedAt": "2026-06-16T02:02:30.259Z"
+      "updatedAt": "2026-06-16T02:02:30.259Z",
+      "addedAt": "2026-06-11T01:39:05.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_328",
@@ -10077,7 +10299,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zombies2018/master.m3u8",
       "createdAt": "2026-06-16T02:03:24.263Z",
-      "updatedAt": "2026-06-16T02:03:24.263Z"
+      "updatedAt": "2026-06-16T02:03:24.263Z",
+      "addedAt": "2026-06-11T07:29:56.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_329",
@@ -10104,7 +10328,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alienElOctavoPasajero1979/master.m3u8",
       "createdAt": "2026-06-16T02:04:32.136Z",
-      "updatedAt": "2026-06-16T02:04:32.136Z"
+      "updatedAt": "2026-06-16T02:04:32.136Z",
+      "addedAt": "2026-06-11T13:20:47.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_330",
@@ -10132,7 +10358,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/alienLaResurreccion1997/master.m3u8",
       "createdAt": "2026-06-16T02:05:06.157Z",
-      "updatedAt": "2026-06-16T02:05:06.157Z"
+      "updatedAt": "2026-06-16T02:05:06.157Z",
+      "addedAt": "2026-06-11T19:11:39.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_331",
@@ -10160,7 +10388,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/it2017/master.m3u8",
       "createdAt": "2026-06-16T02:05:59.280Z",
-      "updatedAt": "2026-06-16T02:05:59.280Z"
+      "updatedAt": "2026-06-16T02:05:59.280Z",
+      "addedAt": "2026-06-12T01:02:30.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_332",
@@ -10189,7 +10419,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonvaliente1995/master.m3u8",
       "createdAt": "2026-06-16T02:10:12.637Z",
-      "updatedAt": "2026-06-16T02:10:12.637Z"
+      "updatedAt": "2026-06-16T02:10:12.637Z",
+      "addedAt": "2026-06-12T06:53:21.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_333",
@@ -10217,7 +10449,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibrodelaVida2014/master.m3u8",
       "createdAt": "2026-06-16T02:11:12.774Z",
-      "updatedAt": "2026-06-16T02:11:12.774Z"
+      "updatedAt": "2026-06-16T02:11:12.774Z",
+      "addedAt": "2026-06-12T12:44:12.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_334",
@@ -10245,7 +10479,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/aliensElRegreso1986/master.m3u8",
       "createdAt": "2026-06-16T02:13:33.934Z",
-      "updatedAt": "2026-06-16T02:13:33.934Z"
+      "updatedAt": "2026-06-16T02:13:33.934Z",
+      "addedAt": "2026-06-12T18:35:04.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_335",
@@ -10273,7 +10509,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/anatomiadeunasesinato1959/master.m3u8",
       "createdAt": "2026-06-16T03:32:06.979Z",
-      "updatedAt": "2026-06-16T03:32:06.979Z"
+      "updatedAt": "2026-06-16T03:32:06.979Z",
+      "addedAt": "2026-06-13T00:25:55.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_336",
@@ -10300,7 +10538,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/juegodegemelas1998/master.m3u8",
       "createdAt": "2026-06-16T04:02:50.473Z",
-      "updatedAt": "2026-06-16T04:02:50.473Z"
+      "updatedAt": "2026-06-16T04:02:50.473Z",
+      "addedAt": "2026-06-13T06:16:46.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_337",
@@ -10328,7 +10568,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elsuenodewalt2013/master.m3u8",
       "createdAt": "2026-06-16T04:05:24.330Z",
-      "updatedAt": "2026-06-16T04:05:24.330Z"
+      "updatedAt": "2026-06-16T04:05:24.330Z",
+      "addedAt": "2026-06-13T12:07:38.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_338",
@@ -10355,7 +10597,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lalalandunahistoriadeamor2016/master.m3u8",
       "createdAt": "2026-06-16T04:06:02.505Z",
-      "updatedAt": "2026-06-16T04:06:02.505Z"
+      "updatedAt": "2026-06-16T04:06:02.505Z",
+      "addedAt": "2026-06-13T17:58:29.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_339",
@@ -10383,7 +10627,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losamosdeluniverso1987/master.m3u8",
       "createdAt": "2026-06-16T04:07:28.483Z",
-      "updatedAt": "2026-06-16T04:07:28.483Z"
+      "updatedAt": "2026-06-16T04:07:28.483Z",
+      "addedAt": "2026-06-13T23:49:20.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_340",
@@ -10410,7 +10656,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/horizonteProfundoO2016/master.m3u8",
       "createdAt": "2026-06-16T04:13:38.440Z",
-      "updatedAt": "2026-06-16T04:13:38.440Z"
+      "updatedAt": "2026-06-16T04:13:38.440Z",
+      "addedAt": "2026-06-14T05:40:12.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_341",
@@ -10438,7 +10686,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/itEso1990/master.m3u8",
       "createdAt": "2026-06-16T04:14:56.918Z",
-      "updatedAt": "2026-06-16T21:41:56.736Z"
+      "updatedAt": "2026-06-16T21:41:56.736Z",
+      "addedAt": "2026-06-14T11:31:03.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_342",
@@ -10465,7 +10715,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HuerfanosDeBrooklyn/master.m3u8",
       "createdAt": "2026-06-16T04:15:25.947Z",
-      "updatedAt": "2026-06-16T04:15:25.947Z"
+      "updatedAt": "2026-06-16T04:15:25.947Z",
+      "addedAt": "2026-06-14T17:21:54.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_343",
@@ -10494,7 +10746,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/leal2016/master.m3u8",
       "createdAt": "2026-06-16T04:18:01.846Z",
-      "updatedAt": "2026-06-16T04:18:01.846Z"
+      "updatedAt": "2026-06-16T04:18:01.846Z",
+      "addedAt": "2026-06-14T23:12:46.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_344",
@@ -10524,7 +10778,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MilkySubwayTheGalacticLimitedExpressLaPelicula/master.m3u8",
       "createdAt": "2026-06-16T04:19:14.785Z",
-      "updatedAt": "2026-06-16T04:19:14.785Z"
+      "updatedAt": "2026-06-16T04:19:14.785Z",
+      "addedAt": "2026-06-15T05:03:37.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_345",
@@ -10551,7 +10807,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MisionDeRescate/master.m3u8",
       "createdAt": "2026-06-16T04:20:37.638Z",
-      "updatedAt": "2026-06-16T04:20:37.638Z"
+      "updatedAt": "2026-06-16T04:20:37.638Z",
+      "addedAt": "2026-06-15T10:54:28.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_346",
@@ -10579,7 +10837,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/misionDeRescate2/master.m3u8",
       "createdAt": "2026-06-16T04:21:03.306Z",
-      "updatedAt": "2026-06-16T04:21:03.306Z"
+      "updatedAt": "2026-06-16T04:21:03.306Z",
+      "addedAt": "2026-06-15T16:45:20.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_347",
@@ -10608,7 +10868,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/robotdreams2023/master.m3u8",
       "createdAt": "2026-06-16T04:21:34.764Z",
-      "updatedAt": "2026-06-16T04:21:34.764Z"
+      "updatedAt": "2026-06-16T04:21:34.764Z",
+      "addedAt": "2026-06-15T22:36:11.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_348",
@@ -10634,7 +10896,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/solounsueno2008/master.m3u8",
       "createdAt": "2026-06-16T04:22:39.655Z",
-      "updatedAt": "2026-06-16T04:22:39.655Z"
+      "updatedAt": "2026-06-16T04:22:39.655Z",
+      "addedAt": "2026-06-16T04:27:02.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_349",
@@ -10661,7 +10925,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaaventuraextraordinaria2012/master.m3u8",
       "createdAt": "2026-06-16T04:23:44.259Z",
-      "updatedAt": "2026-06-16T04:23:44.259Z"
+      "updatedAt": "2026-06-16T04:23:44.259Z",
+      "addedAt": "2026-06-16T10:17:54.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_350",
@@ -10688,7 +10954,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaCiudadDelPecado/master.m3u8",
       "createdAt": "2026-06-16T04:25:59.171Z",
-      "updatedAt": "2026-06-16T04:25:59.171Z"
+      "updatedAt": "2026-06-16T04:25:59.171Z",
+      "addedAt": "2026-06-16T16:08:45.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_351",
@@ -10716,7 +10984,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronSky2012/master.m3u8",
       "createdAt": "2026-06-16T04:28:13.238Z",
-      "updatedAt": "2026-06-16T04:28:13.238Z"
+      "updatedAt": "2026-06-16T04:28:13.238Z",
+      "addedAt": "2026-06-16T21:59:36.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_352",
@@ -10744,7 +11014,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/relatossalvaje3/master.m3u8",
       "createdAt": "2026-06-16T04:29:21.666Z",
-      "updatedAt": "2026-06-16T04:29:21.666Z"
+      "updatedAt": "2026-06-16T04:29:21.666Z",
+      "addedAt": "2026-06-17T03:50:28.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_353",
@@ -10770,7 +11042,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/showgirls1995/master.m3u8",
       "createdAt": "2026-06-16T04:31:42.887Z",
-      "updatedAt": "2026-06-16T04:31:42.887Z"
+      "updatedAt": "2026-06-16T04:31:42.887Z",
+      "addedAt": "2026-06-17T09:41:19.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_354",
@@ -10798,7 +11072,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinLugarParaLosDebiles2007/master.m3u8",
       "createdAt": "2026-06-16T04:33:00.672Z",
-      "updatedAt": "2026-06-16T04:33:00.672Z"
+      "updatedAt": "2026-06-16T04:33:00.672Z",
+      "addedAt": "2026-06-17T15:32:10.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_355",
@@ -10825,7 +11101,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnPasoAdelante2006/master.m3u8",
       "createdAt": "2026-06-16T04:37:10.209Z",
-      "updatedAt": "2026-06-16T04:37:10.209Z"
+      "updatedAt": "2026-06-16T04:37:10.209Z",
+      "addedAt": "2026-06-17T21:23:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_356",
@@ -10852,7 +11130,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/KoenoKatachiBDLatino/master.m3u8",
       "createdAt": "2026-06-16T04:39:04.956Z",
-      "updatedAt": "2026-06-16T04:39:04.956Z"
+      "updatedAt": "2026-06-16T04:39:04.956Z",
+      "addedAt": "2026-06-18T03:13:53.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_357",
@@ -10879,7 +11159,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShinyFlakesElCibernarcoAdolescente/master.m3u8",
       "createdAt": "2026-06-16T04:41:03.111Z",
-      "updatedAt": "2026-06-16T04:41:03.111Z"
+      "updatedAt": "2026-06-16T04:41:03.111Z",
+      "addedAt": "2026-06-18T09:04:44.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_358",
@@ -10903,7 +11185,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Inthum/master.m3u8",
       "createdAt": "2026-06-16T06:01:10.941Z",
-      "updatedAt": "2026-06-16T08:25:26.635Z"
+      "updatedAt": "2026-06-16T08:25:26.635Z",
+      "addedAt": "2026-06-18T14:55:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_359",
@@ -10931,7 +11215,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thebatman/master.m3u8",
       "createdAt": "2026-06-16T21:19:02.765Z",
-      "updatedAt": "2026-06-16T21:19:02.765Z"
+      "updatedAt": "2026-06-16T21:19:02.765Z",
+      "addedAt": "2026-06-18T20:46:27.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_360",
@@ -10959,7 +11245,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SFTPREAL_1780201617/master.m3u8",
       "createdAt": "2026-06-16T21:22:43.486Z",
-      "updatedAt": "2026-06-16T21:22:43.486Z"
+      "updatedAt": "2026-06-16T21:22:43.486Z",
+      "addedAt": "2026-06-19T02:37:18.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_361",
@@ -10987,7 +11275,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars6/master.m3u8",
       "createdAt": "2026-06-16T21:25:31.169Z",
-      "updatedAt": "2026-06-16T21:25:31.169Z"
+      "updatedAt": "2026-06-16T21:25:31.169Z",
+      "addedAt": "2026-06-19T08:28:09.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_362",
@@ -11015,7 +11305,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeIV/master.m3u8",
       "createdAt": "2026-06-16T21:28:16.854Z",
-      "updatedAt": "2026-06-16T21:28:16.854Z"
+      "updatedAt": "2026-06-16T21:28:16.854Z",
+      "addedAt": "2026-06-19T14:19:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_363",
@@ -11043,7 +11335,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeV/master.m3u8",
       "createdAt": "2026-06-16T21:28:54.309Z",
-      "updatedAt": "2026-06-16T21:28:54.309Z"
+      "updatedAt": "2026-06-16T21:28:54.309Z",
+      "addedAt": "2026-06-19T20:09:52.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_364",
@@ -11071,7 +11365,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVII/master.m3u8",
       "createdAt": "2026-06-16T21:30:25.975Z",
-      "updatedAt": "2026-06-16T21:30:25.975Z"
+      "updatedAt": "2026-06-16T21:30:25.975Z",
+      "addedAt": "2026-06-20T02:00:43.000Z",
+      "addedBy": "Sistema"
     },
     {
       "type": "movie",
@@ -11133,7 +11429,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losDescendientes2O2017/master.m3u8",
       "createdAt": "2026-06-23T07:53:51.339Z",
-      "updatedAt": "2026-06-23T07:53:51.339Z"
+      "updatedAt": "2026-06-23T07:53:51.339Z",
+      "addedAt": "2026-06-20T07:52:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_367",
@@ -11160,7 +11458,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelBioCrisis2008/master.m3u8",
       "createdAt": "2026-06-23T07:54:13.729Z",
-      "updatedAt": "2026-06-23T07:54:13.729Z"
+      "updatedAt": "2026-06-23T07:54:13.729Z",
+      "addedAt": "2026-06-20T07:53:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_368",
@@ -11187,7 +11487,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laLaLandUnaHistoriaDeAmorO2016/master.m3u8",
       "createdAt": "2026-06-23T07:54:53.184Z",
-      "updatedAt": "2026-06-23T07:54:53.184Z"
+      "updatedAt": "2026-06-23T07:54:53.184Z",
+      "addedAt": "2026-06-20T07:54:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_369",
@@ -11215,7 +11517,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/divergente720p2014/master.m3u8",
       "createdAt": "2026-06-23T07:56:25.301Z",
-      "updatedAt": "2026-06-23T07:56:25.301Z"
+      "updatedAt": "2026-06-23T07:56:25.301Z",
+      "addedAt": "2026-06-20T07:55:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_370",
@@ -11244,7 +11548,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelCuentaRegresiva2006/master.m3u8",
       "createdAt": "2026-06-23T07:58:05.209Z",
-      "updatedAt": "2026-06-23T07:58:05.209Z"
+      "updatedAt": "2026-06-23T07:58:05.209Z",
+      "addedAt": "2026-06-20T07:56:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_371",
@@ -11272,7 +11578,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/insurgente2015/master.m3u8",
       "createdAt": "2026-06-23T07:59:45.534Z",
-      "updatedAt": "2026-06-23T07:59:45.534Z"
+      "updatedAt": "2026-06-23T07:59:45.534Z",
+      "addedAt": "2026-06-20T07:57:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_372",
@@ -11300,7 +11608,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelElDominioDeLosElementos2009/master.m3u8",
       "createdAt": "2026-06-23T08:00:33.249Z",
-      "updatedAt": "2026-06-23T08:00:33.249Z"
+      "updatedAt": "2026-06-23T08:00:33.249Z",
+      "addedAt": "2026-06-20T07:58:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_373",
@@ -11330,7 +11640,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelVsLaLegionToxica2010/master.m3u8",
       "createdAt": "2026-06-23T08:01:28.959Z",
-      "updatedAt": "2026-06-23T08:01:28.959Z"
+      "updatedAt": "2026-06-23T08:01:28.959Z",
+      "addedAt": "2026-06-20T07:59:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_374",
@@ -11358,7 +11670,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelLaVenganzaDeMakino2011/master.m3u8",
       "createdAt": "2026-06-23T08:01:51.250Z",
-      "updatedAt": "2026-06-23T08:01:51.250Z"
+      "updatedAt": "2026-06-23T08:01:51.250Z",
+      "addedAt": "2026-06-20T08:00:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_375",
@@ -11386,7 +11700,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelVsElOscuroEnemigo2007/master.m3u8",
       "createdAt": "2026-06-23T08:02:29.227Z",
-      "updatedAt": "2026-06-23T08:02:29.227Z"
+      "updatedAt": "2026-06-23T08:02:29.227Z",
+      "addedAt": "2026-06-20T08:01:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_376",
@@ -11415,7 +11731,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelVsLaAmenazaMutante2009/master.m3u8",
       "createdAt": "2026-06-23T08:02:55.022Z",
-      "updatedAt": "2026-06-23T08:02:55.022Z"
+      "updatedAt": "2026-06-23T08:02:55.022Z",
+      "addedAt": "2026-06-20T08:02:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_377",
@@ -11443,7 +11761,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelPeligroDeExtincion2004/master.m3u8",
       "createdAt": "2026-06-23T08:03:35.666Z",
-      "updatedAt": "2026-06-23T08:03:35.666Z"
+      "updatedAt": "2026-06-23T08:03:35.666Z",
+      "addedAt": "2026-06-20T08:03:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_378",
@@ -11471,7 +11791,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelLaAlianzaMonstruosa2012/master.m3u8",
       "createdAt": "2026-06-23T08:04:51.255Z",
-      "updatedAt": "2026-06-23T08:07:58.903Z"
+      "updatedAt": "2026-06-23T08:07:58.903Z",
+      "addedAt": "2026-06-20T08:04:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "movie_379",
@@ -11500,7 +11822,9 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/hokumlamaldiciondelabruja2026/master.m3u8",
       "createdAt": "2026-06-23T08:09:32.523Z",
-      "updatedAt": "2026-06-23T08:09:32.523Z"
+      "updatedAt": "2026-06-23T08:09:32.523Z",
+      "addedAt": "2026-06-20T08:05:35.000Z",
+      "addedBy": "Sistema"
     }
   ],
   "series": [
@@ -41720,7 +42044,9 @@
         }
       ],
       "createdAt": "2026-05-31T21:57:50.019Z",
-      "updatedAt": "2026-05-31T21:57:50.019Z"
+      "updatedAt": "2026-05-31T21:57:50.019Z",
+      "addedAt": "2026-05-11T02:13:20.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_119",
@@ -41851,7 +42177,9 @@
         }
       ],
       "createdAt": "2026-05-31T22:02:42.217Z",
-      "updatedAt": "2026-06-05T10:09:15.406Z"
+      "updatedAt": "2026-06-05T10:09:15.406Z",
+      "addedAt": "2026-05-12T03:53:32.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_120",
@@ -42010,7 +42338,9 @@
         }
       ],
       "createdAt": "2026-05-31T23:21:43.235Z",
-      "updatedAt": "2026-05-31T23:21:43.235Z"
+      "updatedAt": "2026-05-31T23:21:43.235Z",
+      "addedAt": "2026-05-13T05:33:45.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_121",
@@ -42172,7 +42502,9 @@
         }
       ],
       "createdAt": "2026-05-31T23:33:33.712Z",
-      "updatedAt": "2026-05-31T23:33:33.712Z"
+      "updatedAt": "2026-05-31T23:33:33.712Z",
+      "addedAt": "2026-05-14T07:13:58.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_122",
@@ -42334,7 +42666,9 @@
         }
       ],
       "createdAt": "2026-05-31T23:36:18.938Z",
-      "updatedAt": "2026-05-31T23:36:18.938Z"
+      "updatedAt": "2026-05-31T23:36:18.938Z",
+      "addedAt": "2026-05-15T08:54:11.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_123",
@@ -42497,7 +42831,9 @@
         }
       ],
       "createdAt": "2026-05-31T23:41:43.351Z",
-      "updatedAt": "2026-05-31T23:41:43.351Z"
+      "updatedAt": "2026-05-31T23:41:43.351Z",
+      "addedAt": "2026-05-16T10:34:24.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_124",
@@ -42536,7 +42872,9 @@
         }
       ],
       "createdAt": "2026-06-01T00:53:45.607Z",
-      "updatedAt": "2026-06-01T00:53:45.607Z"
+      "updatedAt": "2026-06-01T00:53:45.607Z",
+      "addedAt": "2026-05-17T12:14:37.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_125",
@@ -42898,7 +43236,9 @@
         }
       ],
       "createdAt": "2026-06-01T15:57:17.674Z",
-      "updatedAt": "2026-06-05T13:04:49.846Z"
+      "updatedAt": "2026-06-05T13:04:49.846Z",
+      "addedAt": "2026-05-18T13:54:50.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_126",
@@ -43080,7 +43420,9 @@
         }
       ],
       "createdAt": "2026-06-01T16:04:17.477Z",
-      "updatedAt": "2026-06-01T16:04:17.477Z"
+      "updatedAt": "2026-06-01T16:04:17.477Z",
+      "addedAt": "2026-05-19T15:35:03.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_127",
@@ -43260,7 +43602,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:00:19.595Z",
-      "updatedAt": "2026-06-05T13:00:19.595Z"
+      "updatedAt": "2026-06-05T13:00:19.595Z",
+      "addedAt": "2026-05-20T17:15:16.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_128",
@@ -43440,7 +43784,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:30.852Z",
-      "updatedAt": "2026-06-05T13:01:30.852Z"
+      "updatedAt": "2026-06-05T13:01:30.852Z",
+      "addedAt": "2026-05-21T18:55:29.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_129",
@@ -43620,7 +43966,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:31.007Z",
-      "updatedAt": "2026-06-05T13:01:31.007Z"
+      "updatedAt": "2026-06-05T13:01:31.007Z",
+      "addedAt": "2026-05-22T20:35:42.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_130",
@@ -43764,7 +44112,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:31.183Z",
-      "updatedAt": "2026-06-05T13:01:31.183Z"
+      "updatedAt": "2026-06-05T13:01:31.183Z",
+      "addedAt": "2026-05-23T22:15:55.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_131",
@@ -43885,7 +44235,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:31.558Z",
-      "updatedAt": "2026-06-05T13:01:31.558Z"
+      "updatedAt": "2026-06-05T13:01:31.558Z",
+      "addedAt": "2026-05-24T23:56:08.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_132",
@@ -44033,7 +44385,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:31.913Z",
-      "updatedAt": "2026-06-05T13:01:31.913Z"
+      "updatedAt": "2026-06-05T13:01:31.913Z",
+      "addedAt": "2026-05-26T01:36:21.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_133",
@@ -44503,7 +44857,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:32.260Z",
-      "updatedAt": "2026-06-05T13:01:32.260Z"
+      "updatedAt": "2026-06-05T13:01:32.260Z",
+      "addedAt": "2026-05-27T03:16:34.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_134",
@@ -44945,7 +45301,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:32.610Z",
-      "updatedAt": "2026-06-05T13:01:32.610Z"
+      "updatedAt": "2026-06-05T13:01:32.610Z",
+      "addedAt": "2026-05-28T04:56:47.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_135",
@@ -45141,7 +45499,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:01:32.828Z",
-      "updatedAt": "2026-06-05T13:01:32.828Z"
+      "updatedAt": "2026-06-05T13:01:32.828Z",
+      "addedAt": "2026-05-29T06:36:59.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_136",
@@ -45490,7 +45850,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:43.363Z",
-      "updatedAt": "2026-06-05T13:02:43.363Z"
+      "updatedAt": "2026-06-05T13:02:43.363Z",
+      "addedAt": "2026-05-30T08:17:12.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_137",
@@ -45683,7 +46045,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:43.601Z",
-      "updatedAt": "2026-06-05T13:02:43.601Z"
+      "updatedAt": "2026-06-05T13:02:43.601Z",
+      "addedAt": "2026-05-31T09:57:25.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_138",
@@ -46032,7 +46396,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:43.729Z",
-      "updatedAt": "2026-06-05T13:02:43.729Z"
+      "updatedAt": "2026-06-05T13:02:43.729Z",
+      "addedAt": "2026-06-01T11:37:38.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_139",
@@ -46309,7 +46675,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:43.853Z",
-      "updatedAt": "2026-06-05T13:02:43.853Z"
+      "updatedAt": "2026-06-05T13:02:43.853Z",
+      "addedAt": "2026-06-02T13:17:51.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_140",
@@ -46342,7 +46710,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:43.958Z",
-      "updatedAt": "2026-06-05T13:02:43.958Z"
+      "updatedAt": "2026-06-05T13:02:43.958Z",
+      "addedAt": "2026-06-03T14:58:04.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_141",
@@ -46849,7 +47219,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:44.267Z",
-      "updatedAt": "2026-06-05T13:02:44.267Z"
+      "updatedAt": "2026-06-05T13:02:44.267Z",
+      "addedAt": "2026-06-04T16:38:17.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_142",
@@ -46882,7 +47254,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:44.379Z",
-      "updatedAt": "2026-06-05T13:02:44.379Z"
+      "updatedAt": "2026-06-05T13:02:44.379Z",
+      "addedAt": "2026-06-05T18:18:30.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_143",
@@ -46987,7 +47361,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:02:44.504Z",
-      "updatedAt": "2026-06-05T13:02:44.504Z"
+      "updatedAt": "2026-06-05T13:02:44.504Z",
+      "addedAt": "2026-06-06T19:58:43.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_144",
@@ -47158,7 +47534,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:04:06.501Z",
-      "updatedAt": "2026-06-05T13:04:06.501Z"
+      "updatedAt": "2026-06-05T13:04:06.501Z",
+      "addedAt": "2026-06-07T21:38:56.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_145",
@@ -47328,7 +47706,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:04:06.868Z",
-      "updatedAt": "2026-06-05T13:04:06.868Z"
+      "updatedAt": "2026-06-05T13:04:06.868Z",
+      "addedAt": "2026-06-08T23:19:09.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_146",
@@ -47553,7 +47933,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:04:06.979Z",
-      "updatedAt": "2026-06-05T13:04:06.979Z"
+      "updatedAt": "2026-06-05T13:04:06.979Z",
+      "addedAt": "2026-06-10T00:59:22.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_147",
@@ -47676,7 +48058,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:04:49.844Z",
-      "updatedAt": "2026-06-05T13:04:49.844Z"
+      "updatedAt": "2026-06-05T13:04:49.844Z",
+      "addedAt": "2026-06-11T02:39:35.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_148",
@@ -48076,7 +48460,9 @@
         }
       ],
       "createdAt": "2026-06-05T13:04:50.220Z",
-      "updatedAt": "2026-06-05T13:04:50.220Z"
+      "updatedAt": "2026-06-05T13:04:50.220Z",
+      "addedAt": "2026-06-12T04:19:48.000Z",
+      "addedBy": "Sistema"
     },
     {
       "type": "series",
@@ -48396,7 +48782,9 @@
         }
       ],
       "createdAt": "2026-06-13T16:43:56.946Z",
-      "updatedAt": "2026-06-13T16:49:39.608Z"
+      "updatedAt": "2026-06-13T16:49:39.608Z",
+      "addedAt": "2026-06-13T06:01:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_151",
@@ -48488,7 +48876,9 @@
         }
       ],
       "createdAt": "2026-06-13T16:54:51.819Z",
-      "updatedAt": "2026-06-15T01:00:37.368Z"
+      "updatedAt": "2026-06-15T01:00:37.368Z",
+      "addedAt": "2026-06-13T06:02:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_152",
@@ -48657,7 +49047,9 @@
         }
       ],
       "createdAt": "2026-06-13T17:02:53.410Z",
-      "updatedAt": "2026-06-13T17:02:53.410Z"
+      "updatedAt": "2026-06-13T17:02:53.410Z",
+      "addedAt": "2026-06-13T06:03:01.000Z",
+      "addedBy": "Sistema"
     },
     {
       "id": "series_153",
@@ -48783,7 +49175,9 @@
         }
       ],
       "createdAt": "2026-06-14T05:54:08.720Z",
-      "updatedAt": "2026-06-16T21:55:15.830Z"
+      "updatedAt": "2026-06-16T21:55:15.830Z",
+      "addedAt": "2026-06-13T06:04:01.000Z",
+      "addedBy": "Sistema"
     }
   ]
 }
