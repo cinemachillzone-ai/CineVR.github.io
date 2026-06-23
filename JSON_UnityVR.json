@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 535
+    "catalogCount": 536
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -10570,6 +10570,30 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zombies22020/master.m3u8",
       "createdAt": "2026-06-23T19:24:43.547Z",
       "updatedAt": "2026-06-23T19:24:43.547Z"
+    },
+    {
+      "id": "movie_387",
+      "type": "movie",
+      "title": "Exit 8",
+      "description": "Película basada en el videojuego de KOTAKE CREATE \"The Exit 8\", cuya premisa es que una persona anónima se encuentra en una estación de metro atrapada en un bucle en donde debe avanzar sólo cuando una anomalía no aparezca en su campo de visión... o volverá al inicio sin ser capaz de huir de ese lugar.",
+      "duration": "1h 35m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-08-28",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 23,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/exit82025/master.m3u8",
+      "createdAt": "2026-06-23T19:25:18.256Z",
+      "updatedAt": "2026-06-23T19:25:18.256Z"
     },
     {
       "type": "series",
