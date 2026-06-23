@@ -11935,6 +11935,34 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/dracula1931/master.m3u8",
       "createdAt": "2026-06-23T13:09:35.769Z",
       "updatedAt": "2026-06-23T13:09:35.769Z"
+    },
+    {
+      "id": "movie_384",
+      "type": "movie",
+      "title": "Z-O-M-B-I-E-S 3",
+      "description": "Es el último año de Zed y Addison en Seabrook, una ciudad que se ha convertido en un refugio para monstruos y humanos. Zed intenta obtener una beca de fútbol americano para ser el primer zombi en ir a la universidad y Addison organiza la Competencia de Animadores. Cuando llegan unos invasores intergalácticos a competir, Seabrook sospecha que no solo buscan participar en un evento amistoso.",
+      "duration": "1h 28m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2022,
+      "releaseDate": "2022-07-09",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 20,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zOMBIES32022/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zOMBIES32022/master.m3u8",
+      "createdAt": "2026-06-23T19:23:27.495Z",
+      "updatedAt": "2026-06-23T19:23:27.495Z"
     }
   ],
   "series": [
