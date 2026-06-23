@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T10:37:28.634Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "series_103"
-  },
-  {
     "timestamp": "2026-04-24T00:16:51.712Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3312,5 +3306,13 @@
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
     "target": "series_154"
+  },
+  {
+    "ts": "2026-06-23T12:40:42.857Z",
+    "actor": "yutamir",
+    "action": "ADD_EPISODE",
+    "target": "ep_2804",
+    "series": "series_154",
+    "title": "Capítulo 3"
   }
 ]
