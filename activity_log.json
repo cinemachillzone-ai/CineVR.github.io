@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-23T06:05:45.974Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_152"
-  },
-  {
     "timestamp": "2026-04-23T10:31:53.528Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3308,5 +3302,11 @@
     "action": "INJECT_MOVIE",
     "target": "movie_379",
     "title": "Descendientes: el ascenso de Red"
+  },
+  {
+    "ts": "2026-06-23T08:12:34.819Z",
+    "actor": "carmesi",
+    "action": "FULL_SAVE",
+    "size": 1772338
   }
 ]
