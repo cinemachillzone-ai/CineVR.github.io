@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T09:29:51.026Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_003"
-  },
-  {
     "timestamp": "2026-04-24T09:39:18.014Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3312,6 +3306,12 @@
   },
   {
     "ts": "2026-06-23T13:01:24.449Z",
+    "actor": "yutamir",
+    "action": "INJECT_EPISODE",
+    "target": "series_154"
+  },
+  {
+    "ts": "2026-06-23T13:03:38.651Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
     "target": "series_154"
