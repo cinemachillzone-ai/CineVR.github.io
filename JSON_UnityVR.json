@@ -37120,7 +37120,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-06-24",
+      "releaseDate": "2007-10-07",
       "genres": [
         "Drama",
         "Romance",
@@ -37134,69 +37134,82 @@
         {
           "id": "s01e01",
           "title": "Capítulo 1",
-          "slotId": "ep_2825"
+          "slotId": "ep_2825",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e02",
           "title": "Capítulo 2",
-          "slotId": "ep_2826"
+          "slotId": "ep_2826",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e03",
           "title": "Capítulo 3",
-          "slotId": "ep_2827"
+          "slotId": "ep_2827",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e04",
           "title": "Capítulo 4",
-          "slotId": "ep_2828"
+          "slotId": "ep_2828",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e05",
           "title": "Capítulo 5",
-          "slotId": "ep_2829"
+          "slotId": "ep_2829",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e06",
           "title": "Capítulo 6",
-          "slotId": "ep_2830"
+          "slotId": "ep_2830",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e07",
           "title": "Capítulo 7",
-          "slotId": "ep_2831"
+          "slotId": "ep_2831",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e08",
           "title": "Capítulo 8",
-          "slotId": "ep_2832"
+          "slotId": "ep_2832",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e09",
           "title": "Capítulo 9",
-          "slotId": "ep_2833"
+          "slotId": "ep_2833",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
-          "slotId": "ep_2834"
+          "slotId": "ep_2834",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
-          "slotId": "ep_2835"
+          "slotId": "ep_2835",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
-          "slotId": "ep_2836"
+          "slotId": "ep_2836",
+          "updatedAt": "2026-06-24T04:41:29.944Z"
         }
       ],
       "id": "series_156",
       "addedAt": "2026-06-24T04:23:26.007Z",
       "addedBy": "Admin",
       "atlas": "E",
-      "gridIndex": 25
+      "gridIndex": 25,
+      "updatedAt": "2026-06-24T04:41:29.944Z"
     }
   ]
 }
