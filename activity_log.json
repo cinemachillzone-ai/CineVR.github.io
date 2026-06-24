@@ -3321,5 +3321,17 @@
     "action": "INJECT_MOVIE",
     "target": "movie_387",
     "title": "Exit 8"
+  },
+  {
+    "timestamp": "2026-06-24T04:18:48.536Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_155"
+  },
+  {
+    "timestamp": "2026-06-24T04:23:26.614Z",
+    "user": "Admin",
+    "action": "ADD",
+    "targetId": "series_156"
   }
 ]

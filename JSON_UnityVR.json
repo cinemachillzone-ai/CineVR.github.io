@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 536
+    "catalogCount": 538
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -37010,6 +37010,180 @@
       ],
       "createdAt": "2026-06-23T12:35:44.165Z",
       "updatedAt": "2026-06-23T13:06:23.551Z"
+    },
+    {
+      "type": "series",
+      "title": "ef: A Tale of Melodies",
+      "description": "Esta es la secuela directa de ef: A Tale of Memories. La historia profundiza en el pasado de Yuko Amamiya y Himura Yuu, revelando los eventos trágicos que marcaron sus vidas. Al mismo tiempo, continúa explorando las relaciones entre los personajes principales, mostrando cómo el amor, la pérdida y los recuerdos pueden sanar… o destruir.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2008,
+      "releaseDate": "2026-06-24",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2813"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2814"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2815"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2816"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2817"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2818"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2819"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2820"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2821"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2822"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2823"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2824"
+        }
+      ],
+      "id": "series_155",
+      "addedAt": "2026-06-24T04:18:48.008Z",
+      "addedBy": "Admin",
+      "atlas": "E",
+      "gridIndex": 24
+    },
+    {
+      "type": "series",
+      "title": "ef: A Tale of Memories",
+      "description": "La historia sigue varias historias de amor interconectadas entre jóvenes que cargan con heridas emocionales, recuerdos dolorosos y sueños difíciles de alcanzar. Hiro, un dibujante de manga, conoce a la misteriosa Miyako en Nochebuena, mientras Renji entabla una relación con Chihiro, una chica que sufre una condición que afecta gravemente su memoria. Poco a poco, todas las historias se entrelazan en un drama emocional muy profundo.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "LQ",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2026-06-24",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "enabled": true,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "title": "Capítulo 1",
+          "slotId": "ep_2825"
+        },
+        {
+          "id": "s01e02",
+          "title": "Capítulo 2",
+          "slotId": "ep_2826"
+        },
+        {
+          "id": "s01e03",
+          "title": "Capítulo 3",
+          "slotId": "ep_2827"
+        },
+        {
+          "id": "s01e04",
+          "title": "Capítulo 4",
+          "slotId": "ep_2828"
+        },
+        {
+          "id": "s01e05",
+          "title": "Capítulo 5",
+          "slotId": "ep_2829"
+        },
+        {
+          "id": "s01e06",
+          "title": "Capítulo 6",
+          "slotId": "ep_2830"
+        },
+        {
+          "id": "s01e07",
+          "title": "Capítulo 7",
+          "slotId": "ep_2831"
+        },
+        {
+          "id": "s01e08",
+          "title": "Capítulo 8",
+          "slotId": "ep_2832"
+        },
+        {
+          "id": "s01e09",
+          "title": "Capítulo 9",
+          "slotId": "ep_2833"
+        },
+        {
+          "id": "s01e10",
+          "title": "Capítulo 10",
+          "slotId": "ep_2834"
+        },
+        {
+          "id": "s01e11",
+          "title": "Capítulo 11",
+          "slotId": "ep_2835"
+        },
+        {
+          "id": "s01e12",
+          "title": "Capítulo 12",
+          "slotId": "ep_2836"
+        }
+      ],
+      "id": "series_156",
+      "addedAt": "2026-06-24T04:23:26.007Z",
+      "addedBy": "Admin",
+      "atlas": "E",
+      "gridIndex": 25
     }
   ]
 }
