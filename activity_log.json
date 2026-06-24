@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:37:43.737Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_060"
-  },
-  {
     "timestamp": "2026-04-24T11:38:24.443Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3322,6 +3316,14 @@
     "action": "EDIT_SERIES",
     "target": "series_155",
     "title": "ef: A Tale of Melodies",
+    "eps_changed": 12
+  },
+  {
+    "ts": "2026-06-24T04:41:44.079Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_156",
+    "title": "ef: A Tale of Memories",
     "eps_changed": 12
   }
 ]
