@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:39:54.412Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_051"
-  },
-  {
     "timestamp": "2026-04-24T11:40:53.419Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3326,5 +3320,12 @@
     "action": "INJECT_SERIES",
     "target": "series_157",
     "title": "Gameoverse T1"
+  },
+  {
+    "ts": "2026-06-29T03:01:21.746Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_158",
+    "title": "EFA Taleof Melodies T1"
   }
 ]
