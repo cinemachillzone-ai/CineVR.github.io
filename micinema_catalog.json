@@ -484,7 +484,6 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Interestelar/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/52108c2a-b513-4507-9aab-f5e7a9f7bc92/playlist.m3u8",
-        "language_language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Interestelar/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/52108c2a-b513-4507-9aab-f5e7a9f7bc92/playlist.m3u8"
       },
       "enabled": true,
@@ -1172,7 +1171,6 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/b5e021a0-4905-4cca-b086-f4a81e5e6840/playlist.m3u8",
-        "language_language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/b5e021a0-4905-4cca-b086-f4a81e5e6840/playlist.m3u8"
       },
       "enabled": true,
@@ -1564,7 +1562,6 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8",
         "language_Spanish": "11",
-        "language_language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8"
       },
       "enabled": false,
@@ -1599,7 +1596,6 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8",
         "language_Spanish": "qqq",
-        "language_language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8"
       },
       "enabled": true,
@@ -1635,7 +1631,6 @@
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8",
         "language_Spanish": "asas",
-        "language_language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8"
       },
       "enabled": true,
