@@ -18749,7 +18749,7 @@
           "slotId": "ep_857",
           "title": "CapÃ­tulo 0",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/TheRookieCapitulo7/master.m3u8",
-          "updatedAt": "2026-06-05T13:04:06.502Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2544
         },
         {
@@ -18757,7 +18757,7 @@
           "title": "CapÃ­tulo 1",
           "slotId": "ep_858",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E01/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2582
         },
         {
@@ -18765,7 +18765,7 @@
           "title": "CapÃ­tulo 2",
           "slotId": "ep_859",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E02/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2580
         },
         {
@@ -18773,7 +18773,7 @@
           "title": "CapÃ­tulo 3",
           "slotId": "ep_860",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E03/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2567
         },
         {
@@ -18781,7 +18781,7 @@
           "title": "CapÃ­tulo 4",
           "slotId": "ep_861",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E04/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2583
         },
         {
@@ -18789,7 +18789,7 @@
           "title": "CapÃ­tulo 5",
           "slotId": "ep_862",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E05/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2479
         },
         {
@@ -18797,20 +18797,22 @@
           "title": "CapÃ­tulo 6",
           "slotId": "ep_863",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E06/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2584
         },
         {
           "id": "s01e07",
           "title": "CapÃ­tulo 7",
-          "slotId": "ep_864"
+          "slotId": "ep_864",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/TheRookieCapitulo7/master.m3u8",
+          "updatedAt": "2026-06-29T09:14:32.820Z"
         },
         {
           "id": "s01e08",
           "title": "CapÃ­tulo 8",
           "slotId": "ep_865",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E08/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2509
         },
         {
@@ -18818,7 +18820,7 @@
           "title": "CapÃ­tulo 9",
           "slotId": "ep_866",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E09/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2569
         },
         {
@@ -18826,7 +18828,7 @@
           "title": "CapÃ­tulo 10",
           "slotId": "ep_867",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E10/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2497
         },
         {
@@ -18834,7 +18836,7 @@
           "title": "CapÃ­tulo 11",
           "slotId": "ep_868",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E11/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2564
         },
         {
@@ -18842,7 +18844,7 @@
           "title": "CapÃ­tulo 12",
           "slotId": "ep_869",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E12/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2572
         },
         {
@@ -18850,7 +18852,7 @@
           "title": "CapÃ­tulo 13",
           "slotId": "ep_870",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E13/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2567
         },
         {
@@ -18858,7 +18860,7 @@
           "title": "CapÃ­tulo 14",
           "slotId": "ep_871",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E14/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2584
         },
         {
@@ -18866,7 +18868,7 @@
           "title": "CapÃ­tulo 15",
           "slotId": "ep_872",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E15/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2546
         },
         {
@@ -18874,7 +18876,7 @@
           "title": "CapÃ­tulo 16",
           "slotId": "ep_873",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E16/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2583
         },
         {
@@ -18882,7 +18884,7 @@
           "title": "CapÃ­tulo 17",
           "slotId": "ep_874",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E17/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2523
         },
         {
@@ -18890,7 +18892,7 @@
           "title": "CapÃ­tulo 18",
           "slotId": "ep_875",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E18/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2581
         },
         {
@@ -18898,7 +18900,7 @@
           "title": "CapÃ­tulo 19",
           "slotId": "ep_876",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E19/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2574
         },
         {
@@ -18906,7 +18908,7 @@
           "title": "CapÃ­tulo 20",
           "slotId": "ep_877",
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TheRookie/Tem1/theRookie2018S01E20/master.m3u8",
-          "updatedAt": "2026-05-27T19:11:32.236Z",
+          "updatedAt": "2026-06-29T09:14:32.820Z",
           "tokenDuration": 2584
         }
       ],
@@ -18915,7 +18917,7 @@
       "addedBy": "Admin",
       "atlas": "B",
       "gridIndex": 71,
-      "updatedAt": "2026-06-05T13:04:06.502Z"
+      "updatedAt": "2026-06-29T09:14:32.821Z"
     },
     {
       "type": "series",
