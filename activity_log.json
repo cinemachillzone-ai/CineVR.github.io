@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:38:24.443Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_061"
-  },
-  {
     "timestamp": "2026-04-24T11:39:54.412Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3325,5 +3319,12 @@
     "target": "series_156",
     "title": "ef: A Tale of Memories",
     "eps_changed": 12
+  },
+  {
+    "ts": "2026-06-29T02:59:05.846Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_157",
+    "title": "Gameoverse T1"
   }
 ]
