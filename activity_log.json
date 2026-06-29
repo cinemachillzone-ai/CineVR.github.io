@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:40:53.419Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_025"
-  },
-  {
     "timestamp": "2026-04-24T11:41:43.850Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3327,5 +3321,13 @@
     "action": "INJECT_SERIES",
     "target": "series_158",
     "title": "EFA Taleof Melodies T1"
+  },
+  {
+    "ts": "2026-06-29T09:14:46.338Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_047",
+    "title": "The Rookie",
+    "eps_changed": 21
   }
 ]
