@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T01:48:33.609Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_054"
-  },
-  {
     "timestamp": "2026-04-25T01:52:09.357Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3332,5 +3326,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_390",
     "title": "Bee Movie: La historia de una abeja"
+  },
+  {
+    "ts": "2026-06-30T19:02:11.763Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_391",
+    "title": "Espíritus ocultos: En compañía del miedo"
   }
 ]
