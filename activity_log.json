@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T00:47:50.029Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_165"
-  },
-  {
     "timestamp": "2026-04-26T00:50:11.609Z",
     "user": "Admin",
     "action": "ADD",
@@ -3346,5 +3340,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_404",
     "title": "Tu nombre"
+  },
+  {
+    "ts": "2026-06-30T19:28:52.820Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_404",
+    "title": "Tu nombre (sub español)"
   }
 ]
