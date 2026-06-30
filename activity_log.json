@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T02:08:57.739Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_082"
-  },
-  {
     "timestamp": "2026-04-25T06:43:01.800Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3338,5 +3332,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_396",
     "title": "Las ovejas detectives"
+  },
+  {
+    "ts": "2026-06-30T19:06:28.707Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_397",
+    "title": "La caza"
   }
 ]
