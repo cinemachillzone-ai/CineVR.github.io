@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-24T11:41:43.850Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_017"
-  },
-  {
     "timestamp": "2026-04-25T01:47:22.639Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3329,5 +3323,12 @@
     "target": "series_047",
     "title": "The Rookie",
     "eps_changed": 21
+  },
+  {
+    "ts": "2026-06-30T19:00:37.062Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_388",
+    "title": "Gatúbela"
   }
 ]
