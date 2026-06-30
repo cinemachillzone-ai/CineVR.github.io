@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T01:52:16.583Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_120"
-  },
-  {
     "timestamp": "2026-04-25T02:07:17.693Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3334,5 +3328,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_392",
     "title": "Lawrence de Arabia"
+  },
+  {
+    "ts": "2026-06-30T19:04:40.193Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_393",
+    "title": "Cercana Obsesión"
   }
 ]
