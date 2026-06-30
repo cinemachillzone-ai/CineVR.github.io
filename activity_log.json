@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T02:08:21.933Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_054"
-  },
-  {
     "timestamp": "2026-04-25T02:08:32.135Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3336,5 +3330,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_394",
     "title": "Operación monumento"
+  },
+  {
+    "ts": "2026-06-30T19:05:42.725Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_395",
+    "title": "Maridos en acción"
   }
 ]
