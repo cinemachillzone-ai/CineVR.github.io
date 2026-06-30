@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T02:08:32.135Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_054"
-  },
-  {
     "timestamp": "2026-04-25T02:08:57.739Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3337,5 +3331,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_395",
     "title": "Maridos en acción"
+  },
+  {
+    "ts": "2026-06-30T19:06:07.443Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_396",
+    "title": "Las ovejas detectives"
   }
 ]
