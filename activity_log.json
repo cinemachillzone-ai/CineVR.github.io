@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T06:50:19.239Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_110"
-  },
-  {
     "timestamp": "2026-04-25T06:50:29.272Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3342,5 +3336,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_400",
     "title": "Los Descendientes 3"
+  },
+  {
+    "ts": "2026-06-30T19:08:37.529Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_401",
+    "title": "Los Thornberrys: la película"
   }
 ]
