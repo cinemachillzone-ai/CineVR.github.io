@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 553
+    "catalogCount": 554
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -10921,6 +10921,32 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losDescendientes3O2019/master.m3u8",
       "createdAt": "2026-06-30T19:08:01.462Z",
       "updatedAt": "2026-06-30T19:08:01.462Z"
+    },
+    {
+      "id": "movie_401",
+      "type": "movie",
+      "title": "Los Thornberrys: la película",
+      "description": "Eliza y Debbie son dos hermanas que no siempre se llevan bien. Pero su relación se pone a prueba cuando la vida de Debbie corre peligro y Eliza podría tener que renunciar a su poder de hablar con los animales.",
+      "duration": "1h 25m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2002,
+      "releaseDate": "2002-12-20",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 41,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losthornberryslapelicula2002/master.m3u8",
+      "createdAt": "2026-06-30T19:08:24.880Z",
+      "updatedAt": "2026-06-30T19:08:24.880Z"
     },
     {
       "type": "series",
