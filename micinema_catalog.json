@@ -12894,6 +12894,34 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losthornberryslapelicula2002/master.m3u8",
       "createdAt": "2026-06-30T19:08:24.880Z",
       "updatedAt": "2026-06-30T19:08:24.880Z"
+    },
+    {
+      "id": "movie_402",
+      "type": "movie",
+      "title": "Buena suerte, diviértete, no mueras",
+      "description": "Un hombre que afirma venir del futuro llega a un pequeño restaurante en Los Ángeles. Su misión: reclutar a los humanos descontentos para que, en el transcurso de una noche, formen parte de una misión global: detener a una inteligencia artificial que se ha vuelto rebelde y amenaza la supervivencia del mundo.",
+      "duration": "2h 14m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-02-13",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 42,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/buenaSuerteDivierteteNoMueras2025/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/buenaSuerteDivierteteNoMueras2025/master.m3u8",
+      "createdAt": "2026-06-30T19:08:57.315Z",
+      "updatedAt": "2026-06-30T19:08:57.315Z"
     }
   ],
   "series": [
