@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T06:44:19.823Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_087"
-  },
-  {
     "timestamp": "2026-04-25T06:49:50.998Z",
     "user": "Admin",
     "action": "ADD",
@@ -3340,5 +3334,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_398",
     "title": "Hermanito"
+  },
+  {
+    "ts": "2026-06-30T19:07:49.390Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_399",
+    "title": "Gran Torino"
   }
 ]
