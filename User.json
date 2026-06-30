@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-11 03:52",
+  "lastUpdate": "2026-06-30 19:36",
   "stars": [
     {
       "user": "Sean F",
@@ -20,6 +20,10 @@
     {
       "user": "Nath Kohai",
       "cellIndex": 4
+    },
+    {
+      "user": "mixi",
+      "cellIndex": 5
     }
   ],
   "patreons": [
@@ -244,25 +248,29 @@
     },
     {
       "id": "user_018",
-      "user": "Slot 18",
+      "user": "mixi",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-07-30T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 17,
-      "isStar": false
+      "isStar": true,
+      "starCellIndex": 5,
+      "isGroupLeader": true,
+      "groupId": "mixi"
     },
     {
       "id": "user_019",
-      "user": "Slot 19",
+      "user": "dalesky",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-07-30T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 18,
-      "isStar": false
+      "isStar": false,
+      "groupId": "mixi"
     },
     {
       "id": "user_020",
