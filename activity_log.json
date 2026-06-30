@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T02:07:17.693Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_079"
-  },
-  {
     "timestamp": "2026-04-25T02:08:21.933Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3335,5 +3329,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_393",
     "title": "Cercana Obsesión"
+  },
+  {
+    "ts": "2026-06-30T19:05:20.400Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_394",
+    "title": "Operación monumento"
   }
 ]
