@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T01:52:09.357Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_079"
-  },
-  {
     "timestamp": "2026-04-25T01:52:16.583Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3333,5 +3327,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_391",
     "title": "Espíritus ocultos: En compañía del miedo"
+  },
+  {
+    "ts": "2026-06-30T19:04:16.568Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_392",
+    "title": "Lawrence de Arabia"
   }
 ]
