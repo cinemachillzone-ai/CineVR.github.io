@@ -12730,6 +12730,34 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maridosenaccion2026/master.m3u8",
       "createdAt": "2026-06-30T19:05:29.114Z",
       "updatedAt": "2026-06-30T19:05:29.114Z"
+    },
+    {
+      "id": "movie_396",
+      "type": "movie",
+      "title": "Las ovejas detectives",
+      "description": "Cada noche, un pastor lee en voz alta un asesinato misterioso, fingiendo que sus ovejas pueden entenderlo. Cuando lo encuentran muerto, las ovejas se dan cuenta enseguida de que ha sido un asesinato y creen saber cómo resolverlo.",
+      "duration": "1h 49m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-04-30",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 36,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lasovejasdetectives2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lasovejasdetectives2026/master.m3u8",
+      "createdAt": "2026-06-30T19:05:54.245Z",
+      "updatedAt": "2026-06-30T19:05:54.245Z"
     }
   ],
   "series": [
