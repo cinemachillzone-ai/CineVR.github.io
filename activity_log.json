@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T01:47:22.639Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_110"
-  },
-  {
     "timestamp": "2026-04-25T01:48:16.547Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3330,5 +3324,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_388",
     "title": "Gatúbela"
+  },
+  {
+    "ts": "2026-06-30T19:01:17.523Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_389",
+    "title": "Mensajes de voz para Isabelle"
   }
 ]
