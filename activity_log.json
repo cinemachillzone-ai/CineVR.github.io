@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-25T06:43:01.800Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_079"
-  },
-  {
     "timestamp": "2026-04-25T06:44:19.823Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3339,5 +3333,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_397",
     "title": "La caza"
+  },
+  {
+    "ts": "2026-06-30T19:07:05.536Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_398",
+    "title": "Hermanito"
   }
 ]
