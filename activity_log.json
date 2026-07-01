@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T01:11:20.427Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_111"
-  },
-  {
     "timestamp": "2026-04-26T20:19:24.986Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3360,5 +3354,11 @@
     "action": "INJECT_SERIES",
     "target": "series_161",
     "title": "amongus T1"
+  },
+  {
+    "ts": "2026-07-01T22:37:42.463Z",
+    "actor": "yutamir",
+    "action": "FIX_MOJIBAKE",
+    "count": 2454
   }
 ]
