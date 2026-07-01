@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:22:12.749Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_054"
-  },
-  {
     "timestamp": "2026-04-26T20:23:04.375Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3362,5 +3356,13 @@
     "target": "series_159",
     "title": "Among Us",
     "eps_changed": 10
+  },
+  {
+    "ts": "2026-07-01T22:42:53.686Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_156",
+    "title": "ef: A Tale of Memories",
+    "eps_changed": 12
   }
 ]
