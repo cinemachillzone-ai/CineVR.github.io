@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T01:09:31.654Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_111"
-  },
-  {
     "timestamp": "2026-04-26T01:09:44.505Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3355,5 +3349,13 @@
     "target": "series_160",
     "title": "Poemas",
     "episodes": 6
+  },
+  {
+    "ts": "2026-07-01T21:24:20.797Z",
+    "actor": "seanf",
+    "action": "ADD_EPISODE",
+    "target": "ep_2855",
+    "series": "series_160",
+    "title": "Capítulo 7"
   }
 ]
