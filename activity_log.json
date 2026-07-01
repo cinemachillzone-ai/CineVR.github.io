@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T00:50:19.361Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_166"
-  },
-  {
     "timestamp": "2026-04-26T00:53:56.573Z",
     "user": "Admin",
     "action": "ADD",
@@ -3348,5 +3342,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_405",
     "title": "Scooby-Doo"
+  },
+  {
+    "ts": "2026-07-01T20:50:08.989Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_159",
+    "title": "Among Us",
+    "episodes": 10
   }
 ]
