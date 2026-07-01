@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T01:09:55.195Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_169"
-  },
-  {
     "timestamp": "2026-04-26T01:11:20.427Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3359,5 +3353,12 @@
     "target": "series_160",
     "title": "Poemas",
     "eps_changed": 6
+  },
+  {
+    "ts": "2026-07-01T22:24:01.777Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_161",
+    "title": "amongus T1"
   }
 ]
