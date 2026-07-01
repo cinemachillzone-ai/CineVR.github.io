@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 560
+    "catalogCount": 561
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -37853,6 +37853,69 @@
       ],
       "createdAt": "2026-07-01T20:49:56.347Z",
       "updatedAt": "2026-07-01T21:07:26.198Z"
+    },
+    {
+      "id": "series_160",
+      "type": "series",
+      "title": "Poemas",
+      "description": "Esto es el comienzo de un pequeño proyecto que quería hacer: una serie de poemas recopilados de Instagram, TikTok y YouTube para compartirlos aquí y disfrutarlos juntos.\n\nEspero que podamos hacer de esto algo especial e incluso organizar eventos relacionados con ello.",
+      "year": 2026,
+      "releaseDate": "2026-07-01",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 48,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2849",
+          "title": "Capítulo 1",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2850",
+          "title": "Capítulo 2",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2851",
+          "title": "Capítulo 3",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2852",
+          "title": "Capítulo 4",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2853",
+          "title": "Capítulo 5",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2854",
+          "title": "Capítulo 6",
+          "master_url": "",
+          "createdAt": "2026-07-01T21:23:37.764Z"
+        }
+      ],
+      "createdAt": "2026-07-01T21:23:37.764Z",
+      "updatedAt": "2026-07-01T21:23:37.764Z"
     }
   ]
 }
