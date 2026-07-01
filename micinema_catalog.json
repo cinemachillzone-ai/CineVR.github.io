@@ -53722,117 +53722,127 @@
           "slotId": "ep_2839",
           "title": "Capítulo 1",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e012027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e012027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e012027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e012027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e02",
           "slotId": "ep_2840",
           "title": "Capítulo 2",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e022027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e022027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e022027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e022027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2841",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e032027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e032027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e032027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e032027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e04",
           "slotId": "ep_2842",
           "title": "Capítulo 4",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e042027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e042027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e042027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e042027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e05",
           "slotId": "ep_2843",
           "title": "Capítulo 5",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e052027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e052027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e052027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e052027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e06",
           "slotId": "ep_2844",
           "title": "Capítulo 6",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e062027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e062027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e062027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e062027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e07",
           "slotId": "ep_2845",
           "title": "Capítulo 7",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e072027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e072027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e072027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e072027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e08",
           "slotId": "ep_2846",
           "title": "Capítulo 8",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e082027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e082027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e082027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e082027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e09",
           "slotId": "ep_2847",
           "title": "Capítulo 9",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e092027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e092027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e092027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e092027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         },
         {
           "id": "s01e10",
           "slotId": "ep_2848",
           "title": "Capítulo 10",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e102027/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e102027/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e102027/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/amongus/T1/amonguss01e102027/master.m3u8",
           "createdAt": "2026-07-01T20:49:56.347Z",
-          "updatedAt": "2026-07-01T21:07:26.198Z"
+          "updatedAt": "2026-07-01T22:42:15.397Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-07-01T20:49:56.347Z",
-      "updatedAt": "2026-07-01T21:07:26.198Z",
+      "updatedAt": "2026-07-01T22:42:15.397Z",
       "addedAt": "2026-07-01T20:49:56.347Z",
       "addedBy": "Sistema"
     },
