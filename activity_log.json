@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:27:38.559Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_110"
-  },
-  {
     "timestamp": "2026-04-26T20:31:20.224Z",
     "user": "Admin",
     "action": "ADD",
@@ -3367,5 +3361,13 @@
     "target": "series_155",
     "title": "ef: A Tale of Melodies",
     "eps_changed": 12
+  },
+  {
+    "ts": "2026-07-01T22:51:28.696Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_160",
+    "title": "Poemas",
+    "eps_changed": 6
   }
 ]
