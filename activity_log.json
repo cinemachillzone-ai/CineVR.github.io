@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T01:09:44.505Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_169"
-  },
-  {
     "timestamp": "2026-04-26T01:09:55.195Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3357,5 +3351,13 @@
     "target": "ep_2855",
     "series": "series_160",
     "title": "Capítulo 7"
+  },
+  {
+    "ts": "2026-07-01T21:30:32.919Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_160",
+    "title": "Poemas",
+    "eps_changed": 6
   }
 ]
