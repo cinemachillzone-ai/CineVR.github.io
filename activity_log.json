@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:23:04.375Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_082"
-  },
-  {
     "timestamp": "2026-04-26T20:23:25.525Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3364,5 +3358,12 @@
     "target": "series_156",
     "title": "ef: A Tale of Memories",
     "eps_changed": 12
+  },
+  {
+    "ts": "2026-07-01T22:43:16.179Z",
+    "actor": "yutamir",
+    "action": "DELETE_SERIES",
+    "target": "series_161",
+    "title": "amongus T1"
   }
 ]
