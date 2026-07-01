@@ -37570,73 +37570,84 @@
           "id": "s01e01",
           "title": "Capítulo 1",
           "slotId": "ep_2813",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleof MelodiesEpisodio1/master.m3u8"
         },
         {
           "id": "s01e02",
           "title": "Capítulo 2",
           "slotId": "ep_2814",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio2/master.m3u8"
         },
         {
           "id": "s01e03",
           "title": "Capítulo 3",
           "slotId": "ep_2815",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio3/master.m3u8"
         },
         {
           "id": "s01e04",
           "title": "Capítulo 4",
           "slotId": "ep_2816",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio4/master.m3u8"
         },
         {
           "id": "s01e05",
           "title": "Capítulo 5",
           "slotId": "ep_2817",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio5/master.m3u8"
         },
         {
           "id": "s01e06",
           "title": "Capítulo 6",
           "slotId": "ep_2818",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio6/master.m3u8"
         },
         {
           "id": "s01e07",
           "title": "Capítulo 7",
           "slotId": "ep_2819",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio7/master.m3u8"
         },
         {
           "id": "s01e08",
           "title": "Capítulo 8",
           "slotId": "ep_2820",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio8/master.m3u8"
         },
         {
           "id": "s01e09",
           "title": "Capítulo 9",
           "slotId": "ep_2821",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio9/master.m3u8"
         },
         {
           "id": "s01e10",
           "title": "Capítulo 10",
           "slotId": "ep_2822",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio10/master.m3u8"
         },
         {
           "id": "s01e11",
           "title": "Capítulo 11",
           "slotId": "ep_2823",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/EFATaleofMelodies/T1/EFATaleofMelodiesEpisodio11/master.m3u8"
         },
         {
           "id": "s01e12",
           "title": "Capítulo 12",
           "slotId": "ep_2824",
-          "updatedAt": "2026-06-24T04:39:25.476Z"
+          "updatedAt": "2026-07-01T22:50:51.892Z"
         }
       ],
       "id": "series_155",
@@ -37644,7 +37655,7 @@
       "addedBy": "Admin",
       "atlas": "E",
       "gridIndex": 24,
-      "updatedAt": "2026-06-24T04:39:25.476Z"
+      "updatedAt": "2026-07-01T22:50:51.892Z"
     },
     {
       "type": "series",
