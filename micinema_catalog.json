@@ -53799,7 +53799,8 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e01/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e02",
@@ -53809,7 +53810,8 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e02/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e03",
@@ -53819,7 +53821,8 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e03/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e04",
@@ -53829,7 +53832,8 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e04/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e05",
@@ -53839,7 +53843,8 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e05/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e06",
@@ -53849,14 +53854,15 @@
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e06/master.m3u8"
           },
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-07-01T21:23:37.764Z",
-      "updatedAt": "2026-07-01T21:23:37.764Z"
+      "updatedAt": "2026-07-01T21:30:20.131Z"
     }
   ]
 }
