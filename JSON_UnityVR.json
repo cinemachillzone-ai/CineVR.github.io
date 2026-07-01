@@ -37876,53 +37876,52 @@
           "slotId": "ep_2849",
           "title": "Capítulo 1",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e02",
           "slotId": "ep_2850",
           "title": "Capítulo 2",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2851",
           "title": "Capítulo 3",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e04",
           "slotId": "ep_2852",
           "title": "Capítulo 4",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e05",
           "slotId": "ep_2853",
           "title": "Capítulo 5",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         },
         {
           "id": "s01e06",
           "slotId": "ep_2854",
           "title": "Capítulo 6",
           "master_url": "",
-          "createdAt": "2026-07-01T21:23:37.764Z"
-        },
-        {
-          "id": "s01e07",
-          "slotId": "ep_2855",
-          "title": "Capítulo 7",
-          "master_url": "",
-          "createdAt": "2026-07-01T21:24:07.724Z"
+          "createdAt": "2026-07-01T21:23:37.764Z",
+          "updatedAt": "2026-07-01T21:30:20.130Z"
         }
       ],
       "createdAt": "2026-07-01T21:23:37.764Z",
-      "updatedAt": "2026-07-01T21:23:37.764Z"
+      "updatedAt": "2026-07-01T21:30:20.131Z"
     }
   ]
 }
