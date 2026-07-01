@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T00:55:54.677Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_168"
-  },
-  {
     "timestamp": "2026-04-26T01:03:45.862Z",
     "user": "Admin",
     "action": "ADD",
@@ -3351,5 +3345,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_406",
     "title": "Las fronteras"
+  },
+  {
+    "ts": "2026-07-01T21:07:38.531Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_159",
+    "title": "Among Us",
+    "eps_changed": 10
   }
 ]
