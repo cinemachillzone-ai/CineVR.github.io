@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:38:20.486Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_166"
-  },
-  {
     "timestamp": "2026-04-26T20:41:21.074Z",
     "user": "Admin",
     "action": "ADD",
@@ -3376,5 +3370,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_297",
     "title": "Parque Jurásico"
+  },
+  {
+    "ts": "2026-07-02T22:19:46.689Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_253",
+    "title": "Jack Ryan de Tom Clancy: Guerra fantasma"
   }
 ]
