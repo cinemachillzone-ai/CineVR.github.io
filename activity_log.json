@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T17:54:32.401Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_001"
-  },
-  {
     "timestamp": "2026-04-27T17:55:34.180Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3379,5 +3373,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_012",
     "title": "Spider-Man 3"
+  },
+  {
+    "ts": "2026-07-02T22:22:18.704Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_036",
+    "title": "The Amazing Spider-Man 2"
   }
 ]
