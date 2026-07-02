@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:35:06.439Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_166"
-  },
-  {
     "timestamp": "2026-04-26T20:36:36.534Z",
     "user": "Admin",
     "action": "ADD",
@@ -3372,5 +3366,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_108",
     "title": "Scream 7"
+  },
+  {
+    "ts": "2026-07-02T22:17:50.956Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_215",
+    "title": "Charlie y la Fábrica de Chocolate"
   }
 ]
