@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T18:03:01.735Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_010"
-  },
-  {
     "timestamp": "2026-04-27T18:07:28.259Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3381,5 +3375,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_015",
     "title": "John Wick: Chapter 2"
+  },
+  {
+    "ts": "2026-07-02T22:23:00.309Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_019",
+    "title": "Spider-Man: Far From Home"
   }
 ]
