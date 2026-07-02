@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T20:53:05.908Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_020"
-  },
-  {
     "timestamp": "2026-04-27T20:57:21.106Z",
     "user": "Admin",
     "action": "ADD",
@@ -3383,5 +3377,11 @@
     "action": "EDIT_MOVIE",
     "target": "movie_246",
     "title": "El día del fin del mundo: Migración"
+  },
+  {
+    "ts": "2026-07-02T22:42:08.910Z",
+    "actor": "yutamir",
+    "action": "RECALCULATE_INDICES",
+    "renames": 289
   }
 ]
