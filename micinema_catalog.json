@@ -674,9 +674,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8",
-        "language_Spanish": "sdfsf",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8"
+        "default": ""
       },
       "enabled": false,
       "id": "movie_019",
@@ -684,8 +682,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 18,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8",
-      "updatedAt": "2026-05-28T03:14:25.094Z",
+      "master_url": "",
+      "updatedAt": "2026-07-02T22:22:42.572Z",
       "tokenDuration": 8890
     },
     {
