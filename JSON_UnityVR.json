@@ -6762,9 +6762,9 @@
       ],
       "atlas": "C",
       "gridIndex": 115,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8",
+      "master_url": "",
       "createdAt": "2026-06-05T12:52:13.568Z",
-      "updatedAt": "2026-06-05T12:52:13.568Z",
+      "updatedAt": "2026-07-02T22:25:35.923Z",
       "tokenDuration": 9470,
       "addedAt": "2026-05-22T07:59:48.000Z",
       "addedBy": "Sistema"
