@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:41:21.074Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_112"
-  },
-  {
     "timestamp": "2026-04-26T20:50:42.561Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3377,5 +3371,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_253",
     "title": "Jack Ryan de Tom Clancy: Guerra fantasma"
+  },
+  {
+    "ts": "2026-07-02T22:21:36.139Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_008",
+    "title": "Guardians of the Galaxy"
   }
 ]
