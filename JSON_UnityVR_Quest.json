@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 559
+    "catalogCount": 558
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -6295,33 +6295,6 @@
       "updatedAt": "2026-06-01T18:00:04.944Z",
       "tokenDuration": 5692,
       "addedAt": "2026-05-17T22:44:24.000Z",
-      "addedBy": "Sistema"
-    },
-    {
-      "id": "movie_229",
-      "type": "movie",
-      "title": "N\u00famero desconocido: Un esc\u00e1ndalo de ciberacoso escolar",
-      "description": "Una adolescente y su novio comienzan a recibir mensajes an\u00c3\u00b3nimos ofensivos, amenazantes y perturbadores. Lo que parece un simple caso de ciberacoso escolar se convierte en una compleja investigaci\u00c3\u00b3n policial llena de giros inesperados que revela una verdad impactante detr\u00c3\u00a1s del hostigamiento.",
-      "duration": "1 hora 34 minutos",
-      "rating": "TV-MA",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2025-08-29",
-      "genres": [
-        "Documentary",
-        "Crime"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "C",
-      "gridIndex": 96,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
-      "createdAt": "2026-06-01T14:29:03.161Z",
-      "updatedAt": "2026-06-01T18:00:04.944Z",
-      "tokenDuration": 5692,
-      "addedAt": "2026-05-18T04:35:15.000Z",
       "addedBy": "Sistema"
     },
     {
