@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:33:15.483Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_165"
-  },
-  {
     "timestamp": "2026-04-26T20:33:24.903Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3370,5 +3364,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_144",
     "title": "Charlie y la Fábrica de Chocolate"
+  },
+  {
+    "ts": "2026-07-02T22:16:51.901Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_224",
+    "title": "Jack Ryan: Guerra Fantasma"
   }
 ]
