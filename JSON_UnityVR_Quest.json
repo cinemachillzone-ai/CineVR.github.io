@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 557
+    "catalogCount": 556
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -8103,33 +8103,6 @@
       "updatedAt": "2026-06-06T05:06:33.355Z",
       "tokenDuration": 6309,
       "addedAt": "2026-06-03T12:22:34.000Z",
-      "addedBy": "Sistema"
-    },
-    {
-      "id": "movie_297",
-      "type": "movie",
-      "title": "Parque Jur\u00e1sico",
-      "description": "El multimillonario John Hammond tiene una idea para un espectacular parque tem\u00c3\u00a1tico: una isla retirada donde los visitantes puedan observar dinosaurios reales. Con la \u00c3\u00baltima tecnolog\u00c3\u00ada en el desarrollo de DNA, los cient\u00c3\u00adficos pueden clonar braquiosaurios, triceratops, velociraptors y un tiranosaurio rex, utilizando para ello la sangre fosilizada en \u00c3\u00a1mbar contenida en insectos que los mordieron hace millones de a\u00c3\u00b1os. Los paleont\u00c3\u00b3logos Alan Grant, Ellie Sattler y Ian Malcolm visitan el parque y quedan muy sorprendidos con los resultados obtenidos. Pero cuando un problem\u00c3\u00a1tico empleado manipula el sofisticado sistema de seguridad los dinosaurios escapan, obligando a los visitantes a luchar por su supervivencia.",
-      "duration": "2h 07m",
-      "rating": "PG-13",
-      "quality": "HD",
-      "section": "catalog",
-      "year": 1993,
-      "releaseDate": "1993-06-11",
-      "genres": [
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "atlas": "D",
-      "gridIndex": 60,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JURASICKPARK1/master.m3u8",
-      "createdAt": "2026-06-06T05:07:49.695Z",
-      "updatedAt": "2026-06-06T05:07:49.695Z",
-      "tokenDuration": 7597,
-      "addedAt": "2026-06-03T18:13:25.000Z",
       "addedBy": "Sistema"
     },
     {
