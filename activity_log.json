@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:36:36.534Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_167"
-  },
-  {
     "timestamp": "2026-04-26T20:38:09.512Z",
     "user": "Admin",
     "action": "ADD",
@@ -3373,5 +3367,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_215",
     "title": "Charlie y la Fábrica de Chocolate"
+  },
+  {
+    "ts": "2026-07-02T22:18:20.375Z",
+    "actor": "yutamir",
+    "action": "DELETE_MOVIE",
+    "target": "movie_229",
+    "title": "Número desconocido: Un escándalo de ciberacoso escolar"
   }
 ]
