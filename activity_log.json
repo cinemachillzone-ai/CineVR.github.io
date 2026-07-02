@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-26T20:31:20.224Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_111"
-  },
-  {
     "timestamp": "2026-04-26T20:33:15.483Z",
     "user": "Admin",
     "action": "ADD",
@@ -3369,5 +3363,12 @@
     "target": "series_160",
     "title": "Poemas",
     "eps_changed": 6
+  },
+  {
+    "ts": "2026-07-02T22:16:29.044Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_144",
+    "title": "Charlie y la Fábrica de Chocolate"
   }
 ]
