@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 561
+    "catalogCount": 560
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -2941,33 +2941,6 @@
       "atlas": "A",
       "gridIndex": 107,
       "master_url": "https://cdn.yutopiaforge.com/cdn/024cab07-7d0d-47fa-a57f-7a97ea4ebc39/playlist.m3u8"
-    },
-    {
-      "type": "movie",
-      "title": "Scream 7",
-      "description": "Un nuevo asesino bajo la mÃ¡scara de Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha reconstruido su vida. Esta vez, el objetivo es su hija, lo que obliga a Sidney a regresar y enfrentarse nuevamente a su pasado para detener la masacre.",
-      "duration": "",
-      "rating": "R",
-      "quality": "HD",
-      "section": "recently_added",
-      "year": 2026,
-      "releaseDate": "2026-04-16",
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_108",
-      "addedAt": "2026-04-16T22:25:29.182Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 108,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 6555
     },
     {
       "type": "movie",
