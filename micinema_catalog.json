@@ -3469,38 +3469,6 @@
     },
     {
       "type": "movie",
-      "title": "Scream 7",
-      "description": "Un nuevo asesino bajo la mÃ¡scara de Ghostface aparece en el tranquilo pueblo donde Sidney Prescott ha reconstruido su vida. Esta vez, el objetivo es su hija, lo que obliga a Sidney a regresar y enfrentarse nuevamente a su pasado para detener la masacre.",
-      "duration": "",
-      "rating": "R",
-      "quality": "HD",
-      "section": "recently_added",
-      "year": 2026,
-      "releaseDate": "2026-04-16",
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "languages": [
-        "Spanish"
-      ],
-      "enabled": true,
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/0b252cab-7fd7-4ecb-920f-3da64609e420/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/0b252cab-7fd7-4ecb-920f-3da64609e420/playlist.m3u8"
-      },
-      "id": "movie_108",
-      "addedAt": "2026-04-16T22:25:29.182Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 108,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 6555
-    },
-    {
-      "type": "movie",
       "title": "Sin piedad",
       "description": "La historia sigue a un exagente o combatiente que intenta dejar atrÃ¡s su pasado violento, pero se ve obligado a regresar cuando una persona cercana es amenazada o asesinada. En busca de venganza, se enfrenta a una red criminal peligrosa, desatando una serie de enfrentamientos brutales donde no hay reglas ni compasiÃ³n.",
       "duration": "",
