@@ -1230,9 +1230,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/ec3da27c-90f1-4fbf-b4a5-454af2530204/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/ec3da27c-90f1-4fbf-b4a5-454af2530204/playlist.m3u8"
+        "default": ""
       },
       "enabled": true,
       "id": "movie_036",
@@ -1240,8 +1238,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 35,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
+      "master_url": "",
+      "updatedAt": "2026-07-02T22:22:00.650Z",
       "tokenDuration": 7764
     },
     {
