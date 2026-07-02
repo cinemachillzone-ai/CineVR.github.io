@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T18:07:28.259Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_013"
-  },
-  {
     "timestamp": "2026-04-27T20:53:05.908Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3382,5 +3376,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_019",
     "title": "Spider-Man: Far From Home"
+  },
+  {
+    "ts": "2026-07-02T22:25:52.760Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
+    "target": "movie_246",
+    "title": "El día del fin del mundo: Migración"
   }
 ]
