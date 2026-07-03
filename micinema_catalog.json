@@ -53949,6 +53949,149 @@
       "updatedAt": "2026-07-03T02:57:41.844Z",
       "addedAt": "2026-07-03T02:55:51.519Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_162",
+      "type": "series",
+      "title": "Dorohedoro",
+      "description": "La historia continúa justo después de la primera temporada. Caimán y Nikaido siguen buscando la verdad detrás de la transformación de Caimán, mientras el conflicto entre los habitantes de Hole y los hechiceros escala a niveles mucho más caóticos. Nuevos secretos, violencia brutal y giros surrealistas hacen que el mundo de Dorohedoro se vuelva todavía más extraño y peligroso.",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Action",
+        "Animation",
+        "Horror",
+        "Mystery",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 45,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2869",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e01/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.057Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2870",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e02/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2871",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e03/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2872",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e04/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2873",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e05/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2874",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e06/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2875",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e07/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2876",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e08/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2877",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e09/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2878",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e10/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2879",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e11/master.m3u8"
+          },
+          "master_url": "",
+          "createdAt": "2026-07-03T03:05:29.058Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-07-03T03:05:29.058Z",
+      "updatedAt": "2026-07-03T03:05:29.058Z",
+      "addedAt": "2026-07-03T03:05:29.058Z",
+      "addedBy": "seanf"
     }
   ]
 }
