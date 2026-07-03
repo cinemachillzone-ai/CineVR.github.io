@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T21:04:14.790Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_170"
-  },
-  {
     "timestamp": "2026-04-27T21:06:55.107Z",
     "user": "Admin",
     "action": "ADD",
@@ -3384,5 +3378,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_407",
     "title": "Paprika: El reino de los sueños"
+  },
+  {
+    "ts": "2026-07-03T02:56:09.478Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_161",
+    "title": "Dorohedoro",
+    "episodes": 13
   }
 ]
