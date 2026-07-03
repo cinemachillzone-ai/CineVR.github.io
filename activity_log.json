@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T21:06:55.107Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_171"
-  },
-  {
     "timestamp": "2026-04-27T21:08:53.094Z",
     "user": "Admin",
     "action": "ADD",
@@ -3386,5 +3380,15 @@
     "target": "series_161",
     "title": "Dorohedoro",
     "episodes": 13
+  },
+  {
+    "ts": "2026-07-03T02:57:59.094Z",
+    "actor": "seanf",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_161",
+    "title": "Dorohedoro",
+    "fields": [
+      "rating"
+    ]
   }
 ]
