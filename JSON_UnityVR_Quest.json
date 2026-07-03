@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 556
+    "catalogCount": 557
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -37869,6 +37869,126 @@
       "updatedAt": "2026-07-01T22:51:11.676Z",
       "addedAt": "2026-07-01T21:23:37.764Z",
       "addedBy": "Sistema"
+    },
+    {
+      "id": "series_161",
+      "type": "series",
+      "title": "Dorohedoro",
+      "description": "En una ciudad oscura y ca\u00f3tica conocida como Hole, los humanos son usados como conejillos de indias por hechiceros provenientes de otra dimensi\u00f3n. Caim\u00e1n, un hombre con cabeza de reptil y sin recuerdos de su pasado, caza hechiceros junto a su amiga Nikaido para descubrir qui\u00e9n lo transform\u00f3 y recuperar su identidad.",
+      "year": 2020,
+      "releaseDate": "2020-01-12",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 44,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2856",
+          "title": "Cap\u00edtulo 1",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2857",
+          "title": "Cap\u00edtulo 2",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2858",
+          "title": "Cap\u00edtulo 3",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2859",
+          "title": "Cap\u00edtulo 4",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2860",
+          "title": "Cap\u00edtulo 5",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2861",
+          "title": "Cap\u00edtulo 6",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2862",
+          "title": "Cap\u00edtulo 7",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2863",
+          "title": "Cap\u00edtulo 8",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2864",
+          "title": "Cap\u00edtulo 9",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2865",
+          "title": "Cap\u00edtulo 10",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2866",
+          "title": "Cap\u00edtulo 11",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2867",
+          "title": "Cap\u00edtulo 12",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2868",
+          "title": "Cap\u00edtulo 13",
+          "master_url": "",
+          "createdAt": "2026-07-03T02:55:51.519Z"
+        }
+      ],
+      "createdAt": "2026-07-03T02:55:51.519Z",
+      "updatedAt": "2026-07-03T02:55:51.519Z",
+      "addedAt": "2026-07-03T02:55:51.519Z",
+      "addedBy": "seanf"
     }
   ]
 }
