@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T20:57:21.106Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_169"
-  },
-  {
     "timestamp": "2026-04-27T21:04:14.790Z",
     "user": "Admin",
     "action": "ADD",
@@ -3383,5 +3377,12 @@
     "actor": "yutamir",
     "action": "RECALCULATE_INDICES",
     "renames": 289
+  },
+  {
+    "ts": "2026-07-03T02:46:12.069Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_407",
+    "title": "Paprika: El reino de los sueños"
   }
 ]
