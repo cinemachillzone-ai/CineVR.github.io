@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T21:08:53.094Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_172"
-  },
-  {
     "timestamp": "2026-04-27T21:12:17.778Z",
     "user": "Admin",
     "action": "ADD",
@@ -3390,5 +3384,13 @@
     "fields": [
       "rating"
     ]
+  },
+  {
+    "ts": "2026-07-03T03:05:47.627Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_162",
+    "title": "Dorohedoro",
+    "episodes": 11
   }
 ]
