@@ -53795,7 +53795,7 @@
       "description": "En una ciudad oscura y caótica conocida como Hole, los humanos son usados como conejillos de indias por hechiceros provenientes de otra dimensión. Caimán, un hombre con cabeza de reptil y sin recuerdos de su pasado, caza hechiceros junto a su amiga Nikaido para descubrir quién lo transformó y recuperar su identidad.",
       "year": 2020,
       "releaseDate": "2020-01-12",
-      "rating": "",
+      "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
       "genres": [
@@ -53946,7 +53946,7 @@
         "default": ""
       },
       "createdAt": "2026-07-03T02:55:51.519Z",
-      "updatedAt": "2026-07-03T02:55:51.519Z",
+      "updatedAt": "2026-07-03T02:57:41.844Z",
       "addedAt": "2026-07-03T02:55:51.519Z",
       "addedBy": "seanf"
     }
