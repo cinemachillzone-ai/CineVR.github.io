@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 555
+    "catalogCount": 556
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -285,8 +285,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 7,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:21:18.926Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 9002
     },
     {
@@ -397,8 +397,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 11,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:21:39.234Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 7764
     },
     {
@@ -482,8 +482,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 14,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:22:22.121Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 6073
     },
     {
@@ -1063,8 +1063,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 35,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:22:00.650Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 7764
     },
     {
@@ -6818,9 +6818,9 @@
       ],
       "atlas": "C",
       "gridIndex": 112,
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.568Z",
-      "updatedAt": "2026-07-02T22:25:35.923Z",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 9470,
       "addedAt": "2026-05-22T07:59:48.000Z",
       "addedBy": "Sistema"
@@ -10959,6 +10959,33 @@
       "updatedAt": "2026-07-01T21:06:54.411Z",
       "addedAt": "2026-07-01T21:06:54.411Z",
       "addedBy": "Sistema"
+    },
+    {
+      "id": "movie_407",
+      "type": "movie",
+      "title": "Paprika: El reino de los sue\u00f1os",
+      "description": "Cuando una m\u00e1quina que permite a los terapeutas acceder a los sue\u00f1os de sus pacientes es robada, se desata el caos. Solo una joven terapeuta puede detenerla y recuperarla antes de que se produzcan da\u00f1os: Paprika.",
+      "duration": "1h 30m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2006,
+      "releaseDate": "2006-10-01",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 43,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Paprikadetectivedelossue\u00f1os2006/master.m3u8",
+      "createdAt": "2026-07-03T02:45:49.855Z",
+      "updatedAt": "2026-07-03T02:45:49.855Z",
+      "addedAt": "2026-07-03T02:45:49.855Z",
+      "addedBy": "seanf"
     },
     {
       "type": "series",
