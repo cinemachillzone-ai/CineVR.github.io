@@ -316,7 +316,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": ""
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8"
       },
       "enabled": true,
       "id": "movie_008",
@@ -324,8 +324,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 7,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:21:18.926Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 9002
     },
     {
@@ -446,7 +446,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": ""
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8"
       },
       "enabled": true,
       "id": "movie_012",
@@ -454,8 +454,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 11,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:21:39.234Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 7764
     },
     {
@@ -544,7 +544,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": ""
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8"
       },
       "enabled": true,
       "id": "movie_015",
@@ -552,8 +552,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 14,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:22:22.121Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 6073
     },
     {
@@ -1226,7 +1226,7 @@
         "language_Spanish"
       ],
       "links": {
-        "default": ""
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8"
       },
       "enabled": true,
       "id": "movie_036",
@@ -1234,8 +1234,8 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 35,
-      "master_url": "",
-      "updatedAt": "2026-07-02T22:22:00.650Z",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 7764
     },
     {
@@ -8014,11 +8014,11 @@
       "atlas": "C",
       "gridIndex": 112,
       "links": {
-        "default": ""
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8"
       },
-      "master_url": "",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiaDelFinDelMundoMigracion/master.m3u8",
       "createdAt": "2026-06-05T12:52:13.568Z",
-      "updatedAt": "2026-07-02T22:25:35.923Z",
+      "updatedAt": "2026-07-03T00:00:03.659Z",
       "tokenDuration": 9470,
       "addedAt": "2026-05-22T07:59:48.000Z",
       "addedBy": "Sistema"
