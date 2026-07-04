@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T21:12:25.143Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_173"
-  },
-  {
     "timestamp": "2026-04-27T21:14:24.021Z",
     "user": "Admin",
     "action": "ADD",
@@ -3389,6 +3383,14 @@
   },
   {
     "ts": "2026-07-04T05:42:32.837Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_162",
+    "title": "Dorohedoro",
+    "eps_changed": 11
+  },
+  {
+    "ts": "2026-07-04T05:43:10.439Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
     "target": "series_162",
