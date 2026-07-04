@@ -38019,81 +38019,92 @@
           "slotId": "ep_2869",
           "title": "Capítulo 1",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.057Z"
+          "createdAt": "2026-07-03T03:05:29.057Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e02",
           "slotId": "ep_2870",
           "title": "Capítulo 2",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2871",
           "title": "Capítulo 3",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e04",
           "slotId": "ep_2872",
           "title": "Capítulo 4",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e05",
           "slotId": "ep_2873",
           "title": "Capítulo 5",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e06",
           "slotId": "ep_2874",
           "title": "Capítulo 6",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e07",
           "slotId": "ep_2875",
           "title": "Capítulo 7",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e08",
           "slotId": "ep_2876",
           "title": "Capítulo 8",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e09",
           "slotId": "ep_2877",
           "title": "Capítulo 9",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e10",
           "slotId": "ep_2878",
           "title": "Capítulo 10",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         },
         {
           "id": "s01e11",
           "slotId": "ep_2879",
           "title": "Capítulo 11",
           "master_url": "",
-          "createdAt": "2026-07-03T03:05:29.058Z"
+          "createdAt": "2026-07-03T03:05:29.058Z",
+          "updatedAt": "2026-07-04T05:42:15.475Z"
         }
       ],
       "createdAt": "2026-07-03T03:05:29.058Z",
-      "updatedAt": "2026-07-03T03:05:29.058Z",
+      "updatedAt": "2026-07-04T05:42:15.475Z",
       "addedAt": "2026-07-03T03:05:29.058Z",
       "addedBy": "seanf"
     }
