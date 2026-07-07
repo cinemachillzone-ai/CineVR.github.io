@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T00:02:16.714Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_181"
-  },
-  {
     "timestamp": "2026-04-30T00:02:21.531Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3417,5 +3411,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_413",
     "title": "Furia Oriental"
+  },
+  {
+    "ts": "2026-07-07T00:32:19.840Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_422",
+    "title": "Saga of Tanya the Evil: The Movie"
   }
 ]
