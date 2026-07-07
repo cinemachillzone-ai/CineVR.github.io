@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T23:59:28.202Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_180"
-  },
-  {
     "timestamp": "2026-04-29T23:59:59.208Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3415,5 +3409,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_415",
     "title": "Furia oriental II"
+  },
+  {
+    "ts": "2026-07-07T00:26:27.613Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_421",
+    "title": "Los Super Guardaespaldas"
   }
 ]
