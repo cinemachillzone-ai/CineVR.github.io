@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T20:30:02.279Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_182"
-  },
-  {
     "timestamp": "2026-05-02T02:47:45.306Z",
     "user": "Admin",
     "action": "ADD",
@@ -3423,5 +3417,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_414",
     "title": "En la zona gris"
+  },
+  {
+    "ts": "2026-07-07T00:46:56.142Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_409",
+    "title": "El estilo de la serpiente y la grulla Shaolin"
   }
 ]
