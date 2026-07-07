@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T20:25:22.390Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_182"
-  },
-  {
     "timestamp": "2026-04-30T20:27:58.763Z",
     "user": "Admin",
     "action": "ADD",
@@ -3418,6 +3412,13 @@
     "ts": "2026-07-07T00:35:22.132Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_424",
+    "title": "Los Simpson: Simpsley"
+  },
+  {
+    "ts": "2026-07-07T00:36:29.313Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
     "target": "movie_424",
     "title": "Los Simpson: Simpsley"
   }
