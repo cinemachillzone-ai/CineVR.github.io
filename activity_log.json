@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T00:46:55.646Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_113"
-  },
-  {
     "timestamp": "2026-04-29T01:15:13.190Z",
     "user": "Admin",
     "action": "ADD",
@@ -3407,5 +3401,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_414",
     "title": "En la zona gris"
+  },
+  {
+    "ts": "2026-07-07T00:16:40.884Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_415",
+    "title": "新精武門"
   }
 ]
