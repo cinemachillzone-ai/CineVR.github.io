@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T23:52:18.429Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_178"
-  },
-  {
     "timestamp": "2026-04-29T23:54:25.324Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3411,5 +3405,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_418",
     "title": "Lluvia de fuego"
+  },
+  {
+    "ts": "2026-07-07T00:20:02.052Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_419",
+    "title": "La cámara de los 36 hombres de madera"
   }
 ]
