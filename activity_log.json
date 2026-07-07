@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T20:29:49.496Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_184"
-  },
-  {
     "timestamp": "2026-04-30T20:30:02.279Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3422,5 +3416,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_408",
     "title": "Backrooms: Sin salida"
+  },
+  {
+    "ts": "2026-07-07T00:38:54.859Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_414",
+    "title": "En la zona gris"
   }
 ]
