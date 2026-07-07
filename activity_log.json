@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T01:15:13.190Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_114"
-  },
-  {
     "timestamp": "2026-04-29T01:15:20.664Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3408,5 +3402,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_415",
     "title": "新精武門"
+  },
+  {
+    "ts": "2026-07-07T00:17:36.112Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_416",
+    "title": "La furia de Jackie"
   }
 ]
