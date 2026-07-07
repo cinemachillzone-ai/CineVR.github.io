@@ -13373,6 +13373,35 @@
       "updatedAt": "2026-07-07T00:34:04.892Z",
       "addedAt": "2026-07-07T00:34:04.892Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_424",
+      "type": "movie",
+      "title": "Los Simpson: Simpsley",
+      "description": "Cuando la estafadora sin dinero Marge Bouvier es enviada a Italia para convencer al rico Seymour Skinner de que regrese a casa, ella se siente tentada por las trampas de su estilo de vida acomodado. Pero hay una gran piedra en el camino: el huésped pegajoso y tonto de Skinner, Homero Simpsley. Las mentiras, la lujuria y la lira italiana abundan.",
+      "duration": "0h 24m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-07-03",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 62,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/simpsley2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/simpsley2026/master.m3u8",
+      "createdAt": "2026-07-07T00:34:56.663Z",
+      "updatedAt": "2026-07-07T00:34:56.663Z",
+      "addedAt": "2026-07-07T00:34:56.663Z",
+      "addedBy": "seanf"
     }
   ],
   "series": [
