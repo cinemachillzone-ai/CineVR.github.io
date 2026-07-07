@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T23:59:22.284Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_180"
-  },
-  {
     "timestamp": "2026-04-29T23:59:28.202Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3414,5 +3408,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_421",
     "title": "飛渡捲雲山"
+  },
+  {
+    "ts": "2026-07-07T00:24:04.917Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_415",
+    "title": "Furia oriental II"
   }
 ]
