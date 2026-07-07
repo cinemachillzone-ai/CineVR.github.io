@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-28T00:30:10.017Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_091"
-  },
-  {
     "timestamp": "2026-04-28T22:48:06.030Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3401,5 +3395,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_408",
     "title": "Backrooms: Sin salida"
+  },
+  {
+    "ts": "2026-07-07T00:08:34.737Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_409",
+    "title": "Artes de Shaolin"
   }
 ]
