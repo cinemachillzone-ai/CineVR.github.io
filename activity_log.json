@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-27T21:19:03.686Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_052"
-  },
-  {
     "timestamp": "2026-04-28T00:30:10.017Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3400,5 +3394,12 @@
     "target": "series_162",
     "title": "Dorohedoro",
     "eps_changed": 11
+  },
+  {
+    "ts": "2026-07-07T00:07:15.106Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_408",
+    "title": "Backrooms: Sin salida"
   }
 ]
