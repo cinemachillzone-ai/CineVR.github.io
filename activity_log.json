@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T23:48:31.927Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_114"
-  },
-  {
     "timestamp": "2026-04-29T23:52:18.429Z",
     "user": "Admin",
     "action": "ADD",
@@ -3410,5 +3404,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_417",
     "title": "La mano de la muerte"
+  },
+  {
+    "ts": "2026-07-07T00:19:06.392Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_418",
+    "title": "Lluvia de fuego"
   }
 ]
