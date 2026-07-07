@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T20:22:17.662Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_115"
-  },
-  {
     "timestamp": "2026-04-30T20:25:22.390Z",
     "user": "Admin",
     "action": "ADD",
@@ -3419,5 +3413,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_423",
     "title": "Operación Dragón"
+  },
+  {
+    "ts": "2026-07-07T00:35:22.132Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_424",
+    "title": "Los Simpson: Simpsley"
   }
 ]
