@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T00:02:21.531Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_181"
-  },
-  {
     "timestamp": "2026-04-30T20:22:17.662Z",
     "user": "Admin",
     "action": "ADD",
@@ -3418,5 +3412,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_422",
     "title": "Saga of Tanya the Evil: The Movie"
+  },
+  {
+    "ts": "2026-07-07T00:34:22.613Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_423",
+    "title": "Operación Dragón"
   }
 ]
