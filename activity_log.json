@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T00:39:15.797Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_177"
-  },
-  {
     "timestamp": "2026-04-29T00:46:42.798Z",
     "user": "Admin",
     "action": "ADD",
@@ -3405,5 +3399,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_412",
     "title": "Matar a traición"
+  },
+  {
+    "ts": "2026-07-07T00:14:16.593Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_413",
+    "title": "Puño de furia"
   }
 ]
