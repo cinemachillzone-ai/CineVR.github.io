@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T00:46:42.798Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_113"
-  },
-  {
     "timestamp": "2026-04-29T00:46:55.646Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3406,5 +3400,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_413",
     "title": "Puño de furia"
+  },
+  {
+    "ts": "2026-07-07T00:14:59.372Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_414",
+    "title": "En la zona gris"
   }
 ]
