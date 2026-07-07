@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-29T01:15:20.664Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_114"
-  },
-  {
     "timestamp": "2026-04-29T23:48:31.927Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3409,5 +3403,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_416",
     "title": "La furia de Jackie"
+  },
+  {
+    "ts": "2026-07-07T00:18:23.436Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_417",
+    "title": "La mano de la muerte"
   }
 ]
