@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-04-30T20:27:58.763Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_183"
-  },
-  {
     "timestamp": "2026-04-30T20:29:49.496Z",
     "user": "Admin",
     "action": "ADD",
@@ -3421,5 +3415,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_424",
     "title": "Los Simpson: Simpsley"
+  },
+  {
+    "ts": "2026-07-07T00:37:41.140Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_408",
+    "title": "Backrooms: Sin salida"
   }
 ]
