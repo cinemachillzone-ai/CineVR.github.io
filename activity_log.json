@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T02:47:45.306Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_185"
-  },
-  {
     "timestamp": "2026-05-02T02:49:57.325Z",
     "user": "Admin",
     "action": "ADD",
@@ -3424,5 +3418,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_409",
     "title": "El estilo de la serpiente y la grulla Shaolin"
+  },
+  {
+    "ts": "2026-07-08T21:33:33.785Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_393",
+    "title": "Your Name (sub español)"
   }
 ]
