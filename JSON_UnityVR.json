@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 575
+    "catalogCount": 576
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -38549,6 +38549,41 @@
       "updatedAt": "2026-07-04T06:02:31.903Z",
       "addedAt": "2026-07-03T03:05:29.058Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_163",
+      "type": "series",
+      "title": "Heidi T1",
+      "description": "Descubre las aventuras de Heidi, una niña encantadora que vive en las montañas con su abuelo y donde compartirá su amor por la naturaleza con sus amigos Pedro, Clara y su perro Niebla. Serie inspirada en el libro homónimo de la escritora suiza Johanna Spyri.",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1974,
+      "releaseDate": "1974-01-06",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 63,
+      "_seasonKey": "heidi|1",
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2880",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E01/master.m3u8",
+          "updatedAt": "2026-07-09T21:41:31.633Z"
+        }
+      ],
+      "createdAt": "2026-07-09T21:41:32.059Z",
+      "updatedAt": "2026-07-09T21:41:32.059Z",
+      "addedAt": "2026-07-09T21:41:32.059Z",
+      "addedBy": "carmesi"
     }
   ]
 }
