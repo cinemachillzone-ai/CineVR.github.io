@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T02:50:59.906Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_186"
-  },
-  {
     "timestamp": "2026-05-02T02:53:18.470Z",
     "user": "Admin",
     "action": "ADD",
@@ -3425,5 +3419,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 2262742
+  },
+  {
+    "ts": "2026-07-09T21:41:56.936Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_163",
+    "title": "Heidi T1"
   }
 ]
