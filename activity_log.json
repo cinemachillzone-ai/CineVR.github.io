@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T02:53:18.470Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_187"
-  },
-  {
     "timestamp": "2026-05-02T02:58:34.778Z",
     "user": "Admin",
     "action": "ADD",
@@ -3426,5 +3420,12 @@
     "action": "INJECT_SERIES",
     "target": "series_163",
     "title": "Heidi T1"
+  },
+  {
+    "ts": "2026-07-09T21:57:54.510Z",
+    "actor": "yutamir",
+    "action": "INJECT_EPISODES",
+    "target": "series_163",
+    "count": 51
   }
 ]
