@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 576
+    "catalogCount": 577
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -38940,6 +38940,825 @@
       "createdAt": "2026-07-09T21:41:32.059Z",
       "updatedAt": "2026-07-09T21:57:32.991Z",
       "addedAt": "2026-07-09T21:41:32.059Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "series_164",
+      "type": "series",
+      "title": "Candy Candy T1",
+      "description": "Candy es una niña huérfana, buena, optimista y con un gran corazón. Cuando era pequeña, vive en un orfanato con su mejor amiga, Annie, también huérfana, y allí ve por primera vez a su 'príncipe de la colina', una persona muy importante en su vida. Candy es adoptada por una familia con dos hermanastros malvados, Eliza y Neal. Un día, en el jardín de rosas, conoce a un chico Idéntico a su príncipe que se llama Antony. Después de esto, empieza una fantástica historia que ella nunca hubiese imaginado.",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "1976-10-01",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 64,
+      "_seasonKey": "candycandy|1",
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2932",
+          "title": "Capítulo 1",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Lastravesurasdecandy1paramiantuS01E01/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2933",
+          "title": "Capítulo 2",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaaventuradecandyyannyS01E02/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2934",
+          "title": "Capítulo 3",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdisannyS01E03/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2935",
+          "title": "Capítulo 4",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CartadeannyS01E04/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2936",
+          "title": "Capítulo 5",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdoptadaporunafamiliaricaS01E05/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2937",
+          "title": "Capítulo 6",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnprncipeenlacolinaS01E06/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2938",
+          "title": "Capítulo 7",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ParezcounadamaS01E07/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2939",
+          "title": "Capítulo 8",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnainvitacinfelizS01E08/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2940",
+          "title": "Capítulo 9",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbailemaravillosoS01E09/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2941",
+          "title": "Capítulo 10",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadamaenelestabloS01E10/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2942",
+          "title": "Capítulo 11",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapequeacintaS01E11/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2943",
+          "title": "Capítulo 12",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DulcecandyS01E12/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2944",
+          "title": "Capítulo 13",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TressolitariosS01E13/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2945",
+          "title": "Capítulo 14",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/QueridoviejorbolenlacolinaS01E14/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2946",
+          "title": "Capítulo 15",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadecisinquequitafelicidadacandyS01E15/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2947",
+          "title": "Capítulo 16",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajeaunpasdesconocidoS01E16/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2948",
+          "title": "Capítulo 17",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EneldesiertolejanoS01E17/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e18",
+          "slotId": "ep_2949",
+          "title": "Capítulo 18",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElcrucifijodelasuerteS01E18/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e19",
+          "slotId": "ep_2950",
+          "title": "Capítulo 19",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DespusdeunpenosoviajeS01E19/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e20",
+          "slotId": "ep_2951",
+          "title": "Capítulo 20",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SoymsfelizqueunaalondraS01E20/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e21",
+          "slotId": "ep_2952",
+          "title": "Capítulo 21",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapalomatraeunvotodeamistadS01E21/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e22",
+          "slotId": "ep_2953",
+          "title": "Capítulo 22",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/NotemuerasanthonyS01E22/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e24",
+          "slotId": "ep_2954",
+          "title": "Capítulo 24",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnthonymuereS01E24/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e25",
+          "slotId": "ep_2955",
+          "title": "Capítulo 25",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SobreponindosealdolorS01E25/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e26",
+          "slotId": "ep_2956",
+          "title": "Capítulo 26",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpadrerboltodolosabeS01E26/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e27",
+          "slotId": "ep_2957",
+          "title": "Capítulo 27",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElregalodeunngelS01E27/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e28",
+          "slotId": "ep_2958",
+          "title": "Capítulo 28",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldoloridocorazndecandyS01E28/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e29",
+          "slotId": "ep_2959",
+          "title": "Capítulo 29",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapartidallenadeesperanzasS01E29/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e30",
+          "slotId": "ep_2960",
+          "title": "Capítulo 30",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmoratravsdelmarS01E30/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e31",
+          "slotId": "ep_2961",
+          "title": "Capítulo 31",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnnuevodaenunaviejaciudadS01E31/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e32",
+          "slotId": "ep_2962",
+          "title": "Capítulo 32",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtracolinadeponyS01E32/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e33",
+          "slotId": "ep_2963",
+          "title": "Capítulo 33",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaalumnaenvejecidaS01E33/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e34",
+          "slotId": "ep_2964",
+          "title": "Capítulo 34",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeunsobreS01E34/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e35",
+          "slotId": "ep_2965",
+          "title": "Capítulo 35",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmaravillosodomingoS01E35/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e36",
+          "slotId": "ep_2966",
+          "title": "Capítulo 36",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnnyrecuperasusonrisaS01E36/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e37",
+          "slotId": "ep_2967",
+          "title": "Capítulo 37",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentroinesperadoS01E37/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e38",
+          "slotId": "ep_2968",
+          "title": "Capítulo 38",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeterryS01E38/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e39",
+          "slotId": "ep_2969",
+          "title": "Capítulo 39",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EltesoroqueenfurecialarectoraS01E39/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e40",
+          "slotId": "ep_2970",
+          "title": "Capítulo 40",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SepuedeentrarysalirlibrementeS01E40/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e41",
+          "slotId": "ep_2971",
+          "title": "Capítulo 41",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnahadaenelfestivaldelcolegioS01E41/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e42",
+          "slotId": "ep_2972",
+          "title": "Capítulo 42",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpicnicamedianocheS01E42/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e43",
+          "slotId": "ep_2973",
+          "title": "Capítulo 43",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ColegiodeveranoS01E43/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e44",
+          "slotId": "ep_2974",
+          "title": "Capítulo 44",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LazosdesangreS01E44/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e45",
+          "slotId": "ep_2975",
+          "title": "Capítulo 45",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FiestablancaparadosS01E45/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e46",
+          "slotId": "ep_2976",
+          "title": "Capítulo 46",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FindeunveranovibranteS01E46/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e47",
+          "slotId": "ep_2977",
+          "title": "Capítulo 47",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LatrampadeelizaS01E47/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e48",
+          "slotId": "ep_2978",
+          "title": "Capítulo 48",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EntrefrasyespesasparedesS01E48/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e49",
+          "slotId": "ep_2979",
+          "title": "Capítulo 49",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LadecisindeterryS01E49/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e50",
+          "slotId": "ep_2980",
+          "title": "Capítulo 50",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PartidaenlabrumamatinalS01E50/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e51",
+          "slotId": "ep_2981",
+          "title": "Capítulo 51",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EllargocaminoalpuertoS01E51/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e52",
+          "slotId": "ep_2982",
+          "title": "Capítulo 52",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasestrellasdeunestabloS01E52/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e53",
+          "slotId": "ep_2983",
+          "title": "Capítulo 53",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmanecerenelmonterossdaleS01E53/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e55",
+          "slotId": "ep_2984",
+          "title": "Capítulo 55",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajandocomopolizonteS01E55/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e56",
+          "slotId": "ep_2985",
+          "title": "Capítulo 56",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MsalldelatormentaS01E56/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e57",
+          "slotId": "ep_2986",
+          "title": "Capítulo 57",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpuertoatravsdeunaventanaS01E57/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e58",
+          "slotId": "ep_2987",
+          "title": "Capítulo 58",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LavueltaalhogarbajolanieveS01E58/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e59",
+          "slotId": "ep_2988",
+          "title": "Capítulo 59",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MaestradejuegosporundaS01E59/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e60",
+          "slotId": "ep_2989",
+          "title": "Capítulo 60",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmigoveconelvientoS01E60/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e61",
+          "slotId": "ep_2990",
+          "title": "Capítulo 61",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MomentodedecisionesS01E61/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e62",
+          "slotId": "ep_2991",
+          "title": "Capítulo 62",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TrenhaciaunanuevavidaS01E62/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e63",
+          "slotId": "ep_2992",
+          "title": "Capítulo 63",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandyconoceaunaabuelaenlaciudadS01E63/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e64",
+          "slotId": "ep_2993",
+          "title": "Capítulo 64",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnangelblancomuytorpeS01E64/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e65",
+          "slotId": "ep_2994",
+          "title": "Capítulo 65",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TratamientoconunasonrisaS01E65/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e66",
+          "slotId": "ep_2995",
+          "title": "Capítulo 66",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnabueloimaginarioS01E66/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e67",
+          "slotId": "ep_2996",
+          "title": "Capítulo 67",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MienadndeestsS01E67/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e68",
+          "slotId": "ep_2997",
+          "title": "Capítulo 68",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CayeronptalosenprimaveraS01E68/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e69",
+          "slotId": "ep_2998",
+          "title": "Capítulo 69",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecuerdosdeunarosablancaS01E69/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e70",
+          "slotId": "ep_2999",
+          "title": "Capítulo 70",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanoviamuyjovenS01E70/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e71",
+          "slotId": "ep_3000",
+          "title": "Capítulo 71",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmarineroenlacolinaS01E71/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e72",
+          "slotId": "ep_3001",
+          "title": "Capítulo 72",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnachicaencuartoespecialS01E72/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e73",
+          "slotId": "ep_3002",
+          "title": "Capítulo 73",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnrumorsobreterryS01E73/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e74",
+          "slotId": "ep_3003",
+          "title": "Capítulo 74",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/HaciaungranhospitaldeciudadS01E74/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e75",
+          "slotId": "ep_3004",
+          "title": "Capítulo 75",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaresidenciadelabueloS01E75/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e76",
+          "slotId": "ep_3005",
+          "title": "Capítulo 76",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LapequeacasadelrecuerdoS01E76/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e77",
+          "slotId": "ep_3006",
+          "title": "Capítulo 77",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaenfermeramuyconscienteS01E77/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e78",
+          "slotId": "ep_3007",
+          "title": "Capítulo 78",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LamelodadeterryS01E78/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e79",
+          "slotId": "ep_3008",
+          "title": "Capítulo 79",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DetrsdelascandilejasS01E79/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e80",
+          "slotId": "ep_3009",
+          "title": "Capítulo 80",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentromuybreveS01E80/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e81",
+          "slotId": "ep_3010",
+          "title": "Capítulo 81",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TerrysinsurostroS01E81/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e82",
+          "slotId": "ep_3011",
+          "title": "Capítulo 82",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CrecenfloresenuntiernocoraznS01E82/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e83",
+          "slotId": "ep_3012",
+          "title": "Capítulo 83",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnfantasmaquejueganalosnaipesS01E83/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e84",
+          "slotId": "ep_3013",
+          "title": "Capítulo 84",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElolordelaguerraeneluniformeS01E84/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e85",
+          "slotId": "ep_3014",
+          "title": "Capítulo 85",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnafamiliahechadeodioyamorS01E85/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e86",
+          "slotId": "ep_3015",
+          "title": "Capítulo 86",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElhombrequeperdisupasadoS01E86/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e87",
+          "slotId": "ep_3016",
+          "title": "Capítulo 87",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ExmenesparadosS01E87/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e88",
+          "slotId": "ep_3017",
+          "title": "Capítulo 88",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbuenalicienteS01E88/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e89",
+          "slotId": "ep_3018",
+          "title": "Capítulo 89",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldesaparecidoseoralbertS01E89/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e90",
+          "slotId": "ep_3019",
+          "title": "Capítulo 90",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpequeocastilloS01E90/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e91",
+          "slotId": "ep_3020",
+          "title": "Capítulo 91",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosamantescorazonesS01E91/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e92",
+          "slotId": "ep_3021",
+          "title": "Capítulo 92",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UntratamientoconshockS01E92/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e93",
+          "slotId": "ep_3022",
+          "title": "Capítulo 93",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CupidoconarrugasS01E93/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e94",
+          "slotId": "ep_3023",
+          "title": "Capítulo 94",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosparaunviajeS01E94/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e95",
+          "slotId": "ep_3024",
+          "title": "Capítulo 95",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RivalesS01E95/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e96",
+          "slotId": "ep_3025",
+          "title": "Capítulo 96",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/InvitacinconpasajedeidaS01E96/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e97",
+          "slotId": "ep_3026",
+          "title": "Capítulo 97",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElreencuentroS01E97/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e98",
+          "slotId": "ep_3027",
+          "title": "Capítulo 98",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanochedeestrenoS01E98/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e99",
+          "slotId": "ep_3028",
+          "title": "Capítulo 99",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SeparacinenundadenieveS01E99/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e100",
+          "slotId": "ep_3029",
+          "title": "Capítulo 100",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaplataformadelaslgrimasS01E100/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e101",
+          "slotId": "ep_3030",
+          "title": "Capítulo 101",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnatisbodememoriaS01E101/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e102",
+          "slotId": "ep_3031",
+          "title": "Capítulo 102",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LacruzenlacolinadeponyS01E102/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e103",
+          "slotId": "ep_3032",
+          "title": "Capítulo 103",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnviajelargoydifcilS01E103/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e104",
+          "slotId": "ep_3033",
+          "title": "Capítulo 104",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaclnicanonecesitaunngelS01E104/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e105",
+          "slotId": "ep_3034",
+          "title": "Capítulo 105",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElgentilrefugiadoS01E105/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e106",
+          "slotId": "ep_3035",
+          "title": "Capítulo 106",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtroasesinoS01E106/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e107",
+          "slotId": "ep_3036",
+          "title": "Capítulo 107",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Unmenespecialpara100trabajadoresS01E107/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e108",
+          "slotId": "ep_3037",
+          "title": "Capítulo 108",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FestejosenelvalleS01E108/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e109",
+          "slotId": "ep_3038",
+          "title": "Capítulo 109",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaslagrimasdeunpequeocowboyS01E109/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e110",
+          "slotId": "ep_3039",
+          "title": "Capítulo 110",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnamorembarazosoS01E110/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e111",
+          "slotId": "ep_3040",
+          "title": "Capítulo 111",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecobrarelpasadoS01E111/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e112",
+          "slotId": "ep_3041",
+          "title": "Capítulo 112",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElengaodeneilS01E112/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e113",
+          "slotId": "ep_3042",
+          "title": "Capítulo 113",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PersonasvienenypersonassevanS01E113/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e114",
+          "slotId": "ep_3043",
+          "title": "Capítulo 114",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldaenquecandyvealbisabueloS01E114/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e115",
+          "slotId": "ep_3044",
+          "title": "Capítulo 115",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasrosasestnenflorenlacolinadeponyfinalS01E115/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        }
+      ],
+      "createdAt": "2026-07-09T22:21:34.666Z",
+      "updatedAt": "2026-07-09T22:21:34.666Z",
+      "addedAt": "2026-07-09T22:21:34.666Z",
       "addedBy": "carmesi"
     }
   ]
