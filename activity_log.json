@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T02:58:43.389Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_188"
-  },
-  {
     "timestamp": "2026-05-02T03:02:30.982Z",
     "user": "Admin",
     "action": "ADD",
@@ -3429,5 +3423,12 @@
     "target": "series_164",
     "title": "Candy Candy T1",
     "episodes": 113
+  },
+  {
+    "ts": "2026-07-10T05:08:10.507Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_425",
+    "title": "La cosa(subespanol)"
   }
 ]
