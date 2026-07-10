@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T03:02:30.982Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_189"
-  },
-  {
     "timestamp": "2026-05-02T03:02:39.654Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3430,5 +3424,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_425",
     "title": "La cosa(subespanol)"
+  },
+  {
+    "ts": "2026-07-10T05:13:18.672Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_425",
+    "title": "La cosa (sub español)"
   }
 ]
