@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T04:36:02.158Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_102"
-  },
-  {
     "timestamp": "2026-05-03T02:56:12.438Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3432,6 +3426,13 @@
     "actor": "seanf",
     "action": "INJECT_MOVIE",
     "target": "movie_427",
+    "title": "Heidi"
+  },
+  {
+    "ts": "2026-07-10T05:16:32.367Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_428",
     "title": "Heidi"
   }
 ]
