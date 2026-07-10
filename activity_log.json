@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T03:02:39.654Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_189"
-  },
-  {
     "timestamp": "2026-05-02T03:04:45.754Z",
     "user": "Admin",
     "action": "ADD",
@@ -3431,5 +3425,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_425",
     "title": "La cosa (sub español)"
+  },
+  {
+    "ts": "2026-07-10T05:14:35.434Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_426",
+    "title": "Cara de guerra"
   }
 ]
