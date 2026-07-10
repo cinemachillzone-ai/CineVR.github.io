@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T02:56:12.438Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_049"
-  },
-  {
     "timestamp": "2026-05-03T02:56:37.809Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3434,5 +3428,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_428",
     "title": "Heidi"
+  },
+  {
+    "ts": "2026-07-10T15:27:39.076Z",
+    "actor": "carmesi",
+    "action": "ADD_MOVIE",
+    "target": "movie_429",
+    "title": "Rapidos"
   }
 ]
