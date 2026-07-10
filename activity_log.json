@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-02T03:04:45.754Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_190"
-  },
-  {
     "timestamp": "2026-05-02T04:36:02.158Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3432,5 +3426,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_426",
     "title": "Cara de guerra"
+  },
+  {
+    "ts": "2026-07-10T05:15:43.494Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_427",
+    "title": "Heidi"
   }
 ]
