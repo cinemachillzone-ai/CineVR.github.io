@@ -13605,6 +13605,36 @@
       "updatedAt": "2026-07-15T02:06:04.601Z",
       "addedAt": "2026-07-15T02:06:04.601Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_432",
+      "type": "movie",
+      "title": "Juegos de guerra",
+      "description": "A David Lughtman, estudiante de diecisiete años, le han suspendido varias asignaturas. Pero haciendo uso de su gran habilidad con las computadoras, logra cambiar las notas y aprobar el curso. Un día, jugando con su máquina, David entra en contacto con \"Joshua\", la computadora del Departamento de Defensa de los Estados Unidos, y decide \"jugar a la guerra\". El muchacho cree que es un juego más pero, sin darse cuenta, desafía a \"Joshua\" a un escalofriante juego de guerra termonuclear mundial. Entre las dos máquinas planean desplegar todas las estrategias y opciones para una Tercera Guerra Mundial.",
+      "duration": "1h 54m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "1983-06-03",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 73,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Juegosdeguerra1983/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Juegosdeguerra1983/master.m3u8",
+      "createdAt": "2026-07-15T02:07:43.898Z",
+      "updatedAt": "2026-07-15T02:07:43.898Z",
+      "addedAt": "2026-07-15T02:07:43.898Z",
+      "addedBy": "seanf"
     }
   ],
   "series": [
