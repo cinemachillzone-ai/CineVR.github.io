@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:41:39.191Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_195"
-  },
-  {
     "timestamp": "2026-05-03T03:43:17.971Z",
     "user": "Admin",
     "action": "ADD",
@@ -3444,5 +3438,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_435",
     "title": "Una Historia Verdadera"
+  },
+  {
+    "ts": "2026-07-15T02:15:24.534Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_436",
+    "title": "Prometeo"
   }
 ]
