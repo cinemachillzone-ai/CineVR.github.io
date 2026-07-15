@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:06:35.196Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_101"
-  },
-  {
     "timestamp": "2026-05-03T03:13:04.958Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3438,5 +3432,12 @@
     "target": "series_165",
     "title": "Yamada kun Lv 999 Koi Suru T1",
     "episodes": 13
+  },
+  {
+    "ts": "2026-07-15T02:04:44.729Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_430",
+    "title": "Heidi"
   }
 ]
