@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:38:58.382Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_193"
-  },
-  {
     "timestamp": "2026-05-03T03:40:21.504Z",
     "user": "Admin",
     "action": "ADD",
@@ -3442,5 +3436,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_433",
     "title": "Alien: Covenant"
+  },
+  {
+    "ts": "2026-07-15T02:10:17.805Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_434",
+    "title": "Alien: Romulus"
   }
 ]
