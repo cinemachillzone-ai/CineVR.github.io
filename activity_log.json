@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:03:00.776Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_065"
-  },
-  {
     "timestamp": "2026-05-03T03:06:35.196Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3436,5 +3430,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_425",
     "title": "La cosa (sub español)"
+  },
+  {
+    "ts": "2026-07-15T02:03:27.141Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_165",
+    "title": "Yamada kun Lv 999 Koi Suru T1",
+    "episodes": 13
   }
 ]
