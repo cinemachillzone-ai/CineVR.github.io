@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:13:04.958Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_064"
-  },
-  {
     "timestamp": "2026-05-03T03:34:18.464Z",
     "user": "Admin",
     "action": "ADD",
@@ -3439,5 +3433,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_430",
     "title": "Heidi"
+  },
+  {
+    "ts": "2026-07-15T02:06:23.132Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_431",
+    "title": "El Pasajero Del Diablo"
   }
 ]
