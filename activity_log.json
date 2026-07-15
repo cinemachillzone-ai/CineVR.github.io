@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:40:21.504Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_194"
-  },
-  {
     "timestamp": "2026-05-03T03:41:39.191Z",
     "user": "Admin",
     "action": "ADD",
@@ -3443,5 +3437,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_434",
     "title": "Alien: Romulus"
+  },
+  {
+    "ts": "2026-07-15T02:13:20.184Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_435",
+    "title": "Una Historia Verdadera"
   }
 ]
