@@ -1403,37 +1403,6 @@
     },
     {
       "type": "movie",
-      "title": "Star Wars: Episode II - Attack of the Clones",
-      "description": "Mientras se gesta una conspiraciÃ³n polÃ­tica, el joven Anakin Skywalker debe elegir entre su deber Jedi y su amor por la senadora PadmÃ© Amidala.",
-      "duration": "2h 22m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2002,
-      "releaseDate": "2002-05-16",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "asdasd",
-        "language_Spanish": "asdasd"
-      },
-      "enabled": false,
-      "id": "movie_043",
-      "addedAt": "2026-04-01T09:24:51.143Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 42,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
       "title": "Star Wars: Episode I - The Phantom Menace",
       "description": "Dos caballeros Jedi descubren a un joven esclavizado con una fuerza poderosa mientras intentan resolver una disputa comercial galÃ¡ctica.",
       "duration": "2h 16m",
