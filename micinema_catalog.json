@@ -1372,37 +1372,6 @@
     },
     {
       "type": "movie",
-      "title": "Star Wars: Episode III - Revenge of the Sith",
-      "description": "Tres aÃ±os despuÃ©s del inicio de las Guerras Clon, los Caballeros Jedi se enfrentan a una amenaza definitiva a medida que Anakin se aleja de la luz.",
-      "duration": "2h 20m",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2005,
-      "releaseDate": "2005-05-19",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "asdasd",
-        "language_Spanish": "asdasd"
-      },
-      "enabled": false,
-      "id": "movie_042",
-      "addedAt": "2026-04-01T09:24:50.170Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 41,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
       "title": "Star Wars: Episode I - The Phantom Menace",
       "description": "Dos caballeros Jedi descubren a un joven esclavizado con una fuerza poderosa mientras intentan resolver una disputa comercial galÃ¡ctica.",
       "duration": "2h 16m",
