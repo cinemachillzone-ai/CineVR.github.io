@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 588
+    "catalogCount": 589
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -11689,6 +11689,33 @@
       "createdAt": "2026-07-16T06:05:22.570Z",
       "updatedAt": "2026-07-16T06:05:22.570Z",
       "addedAt": "2026-07-16T06:05:22.570Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_442",
+      "type": "movie",
+      "title": "Star Wars: El ascenso de Skywalker",
+      "description": "Un a\u00f1o despu\u00e9s de los eventos de \"Los \u00faltimos Jedi\", los restos de la Resistencia se enfrentar\u00e1n una vez m\u00e1s a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegar\u00e1 a su cl\u00edmax, lo que llevar\u00e1 a la saga de los Skywalker a un final definitivo. Final de la trilog\u00eda iniciada con \"El despertar de la Fuerza\".",
+      "duration": "2h 21m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-12-18",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 40,
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars9/master.m3u8",
+      "createdAt": "2026-07-16T06:06:38.029Z",
+      "updatedAt": "2026-07-16T06:06:38.029Z",
+      "addedAt": "2026-07-16T06:06:38.029Z",
       "addedBy": "carmesi"
     },
     {
