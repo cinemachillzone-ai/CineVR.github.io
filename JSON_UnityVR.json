@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 589
+    "catalogCount": 588
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -1175,34 +1175,6 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 40,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "description": "Dos caballeros Jedi descubren a un joven esclavizado con una fuerza poderosa mientras intentan resolver una disputa comercial galÃ¡ctica.",
-      "duration": "2h 16m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1999,
-      "releaseDate": "1999-05-19",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_044",
-      "addedAt": "2026-04-01T09:24:55.901Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 43,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.230Z",
       "tokenDuration": 7485
