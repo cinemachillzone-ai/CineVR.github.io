@@ -13628,7 +13628,7 @@
     {
       "id": "movie_440",
       "type": "movie",
-      "title": "Star Wars: Los últimos Jedi",
+      "title": "Star Wars: El retorno del jedi",
       "description": "La Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
       "duration": "2h 30m",
       "rating": "PG-13",
@@ -13651,7 +13651,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVI/master.m3u8",
       "createdAt": "2026-07-16T06:00:42.212Z",
-      "updatedAt": "2026-07-16T06:00:42.212Z",
+      "updatedAt": "2026-07-16T06:36:37.953Z",
       "addedAt": "2026-07-16T06:00:42.212Z",
       "addedBy": "carmesi"
     },
