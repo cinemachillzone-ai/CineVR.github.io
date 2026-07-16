@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T22:16:27.793Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_199"
-  },
-  {
     "timestamp": "2026-05-03T22:20:30.082Z",
     "user": "Admin",
     "action": "ADD",
@@ -3451,5 +3445,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_429",
     "title": "Rapidos"
+  },
+  {
+    "ts": "2026-07-16T05:50:32.373Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_039",
+    "title": "Star Wars: Episode IV - A New Hope"
   }
 ]
