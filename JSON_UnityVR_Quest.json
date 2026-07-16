@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 592
+    "catalogCount": 591
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -1122,34 +1122,6 @@
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.230Z",
       "tokenDuration": 8890
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode IV - A New Hope",
-      "description": "Luke Skywalker une fuerzas con un caballero Jedi, un piloto arrogante y dos droides para salvar la galaxia de la estaci\u00c3\u00b3n de combate del Imperio.",
-      "duration": "2h 01m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1977,
-      "releaseDate": "1977-05-25",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_039",
-      "addedAt": "2026-04-01T09:24:42.720Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 38,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
     },
     {
       "type": "movie",
