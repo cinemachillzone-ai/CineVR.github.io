@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T22:14:53.310Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_198"
-  },
-  {
     "timestamp": "2026-05-03T22:15:11.632Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3449,5 +3443,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_439",
     "title": "Pokémon: Arceus y la joya de la vida"
+  },
+  {
+    "ts": "2026-07-16T04:45:10.842Z",
+    "actor": "carmesi",
+    "action": "EDIT_MOVIE",
+    "target": "movie_438",
+    "title": "Lilo y Stitch"
   }
 ]
