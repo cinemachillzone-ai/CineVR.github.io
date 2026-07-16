@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04T23:08:28.405Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_201"
-  },
-  {
     "timestamp": "2026-05-04T23:18:13.419Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3457,5 +3451,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_040",
     "title": "Star Wars: Episode V - The Empire Strikes Back"
+  },
+  {
+    "ts": "2026-07-16T06:01:00.904Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_440",
+    "title": "Star Wars: Los últimos Jedi"
   }
 ]
