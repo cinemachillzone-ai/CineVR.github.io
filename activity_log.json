@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05T23:52:32.817Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_204"
-  },
-  {
     "timestamp": "2026-05-05T23:52:40.447Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3461,5 +3455,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_443",
     "title": "Star Wars: El despertar de la fuerza"
+  },
+  {
+    "ts": "2026-07-16T06:36:57.492Z",
+    "actor": "carmesi",
+    "action": "EDIT_MOVIE",
+    "target": "movie_440",
+    "title": "Star Wars: El retorno del jedi"
   }
 ]
