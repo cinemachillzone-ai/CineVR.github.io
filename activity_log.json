@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:43:34.452Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_195"
-  },
-  {
     "timestamp": "2026-05-03T22:12:45.834Z",
     "user": "Admin",
     "action": "ADD",
@@ -3447,5 +3441,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_437",
     "title": "Las locuras del emperador"
+  },
+  {
+    "ts": "2026-07-16T04:37:55.184Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_438",
+    "title": "Lilo y Stitch"
   }
 ]
