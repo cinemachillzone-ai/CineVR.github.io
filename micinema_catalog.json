@@ -55811,6 +55811,17 @@
           "updatedAt": "2026-07-09T22:21:34.666Z"
         },
         {
+          "id": "s01e23",
+          "slotId": "ep_3058",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8",
+          "updatedAt": "2026-07-16T04:32:37.844Z"
+        },
+        {
           "id": "s01e24",
           "slotId": "ep_2954",
           "title": "Capítulo 24",
@@ -56139,6 +56150,17 @@
           },
           "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmanecerenelmonterossdaleS01E53/master.m3u8",
           "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e54",
+          "slotId": "ep_3059",
+          "title": "Capítulo 54",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8",
+          "updatedAt": "2026-07-16T04:32:37.844Z"
         },
         {
           "id": "s01e55",
@@ -56813,7 +56835,7 @@
         }
       ],
       "createdAt": "2026-07-09T22:21:34.666Z",
-      "updatedAt": "2026-07-09T22:21:34.666Z",
+      "updatedAt": "2026-07-16T04:32:37.844Z",
       "addedAt": "2026-07-09T22:21:34.666Z",
       "addedBy": "carmesi"
     },
