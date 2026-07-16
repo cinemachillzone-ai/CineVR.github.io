@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T22:15:11.632Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_197"
-  },
-  {
     "timestamp": "2026-05-03T22:16:27.793Z",
     "user": "Admin",
     "action": "ADD",
@@ -3450,5 +3444,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_438",
     "title": "Lilo y Stitch"
+  },
+  {
+    "ts": "2026-07-16T04:48:46.570Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_429",
+    "title": "Rapidos"
   }
 ]
