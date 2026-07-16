@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04T23:25:59.286Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_116"
-  },
-  {
     "timestamp": "2026-05-05T23:48:51.922Z",
     "user": "Admin",
     "action": "ADD",
@@ -3459,5 +3453,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_441",
     "title": "Star Wars: Los últimos Jedi"
+  },
+  {
+    "ts": "2026-07-16T06:06:56.771Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_442",
+    "title": "Star Wars: El ascenso de Skywalker"
   }
 ]
