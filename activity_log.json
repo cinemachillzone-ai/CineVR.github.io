@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-04T23:08:15.295Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_202"
-  },
-  {
     "timestamp": "2026-05-04T23:08:28.405Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3456,5 +3450,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_041",
     "title": "Star Wars: Episode VI - Return of the Jedi"
+  },
+  {
+    "ts": "2026-07-16T05:54:42.818Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_040",
+    "title": "Star Wars: Episode V - The Empire Strikes Back"
   }
 ]
