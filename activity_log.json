@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T22:20:42.067Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_199"
-  },
-  {
     "timestamp": "2026-05-04T23:07:17.826Z",
     "user": "Admin",
     "action": "ADD",
@@ -3454,5 +3448,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_042",
     "title": "Star Wars: Episode III - Revenge of the Sith"
+  },
+  {
+    "ts": "2026-07-16T05:53:22.259Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_044",
+    "title": "Star Wars: Episode I - The Phantom Menace"
   }
 ]
