@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T03:43:17.971Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_196"
-  },
-  {
     "timestamp": "2026-05-03T03:43:27.995Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3445,5 +3439,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_436",
     "title": "Prometeo"
+  },
+  {
+    "ts": "2026-07-16T04:32:56.174Z",
+    "actor": "carmesi",
+    "action": "INJECT_EPISODES",
+    "target": "series_164",
+    "count": 2
   }
 ]
