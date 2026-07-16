@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-03T22:20:37.079Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_200"
-  },
-  {
     "timestamp": "2026-05-03T22:20:42.067Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3453,5 +3447,12 @@
     "action": "DELETE_MOVIE",
     "target": "movie_043",
     "title": "Star Wars: Episode II - Attack of the Clones"
+  },
+  {
+    "ts": "2026-07-16T05:52:30.849Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
+    "target": "movie_042",
+    "title": "Star Wars: Episode III - Revenge of the Sith"
   }
 ]
