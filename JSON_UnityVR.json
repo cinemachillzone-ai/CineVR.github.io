@@ -9,7 +9,7 @@
     "atlasCount": 3,
     "itemsPerAtlas": 128,
     "notes": "Reset for new entry.",
-    "catalogCount": 588
+    "catalogCount": 587
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
@@ -1147,34 +1147,6 @@
       "addedBy": "Admin",
       "atlas": "A",
       "gridIndex": 39,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode VI - Return of the Jedi",
-      "description": "Luke Skywalker encabeza un plan para rescatar a Han Solo de las garras de Jabba el Hutt e intenta rescatar a su padre del lado oscuro.",
-      "duration": "2h 11m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1983,
-      "releaseDate": "1983-05-25",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "enabled": true,
-      "id": "movie_041",
-      "addedAt": "2026-04-01T09:24:48.831Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 40,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
       "updatedAt": "2026-05-27T19:11:32.230Z",
       "tokenDuration": 7485
