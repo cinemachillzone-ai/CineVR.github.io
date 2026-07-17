@@ -13568,7 +13568,7 @@
       "id": "movie_438",
       "type": "movie",
       "title": "Lilo y Stitch",
-      "description": "Remake en imagen real de «Lilo & Stitch». Narra la historia de una niña hawaiana solitaria y un extraterrestre fugitivo que la ayuda a recomponer su rota familia.",
+      "description": "Lilo es una niña hawaiana que vive con su hermana mayor después de perder a sus padres. Un día adopta a un extraño ser al que llama Stitch, sin saber que en realidad es un experimento alienígena diseñado para destruir. Juntos aprenderán el verdadero significado de la amistad, la familia y el famoso concepto hawaiano de \"ohana\", que significa que nadie se queda atrás ni es olvidado.",
       "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
@@ -13590,7 +13590,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LiloYStitch2/master.m3u8",
       "createdAt": "2026-07-16T04:37:37.126Z",
-      "updatedAt": "2026-07-16T04:44:52.722Z",
+      "updatedAt": "2026-07-17T22:05:57.937Z",
       "addedAt": "2026-07-16T04:37:37.126Z",
       "addedBy": "carmesi"
     },
