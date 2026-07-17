@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05T23:53:56.480Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_205"
-  },
-  {
     "timestamp": "2026-05-06T00:01:39.632Z",
     "user": "Admin",
     "action": "ADD",
@@ -3463,5 +3457,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_444",
     "title": "El señor de la guerra"
+  },
+  {
+    "ts": "2026-07-17T22:06:16.939Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_438",
+    "title": "Lilo y Stitch"
   }
 ]
