@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-05T23:52:40.447Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_203"
-  },
-  {
     "timestamp": "2026-05-05T23:53:56.480Z",
     "user": "Admin",
     "action": "ADD",
@@ -3462,5 +3456,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_440",
     "title": "Star Wars: El retorno del jedi"
+  },
+  {
+    "ts": "2026-07-17T22:00:49.311Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_444",
+    "title": "El señor de la guerra"
   }
 ]
