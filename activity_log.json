@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T00:01:39.632Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_206"
-  },
-  {
     "timestamp": "2026-05-06T00:04:25.054Z",
     "user": "Admin",
     "action": "ADD",
@@ -3464,5 +3458,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_438",
     "title": "Lilo y Stitch"
+  },
+  {
+    "ts": "2026-07-18T07:39:34.261Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_445",
+    "title": "Wild Wild West: Las Aventuras de Jim West"
   }
 ]
