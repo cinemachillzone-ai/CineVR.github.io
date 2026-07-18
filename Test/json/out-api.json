@@ -1,0 +1,5232 @@
+{
+  "movies": [
+    {
+      "id": "movie_001",
+      "title": "Baby Driver",
+      "description": "Baby, un joven apasionado de la mÃºsica y con gran talento para la conducciÃ³n, trabaja para Doc, un jefe de una banda de atracadores. Tras conocer a Deborah, la chica de sus sueÃ±os, Baby decide abandonar el mundo del crimen.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:31:30.730Z",
+      "year": 2017,
+      "releaseDate": "2017-06-28",
+      "duration": "1h 53m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "None",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 0,
+      "heroAtlas": "A",
+      "heroCell": 0,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BabyDriver/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_002",
+      "title": "Batman Comienza",
+      "description": "DespuÃ©s de la muerte de sus padres, el joven heredero Bruce Wayne se convierte en un vengador enmascarado que lucha contra las fuerzas del mal en Ciudad GÃ³tica.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:32:56.558Z",
+      "year": 2005,
+      "releaseDate": "2005-06-15",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 1,
+      "heroAtlas": "A",
+      "heroCell": 1,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanComienza/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_003",
+      "title": "Deadpool",
+      "description": "Un ex mercenario quien, tras haber sido sometido a un cruel experimento, adquiere el superpoder de sanar rÃ¡pidamente y pretende vengarse del hombre que destrozÃ³ su vida.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:34:14.627Z",
+      "year": 2016,
+      "releaseDate": "2016-02-12",
+      "duration": "1h 48m",
+      "rating": "R",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 2,
+      "heroAtlas": "A",
+      "heroCell": 2,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deadpool/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_004",
+      "title": "Deadpool 2",
+      "description": "Deadpool debe proteger a Russell, un adolescente mutante, de Cable, un soldier del futuro genÃ©ticamente modificado. Deadpool se alÃ­a con otros superhÃ©roes para poder derrotar al poderoso Cable.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:36:07.936Z",
+      "year": 2018,
+      "releaseDate": "2018-05-18",
+      "duration": "1h 59m",
+      "rating": "R",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 3,
+      "heroAtlas": "A",
+      "heroCell": 3,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Deadpool2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_005",
+      "title": "Drive",
+      "description": "Un doble de cine de Hollywood que trabaja como conductor para criminales empieza a recibir amenazas de muerte despuÃ©s de un robo fallido.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:37:58.970Z",
+      "year": 2011,
+      "releaseDate": "2011-09-16",
+      "duration": "1h 40m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "None",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 4,
+      "heroAtlas": "A",
+      "heroCell": 4,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/drive/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_006",
+      "title": "Army of Thieves",
+      "description": "Una misteriosa mujer recluta a un cajero de banco para abrir las cajas fuertes mÃ¡s legendarias en Europa.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:39:43.417Z",
+      "year": 2021,
+      "releaseDate": "2021-10-29",
+      "duration": "2h 10m",
+      "rating": "TV-MA",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 5,
+      "heroAtlas": "A",
+      "heroCell": 5,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ArmyOfThieves/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_007",
+      "title": "Batman: El Caballero de la Noche Asciende",
+      "description": "Ocho aÃ±os despuÃ©s de asumir la culpa por la muerte de Harvey Dent y desaparecer en la noche, Batman se ve obligado a salir del exilio autoimpuesto gracias a una ladrona astuta y a un terrorista despiadado.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-03-28T08:41:11.442Z",
+      "year": 2012,
+      "releaseDate": "2012-07-20",
+      "duration": "2h 44m",
+      "rating": "PG-13",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 6,
+      "heroAtlas": "A",
+      "heroCell": 6,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_008",
+      "title": "Guardians of the Galaxy",
+      "description": "Un grupo de inadaptados termina uniÃ©ndose para evitar que Ronan use una Gema del Infinito para destruir planetas.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:19:08.980Z",
+      "year": 2014,
+      "releaseDate": "2014-08-01",
+      "duration": "2h 01m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 7,
+      "heroAtlas": "A",
+      "heroCell": 7,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_009",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "description": "Cierre de la trilogÃ­a. Se centra en el pasado de Rocket y en la amenaza del Alto Evolucionador. Es la entrega mÃ¡s emocional y oscura.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:19:32.124Z",
+      "year": 2023,
+      "releaseDate": "2023-05-05",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 8,
+      "heroAtlas": "A",
+      "heroCell": 8,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_010",
+      "title": "Solo: A Star Wars Story",
+      "description": "Cuenta el origen de Han Solo: cÃ³mo se convierte en contrabandista, conoce a Chewbacca y gana el HalcÃ³n Milenario. TambiÃ©n muestra sus primeros trabajos en el mundo criminal y su relaciÃ³n con Lando Calrissian.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:22:11.331Z",
+      "year": 2018,
+      "releaseDate": "2018-05-25",
+      "duration": "2h 15m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 9,
+      "heroAtlas": "A",
+      "heroCell": 9,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_011",
+      "title": "Spider-Man 2",
+      "description": "Peter Parker lucha por equilibrar su vida personal con su responsabilidad como Spider-Man. Sus poderes comienzan a fallar debido al estrÃ©s emocional, mientras enfrenta a un nuevo villano: el Doctor Octopus.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:23:57.131Z",
+      "year": 2004,
+      "releaseDate": "2004-06-30",
+      "duration": "2h 07m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 10,
+      "heroAtlas": "A",
+      "heroCell": 10,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_012",
+      "title": "Spider-Man 3",
+      "description": "Peter Parker parece haber encontrado equilibrio entre su vida personal y ser Spider-Man, pero todo cambia cuando un simbionte alienÃ­gena se une a Ã©l, amplificando su lado oscuro.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:25:59.732Z",
+      "year": 2007,
+      "releaseDate": "2007-05-04",
+      "duration": "2h 19m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 11,
+      "heroAtlas": "A",
+      "heroCell": 11,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_013",
+      "title": "Interstellar",
+      "description": "Un grupo de exploradores viaja a travÃ©s de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad. Una mezcla de ciencia real con una fuerte carga emocional centrada en la relaciÃ³n entre padre e hija.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:31:21.112Z",
+      "year": 2014,
+      "releaseDate": "2014-11-05",
+      "duration": "2h 49m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 12,
+      "heroAtlas": "A",
+      "heroCell": 12,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Interestelar/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_014",
+      "title": "John Wick",
+      "description": "Un ex sicario de Ã©lite sale de su retiro para vengarse de los gÃ¡nsteres que le quitaron todo, en una odisea de acciÃ³n estilizada y venganza implacable.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:35:01.977Z",
+      "year": 2014,
+      "releaseDate": "2014-10-24",
+      "duration": "1h 41m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 13,
+      "heroAtlas": "A",
+      "heroCell": 13,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_015",
+      "title": "John Wick: Chapter 2",
+      "description": "El legendario sicario John Wick se ve obligado a salir de su retiro por un antiguo socio que planea obtener el control de un misterioso grupo internacional de asesinos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:35:14.453Z",
+      "year": 2017,
+      "releaseDate": "2017-02-10",
+      "duration": "2h 02m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 14,
+      "heroAtlas": "A",
+      "heroCell": 14,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_016",
+      "title": "Joker",
+      "description": "Arthur Fleck es un hombre ignorado por la sociedad cuya motivaciÃ³n en la vida es hacer reÃ­r. Pero una serie de trÃ¡gicos sucesos le llevarÃ¡n a ver el mundo de otra forma.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:39:37.908Z",
+      "year": 2019,
+      "releaseDate": "2019-10-04",
+      "duration": "2h 02m",
+      "rating": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 15,
+      "heroAtlas": "A",
+      "heroCell": 15,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/joker/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_017",
+      "title": "John Wick: Chapter 4",
+      "description": "John Wick descubre un camino para derrotar a la Alta Mesa. Pero antes de poder ganar su libertad, Wick debe enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:40:09.416Z",
+      "year": 2023,
+      "releaseDate": "2023-03-24",
+      "duration": "2h 49m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 16,
+      "heroAtlas": "A",
+      "heroCell": 16,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWickChapter4/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_018",
+      "title": "Justice League",
+      "description": "Tras la muerte de Superman, Bruce Wayne y Diana Prince forman un equipo de metahumanos para enfrentar a una amenaza catastrÃ³fica que pone en riesgo la Tierra: Steppenwolf.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:43:13.728Z",
+      "year": 2017,
+      "releaseDate": "2017-11-17",
+      "duration": "2h 00m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 17,
+      "heroAtlas": "A",
+      "heroCell": 17,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LigaDeLaJusticia/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_019",
+      "title": "Spider-Man: Far From Home",
+      "description": "Peter Parker intenta tomarse un descanso viajando por Europa, pero Nick Fury lo recluta para una misiÃ³n secreta donde deberÃ¡ enfrentar a los Elementales junto a Mysterio.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:46:32.910Z",
+      "year": 2019,
+      "releaseDate": "2019-07-02",
+      "duration": "2h 09m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": false,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 18,
+      "heroAtlas": "A",
+      "heroCell": 18,
+      "links": {}
+    },
+    {
+      "id": "movie_020",
+      "title": "Spider-Man: Homecoming",
+      "description": "Peter Parker intenta equilibrar su vida como estudiante de secundaria en Queens con su lucha contra el crimen como Spider-Man, mientras el Buitre amenaza la ciudad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:49:05.482Z",
+      "year": 2017,
+      "releaseDate": "2017-07-07",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 19,
+      "heroAtlas": "A",
+      "heroCell": 19,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarvelSpidermanRegresoACasa/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_021",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "description": "El herrero Will Turner se une al excÃ©ntrico pirata 'CapitÃ¡n' Jack Sparrow para salvar a su amada, la hija del gobernador, de los antiguos aliados de Jack.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:51:12.563Z",
+      "year": 2003,
+      "releaseDate": "2003-07-09",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 20,
+      "heroAtlas": "A",
+      "heroCell": 20,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Piratasdelcaribe/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_022",
+      "title": "Pirates of the Caribbean: At World's End",
+      "description": "El capitÃ¡n Barbossa, Will Turner y Elizabeth Swann deben viajar al fin del mundo para rescatar a Jack Sparrow y librar una batalla final contra Davy Jones.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:51:25.833Z",
+      "year": 2007,
+      "releaseDate": "2007-05-25",
+      "duration": "2h 49m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 21,
+      "heroAtlas": "A",
+      "heroCell": 21,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PiratesOfTheCaribbeanAtWorldSEnd/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_023",
+      "title": "Pulp Fiction",
+      "description": "Las vidas de dos sicarios, un boxeador y una pareja de atracadores se entrelazan en cuatro historias de violencia y redenciÃ³n en Los Ãngeles.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:53:58.339Z",
+      "year": 1994,
+      "releaseDate": "1994-10-14",
+      "duration": "2h 34m",
+      "rating": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "language_English",
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 22,
+      "heroAtlas": "A",
+      "heroCell": 22,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PulpFiction/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_024",
+      "title": "The Fast and the Furious",
+      "description": "Brian O'Conner se infiltra como policÃ­a encubierto en el mundo de las carreras ilegales y conoce a Dominic Toretto. Lo que empieza como una investigaciÃ³n se convierte en un conflicto entre deber y lealtad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T04:56:13.178Z",
+      "year": 2001,
+      "releaseDate": "2001-06-22",
+      "duration": "1h 46m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 23,
+      "heroAtlas": "A",
+      "heroCell": 23,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoYFurioso/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_025",
+      "title": "2 Fast 2 Furious",
+      "description": "Brian, ahora fugitivo, colabora con su amigo Roman Pearce para infiltrarse en una red de narcotrÃ¡fico y limpiar su historial.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:15:58.192Z",
+      "year": 2003,
+      "releaseDate": "2003-06-06",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 24,
+      "heroAtlas": "A",
+      "heroCell": 24,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso04/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_026",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "description": "Sean Boswell se muda a JapÃ³n y descubre el mundo del drift. AllÃ­ conoce a Han y se involucra con la mafia local.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:28.712Z",
+      "year": 2006,
+      "releaseDate": "2006-06-16",
+      "duration": "1h 44m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 25,
+      "heroAtlas": "A",
+      "heroCell": 25,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso03RetoEnTokio/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_027",
+      "title": "Fast & Furious",
+      "description": "Dom y Brian vuelven a cruzarse para vengar la muerte de Letty y enfrentarse a un cartel. Su rivalidad se transforma en alianza.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:29.700Z",
+      "year": 2009,
+      "releaseDate": "2009-04-03",
+      "duration": "1h 47m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 26,
+      "heroAtlas": "A",
+      "heroCell": 26,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoYFurioso/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_028",
+      "title": "Fast Five",
+      "description": "El equipo planea un gran robo en Brasil mientras son perseguidos por Luke Hobbs. Marca el cambio hacia el estilo de 'gran golpe'.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:30.560Z",
+      "year": 2011,
+      "releaseDate": "2011-04-29",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 27,
+      "heroAtlas": "A",
+      "heroCell": 27,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso05/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_029",
+      "title": "Fast & Furious 6",
+      "description": "Dom y su equipo trabajan con Hobbs para detener a un grupo de mercenarios. Letty reaparece con amnesia.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:31.391Z",
+      "year": 2013,
+      "releaseDate": "2013-05-24",
+      "duration": "2h 10m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 28,
+      "heroAtlas": "A",
+      "heroCell": 28,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso06/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_030",
+      "title": "Furious 7",
+      "description": "Deckard Shaw busca venganza contra el equipo. La historia mezcla acciÃ³n global y momentos emocionales importantes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:32.104Z",
+      "year": 2015,
+      "releaseDate": "2015-04-03",
+      "duration": "2h 17m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 29,
+      "heroAtlas": "A",
+      "heroCell": 29,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/f960e20e-4d68-4764-9aab-03b4b17cd4a8/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_031",
+      "title": "The Fate of the Furious",
+      "description": "Dom traiciona al equipo bajo manipulaciÃ³n de una ciberterrorista, obligando a su 'familia' a enfrentarlo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:16:33.855Z",
+      "year": 2017,
+      "releaseDate": "2017-04-14",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 30,
+      "heroAtlas": "A",
+      "heroCell": 30,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/ef5ca466-a0f0-4a52-93e0-4e429f73a1e4/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_032",
+      "title": "F9: The Fast Saga",
+      "description": "Aparece Jakob Toretto, hermano de Dom. El conflicto se vuelve personal mientras enfrentan una amenaza global.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:24:17.607Z",
+      "year": 2021,
+      "releaseDate": "2021-06-25",
+      "duration": "2h 23m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 31,
+      "heroAtlas": "A",
+      "heroCell": 31,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/4efd781e-672f-4656-aafc-077fdb1b5ef5/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_033",
+      "title": "Ready Player One",
+      "description": "En un futuro donde el mundo real estÃ¡ en crisis, la mayorÃ­a de las personas escapan a un universo virtual llamado OASIS para encontrar un 'huevo de pascua' que otorga el control total del sistema.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:27:15.590Z",
+      "year": 2018,
+      "releaseDate": "2018-03-29",
+      "duration": "2h 20m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 32,
+      "heroAtlas": "A",
+      "heroCell": 32,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ReadyPlayerone/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_034",
+      "title": "Rogue One: A Star Wars Story",
+      "description": "Un grupo de rebeldes liderado por Jyn Erso tiene la misiÃ³n crÃ­tica de robar los planos de la Estrella de la Muerte.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:28:59.621Z",
+      "year": 2016,
+      "releaseDate": "2016-12-16",
+      "duration": "2h 13m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 33,
+      "heroAtlas": "A",
+      "heroCell": 33,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_035",
+      "title": "Blade Runner 2049",
+      "description": "El oficial K, un blade runner, descubre un secreto enterrado que podrÃ­a sumir lo que queda de la sociedad en el caos. Este descubrimiento lo lleva a buscar a Rick Deckard, desaparecido hace 30 aÃ±os.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:30:23.754Z",
+      "year": 2017,
+      "releaseDate": "2017-10-06",
+      "duration": "2h 44m",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 34,
+      "heroAtlas": "A",
+      "heroCell": 34,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Runner2049/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_036",
+      "title": "The Amazing Spider-Man 2",
+      "description": "Peter Parker intenta cumplir la promesa de alejarse de Gwen Stacy mientras se enfrenta a Electro y al regreso de Harry Osborn.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:32:58.431Z",
+      "year": 2014,
+      "releaseDate": "2014-05-02",
+      "duration": "2h 22m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 35,
+      "heroAtlas": "A",
+      "heroCell": 35,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderMan2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_037",
+      "title": "The Amazing Spider-Man",
+      "description": "Peter Parker comienza a investigar la desapariciÃ³n de sus padres y se convierte en Spider-Man tras ser mordido por una araÃ±a modificada genÃ©ticamente.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:33:01.867Z",
+      "year": 2012,
+      "releaseDate": "2012-07-03",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 36,
+      "heroAtlas": "A",
+      "heroCell": 36,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreArana/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_038",
+      "title": "Spider-Man: No Way Home",
+      "description": "Peter Parker pide ayuda al Doctor Strange para revertir el hecho de que su identidad fue revelada, pero un hechizo fallido abre el multiverso.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-01T05:35:58.455Z",
+      "year": 2021,
+      "releaseDate": "2021-12-17",
+      "duration": "2h 28m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 37,
+      "heroAtlas": "A",
+      "heroCell": 37,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_045",
+      "title": "Scream 7",
+      "description": "Sidney Prescott regresa para enfrentarse a una nueva oleada de asesinatos bajo la mÃ¡scara de Ghostface, en un capÃ­tulo que promete cerrar heridas del pasado.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-02T00:04:53.164Z",
+      "year": 2026,
+      "releaseDate": "2026-02-27",
+      "duration": "1h 49m",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": false,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 38,
+      "heroAtlas": "A",
+      "heroCell": 38,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_046",
+      "title": "Zootopia 2",
+      "description": "Judy Hopps y Nick Wilde regresan para seguir el rastro de un misterioso reptil que llega a la metrÃ³polis de Zootopia, poniendo patas arriba el orden de la ciudad.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-02T00:46:14.628Z",
+      "year": 2025,
+      "releaseDate": "2025-11-26",
+      "duration": "1h 48m",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": false,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 39,
+      "heroAtlas": "A",
+      "heroCell": 39,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_047",
+      "title": "Avatar: Fuego y Ceniza",
+      "description": "Jake Sully y Neytiri continÃºan su vida en Pandora mientras nuevas amenazas emergen. La historia explorarÃ¡ un lado mÃ¡s oscuro del planeta, presentando nuevos clanes Naâ€™vi y conflictos que pondrÃ¡n a prueba la uniÃ³n de su familia y el equilibrio del mundo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-02T00:48:52.636Z",
+      "year": 2025,
+      "releaseDate": "2025-12-19",
+      "duration": "3h 10m",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 40,
+      "heroAtlas": "A",
+      "heroCell": 40,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_048",
+      "title": "El cadáver de la novia ",
+      "description": "Un joven tÃ­mido llamado Victor practica sus votos matrimoniales en el bosque por errorâ€¦ y sin saberlo, termina casÃ¡ndose con una misteriosa novia muerta que lo lleva al mundo de los difuntos. Mientras intenta regresar al mundo de los vivos y con su verdadera prometida, descubre secretos, emociones y decisiones importantes sobre el amor y la vida.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-02T00:51:24.678Z",
+      "year": 2005,
+      "releaseDate": "2026-02-13",
+      "duration": "1h 40m",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Horror",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 41,
+      "heroAtlas": "A",
+      "heroCell": 41,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_049",
+      "title": "La Dictadura Perfecta",
+      "description": "Tras un escÃ¡ndalo polÃ­tico, una poderosa cadena de televisiÃ³n manipula la informaciÃ³n para desviar la atenciÃ³n pÃºblica. Para lograrlo, decide fabricar la imagen de un gobernador corrupto como un hÃ©roe, mostrando cÃ³mo los medios pueden influir en la percepciÃ³n de la realidad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-02T01:16:48.171Z",
+      "year": 2014,
+      "releaseDate": "2025-06-25",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 42,
+      "heroAtlas": "A",
+      "heroCell": 42,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta2014/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_050",
+      "title": "Mercy",
+      "description": "En un futuro cercano, un detective debe demostrar su inocencia ante una Inteligencia Artificial antes de que esta determine su destino.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-03T21:56:07.430Z",
+      "year": 2026,
+      "releaseDate": "2026-01-23",
+      "duration": "1h 39m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 43,
+      "heroAtlas": "A",
+      "heroCell": 43,
+      "links": {
+        "default": "qq"
+      }
+    },
+    {
+      "id": "movie_051",
+      "title": "28 Years Later",
+      "description": "Casi tres dÃ©cadas despuÃ©s del brote original, la lucha por la supervivencia continÃºa en un mundo devastado y transformado por la infecciÃ³n.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-03T22:03:40.888Z",
+      "year": 2025,
+      "releaseDate": "2025-06-20",
+      "duration": "1h 49m",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 44,
+      "heroAtlas": "A",
+      "heroCell": 44,
+      "links": {
+        "default": "qaq"
+      }
+    },
+    {
+      "id": "movie_052",
+      "title": "Humint",
+      "description": "Un agente surcoreano y uno norcoreano destapan una red de narcotrÃ¡fico en la frontera rusa, enfrentando peligros mortales.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-03T22:12:22.925Z",
+      "year": 2026,
+      "releaseDate": "2026-02-11",
+      "duration": "2h 00m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 45,
+      "heroAtlas": "A",
+      "heroCell": 45,
+      "links": {
+        "default": "qwdq"
+      }
+    },
+    {
+      "id": "movie_053",
+      "title": "The Housemaid",
+      "description": "Millie acepta un puesto como sirvienta en una mansiÃ³n inquietante, solo para descubrir secretos oscuros sobre sus habitantes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-03T22:37:25.575Z",
+      "year": 2025,
+      "releaseDate": "2025-12-19",
+      "duration": "2h 11m",
+      "rating": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "None",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 46,
+      "heroAtlas": "A",
+      "heroCell": 46,
+      "links": {
+        "default": "sed"
+      }
+    },
+    {
+      "id": "movie_054",
+      "title": "El Señor de los Anillos: La Comunidad del Anillo",
+      "description": "En la Tierra Media, el joven hobbit Frodo BolsÃ³n recibe una misiÃ³n crucial: destruir el Anillo Ãšnico, un objeto de poder maligno creado por el seÃ±or oscuro Sauron. Para lograrlo, forma parte de una comunidad integrada por humanos, elfos, enanos y hobbits que deben atravesar peligrosos territorios mientras luchan contra las fuerzas del mal que buscan recuperar el anillo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T00:05:30.677Z",
+      "year": 2001,
+      "releaseDate": "2026-04-08",
+      "duration": "3h 48 min",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 47,
+      "heroAtlas": "A",
+      "heroCell": 47,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_055",
+      "title": "El Señor de los Anillos: Las Dos Torres",
+      "description": "La historia continÃºa tras la separaciÃ³n de la Comunidad. Frodo BolsÃ³n y su fiel amigo Samwise Gamyi avanzan hacia Mordor guiados por la misteriosa criatura Gollum. Mientras tanto, Aragorn, Legolas y Gimli luchan para proteger el reino de Rohan del ejÃ©rcito de Saruman, culminando en la Ã©pica batalla del Abismo de Helm.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T19:04:50.944Z",
+      "year": 2002,
+      "releaseDate": "2026-04-08",
+      "duration": "3h 55min",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 48,
+      "heroAtlas": "A",
+      "heroCell": 48,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLasDosTorres2002/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_056",
+      "title": "El Señor de los Anillos: El Retorno del Rey",
+      "description": "En la conclusiÃ³n Ã©pica de la trilogÃ­a, Frodo BolsÃ³n y Samwise Gamyi se acercan al Monte del Destino para destruir el Anillo Ãšnico, mientras enfrentan la creciente influencia de Gollum. Al mismo tiempo, Aragorn lidera a los hombres en la batalla final contra las fuerzas de Sauron, en una guerra decisiva por el destino de la Tierra Media.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T20:02:54.337Z",
+      "year": 2003,
+      "releaseDate": "2026-04-08",
+      "duration": "4h 23 min",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 49,
+      "heroAtlas": "A",
+      "heroCell": 49,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosElRetornoDelRey2003/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_057",
+      "title": "El perfecto asesino",
+      "description": "La historia sigue a LÃ©on, un asesino a sueldo solitario que vive en Nueva York. Su vida cambia cuando conoce a Mathilda, una niÃ±a cuya familia es asesinada por un corrupto agente de la DEA. LÃ©on decide acogerla y enseÃ±arle su oficio, mientras ambos desarrollan una relaciÃ³n poco convencional y buscan vengarse del responsable, Norman Stansfield.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T20:11:24.097Z",
+      "year": 1994,
+      "releaseDate": "2026-04-08",
+      "duration": "1h 49min",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 50,
+      "heroAtlas": "A",
+      "heroCell": 50,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPerfectoAsesino1994/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_058",
+      "title": "El increible castillo vagabundo",
+      "description": "La historia sigue a Sophie, una joven sombrerera que es transformada en una anciana por una bruja. Para romper el hechizo, busca la ayuda del misterioso mago Howl, quien vive en un castillo ambulante lleno de magia. En su aventura, Sophie se ve envuelta en un conflicto bÃ©lico y descubre secretos sobre el pasado de Howl y sobre sÃ­ misma.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T20:30:58.159Z",
+      "year": 2004,
+      "releaseDate": "2026-04-08",
+      "duration": "1h 59m",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure",
+        "Romance"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 51,
+      "heroAtlas": "A",
+      "heroCell": 51,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElIncreibleCastilloVagabundo2004/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_059",
+      "title": "El viaje de Chihiro",
+      "description": "La historia sigue a Chihiro, una niÃ±a que, al mudarse con sus padres, entra accidentalmente en un mundo mÃ¡gico gobernado por espÃ­ritus. Cuando sus padres son transformados en cerdos por la bruja Yubaba, Chihiro debe trabajar en una casa de baÃ±os para espÃ­ritus y encontrar la forma de liberarlos. En el proceso, madura, enfrenta sus miedos y recibe la ayuda de personajes como Haku.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-08T20:38:41.848Z",
+      "year": 2001,
+      "releaseDate": "2026-04-08",
+      "duration": "2h 5min",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 52,
+      "heroAtlas": "A",
+      "heroCell": 52,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElViajeDeChihiro2001/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_060",
+      "title": "Akira",
+      "description": "En una ciudad futurista llamada Neo-Tokio, despuÃ©s de una gran explosiÃ³n que desencadenÃ³ una guerra, un joven motociclista llamado Kaneda intenta salvar a su amigo Tetsuo Shima, quien desarrolla peligrosos poderes psÃ­quicos tras un experimento secreto del gobierno. A medida que Tetsuo pierde el control, una fuerza misteriosa conocida como â€œAkiraâ€ amenaza con desatar una nueva catÃ¡strofe.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T02:26:59.787Z",
+      "year": 1988,
+      "releaseDate": "2026-04-09",
+      "duration": "2h 4min",
+      "rating": "R",
+      "genres": [
+        "Animation",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 53,
+      "heroAtlas": "A",
+      "heroCell": 53,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Akira1988/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_061",
+      "title": "V de Venganza",
+      "description": "En una Inglaterra futurista gobernada por un rÃ©gimen totalitario, un misterioso enmascarado conocido como V lucha contra la opresiÃ³n del gobierno. Utilizando tÃ¡cticas revolucionarias y simbÃ³licas, inspira a la poblaciÃ³n a rebelarse. En el camino, rescata a una joven llamada Evey Hammond, quien se convierte en su aliada y testigo de su lucha por la libertad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T14:58:45.909Z",
+      "year": 2005,
+      "releaseDate": "2026-04-09",
+      "duration": "2h 12m",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 54,
+      "heroAtlas": "A",
+      "heroCell": 54,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/vDeVenganza2006/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_062",
+      "title": "Hijos del los hombres",
+      "description": "En un futuro distÃ³pico donde la humanidad ha perdido la capacidad de reproducirse, el mundo vive en caos y desesperaciÃ³n. Theo Faron, un exactivista desilusionado, recibe la misiÃ³n de proteger a una joven llamada Kee, quien milagrosamente estÃ¡ embarazada. Juntos emprenden un peligroso viaje para llevarla a un lugar seguro, mientras son perseguidos por el gobierno y grupos rebeldes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:09:31.294Z",
+      "year": 2006,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 55,
+      "heroAtlas": "A",
+      "heroCell": 55,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ninosDelHombre2006/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_063",
+      "title": "Good Boy",
+      "description": "La historia sigue a Sigrid, una joven que conoce a un hombre rico llamado Christian a travÃ©s de una app de citas. Todo parece perfectoâ€¦ hasta que descubre que Ã©l vive con un hombre que se comporta literalmente como su mascota: camina en cuatro patas, come en el suelo y obedece Ã³rdenes. Lo que al inicio parece una extraÃ±a excentricidad se vuelve cada vez mÃ¡s perturbador, revelando una relaciÃ³n oscura y peligrosa.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:18:50.134Z",
+      "year": 2022,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 56,
+      "heroAtlas": "A",
+      "heroCell": 56,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/goodBoy2022/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_064",
+      "title": "El planeta de los simios: (R)evolución",
+      "description": "La historia sigue a Will Rodman, un cientÃ­fico que desarrolla una cura experimental para el Alzheimer. Al probarla en simios, uno de ellos, CÃ©sar, adquiere una inteligencia extraordinaria. A medida que CÃ©sar crece y toma conciencia de la opresiÃ³n de su especie, lidera una rebeliÃ³n que marcarÃ¡ el inicio de un nuevo orden donde humanos y simios entran en conflicto.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:26:00.732Z",
+      "year": 2011,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": false,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 57,
+      "heroAtlas": "A",
+      "heroCell": 57,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosREvolucion2011/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_065",
+      "title": "El planeta de los simios: Confrontación",
+      "description": "AÃ±os despuÃ©s del colapso de la civilizaciÃ³n humana por un virus, los simios liderados por CÃ©sar han construido una sociedad en el bosque. Cuando un grupo de humanos sobrevivientes entra en su territorio buscando recursos, surge una frÃ¡gil alianza que pronto se rompe por la desconfianza y la traiciÃ³n. Esto desencadena un conflicto inevitable que decidirÃ¡ quÃ© especie dominarÃ¡ la Tierra",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:29:48.655Z",
+      "year": 2014,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 58,
+      "heroAtlas": "A",
+      "heroCell": 58,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosConfrontacion2014/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_066",
+      "title": "El planeta de los simios: La guerra",
+      "description": "Tras los eventos anteriores, el conflicto entre humanos y simios alcanza su punto mÃ¡s crÃ­tico. CÃ©sar enfrenta pÃ©rdidas devastadoras y decide emprender un camino de venganza contra un implacable lÃ­der humano conocido como el Coronel. En su viaje, CÃ©sar lucha no solo contra sus enemigos, sino tambiÃ©n contra su propia oscuridad, en una batalla que definirÃ¡ el destino de ambas especie",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:33:36.731Z",
+      "year": 2017,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 59,
+      "heroAtlas": "A",
+      "heroCell": 59,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimios3LaGuerra2017/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_067",
+      "title": "El planeta de los simios: Nuevo reino",
+      "description": "La historia se sitÃºa varias generaciones despuÃ©s del reinado de CÃ©sar. Los simios ahora son la especie dominante y los humanos han quedado reducidos a un estado primitivo. Un joven simio llamado Noa emprende un viaje cuando su aldea es destruida por un lÃ­der tirÃ¡nico que busca construir su propio imperio. En su camino, cuestionarÃ¡ todo lo que sabe sobre el pasado y tomarÃ¡ decisiones que definirÃ¡n el futuro tanto de simios como de humanos",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:37:18.974Z",
+      "year": 2024,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 60,
+      "heroAtlas": "A",
+      "heroCell": 60,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosNuevoReino2024/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_068",
+      "title": "El resplandor",
+      "description": "La historia sigue a Jack Torrance, un escritor que acepta trabajar como cuidador de invierno en el aislado hotel Overlook junto a su esposa y su hijo, Danny Torrance, quien posee habilidades psÃ­quicas conocidas como â€œel resplandorâ€. A medida que el invierno avanza, la soledad y la influencia sobrenatural del hotel comienzan a afectar la mente de Jack, llevÃ¡ndolo hacia la locura y poniendo en peligro a su familia.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:44:36.504Z",
+      "year": 1980,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 61,
+      "heroAtlas": "A",
+      "heroCell": 61,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elResplandor1980/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_069",
+      "title": "El misterio de los mamuts",
+      "description": "En un mundo olvidado por el tiempo, donde la tierra temblaba bajo el peso de gigantes ancestrales, dos colosos del hielo se enfrentan en una batalla silenciosaâ€¦ una mirada que lo cambiarÃ­a TODO.\n\nMientras los cielos se oscurecen y el destino del planeta pende de un hilo, surge la pregunta que ha perseguido a la humanidad durante siglos:\nÂ¿por quÃ© desaparecieron los mamuts?\n\nLo que comienza como un simple enfrentamientoâ€¦ pronto revela una verdad devastadora. Orgullo. Poder. Una rivalidad tan intensa que desafÃ­a a la naturaleza misma. Cada paso sacude montaÃ±as. Cada mirada es una amenaza. Y en medio de ese dueloâ€¦ el mundo empieza a romperse.\n\nTormentas, fuego, hieloâ€¦ todo converge en un instante decisivo que sellarÃ¡ el destino de una especie entera.\n\nNo fue el frÃ­o.\nNo fue el hambre.\nFue algo mucho mÃ¡s profundoâ€¦ mucho mÃ¡s absurdoâ€¦ y totalmente inevitable.\n\nDos mamuts. Una decisiÃ³n. Una extinciÃ³n.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T15:53:56.275Z",
+      "year": 1920,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "G",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Crime",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 62,
+      "heroAtlas": "A",
+      "heroCell": 62,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/ab6c19d5-824f-4f8e-83ed-2d19c0320e51/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_070",
+      "title": "Operacion Overlods",
+      "description": "Durante la Segunda Guerra Mundial, un grupo de paracaidistas estadounidenses es enviado a una misiÃ³n crucial antes del DÃ­a D: destruir una torre de comunicaciones nazi en un pequeÃ±o pueblo ocupado. Sin embargo, al infiltrarse, descubren que los nazis estÃ¡n realizando experimentos secretos y aterradores que convierten la misiÃ³n en una lucha por sobrevivir contra horrores mÃ¡s allÃ¡ de la guerra.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T16:01:07.482Z",
+      "year": 2018,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 63,
+      "heroAtlas": "A",
+      "heroCell": 63,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operacionOverlord2018/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_071",
+      "title": "El violinista en el tejado CD1",
+      "description": "La historia sigue a Tevye, un lechero judÃ­o que vive en una pequeÃ±a aldea en la Rusia zarista. Apegado a sus tradiciones, intenta mantener vivas sus costumbres mientras sus hijas crecen y comienzan a cuestionar las normas, especialmente en temas de amor y matrimonio. A medida que enfrenta cambios sociales y la persecuciÃ³n contra su comunidad, Tevye lucha por equilibrar la tradiciÃ³n con el cambio.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T16:06:18.419Z",
+      "year": 1971,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "G",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 64,
+      "heroAtlas": "A",
+      "heroCell": 64,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd1/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_072",
+      "title": "El violinista en el tejado CD2",
+      "description": "La historia sigue a Tevye, un lechero judÃ­o que vive en una pequeÃ±a aldea en la Rusia zarista. Apegado a sus tradiciones, intenta mantener vivas sus costumbres mientras sus hijas crecen y comienzan a cuestionar las normas, especialmente en temas de amor y matrimonio. A medida que enfrenta cambios sociales y la persecuciÃ³n contra su comunidad, Tevye lucha por equilibrar la tradiciÃ³n con el cambio.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T16:07:13.239Z",
+      "year": 1971,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "G",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 65,
+      "heroAtlas": "A",
+      "heroCell": 65,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_073",
+      "title": "Nadie",
+      "description": "La historia sigue a Hutch Mansell, un hombre aparentemente comÃºn y aburrido que lleva una vida rutinaria. Sin embargo, despuÃ©s de un robo en su casa, despierta un lado oculto de su pasado: resulta ser un exasesino altamente entrenado. Esto lo arrastra a un violento enfrentamiento con la mafia rusa, revelando que no es â€œnadieâ€ como todos creÃ­an.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-09T17:19:48.056Z",
+      "year": 2021,
+      "releaseDate": "2026-04-09",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 66,
+      "heroAtlas": "A",
+      "heroCell": 66,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_074",
+      "title": "Sin novedad en el frente",
+      "description": "La historia sigue a Paul BÃ¤umer, un joven alemÃ¡n que se alista con entusiasmo en el ejÃ©rcito durante la Primera Guerra Mundial. Sin embargo, al llegar al frente, enfrenta la brutal realidad de la guerra: el miedo, la muerte y la pÃ©rdida de la inocencia. A travÃ©s de su experiencia, la pelÃ­cula muestra el horror y la inutilidad",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T19:59:03.558Z",
+      "year": 2022,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 67,
+      "heroAtlas": "A",
+      "heroCell": 67,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sinNovedadEnElFrente/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_075",
+      "title": "Una pareja explosiva",
+      "description": "Un detective de Hong Kong, Lee, viaja a Los Ãngeles para ayudar a rescatar a la hija de un diplomÃ¡tico chino secuestrada. AllÃ­ se ve obligado a trabajar con el parlanchÃ­n policÃ­a James Carter, formando una divertida y caÃ³tica dupla.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:01:13.902Z",
+      "year": 1998,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 68,
+      "heroAtlas": "A",
+      "heroCell": 68,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaParejaExplosiva1998/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_076",
+      "title": "Nadie 2",
+      "description": "La secuela continuarÃ¡ la historia de Hutch Mansell, el aparentemente tranquilo padre de familia con un pasado como asesino profesional. Tras los eventos de la primera pelÃ­cula, Hutch intentarÃ¡ llevar una vida normal, pero su pasado volverÃ¡ a alcanzarlo, llevÃ¡ndolo otra vez a un mundo de violencia y enemigos peligrosos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:05:43.335Z",
+      "year": 2026,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 69,
+      "heroAtlas": "A",
+      "heroCell": 69,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nadie22025/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_077",
+      "title": "Contraataque",
+      "description": "La historia sigue al capitÃ¡n Guerrero y su escuadrÃ³n de fuerzas especiales mexicanas. Tras rescatar a unos rehenes, se convierten en objetivo de un poderoso cÃ¡rtel y caen en una emboscada. A partir de ahÃ­, deben luchar por sobrevivir mientras intentan escapar y contraatacar, enfrentÃ¡ndose a sicarios en una batalla intensa por la vida.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:11:05.929Z",
+      "year": 2025,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "TV-MA",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 70,
+      "heroAtlas": "A",
+      "heroCell": 70,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/contraataque2025/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_078",
+      "title": "Corazones de acero",
+      "description": "Ambientada en los Ãºltimos dÃ­as de la Segunda Guerra Mundial, la pelÃ­cula sigue a un experimentado sargento que lidera un tanque llamado â€œFuryâ€ junto a su tripulaciÃ³n en territorio enemigo. AcompaÃ±ados por un joven soldado sin experiencia, deberÃ¡n enfrentar misiones extremadamente peligrosas mientras avanzan en la Alemania nazi, luchando por sobrevivir en condiciones brutal",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:13:50.173Z",
+      "year": 2014,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 71,
+      "heroAtlas": "A",
+      "heroCell": 71,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_079",
+      "title": "El pacto",
+      "description": "Durante la guerra en AfganistÃ¡n, el sargento John Kinley forma equipo con un intÃ©rprete local llamado Ahmed. Tras una emboscada, Ahmed arriesga su vida para salvarlo y llevarlo a un lugar seguro. Tiempo despuÃ©s, al enterarse de que su amigo y su familia quedaron abandonados, Kinley regresa a la zona de guerra para cumplir su promesa y rescatarlos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:16:03.293Z",
+      "year": 2023,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 72,
+      "heroAtlas": "A",
+      "heroCell": 72,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPacto2023/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_080",
+      "title": "Sisu",
+      "description": "Ambientada en los Ãºltimos dÃ­as de la Segunda Guerra Mundial, la historia sigue a un solitario buscador de oro y exsoldado que descubre un gran tesoro en Laponia. Cuando un grupo de nazis intenta robÃ¡rselo, desatan la furia de un hombre aparentemente invencible, quien harÃ¡ todo lo posible por recuperar lo que es suyo, desatando una brutal venganza.\n\nðŸŽ¬ GÃ©nero:",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-10T20:17:51.756Z",
+      "year": 2023,
+      "releaseDate": "2026-04-10",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 73,
+      "heroAtlas": "A",
+      "heroCell": 73,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_081",
+      "title": "Ted",
+      "description": "La historia sigue a John Bennett, un hombre que de niÃ±o pidiÃ³ el deseo de que su oso de peluche cobrara vida. Su deseo se cumple, y Ted se convierte en su mejor amigoâ€¦ pero aÃ±os despuÃ©s, ese mismo oso es un adulto irresponsable, fiestero y vulgar. La situaciÃ³n comienza a afectar la vida de John, especialmente su relaciÃ³n amorosa, obligÃ¡ndolo a madurar y tomar decisiones sobre su futuro.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T20:27:21.363Z",
+      "year": 2012,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 74,
+      "heroAtlas": "A",
+      "heroCell": 74,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_082",
+      "title": "Together: Juntos hasta la muerte",
+      "description": "Una pareja con problemas en su relaciÃ³n decide mudarse al campo para empezar de nuevo. Sin embargo, descubren una misteriosa cueva con una fuerza sobrenatural. Tras entrar en contacto con ella, comienzan a sufrir extraÃ±as transformaciones fÃ­sicas y emocionales que reflejan su dependencia mutua, llevando su relaciÃ³n a un punto perturbador y peligroso.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T20:31:08.056Z",
+      "year": 2025,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "BQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 75,
+      "heroAtlas": "A",
+      "heroCell": 75,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/togetherJuntosHastaLaMuerte2025/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_083",
+      "title": "Harry Potter y la piedra filosofal",
+      "description": "La historia sigue a Harry Potter, un niÃ±o huÃ©rfano que descubre en su cumpleaÃ±os nÃºmero 11 que es un mago. Es invitado a estudiar en Hogwarts, una escuela de magia donde aprende hechicerÃ­a, hace amigos y descubre la verdad sobre la muerte de sus padres. Pronto se enfrenta a un misterio relacionado con la poderosa Piedra Filosofal y el regreso del oscuro mago Lord Voldemort.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T21:45:13.236Z",
+      "year": 2001,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 76,
+      "heroAtlas": "A",
+      "heroCell": 76,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaPiedraFilosofal/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_084",
+      "title": "Harry Potter y la cámara secreta",
+      "description": "En su segundo aÃ±o en Hogwarts, Harry regresa pese a una advertencia de peligro. Pronto ocurren ataques misteriosos que dejan a varios estudiantes petrificados. Junto a sus amigos, Harry investiga el secreto de la CÃ¡mara de los Secretos, una leyenda oscura vinculada al heredero de Slytherin, mientras enfrenta nuevamente la amenaza de Lord Voldemort.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T21:49:00.123Z",
+      "year": 2002,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 77,
+      "heroAtlas": "A",
+      "heroCell": 77,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HARRYPotterylacamarasecreta/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_085",
+      "title": "Harry Potter y el prisionero de Azkaban",
+      "description": "En su tercer aÃ±o en Hogwarts, Harry se entera de que el peligroso prisionero Sirius Black ha escapado de Azkaban y aparentemente lo estÃ¡ buscando. Mientras el colegio se llena de dementores para proteger a los estudiantes, Harry, junto a sus amigos, descubre la verdad detrÃ¡s de la fuga y secretos ocultos sobre su pasado y el de sus padres.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T21:53:32.861Z",
+      "year": 2004,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Adventure",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 78,
+      "heroAtlas": "A",
+      "heroCell": 78,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElPrisioneroDeAzkaban/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_086",
+      "title": "Harry Potter y el cáliz de fuego",
+      "description": "En su cuarto aÃ±o en Hogwarts, Harry es inesperadamente seleccionado por el CÃ¡liz de Fuego para participar en el peligroso Torneo de los Tres Magos, una competencia entre escuelas de magia. Mientras enfrenta pruebas mortales, descubre una conspiraciÃ³n mucho mÃ¡s oscura que culmina con el regreso del temido Lord Voldemort.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T21:56:37.963Z",
+      "year": 2005,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 79,
+      "heroAtlas": "A",
+      "heroCell": 79,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElCalizDeFuego/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_087",
+      "title": "Harry Potter y la Orden del Fénix",
+      "description": "Harry regresa a Hogwarts, pero el Ministerio de Magia niega el regreso de Lord Voldemort y desacredita sus advertencias. Mientras la nueva profesora impone reglas estrictas, Harry forma en secreto un grupo llamado el EjÃ©rcito de Dumbledore para enseÃ±ar a sus compaÃ±eros a defenderse. A medida que la amenaza crece, Harry enfrenta visiones inquietantes y una batalla crucial contra las fuerzas oscuras.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T21:59:09.827Z",
+      "year": 2007,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 80,
+      "heroAtlas": "A",
+      "heroCell": 80,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaOrdenDelFenix/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_088",
+      "title": "Harry Potter y el misterio del príncipe",
+      "description": "En su sexto aÃ±o en Hogwarts, Harry descubre un antiguo libro de pociones que pertenecÃ­a al â€œPrÃ­ncipe Mestizoâ€, el cual contiene poderosos hechizos y secretos. Mientras tanto, el director Dumbledore prepara a Harry para enfrentar a Lord Voldemort revelÃ¡ndole recuerdos clave sobre su pasado. La oscuridad crece dentro y fuera de la escuela, llevando a una tragedia que cambiarÃ¡ todo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T22:02:27.790Z",
+      "year": 2009,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 81,
+      "heroAtlas": "A",
+      "heroCell": 81,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElMisterioDelPrincipe/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_089",
+      "title": "Harry Potter y las reliquias de la Muerte: Parte 1",
+      "description": "Harry, Ron y Hermione abandonan Hogwarts para emprender la peligrosa misiÃ³n de destruir los Horrocruxes, objetos que contienen fragmentos del alma de Lord Voldemort. Mientras estÃ¡n en fuga, enfrentan persecuciones, desconfianza y grandes sacrificios, descubriendo poco a poco el misterio de las Reliquias de la Muerte.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T22:05:39.514Z",
+      "year": 2010,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 82,
+      "heroAtlas": "A",
+      "heroCell": 82,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_090",
+      "title": "Harry Potter y las reliquias de la Muerte: Parte 2",
+      "description": "En el desenlace final, Harry, Ron y Hermione continÃºan la bÃºsqueda de los Ãºltimos Horrocruxes para derrotar definitivamente a Lord Voldemort. La batalla final se libra en Hogwarts, donde magos y criaturas luchan por el destino del mundo mÃ¡gico, llevando la historia a un enfrentamiento Ã©pico entre Harry y su mayor enemigo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-11T22:07:42.975Z",
+      "year": 2011,
+      "releaseDate": "2026-04-11",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 83,
+      "heroAtlas": "A",
+      "heroCell": 83,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_091",
+      "title": "Una voz silenciosa",
+      "description": "La historia sigue a Shoya Ishida, un joven que en su infancia acosÃ³ a una compaÃ±era sorda llamada Shoko Nishimiya. AÃ±os despuÃ©s, consumido por la culpa y el rechazo social, busca redimirse intentando reencontrarse con ella y reparar el daÃ±o que causÃ³. La pelÃ­cula explora temas como el bullying, la discapacidad, la depresiÃ³n y el perdÃ³n.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-12T03:51:07.437Z",
+      "year": 2016,
+      "releaseDate": "2026-04-12",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 84,
+      "heroAtlas": "A",
+      "heroCell": 84,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_092",
+      "title": "The Legend of Aang: The Last Airbender",
+      "description": "La historia continÃºa aÃ±os despuÃ©s de la serie original, mostrando a Aang ya como adulto junto a sus amigos. Enfrenta nuevas amenazas mientras intenta mantener el equilibrio entre las naciones y preservar la paz en el mundo, ahora con responsabilidades mÃ¡s grandes como Avatar.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-14T02:48:57.060Z",
+      "year": 2026,
+      "releaseDate": "2026-04-14",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 85,
+      "heroAtlas": "A",
+      "heroCell": 85,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_093",
+      "title": "13 (Ruleta rusa)",
+      "description": "Un joven desesperado por dinero asume la identidad de otra persona y termina involucrado en un oscuro juego clandestino donde los participantes apuestan sus vidas en una peligrosa versiÃ³n de la ruleta rusa. A medida que avanza el juego, la tensiÃ³n aumenta y cada ronda se vuelve mÃ¡s mortal, mostrando hasta dÃ³nde puede llegar la gente por dinero.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-15T19:21:59.190Z",
+      "year": 2010,
+      "releaseDate": "2026-04-15",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 86,
+      "heroAtlas": "A",
+      "heroCell": 86,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/13RuletaRusa/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_094",
+      "title": "Los 4 Fantásticos: Primeros pasos",
+      "description": "La pelÃ­cula presenta una nueva versiÃ³n del origen de los Cuatro FantÃ¡sticos. Un grupo de cientÃ­ficos obtiene poderes extraordinarios tras un experimento que sale mal. Mientras aprenden a controlar sus habilidades, deben enfrentarse a una amenaza que pone en peligro al mundo, obligÃ¡ndolos a trabajar como equipo y aceptar su nueva identidad como hÃ©roes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-15T19:26:43.835Z",
+      "year": 2025,
+      "releaseDate": "2026-04-15",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 87,
+      "heroAtlas": "A",
+      "heroCell": 87,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_095",
+      "title": "De noche con el diablo",
+      "description": "Ambientada en los aÃ±os 70, la historia sigue a un presentador de televisiÃ³n que, en un intento desesperado por subir el rating de su programa nocturno, realiza un especial de Halloween en vivo. Durante la transmisiÃ³n, invita a una joven supuestamente poseÃ­da, lo que desata una serie de eventos sobrenaturales aterradores que salen completamente de control en directo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T21:01:31.502Z",
+      "year": 2023,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 88,
+      "heroAtlas": "A",
+      "heroCell": 88,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deNocheConElDiablo2024/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_096",
+      "title": "Greenland: Migration",
+      "description": "Secuela de Greenland: El Ãºltimo refugio. La historia continÃºa siguiendo a la familia Garrity, quienes sobrevivieron a un evento catastrÃ³fico global. Ahora deben abandonar la seguridad de los bÃºnkeres en Groenlandia y emprender un peligroso viaje a travÃ©s de un mundo devastado para encontrar un nuevo lugar donde reconstruir la civilizaciÃ³n.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-16T21:09:56.437Z",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 89,
+      "heroAtlas": "A",
+      "heroCell": 89,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/b56443a7-9fb9-4f24-b529-3fbcac3217ea/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_097",
+      "title": "El mafioso, el policía y el diablo",
+      "description": "La historia sigue a un poderoso jefe criminal que sobrevive a un ataque de un asesino en serie. Para vengarse, se ve obligado a colaborar con un detective que tambiÃ©n estÃ¡ tras el mismo criminal. A pesar de ser enemigos naturales, ambos unen fuerzas para capturar al asesino, creando una tensa alianza llena de violencia y desconfianza.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T21:13:12.199Z",
+      "year": 2019,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 90,
+      "heroAtlas": "A",
+      "heroCell": 90,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMafiosoElPoliciaElDemonio/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_098",
+      "title": "El padrino",
+      "description": "La historia sigue a la poderosa familia mafiosa Corleone en Nueva York. Cuando el patriarca sufre un atentado, su hijo Michael â€”quien inicialmente querÃ­a mantenerse alejado del crimenâ€” se ve obligado a involucrarse en el negocio familiar, iniciando su transformaciÃ³n en un lÃ­der frÃ­o y calculador dentro del mundo del crimen organizad",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T21:16:29.283Z",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 91,
+      "heroAtlas": "A",
+      "heroCell": 91,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpadrino/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_099",
+      "title": "Equipo demolición",
+      "description": "La historia sigue a dos medio hermanos distanciados que se reencuentran tras la misteriosa muerte de su padre. Mientras investigan lo ocurrido, descubren una conspiraciÃ³n criminal que involucra corrupciÃ³n, mafias (incluyendo la yakuza) y grandes intereses econÃ³micos. A pesar de sus diferencias, deberÃ¡n trabajar juntos para sobrevivir y descubrir la verdad.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-16T21:23:30.922Z",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 92,
+      "heroAtlas": "A",
+      "heroCell": 92,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EquipoDemolicion/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_100",
+      "title": "Exterminio: el templo de huesos",
+      "description": "La historia continÃºa tras los eventos de la primera parte. El mundo no solo estÃ¡ dominado por infectados, sino tambiÃ©n por humanos peligrosos. Un joven termina atrapado en una secta violenta mientras un doctor investiga posibles curas, revelando que la humanidad puede ser tan aterradora como el virus.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-16T21:29:56.848Z",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 93,
+      "heroAtlas": "A",
+      "heroCell": 93,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ExterminioElTemploDeHuesos/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_101",
+      "title": "La cabra que cambió el juego: Goat",
+      "description": "La historia sigue a un joven apasionado por el fÃºtbol que lucha por destacar en un entorno difÃ­cil. A travÃ©s de sacrificios, entrenamientos intensos y obstÃ¡culos personales, busca convertirse en el mejor (â€œGOATâ€: Greatest of All Time). La pelÃ­cula mezcla drama deportivo con una historia de superaciÃ³n, mostrando el precio del Ã©xito y la presiÃ³n por alcanzar la grandeza.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-16T21:38:50.366Z",
+      "year": 2026,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Drama",
+        "Animation"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 94,
+      "heroAtlas": "A",
+      "heroCell": 94,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambioElJuego/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_102",
+      "title": "Los Vengadores",
+      "description": "Cuando el poderoso Loki amenaza a la Tierra con una invasiÃ³n alienÃ­gena, Nick Fury reÃºne a un grupo de hÃ©roes extraordinarios: Iron Man, CapitÃ¡n AmÃ©rica, Thor, Hulk, Black Widow y Hawkeye. Aunque al inicio tienen conflictos entre ellos, deberÃ¡n aprender a trabajar en equipo para salvar al mundo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T21:42:30.200Z",
+      "year": 2012,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 95,
+      "heroAtlas": "A",
+      "heroCell": 95,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_103",
+      "title": "Vengadores: La era de Ultrón",
+      "description": "Tony Stark y Bruce Banner crean un programa de inteligencia artificial llamado UltrÃ³n con la intenciÃ³n de proteger al mundo. Sin embargo, el sistema se vuelve consciente y decide que la mayor amenaza para la Tierra es la humanidad. Los Vengadores deberÃ¡n reunirse nuevamente para detenerlo, enfrentando ademÃ¡s nuevos aliados y enemigos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:02:09.067Z",
+      "year": 2015,
+      "releaseDate": "2026-04-16",
+      "duration": "2h 21m",
+      "rating": "PG-13",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 96,
+      "heroAtlas": "A",
+      "heroCell": 96,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_104",
+      "title": "Vengadores: Infinity War",
+      "description": "Los Vengadores y sus aliados deben unirse para enfrentar a Thanos, un poderoso titÃ¡n que busca reunir las seis Gemas del Infinito para eliminar a la mitad del universo. A lo largo de la pelÃ­cula, los hÃ©roes luchan en distintos frentes, pero se enfrentan a una amenaza mucho mayor de lo que imaginaban.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:05:33.010Z",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 97,
+      "heroAtlas": "A",
+      "heroCell": 97,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_106",
+      "title": "La empleada",
+      "description": "La historia sigue a una joven con un pasado complicado que consigue trabajo como empleada domÃ©stica en la lujosa casa de una familia adinerada. Lo que parece una nueva oportunidad pronto se convierte en una pesadilla cuando descubre secretos oscuros, manipulaciones y peligros dentro de la casa.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:18:14.075Z",
+      "year": 2025,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 98,
+      "heroAtlas": "A",
+      "heroCell": 98,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaEmpleada/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_107",
+      "title": "Ralph rompe Internet",
+      "description": "Ralph y Vanellope salen del mundo de los videojuegos y se aventuran en el internet para encontrar una pieza que salve el juego de Vanellope. En su viaje, exploran sitios web, redes sociales y mundos digitales, enfrentando nuevos desafÃ­os que pondrÃ¡n a prueba su amistad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:20:40.017Z",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 99,
+      "heroAtlas": "A",
+      "heroCell": 99,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/024cab07-7d0d-47fa-a57f-7a97ea4ebc39/playlist.m3u8"
+      }
+    },
+    {
+      "id": "movie_109",
+      "title": "Thor",
+      "description": "Thor, el poderoso dios del trueno, es desterrado de Asgard por su padre Odin debido a su arrogancia. Enviado a la Tierra sin sus poderes, deberÃ¡ aprender humildad y lo que significa ser un verdadero hÃ©roe. Mientras tanto, su hermano Loki planea tomar el control de Asgard, desatando un conflicto que amenaza ambos mundos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:35:10.700Z",
+      "year": 2011,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 100,
+      "heroAtlas": "A",
+      "heroCell": 100,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thor/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_110",
+      "title": "Thunderbolts",
+      "description": "Un grupo de antihÃ©roes y personajes moralmente ambiguos es reclutado por el gobierno para llevar a cabo misiones peligrosas que los Vengadores no pueden realizar. Forzados a trabajar juntos, deberÃ¡n enfrentarse a amenazas letales mientras lidian con sus propios pasados oscuros y desconfianza entre ellos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:37:12.369Z",
+      "year": 2025,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 101,
+      "heroAtlas": "A",
+      "heroCell": 101,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thunderbolts20251080P-Dual-Lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_111",
+      "title": "Venom",
+      "description": "Eddie Brock, un periodista en crisis, entra en contacto con un simbionte alienÃ­gena que le otorga habilidades sobrehumanas. Aunque al principio lucha por controlarlo, ambos forman una extraÃ±a alianza para sobrevivir y enfrentarse a una amenaza mayor creada por otros simbiontes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:39:11.063Z",
+      "year": 2018,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 102,
+      "heroAtlas": "A",
+      "heroCell": 102,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/venom/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_112",
+      "title": "Venom: Carnage liberado",
+      "description": "Eddie Brock intenta adaptarse a su vida con el simbionte Venom dentro de Ã©l. Todo cambia cuando el asesino serial Cletus Kasady se convierte en el poderoso y violento Carnage, un simbionte aÃºn mÃ¡s peligroso. Ahora, Eddie y Venom deberÃ¡n trabajar juntos para detener una amenaza que supera todo lo que han enfrentado antes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:41:44.646Z",
+      "year": 2021,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 103,
+      "heroAtlas": "A",
+      "heroCell": 103,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Venom2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_113",
+      "title": "Black Panther: Wakanda Forever:",
+      "description": "DespuÃ©s de la muerte de Tâ€™Challa, Wakanda atraviesa un periodo de duelo mientras sus lÃ­deres intentan proteger el reino. La llegada de Namor, gobernante de un imperio submarino, provoca un conflicto que obligarÃ¡ a Wakanda a luchar por su futuro y redefinir quiÃ©n serÃ¡ su protector.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T22:42:58.847Z",
+      "year": 2022,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 104,
+      "heroAtlas": "A",
+      "heroCell": 104,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/WakandaForEver/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_114",
+      "title": "Transformers",
+      "description": "La historia sigue a Sam Witwicky, un joven que se ve envuelto en una guerra entre dos razas de robots alienÃ­genas: los Autobots y los Decepticons. Cuando los poderosos robots llegan a la Tierra en busca de una fuente de energÃ­a, Sam se convierte en la clave para salvar al planeta junto a los Autobots liderados por Optimus Prime.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T23:02:09.214Z",
+      "year": 2007,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 105,
+      "heroAtlas": "A",
+      "heroCell": 105,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_115",
+      "title": "Transformers: El lado oscuro de la Luna",
+      "description": "Los Autobots descubren que una nave Cybertroniana se estrellÃ³ en la Luna durante la carrera espacial. Este hallazgo guarda un secreto que podrÃ­a cambiar el destino de la guerra entre Autobots y Decepticons. Mientras tanto, Sam vuelve a verse involucrado en el conflicto cuando una nueva amenaza pone en peligro a toda la humanidad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-16T23:07:27.618Z",
+      "year": 2009,
+      "releaseDate": "2026-04-16",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 106,
+      "heroAtlas": "A",
+      "heroCell": 106,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_116",
+      "title": "Mi novio es un zombie",
+      "description": "En un mundo postapocalÃ­ptico lleno de zombis, un muerto viviente llamado â€œRâ€ comienza a experimentar emociones despuÃ©s de conocer a Julie, una humana. A medida que su relaciÃ³n crece, R empieza a cambiar, demostrando que incluso en un mundo muerto puede surgir el amor y la esperanza.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-17T20:50:36.999Z",
+      "year": 2013,
+      "releaseDate": "2026-04-17",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 107,
+      "heroAtlas": "A",
+      "heroCell": 107,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MiNovioEsUnZombie/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_117",
+      "title": "El muñeco de arcilla",
+      "description": "Un diseÃ±ador de videojuegos de terror lleva accidentalmente a casa un misterioso muÃ±eco de arcilla desde su trabajo. Lo que parece un simple objeto resulta estar poseÃ­do por un espÃ­ritu vengativo. A medida que ocurren fenÃ³menos extraÃ±os, la vida del protagonista y su esposa embarazada se convierte en una pesadilla mientras el oscuro secreto del muÃ±eco comienza a revelarse.",
+      "type": "movie",
+      "section": "recently_added",
+      "addedAt": "2026-04-17T20:53:42.594Z",
+      "year": 2026,
+      "releaseDate": "2026-04-17",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 108,
+      "heroAtlas": "A",
+      "heroCell": 108,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMunecoDeArcilla1080plLat2025/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_118",
+      "title": "Frankenstein",
+      "description": "Un brillante pero arrogante cientÃ­fico, Victor Frankenstein, logra crear vida a partir de restos humanos. Sin embargo, su experimento se convierte en una tragedia cuando la criatura, rechazada por la sociedad y por su propio creador, inicia un camino de dolor, soledad y consecuencias devastadoras.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T01:52:47.884Z",
+      "year": 2025,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 109,
+      "heroAtlas": "A",
+      "heroCell": 109,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenstein2025lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_119",
+      "title": "Una llamada perdida",
+      "description": "Un grupo de personas comienza a recibir llamadas misteriosas desde el futuroâ€¦ en las que escuchan su propia muerte. Cada llamada anuncia la fecha y forma en que morirÃ¡n. A medida que el patrÃ³n se repite, una joven intenta descubrir el origen de las llamadas antes de convertirse en la siguiente vÃ­ctima.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T01:54:53.335Z",
+      "year": 2008,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 110,
+      "heroAtlas": "A",
+      "heroCell": 110,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unallamadaperdida2008lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_120",
+      "title": "Godzilla Minus One",
+      "description": "Ambientada en el JapÃ³n despuÃ©s de la Segunda Guerra Mundial, la historia sigue a un piloto atormentado por su pasado que intenta reconstruir su vida. Sin embargo, todo empeora cuando aparece Godzilla, una criatura devastadora nacida del poder nuclear, llevando al paÃ­s de la ruina total a un nivel aÃºn peor de destrucciÃ³n.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T01:56:34.296Z",
+      "year": 2023,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 111,
+      "heroAtlas": "A",
+      "heroCell": 111,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GodzillaMinusOne2023DVDRip-Lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_121",
+      "title": "Cujo",
+      "description": "Cujo es un perro San Bernardo que, tras ser mordido por un murciÃ©lago infectado con rabia, se vuelve extremadamente agresivo y violento. Cuando una mujer y su hijo quedan atrapados en su coche averiado, deberÃ¡n luchar por sobrevivir mientras el animal los acecha sin descanso.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T01:58:20.630Z",
+      "year": 1983,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 112,
+      "heroAtlas": "A",
+      "heroCell": 112,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_122",
+      "title": "El teléfono negro",
+      "description": "Finney, un niÃ±o tÃ­mido, es secuestrado por un asesino en serie conocido como â€œEl Grabberâ€. Encerrado en un sÃ³tano insonorizado, descubre un telÃ©fono desconectado que misteriosamente comienza a sonar. A travÃ©s de Ã©l, puede comunicarse con las vÃ­ctimas anteriores del asesino, quienes intentan ayudarlo a escapar antes de que sea demasiado tarde.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T02:00:39.622Z",
+      "year": 2021,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 113,
+      "heroAtlas": "A",
+      "heroCell": 113,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elTelefonoNegro2022lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_123",
+      "title": "Relatos Salvajes ",
+      "description": "La pelÃ­cula es una antologÃ­a de seis historias independientes que exploran el lado mÃ¡s oscuro y violento del ser humano. A travÃ©s de situaciones cotidianas que se salen de control, los personajes reaccionan de forma extrema, mostrando cÃ³mo la ira, la frustraciÃ³n y la venganza pueden llevar a consecuencias inesperadas y a veces absurdas.\n\ndedicado a akzara",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T10:11:49.497Z",
+      "year": 2014,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 114,
+      "heroAtlas": "A",
+      "heroCell": 114,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RelatosSalvajes2014/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_124",
+      "title": "La cosa",
+      "description": "Un grupo de cientÃ­ficos en una base en la AntÃ¡rtida descubre a una criatura alienÃ­gena capaz de imitar perfectamente a cualquier ser vivo. A medida que la paranoia crece, nadie puede confiar en nadie, ya que cualquiera podrÃ­a ser la â€œcosaâ€. La tensiÃ³n aumenta mientras intentan sobrevivir y descubrir quiÃ©n sigue siendo humano.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T23:08:30.216Z",
+      "year": 2026,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 115,
+      "heroAtlas": "A",
+      "heroCell": 115,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LAcOsAdElOtRoMuNdO1982lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_125",
+      "title": "El amanecer de los muertos",
+      "description": "Una misteriosa epidemia convierte a la poblaciÃ³n en zombis extremadamente rÃ¡pidos y violentos. Un grupo de sobrevivientes se refugia en un centro comercial, intentando mantenerse a salvo mientras el mundo exterior colapsa. Sin embargo, el peligro no solo viene de los muertos, sino tambiÃ©n de las tensiones dentro del grupo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T23:12:48.460Z",
+      "year": 2004,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 116,
+      "heroAtlas": "A",
+      "heroCell": 116,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ELAMaNeCeRDELOsMUeRtOs2004lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_126",
+      "title": "Maleficio",
+      "description": "Una mujer rompe un antiguo tabÃº religioso y desata una maldiciÃ³n sobre su familia. AÃ±os despuÃ©s, intenta proteger a su hija del mismo destino mientras documenta todo en video, revelando rituales, creencias prohibidas y una presencia oscura que los persigue. La pelÃ­cula mezcla metraje tipo found footage con narrativa directa al espectador.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T23:23:11.534Z",
+      "year": 2022,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "TV-MA",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 117,
+      "heroAtlas": "A",
+      "heroCell": 117,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Maleficio2022Lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_127",
+      "title": "El bebé de Rosemary",
+      "description": "Rosemary y su esposo se mudan a un antiguo edificio en Nueva York. Poco despuÃ©s de quedar embarazada, Rosemary empieza a sospechar que sus vecinos y su propio esposo estÃ¡n involucrados en algo oscuro. A medida que su embarazo avanza, descubre una conspiraciÃ³n relacionada con un culto satÃ¡nico y el destino de su bebÃ©.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T23:26:14.916Z",
+      "year": 1968,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 118,
+      "heroAtlas": "A",
+      "heroCell": 118,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBebeDeRosemary1968lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_128",
+      "title": "Cazadores de trolls",
+      "description": "Un grupo de estudiantes de cine investiga a un misterioso cazador furtivo en Noruega, pero pronto descubren algo increÃ­ble: el hombre en realidad se dedica a cazar trolls, criaturas gigantes que existen en secreto. A travÃ©s de grabaciones tipo found footage, documentan encuentros peligrosos mientras intentan sobrevivir y revelar la verdad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-19T23:28:41.420Z",
+      "year": 2010,
+      "releaseDate": "2026-04-19",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 119,
+      "heroAtlas": "A",
+      "heroCell": 119,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CazadoresDeTrolls2010lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_129",
+      "title": "Coraline y la puerta secreta",
+      "description": "Coraline es una niÃ±a curiosa que descubre una puerta secreta en su nueva casa. Al atravesarla, encuentra un mundo alternativo aparentemente perfecto, donde todo es mejorâ€¦ pero pronto se da cuenta de que ese lugar esconde algo oscuro y peligroso, especialmente su â€œotra madreâ€, quien tiene intenciones siniestras.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-20T00:18:17.552Z",
+      "year": 2009,
+      "releaseDate": "2026-04-20",
+      "duration": "",
+      "rating": "G",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 120,
+      "heroAtlas": "A",
+      "heroCell": 120,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CoralineYLaPuertaSecreta2009lat/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_130",
+      "title": "La leyenda de la Nahuala",
+      "description": "Ambientada en Puebla durante el siglo XIX, la historia sigue a Leo, un niÃ±o miedoso que debe enfrentarse a sus temores cuando una antigua leyenda cobra vida. La Nahuala, un espÃ­ritu maligno, amenaza con regresar, y Leo junto a sus amigos deberÃ¡ descubrir la verdad y salvar a su hermano antes de que sea demasiado tarde.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-20T00:20:28.901Z",
+      "year": 2007,
+      "releaseDate": "2026-04-20",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 121,
+      "heroAtlas": "A",
+      "heroCell": 121,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaNahuala2007/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_131",
+      "title": "Nosferatu",
+      "description": "Una joven atormentada establece una conexiÃ³n oscura con un antiguo vampiro conocido como el Conde Orlok. Obsesionado con ella, el monstruo llega a su ciudad llevando consigo enfermedad, muerte y terror, desatando una historia gÃ³tica marcada por la obsesiÃ³n y la tragedia.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-20T00:22:14.955Z",
+      "year": 2024,
+      "releaseDate": "2026-04-20",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 122,
+      "heroAtlas": "A",
+      "heroCell": 122,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nosferatu2024/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_132",
+      "title": "Monster High: Amor monstruoso",
+      "description": "En Monster High se acerca el DÃ­a de San ValentÃ­n, y Draculaura estÃ¡ emocionada por celebrar su aniversario nÃºmero 1600 con su novio Clawd. Sin embargo, un antiguo amor aparece y complica todo, creando un triÃ¡ngulo amoroso lleno de drama, celos y decisiones importantes sobre el verdadero significado del amor.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-20T00:24:43.966Z",
+      "year": 2012,
+      "releaseDate": "2026-04-20",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 123,
+      "heroAtlas": "A",
+      "heroCell": 123,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MonsterHighAmorMonstruoso/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_133",
+      "title": "El Libro de la Vida",
+      "description": "Manolo, un joven dividido entre seguir las expectativas de su familia o su verdadera pasiÃ³n por la mÃºsica, se embarca en una aventura mÃ¡gica que lo lleva a recorrer tres mundos: el de los vivos, el de los recordados y el de los olvidados. En el camino, lucha por su amor y descubre su propio destino.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:12:16.640Z",
+      "year": 2014,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Romance",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 124,
+      "heroAtlas": "A",
+      "heroCell": 124,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibroDeLaVida/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_134",
+      "title": "El Quinto Elemento",
+      "description": "En un futuro lejano, un exmilitar convertido en taxista se ve envuelto en una misiÃ³n crucial para salvar a la humanidad. Junto a una misteriosa mujer con habilidades extraordinarias, deberÃ¡ reunir cuatro elementos esenciales para detener una fuerza cÃ³smica que amenaza con destruir la Tierra.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:14:43.421Z",
+      "year": 1997,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 125,
+      "heroAtlas": "A",
+      "heroCell": 125,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElQuintoElemento1997/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_135",
+      "title": "Escuadrón Suicida",
+      "description": "Un grupo de peligrosos criminales encarcelados es reclutado por el gobierno para formar un equipo secreto y cumplir misiones extremadamente riesgosas a cambio de reducir sus condenas. Sin embargo, deberÃ¡n aprender a trabajar juntos mientras enfrentan amenazas fuera de controlâ€¦ y entre ellos mismos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:17:28.184Z",
+      "year": 2016,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Crime"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 126,
+      "heroAtlas": "A",
+      "heroCell": 126,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EscuadronSuicida2016/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_136",
+      "title": "La Leyenda de la Llorona",
+      "description": "Leo San Juan y sus amigos viajan a Xochimilco, donde descubren que la famosa Llorona estÃ¡ secuestrando niÃ±os. Para detenerla, deberÃ¡n enfrentar misterios del pasado y ayudar a liberar el alma en pena detrÃ¡s de la leyenda.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:21:13.267Z",
+      "year": 2026,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Horror",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 127,
+      "heroAtlas": "A",
+      "heroCell": 127,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaLlorona2011/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_137",
+      "title": "La Leyenda de las Momias de Guanajuato",
+      "description": "Leo San Juan y sus amigos llegan a Guanajuato, donde descubren que unas momias han cobrado vida y estÃ¡n causando terror en la ciudad. Para detenerlas, deberÃ¡n enfrentarse a un oscuro secreto y salvar a los habitantes antes de que sea demasiado tarde.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:23:01.121Z",
+      "year": 2026,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Horror",
+        "Fantasy",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 128,
+      "heroAtlas": "A",
+      "heroCell": 128,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLasMomiasDeGuanajuato2014/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_138",
+      "title": "La Leyenda del Chupacabras",
+      "description": "Leo San Juan es encarcelado injustamente y, mientras intenta demostrar su inocencia, surge una nueva amenaza: el temido Chupacabras. Junto a sus amigos, deberÃ¡ escapar y enfrentar a esta criatura para salvar a un pueblo aterrorizado.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:28:14.865Z",
+      "year": 2016,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Horror",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 129,
+      "heroAtlas": "A",
+      "heroCell": 129,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDelChupacabras2016/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_139",
+      "title": "Marcianos al Ataque",
+      "description": "Un grupo de extravagantes alienÃ­genas llega a la Tierra con aparentes intenciones pacÃ­ficas, pero pronto revelan su verdadera naturaleza caÃ³tica y destructiva. Mientras gobiernos y ciudadanos intentan reaccionar, el planeta se convierte en un escenario de humor absurdo y desastre total.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:30:28.915Z",
+      "year": 1996,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 130,
+      "heroAtlas": "A",
+      "heroCell": 130,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarcianosAlAtaque1996/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_140",
+      "title": "Planeta del Tesoro",
+      "description": "Jim Hawkins, un joven rebelde, descubre un mapa que conduce a un legendario tesoro escondido en el espacio. A bordo de una nave extraordinaria, emprende un viaje lleno de peligros, traiciones y descubrimientos personales que pondrÃ¡n a prueba su valentÃ­a y confianza.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-22T00:32:42.089Z",
+      "year": 2002,
+      "releaseDate": "2026-04-22",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 131,
+      "heroAtlas": "A",
+      "heroCell": 131,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PlanetaDelTesoro2002/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_141",
+      "title": "Alicia en el País de las Maravillas",
+      "description": "Alicia, ahora adolescente, regresa a un mundo mÃ¡gico que visitÃ³ en su infancia, aunque no lo recuerda con claridad. AllÃ­ descubre que tiene un papel importante en la lucha contra la tirÃ¡nica Reina Roja, mientras se reencuentra con personajes extraÃ±os y fascinantes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:28:44.923Z",
+      "year": 2010,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Fantasy",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 132,
+      "heroAtlas": "A",
+      "heroCell": 132,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPaisDeLasMaravillas2010/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_142",
+      "title": "Beetlejuice",
+      "description": "Una pareja fallecida queda atrapada como fantasmas en su propia casa y decide asustar a los nuevos habitantes. Para lograrlo, invocan a Beetlejuice, un espÃ­ritu caÃ³tico y problemÃ¡tico que termina complicando todo mucho mÃ¡s de lo esperado.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:30:40.804Z",
+      "year": 1988,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 133,
+      "heroAtlas": "A",
+      "heroCell": 133,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Beetlejuice1988/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_143",
+      "title": "Charlie y la Fábrica de Chocolate",
+      "description": "Charlie, un niÃ±o humilde, gana un boleto dorado para visitar la misteriosa fÃ¡brica del excÃ©ntrico Willy Wonka. Junto a otros niÃ±os, vive una experiencia llena de maravillas, sorpresas y lecciones inesperadas dentro del mÃ¡gico mundo del chocolate.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:33:02.839Z",
+      "year": 2005,
+      "releaseDate": "2026-04-23",
+      "duration": "1h 56m",
+      "rating": "PG",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Family",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 134,
+      "heroAtlas": "A",
+      "heroCell": 134,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_144",
+      "title": "El Joven Manos de Tijera",
+      "description": "Edward es un joven artificial creado por un inventor que muriÃ³ antes de terminarlo, dejÃ¡ndolo con tijeras en lugar de manos. Al ser llevado a un vecindario comÃºn, intenta adaptarse a la vida humana, pero su apariencia y naturaleza provocan tanto fascinaciÃ³n como rechazo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:35:51.960Z",
+      "year": 1990,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 135,
+      "heroAtlas": "A",
+      "heroCell": 135,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJovenManosDeTijera1990/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_145",
+      "title": "Frankenweenie",
+      "description": "Victor, un niÃ±o apasionado por la ciencia, pierde a su querido perro Sparky. Decidido a recuperarlo, utiliza sus conocimientos para traerlo de vuelta a la vida, pero sus experimentos provocan consecuencias inesperadas en su comunidad.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:37:40.842Z",
+      "year": 2012,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Comedy",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 136,
+      "heroAtlas": "A",
+      "heroCell": 136,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenweenie2012/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_146",
+      "title": "Miss Peregrine y los Niños Peculiares",
+      "description": "Tras una tragedia familiar, Jake descubre un misterioso orfanato donde viven niÃ±os con habilidades extraordinarias. Bajo el cuidado de Miss Peregrine, deberÃ¡ protegerlos de peligrosas criaturas mientras descubre su propio lugar en ese mundo peculiar.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:40:23.433Z",
+      "year": 2016,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 137,
+      "heroAtlas": "A",
+      "heroCell": 137,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MissPeregrineYLosNinosPeculiares2016/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_147",
+      "title": "Guerra Mundial Z",
+      "description": "Una repentina y devastadora pandemia convierte a millones de personas en criaturas violentas. Gerry Lane, un exinvestigador de la ONU, recorre el mundo en busca del origen del brote y una posible soluciÃ³n antes de que la humanidad colapse por completo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:42:17.775Z",
+      "year": 2013,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 138,
+      "heroAtlas": "A",
+      "heroCell": 138,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuerraMundialZ2013/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_148",
+      "title": "Crepúsculo: Luna Nueva",
+      "description": "DespuÃ©s de un peligroso incidente, Edward decide alejarse de Bella para protegerla, dejÃ¡ndola devastada. En su intento por seguir adelante, Bella se acerca mÃ¡s a Jacob, descubriendo secretos que cambiarÃ¡n todo mientras fuerzas oscuras se aproximan.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:45:09.479Z",
+      "year": 2009,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 139,
+      "heroAtlas": "A",
+      "heroCell": 139,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoLunaNueva2009/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_149",
+      "title": "Crepúsculo: Eclipse",
+      "description": "Bella se encuentra en medio de una peligrosa amenaza cuando una serie de asesinatos sacude la ciudad. Mientras tanto, debe tomar una decisiÃ³n entre Edward y Jacob, lo que complica aÃºn mÃ¡s la creciente tensiÃ³n entre vampiros y hombres lobo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:47:08.360Z",
+      "year": 2010,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Drama",
+        "Action"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 140,
+      "heroAtlas": "A",
+      "heroCell": 140,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoEclipse2010/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_150",
+      "title": "Crepúsculo: Amanecer – Parte 1",
+      "description": "Bella y Edward finalmente se casan y comienzan su nueva vida juntos. Sin embargo, un inesperado embarazo trae consecuencias peligrosas tanto para Bella como para quienes la rodean, desatando tensiones entre vampiros y hombres lobo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:49:42.894Z",
+      "year": 2011,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 141,
+      "heroAtlas": "A",
+      "heroCell": 141,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte12011/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_151",
+      "title": "Crepúsculo: Amanecer – Parte 2",
+      "description": "Bella despierta transformada en vampiro y comienza su nueva vida junto a Edward y su hija. Sin embargo, una amenaza poderosa se cierne cuando los Volturi sospechan de un peligro que podrÃ­a romper las reglas del mundo vampÃ­rico, llevando a un enfrentamiento decisivo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:51:52.125Z",
+      "year": 2012,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 142,
+      "heroAtlas": "A",
+      "heroCell": 142,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte22012/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_152",
+      "title": "El Bueno, el Malo y el Feo",
+      "description": "En medio de la Guerra Civil estadounidense, tres hombres con intereses distintos â€”un cazarrecompensas, un forajido y un mercenarioâ€” compiten y colaboran para encontrar un tesoro escondido. Su viaje estÃ¡ lleno de traiciones, alianzas inesperadas y duelos memorables.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-23T02:54:10.947Z",
+      "year": 1966,
+      "releaseDate": "2026-04-23",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Western",
+        "Adventure",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 143,
+      "heroAtlas": "A",
+      "heroCell": 143,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBuenoElMaloYElFeo1966/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_153",
+      "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet",
+      "description": "Benjamin Barker regresa a Londres bajo una nueva identidad: Sweeney Todd, un barbero marcado por un pasado trÃ¡gico. Buscando venganza contra quienes destruyeron su vida, inicia un oscuro plan que lo lleva a cometer actos cada vez mÃ¡s extremos, con la ayuda de una peculiar aliada.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-26T20:33:14.806Z",
+      "year": 2007,
+      "releaseDate": "2026-04-26",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Crime",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 144,
+      "heroAtlas": "A",
+      "heroCell": 144,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_154",
+      "title": "La Terminal",
+      "description": "Viktor Navorski llega a Nueva York, pero debido a un conflicto polÃ­tico en su paÃ­s, queda atrapado en el aeropuerto sin poder entrar a Estados Unidos ni regresar a casa. Mientras espera una soluciÃ³n, aprende a adaptarse a la vida dentro de la terminal y forma inesperadas amistades.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-26T20:35:05.787Z",
+      "year": 2004,
+      "releaseDate": "2026-04-26",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 145,
+      "heroAtlas": "A",
+      "heroCell": 145,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laterminal/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_155",
+      "title": "El Zorro y el Sabueso",
+      "description": "Tod, un zorro huÃ©rfano, y Copper, un cachorro de sabueso, desarrollan una amistad sincera durante su infancia. Sin embargo, al crecer, sus naturalezas opuestas y las expectativas de sus dueÃ±os los obligan a enfrentarse a una realidad que pone a prueba su vÃ­nculo.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-26T20:36:35.789Z",
+      "year": 2026,
+      "releaseDate": "2026-04-26",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Adventure",
+        "Family"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 146,
+      "heroAtlas": "A",
+      "heroCell": 146,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elzorroyelsabueso/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_156",
+      "title": "La Hermanastra Fea",
+      "description": "Una reinterpretaciÃ³n oscura del clÃ¡sico cuento de Cenicienta, contada desde la perspectiva de una de las hermanastras. La historia explora sus inseguridades, rivalidades y el deseo de encajar en un mundo obsesionado con la belleza.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-26T20:38:08.912Z",
+      "year": 2025,
+      "releaseDate": "2026-04-26",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 147,
+      "heroAtlas": "A",
+      "heroCell": 147,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lahermanastrafea/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_157",
+      "title": "El Laberinto del Fauno",
+      "description": "En la EspaÃ±a de la posguerra, Ofelia, una niÃ±a con gran imaginaciÃ³n, descubre un misterioso laberinto donde un fauno le revela que podrÃ­a ser una princesa perdida. Para demostrarlo, deberÃ¡ cumplir peligrosas pruebas mientras enfrenta la dura realidad del mundo que la rodea.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T20:57:20.400Z",
+      "year": 2006,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "War",
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 148,
+      "heroAtlas": "A",
+      "heroCell": 148,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLaberintoDelFauno/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_158",
+      "title": "Hotel Transylvania 2",
+      "description": "DrÃ¡cula estÃ¡ emocionado por su nieto Dennis, pero comienza a preocuparse al ver que no muestra seÃ±ales de ser un monstruo. Mientras los padres del niÃ±o estÃ¡n fuera, DrÃ¡cula y sus amigos intentan sacar su â€œlado monstruosoâ€ con divertidos y caÃ³ticos resultados.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T21:04:14.185Z",
+      "year": 2015,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 149,
+      "heroAtlas": "A",
+      "heroCell": 149,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_159",
+      "title": "Hotel Transylvania 3: Monstruos de Vacaciones",
+      "description": "DrÃ¡cula decide tomar unas vacaciones junto a su familia y amigos en un lujoso crucero para monstruos. Todo parece perfecto hasta que conoce a la misteriosa capitana del barco y se enamora, sin saber que ella guarda un secreto que podrÃ­a poner a todos en peligro.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T21:06:54.460Z",
+      "year": 2018,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "G",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 150,
+      "heroAtlas": "A",
+      "heroCell": 150,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania3/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_160",
+      "title": "Hotel Transylvania: Transformanía",
+      "description": "Un experimento del profesor Van Helsing sale mal y convierte a DrÃ¡cula y sus amigos en humanos, mientras que Johnny se transforma en monstruo. Ahora deberÃ¡n viajar juntos para revertir el hechizo antes de que los cambios se vuelvan permanentes.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T21:08:52.450Z",
+      "year": 2021,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "PG",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 151,
+      "heroAtlas": "A",
+      "heroCell": 151,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_161",
+      "title": "Tu Nombre",
+      "description": "Mitsuha, una chica de un pueblo rural, y Taki, un joven de Tokio, comienzan a intercambiar cuerpos de forma misteriosa. A medida que intentan entender lo que sucede, desarrollan una conexiÃ³n profunda que trasciende el tiempo y la distancia.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T21:12:17.165Z",
+      "year": 2016,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Romance",
+        "Drama",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 152,
+      "heroAtlas": "A",
+      "heroCell": 152,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_162",
+      "title": "Look Back",
+      "description": "La historia sigue a Fujino, una estudiante talentosa en dibujo, y Kyomoto, una chica solitaria con un estilo artÃ­stico excepcional. A travÃ©s de su pasiÃ³n por el manga, sus vidas se entrelazan en una relaciÃ³n marcada por la admiraciÃ³n, la rivalidad y el crecimiento personal.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-27T21:14:23.387Z",
+      "year": 2024,
+      "releaseDate": "2026-04-27",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 153,
+      "heroAtlas": "A",
+      "heroCell": 153,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LookBack/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_163",
+      "title": "Resident Evil",
+      "description": "Alice despierta sin memoria en una mansiÃ³n secreta donde una corporaciÃ³n ha liberado accidentalmente un virus mortal. Junto a un equipo militar, deberÃ¡ adentrarse en una instalaciÃ³n subterrÃ¡nea para contener la amenaza, enfrentÃ¡ndose a criaturas infectadas y peligros desconocidos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T00:35:09.807Z",
+      "year": 2002,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "None",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 154,
+      "heroAtlas": "A",
+      "heroCell": 154,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil1/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_164",
+      "title": "Resident Evil 2: Apocalipsis",
+      "description": "El virus se ha extendido fuera del laboratorio y ha invadido la ciudad de Raccoon City. Alice, ahora con nuevas habilidades, se une a otros sobrevivientes para escapar mientras enfrentan hordas de infectados y una criatura imparable creada por la corporaciÃ³n.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T00:36:43.541Z",
+      "year": 2004,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 155,
+      "heroAtlas": "A",
+      "heroCell": 155,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_165",
+      "title": "Resident Evil 3: Extinción",
+      "description": "El mundo ha sido devastado por el virus, convirtiÃ©ndose en un desierto lleno de infectados. Alice continÃºa su viaje junto a otros sobrevivientes en busca de un lugar seguro, mientras enfrenta nuevas amenazas y descubre mÃ¡s sobre los experimentos de la corporaciÃ³n responsable.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T00:39:15.091Z",
+      "year": 2007,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 156,
+      "heroAtlas": "A",
+      "heroCell": 156,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil3/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_166",
+      "title": "Mad Max: Salvajes de Autopista",
+      "description": "En un futuro cercano donde la sociedad comienza a colapsar, Max Rockatansky es un policÃ­a que patrulla carreteras dominadas por bandas violentas. Tras una tragedia personal, su vida cambia por completo, llevÃ¡ndolo por un camino de venganza en un mundo cada vez mÃ¡s caÃ³tico.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T23:52:17.676Z",
+      "year": 1979,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 157,
+      "heroAtlas": "A",
+      "heroCell": 157,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMaxSalvajesDeAutopista/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_167",
+      "title": "Mad Max 2",
+      "description": "En un mundo postapocalÃ­ptico dominado por la escasez de combustible, Max se cruza con una comunidad que intenta sobrevivir protegiendo su gasolina de una violenta banda. A regaÃ±adientes, decide ayudarlos, enfrentÃ¡ndose a peligrosas persecuciones y brutales enemigos.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T23:56:39.226Z",
+      "year": 1981,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "LQ",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 158,
+      "heroAtlas": "A",
+      "heroCell": 158,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax2/master.m3u8"
+      }
+    },
+    {
+      "id": "movie_168",
+      "title": "Mad Max 3: Más Allá de la Cúpula del Trueno",
+      "description": "Max llega a Bartertown, una ciudad controlada por una poderosa lÃ­der, donde se ve obligado a participar en combates dentro de la temida â€œCÃºpula del Truenoâ€. Tras escapar, se une a un grupo de jÃ³venes que buscan reconstruir la civilizaciÃ³n en un mundo devastado.",
+      "type": "movie",
+      "section": "catalog",
+      "addedAt": "2026-04-29T23:59:21.537Z",
+      "year": 1985,
+      "releaseDate": "2026-04-29",
+      "duration": "",
+      "rating": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "languages": [
+        "Spanish"
+      ],
+      "quality": "HD",
+      "enabled": true,
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "saga": "",
+      "posterAtlas": "A",
+      "posterCell": 159,
+      "heroAtlas": "A",
+      "heroCell": 159,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax3MasAllaDeLaCupulaDelTrueno/master.m3u8"
+      }
+    }
+  ],
+  "series": [],
+  "sagas": []
+}
