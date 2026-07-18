@@ -1,9 +1,9 @@
 {
-  "lastUpdate": "2026-06-30 19:46",
+  "lastUpdate": "2026-07-18 00:15",
   "patreonGlobal": false,
   "stars": [
     {
-      "user": "Sean F",
+      "user": "Lucesgrupo",
       "cellIndex": 0
     },
     {
@@ -139,13 +139,13 @@
     },
     {
       "id": "user_012",
-      "user": "Barrio Fexa",
+      "user": "Lucesgrupo",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 11,
       "isStar": true,
-      "starCellIndex": 3,
+      "starCellIndex": 0,
       "starAtlasIndex": 0
     },
     {
