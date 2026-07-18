@@ -1306,200 +1306,6 @@
     },
     {
       "type": "movie",
-      "title": "Star Wars: Episode IV - A New Hope",
-      "description": "Luke Skywalker une fuerzas con un caballero Jedi, un piloto arrogante y dos droides para salvar la galaxia de la estaciÃ³n de combate del Imperio.",
-      "duration": "2h 01m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1977,
-      "releaseDate": "1977-05-25",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/571df59e-386f-455d-b0a6-a9624e3ad41d/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/571df59e-386f-455d-b0a6-a9624e3ad41d/playlist.m3u8"
-      },
-      "enabled": true,
-      "id": "movie_039",
-      "addedAt": "2026-04-01T09:24:42.720Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 38,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode V - The Empire Strikes Back",
-      "description": "Tras un ataque del Imperio a la base rebelde de Hoth, Luke Skywalker empieza su entrenamiento Jedi con el maestro Yoda.",
-      "duration": "2h 04m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1980,
-      "releaseDate": "1980-05-21",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bc78b430-c300-40da-88e6-ec4270dd0a0e/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/bc78b430-c300-40da-88e6-ec4270dd0a0e/playlist.m3u8"
-      },
-      "enabled": true,
-      "id": "movie_040",
-      "addedAt": "2026-04-01T09:24:47.377Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 39,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode VI - Return of the Jedi",
-      "description": "Luke Skywalker encabeza un plan para rescatar a Han Solo de las garras de Jabba el Hutt e intenta rescatar a su padre del lado oscuro.",
-      "duration": "2h 11m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1983,
-      "releaseDate": "1983-05-25",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/5a2be9e1-a1cf-41d5-ae44-43b03fbd0ce5/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/5a2be9e1-a1cf-41d5-ae44-43b03fbd0ce5/playlist.m3u8"
-      },
-      "enabled": true,
-      "id": "movie_041",
-      "addedAt": "2026-04-01T09:24:48.831Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 40,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode III - Revenge of the Sith",
-      "description": "Tres aÃ±os despuÃ©s del inicio de las Guerras Clon, los Caballeros Jedi se enfrentan a una amenaza definitiva a medida que Anakin se aleja de la luz.",
-      "duration": "2h 20m",
-      "rating": "PG-13",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2005,
-      "releaseDate": "2005-05-19",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "asdasd",
-        "language_Spanish": "asdasd"
-      },
-      "enabled": false,
-      "id": "movie_042",
-      "addedAt": "2026-04-01T09:24:50.170Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 41,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode II - Attack of the Clones",
-      "description": "Mientras se gesta una conspiraciÃ³n polÃ­tica, el joven Anakin Skywalker debe elegir entre su deber Jedi y su amor por la senadora PadmÃ© Amidala.",
-      "duration": "2h 22m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 2002,
-      "releaseDate": "2002-05-16",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "asdasd",
-        "language_Spanish": "asdasd"
-      },
-      "enabled": false,
-      "id": "movie_043",
-      "addedAt": "2026-04-01T09:24:51.143Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 42,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
-      "title": "Star Wars: Episode I - The Phantom Menace",
-      "description": "Dos caballeros Jedi descubren a un joven esclavizado con una fuerza poderosa mientras intentan resolver una disputa comercial galÃ¡ctica.",
-      "duration": "2h 16m",
-      "rating": "PG",
-      "quality": "LQ",
-      "section": "catalog",
-      "year": 1999,
-      "releaseDate": "1999-05-19",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "languages": [
-        "language_Spanish"
-      ],
-      "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/7c28d097-03ee-4279-a1ac-d8186b91f2c6/playlist.m3u8",
-        "master_url": "https://cdn.yutopiaforge.com/cdn/7c28d097-03ee-4279-a1ac-d8186b91f2c6/playlist.m3u8"
-      },
-      "enabled": true,
-      "id": "movie_044",
-      "addedAt": "2026-04-01T09:24:55.901Z",
-      "addedBy": "Admin",
-      "atlas": "A",
-      "gridIndex": 43,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.230Z",
-      "tokenDuration": 7485
-    },
-    {
-      "type": "movie",
       "title": "Scream 7",
       "description": "Sidney Prescott regresa para enfrentarse a una nueva oleada de asesinatos bajo la mÃ¡scara de Ghostface, en un capÃ­tulo que promete cerrar heridas del pasado.",
       "duration": "1h 49m",
@@ -12796,7 +12602,7 @@
     {
       "id": "movie_393",
       "type": "movie",
-      "title": "Tu nombre (sub español)",
+      "title": "Your Name (sub español)",
       "description": "Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas. A medida que consiguen superar torpemente un reto tras otro, se va creando entre los dos un vínculo que poco a poco se convierte en algo más romántico.",
       "duration": "1h 47m",
       "rating": "PG",
@@ -12818,7 +12624,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/kimiNoNaWaSubEspanol/master.m3u8",
       "createdAt": "2026-06-30T19:10:56.712Z",
-      "updatedAt": "2026-06-30T19:28:39.123Z",
+      "updatedAt": "2026-07-08T21:33:15.148Z",
       "addedAt": "2026-06-30T19:10:56.712Z",
       "addedBy": "Sistema"
     },
@@ -12908,6 +12714,1065 @@
       "createdAt": "2026-07-03T02:45:49.855Z",
       "updatedAt": "2026-07-03T02:45:49.855Z",
       "addedAt": "2026-07-03T02:45:49.855Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_408",
+      "type": "movie",
+      "title": "Backrooms: Sin salida",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "duration": "1h 51m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-05-27",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 46,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026/master.m3u8",
+      "createdAt": "2026-07-07T00:06:55.528Z",
+      "updatedAt": "2026-07-07T00:37:22.545Z",
+      "addedAt": "2026-07-07T00:06:55.528Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_409",
+      "type": "movie",
+      "title": "El estilo de la serpiente y la grulla Shaolin",
+      "description": "Ocho maestros se reúnen para escribir el libro Los Ocho Pasos de la Serpiente y la Grulla, que combina lo mejor de sus estilos individuales. El libro, que contiene las técnicas más mortales del Kungfu, desaparece después del asesinato de los maestros. Acabará en manos de Jackie Chan, quien lo usa como cebo para desenmascarar al asesino de los maestros. Todos los clanes quieren el preciado libro pero Chan es casi invencible gracias al estilo de La Serpiente y la Grulla.",
+      "duration": "1h 40m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1978,
+      "releaseDate": "1978-03-08",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 47,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elEstiloDeLaSerpienteYLaGrullaDeShaolin1978/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elEstiloDeLaSerpienteYLaGrullaDeShaolin1978/master.m3u8",
+      "createdAt": "2026-07-07T00:08:11.946Z",
+      "updatedAt": "2026-07-07T00:46:34.129Z",
+      "addedAt": "2026-07-07T00:08:11.946Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_410",
+      "type": "movie",
+      "title": "Bestias sin Patria",
+      "description": "En plena guerra civil de un país africano, el pequeño Agu (Abraham Attah), separado de su madre, pierde al resto de si familia y se convierte en un niño soldado, manipulado por un temible señor de la guerra, el Comandante (Idris Elba), que le enseñará a matar y le instruirá en los caminos de la guerra.",
+      "duration": "2h 17m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-09-11",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 48,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/bestiassinpatria2015/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/bestiassinpatria2015/master.m3u8",
+      "createdAt": "2026-07-07T00:09:08.468Z",
+      "updatedAt": "2026-07-07T00:09:08.468Z",
+      "addedAt": "2026-07-07T00:09:08.468Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_411",
+      "type": "movie",
+      "title": "Stuart: una vida al revés",
+      "description": "Stuart Shorter y Alexander Marsters. Un vagabundo alcohólico de pasado violento y un escritor que trabaja en ayudas sociales. Cuando entre ellos se crea una insólita amistad, Alexander le pide permiso para escribir su historia y Stuart la va desvelando hacia atrás, \"para hacerla más emocionante\". A través de atracos, intentos de suicidio, encierros en numerosas instituciones y traumas infantiles, Alexander ofrece al mundo un vistazo dentro de un mundo totalmente ajeno para comprender cómo la vida de Stuart quedó tan fuera de control.",
+      "duration": "1h 32m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2007,
+      "releaseDate": "2007-09-23",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 49,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/stuartunavidaalreves2007/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/stuartunavidaalreves2007/master.m3u8",
+      "createdAt": "2026-07-07T00:10:58.322Z",
+      "updatedAt": "2026-07-07T00:10:58.322Z",
+      "addedAt": "2026-07-07T00:10:58.322Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_412",
+      "type": "movie",
+      "title": "Matar a traición",
+      "description": "Una mujer planea matar a la familia del hombre que la desfiguró. Protegida con una máscara cumple su venganza excepto con el hijo, Hsiao (Jackie Chan), del que se enamora. Pero para su sorpresa, Hsiao la rechaza aunque ella no sabe que él lo hace para protegerla. Al mismo tiempo Hsiao descubre que su amigo es realmente el líder del Clan de la Lluvia Mortal quien ha matado a sus otros amigos. Hsiao para vengar la muerte de sus amigos se deberá enfrentar con su antiguo amigo.",
+      "duration": "1h 50m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1977,
+      "releaseDate": "1977-07-22",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 50,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/mataratraicionDualcineclasicodcccom/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/mataratraicionDualcineclasicodcccom/master.m3u8",
+      "createdAt": "2026-07-07T00:13:00.110Z",
+      "updatedAt": "2026-07-07T00:13:00.110Z",
+      "addedAt": "2026-07-07T00:13:00.110Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_413",
+      "type": "movie",
+      "title": "Furia Oriental",
+      "description": "Chen Zhen regresa al recinto internacional de China solo para enterarse de la muerte de su amado maestro. Esto se ve agravado por el continuo hostigamiento racista por parte de la población japonesa en el área. A diferencia de sus amigos, lo enfrenta de frente con su dominio de las artes marciales mientras investiga el asesinato de su maestro.",
+      "duration": "1h 48m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1972,
+      "releaseDate": "1972-03-22",
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 51,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/furiaOriental1972/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/furiaOriental1972/master.m3u8",
+      "createdAt": "2026-07-07T00:13:58.121Z",
+      "updatedAt": "2026-07-07T00:31:09.156Z",
+      "addedAt": "2026-07-07T00:13:58.121Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_414",
+      "type": "movie",
+      "title": "En la zona gris",
+      "description": "Gira en torno a dos especialistas en extracción que tienen que designar una ruta de escape para una negociadora de alto rango.",
+      "duration": "1h 37m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-05-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 52,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/enlazonagris2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/enlazonagris2026/master.m3u8",
+      "createdAt": "2026-07-07T00:14:41.663Z",
+      "updatedAt": "2026-07-07T00:38:32.724Z",
+      "addedAt": "2026-07-07T00:14:41.663Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_415",
+      "type": "movie",
+      "title": "Furia oriental II",
+      "description": "Tras la ocupación japonesa de Shanghái, un hermano y una hermana escapan a Taiwán para refugiarse con su abuelo, maestro de una escuela de kung-fu. Sin embargo, una poderosa escuela japonesa busca dominar todas las academias de artes marciales de la isla, obligando a un joven luchador a enfrentarse a los invasores para defender el honor de su pueblo.",
+      "duration": "1h 59m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "1976-07-08",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 53,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/furiaOrientalIiCineDeAccionTotalPeliculaCompletaEnEspanolLatino/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/furiaOrientalIiCineDeAccionTotalPeliculaCompletaEnEspanolLatino/master.m3u8",
+      "createdAt": "2026-07-07T00:16:21.540Z",
+      "updatedAt": "2026-07-07T00:23:45.240Z",
+      "addedAt": "2026-07-07T00:16:21.540Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_416",
+      "type": "movie",
+      "title": "La furia de Jackie",
+      "description": "El joven Lung (Jackie Chan), ha estado siempre fascinado por el arte del Kung-Fu, pero nunca ha podido pagarse ninguna clase. Un día, conoce a un mendigo quien ofrece enseñarle a luchar. Su padre detesta la violencia y le prohíbe que luche, pero Lung a escondidas de su padre empezará una lucha contra una peligrosa banda de gángsters.",
+      "duration": "1h 20m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1973,
+      "releaseDate": "1973-03-31",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 54,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laFuriaDeJackieChanPeliculaCompletaDeArtesMarcialesEnEspanol1971/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laFuriaDeJackieChanPeliculaCompletaDeArtesMarcialesEnEspanol1971/master.m3u8",
+      "createdAt": "2026-07-07T00:17:15.901Z",
+      "updatedAt": "2026-07-07T00:17:15.901Z",
+      "addedAt": "2026-07-07T00:17:15.901Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_417",
+      "type": "movie",
+      "title": "La mano de la muerte",
+      "description": "El Templo de Shaolin fue el centro de la lucha contra los Manchu en el siglo 17. Un renegado Shaolin, Shih, desertó para unirse a los Manchu y ha causado la muerte de un estudiante excepcional. Yung Fei, el mejor estudiante del templo, es enviado por el abad para conseguir justicia.",
+      "duration": "1h 35m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "1976-07-15",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 55,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laManoDeLaMuerte1976/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laManoDeLaMuerte1976/master.m3u8",
+      "createdAt": "2026-07-07T00:18:05.371Z",
+      "updatedAt": "2026-07-07T00:18:05.371Z",
+      "addedAt": "2026-07-07T00:18:05.371Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_418",
+      "type": "movie",
+      "title": "Lluvia de fuego",
+      "description": "En Boston se produce una explosión tan terrorífica que conmociona tanto a la población como a los agentes más curtidos de la brigada antiexplosivos de la ciudad. Todas las pistas apuntan al terrorista más temible y más hábil al que se han enfrentado nunca. Jimmy Dove, un veterano policía de la brigada de artificieros, trabaja como profesor de los jóvenes que se incorporan al departamento. Cuando unos días después de dejar el puesto, su sustituto es víctima de una bomba, Dove empieza a investigar lo sucedido.",
+      "duration": "2h 01m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1994,
+      "releaseDate": "1994-07-01",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 56,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lluviadefuego1994/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/lluviadefuego1994/master.m3u8",
+      "createdAt": "2026-07-07T00:18:46.600Z",
+      "updatedAt": "2026-07-07T00:18:46.600Z",
+      "addedAt": "2026-07-07T00:18:46.600Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_419",
+      "type": "movie",
+      "title": "La cámara de los 36 hombres de madera",
+      "description": "Un joven mudo pierde a su padre durante un asalto. El asesino huye y el joven sólo encuentra un modo de vengar a su padre, aprendiendo Kung Fu. Pero el camino para llegar a ser un experto en este arte marcial es muy duro y, el aprendizaje, largo, algo que \"Muñeco\", que es como le llaman, no está dispuesto a aceptar. El templo Shaolin donde aprende Kung Fu le somete a las pruebas más duras para que demuestre su capacidad, entre ellas la de la cámara de los 36 hombres de madera, mecanismos que el luchador mudo deberá superar para lograr al fin, el reconocimiento.",
+      "duration": "1h 56m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "1976-10-10",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 57,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laCamaraDeLos36HombresDeMadera1976/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/laCamaraDeLos36HombresDeMadera1976/master.m3u8",
+      "createdAt": "2026-07-07T00:19:33.849Z",
+      "updatedAt": "2026-07-07T00:19:33.849Z",
+      "addedAt": "2026-07-07T00:19:33.849Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_420",
+      "type": "movie",
+      "title": "Police Woman",
+      "description": "Gracias a la colaboración de una fuerte y ruda agente de la policía, un taxista inocente de Hong Kong trata de escapar de un grupo de villanos que dejaron pruebas incriminatorias en su auto.",
+      "duration": "1h 24m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1973,
+      "releaseDate": "1973-04-26",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 58,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elJovenTigre1973/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elJovenTigre1973/master.m3u8",
+      "createdAt": "2026-07-07T00:20:16.840Z",
+      "updatedAt": "2026-07-07T00:20:16.840Z",
+      "addedAt": "2026-07-07T00:20:16.840Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_421",
+      "type": "movie",
+      "title": "Los Super Guardaespaldas",
+      "description": "ing Chung, un experto en artes marciales, acepta escoltar a un hombre enfermo y a su hermana a través de una peligrosa región montañosa dominada por bandidos. Durante el viaje descubre que su misión oculta una gran conspiración y que el hombre al que protege guarda una estrecha relación con el asesinato de su padre, obligándolo a elegir entre el deber y la venganza.",
+      "duration": "1h 41m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1978,
+      "releaseDate": "1978-04-27",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 59,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losSuperGuardaespaldas1978/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/losSuperGuardaespaldas1978/master.m3u8",
+      "createdAt": "2026-07-07T00:20:51.782Z",
+      "updatedAt": "2026-07-07T00:26:10.815Z",
+      "addedAt": "2026-07-07T00:20:51.782Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_422",
+      "type": "movie",
+      "title": "Saga of Tanya the Evil: The Movie",
+      "description": "El tiempo es UC 1926. El 203º Batallón de Magos Aéreos del Ejército Imperial dirigido por la Mayor Tanya Degurechaff ha ganado la batalla hacia el sur contra los rezagados de la República. Esperaban que se les dieran vacaciones después de regresar victoriosos, pero en cambio reciben órdenes especiales de la sede del personal tan pronto como llegan a casa. Se les dice que hubo signos de un despliegue a gran escala cerca de la frontera entre el Imperio y la Federación.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-02-08",
+      "genres": [
+        "Animation",
+        "Action",
+        "War",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 60,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sagaoftanyatheevilthemovie2019/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sagaoftanyatheevilthemovie2019/master.m3u8",
+      "createdAt": "2026-07-07T00:32:03.249Z",
+      "updatedAt": "2026-07-07T00:32:03.249Z",
+      "addedAt": "2026-07-07T00:32:03.249Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_423",
+      "type": "movie",
+      "title": "Operación Dragón",
+      "description": "Un agente secreto entra a la isla fortificada de un magnate del opio junto a otros peleadores para un torneo de artes marciales",
+      "duration": "1h 42m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1973,
+      "releaseDate": "1973-08-17",
+      "genres": [
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 61,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operacionDragon1973/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operacionDragon1973/master.m3u8",
+      "createdAt": "2026-07-07T00:34:04.892Z",
+      "updatedAt": "2026-07-07T00:34:04.892Z",
+      "addedAt": "2026-07-07T00:34:04.892Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_424",
+      "type": "movie",
+      "title": "Los Simpson: Simpsley",
+      "description": "Cuando la estafadora sin dinero Marge Bouvier es enviada a Italia para convencer al rico Seymour Skinner de que regrese a casa, ella se siente tentada por las trampas de su estilo de vida acomodado. Pero hay una gran piedra en el camino: el huésped pegajoso y tonto de Skinner, Homero Simpsley. Las mentiras, la lujuria y la lira italiana abundan.",
+      "duration": "0h 24m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-07-03",
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 62,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/simpsley2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/simpsley2026/master.m3u8",
+      "createdAt": "2026-07-07T00:34:56.663Z",
+      "updatedAt": "2026-07-07T00:36:08.477Z",
+      "addedAt": "2026-07-07T00:34:56.663Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_425",
+      "type": "movie",
+      "title": "La cosa (sub español)",
+      "description": "Un grupo de científicos estadounidenses destinados en una base de investigación en la Antártida descubre que una criatura extraterrestre puede imitar a la perfección cualquier ser vivo que infecta. A medida que la paranoia y la desconfianza se apoderan del grupo, nadie sabe quién sigue siendo humano y quién podría ser la criatura.",
+      "duration": "1h 49min",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1982,
+      "releaseDate": "1982-06-25",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Mystery"
+      ],
+      "languages": [
+        "language_English"
+      ],
+      "atlas": "E",
+      "gridIndex": 65,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Lacosa(subespanol)/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Lacosa(subespanol)/master.m3u8",
+      "createdAt": "2026-07-10T05:07:51.810Z",
+      "updatedAt": "2026-07-11T07:31:42.392Z",
+      "addedAt": "2026-07-10T05:07:51.810Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_426",
+      "type": "movie",
+      "title": "Cara de guerra",
+      "description": "Un grupo de reclutas se prepara en Parish Island, centro de entrenamiento de la marina Norteamericana. Allí está el sargento Hartmann, duro e implacable, cuya única misión en la vida es endurecer el cuerpo y el alma de los novatos, para que puedan defenderse del enemigo. Pero no todos los jóvenes soportan igual sus métodos...",
+      "duration": "2h 00m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1987,
+      "releaseDate": "1987-06-26",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 66,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caradeguerra1987/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Caradeguerra1987/master.m3u8",
+      "createdAt": "2026-07-10T05:14:16.095Z",
+      "updatedAt": "2026-07-10T05:14:16.095Z",
+      "addedAt": "2026-07-10T05:14:16.095Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_427",
+      "type": "movie",
+      "title": "Heidi",
+      "description": "",
+      "duration": "1h 37m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1993,
+      "releaseDate": "1993-07-18",
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 67,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidicastellano1993/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidicastellano1993/master.m3u8",
+      "createdAt": "2026-07-10T05:15:22.995Z",
+      "updatedAt": "2026-07-10T05:15:22.995Z",
+      "addedAt": "2026-07-10T05:15:22.995Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_428",
+      "type": "movie",
+      "title": "Heidi",
+      "description": "Cuando su tía se cansa de cuidarla, Heidi, una niña huérfana, debe ir a vivir a las montañas suizas con su arisco abuelo (Jean Hersholt), un ermitaño que pronto se encariña con ella. Pero la tía regresa para llevársela a vivir con una familia que necesita una compañera para su hija inválida (Marcia Mae Jones). A pesar de que una malvada institutriz (Mary Nash) le hace la vida imposible, Heidi consigue ganarse el cariño de todos los de la casa y no ceja en su intento de volver a reunirse con su querido abuelo.",
+      "duration": "1h 28m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1937,
+      "releaseDate": "1937-10-15",
+      "genres": [
+        "Drama",
+        "Family",
+        "Music"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 68,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidipelculaidiomaespaol1937/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidipelculaidiomaespaol1937/master.m3u8",
+      "createdAt": "2026-07-10T05:16:11.446Z",
+      "updatedAt": "2026-07-10T05:16:11.446Z",
+      "addedAt": "2026-07-10T05:16:11.446Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_430",
+      "type": "movie",
+      "title": "Heidi",
+      "description": "Heidi, es un huérfano suizo de ocho años quien da su tía a su abuelo que mora en la montaña. Es robada entonces atrás por su tía de su abuelo para vivir en la casa de Sesemann rica en Francfort, Alemania como un compañero a Klara, una muchacha abrigada, minusválida en una silla de ruedas. Heidi está descontenta, pero hace la mejor de la situación, que siempre añora a su abuelo.",
+      "duration": "1h 51m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-12-10",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 71,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidis01e01/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Heidis01e01/master.m3u8",
+      "createdAt": "2026-07-15T02:04:21.383Z",
+      "updatedAt": "2026-07-15T02:04:21.383Z",
+      "addedAt": "2026-07-15T02:04:21.383Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_431",
+      "type": "movie",
+      "title": "El Pasajero Del Diablo",
+      "description": "Tras presenciar un espantoso accidente de tráfico en la autopista, una joven pareja pronto se da cuenta de que no salieron solos del lugar del accidente, ya que una presencia demoníaca llamada el Pasajero, que no se detendrá hasta reclamarlos a ambos, convierte su aventura en furgoneta en una pesadilla.",
+      "duration": "1h 34m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2026,
+      "releaseDate": "2026-05-20",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 72,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpasajerodeldiablo2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpasajerodeldiablo2026/master.m3u8",
+      "createdAt": "2026-07-15T02:06:04.601Z",
+      "updatedAt": "2026-07-15T02:06:04.601Z",
+      "addedAt": "2026-07-15T02:06:04.601Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_432",
+      "type": "movie",
+      "title": "Juegos de guerra",
+      "description": "A David Lughtman, estudiante de diecisiete años, le han suspendido varias asignaturas. Pero haciendo uso de su gran habilidad con las computadoras, logra cambiar las notas y aprobar el curso. Un día, jugando con su máquina, David entra en contacto con \"Joshua\", la computadora del Departamento de Defensa de los Estados Unidos, y decide \"jugar a la guerra\". El muchacho cree que es un juego más pero, sin darse cuenta, desafía a \"Joshua\" a un escalofriante juego de guerra termonuclear mundial. Entre las dos máquinas planean desplegar todas las estrategias y opciones para una Tercera Guerra Mundial.",
+      "duration": "1h 54m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1983,
+      "releaseDate": "1983-06-03",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 73,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Juegosdeguerra1983/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Juegosdeguerra1983/master.m3u8",
+      "createdAt": "2026-07-15T02:07:43.898Z",
+      "updatedAt": "2026-07-15T02:07:43.898Z",
+      "addedAt": "2026-07-15T02:07:43.898Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_433",
+      "type": "movie",
+      "title": "Alien: Covenant",
+      "description": "La tripulación de una nave colonia, con destino a un planeta remoto, descubre un paraíso inexplorado con una amenaza más allá de su imaginación, y debe intentar una angustiosa huida.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-05-09",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 74,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aliencovenant2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aliencovenant2017/master.m3u8",
+      "createdAt": "2026-07-15T02:08:28.995Z",
+      "updatedAt": "2026-07-15T02:08:28.995Z",
+      "addedAt": "2026-07-15T02:08:28.995Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_434",
+      "type": "movie",
+      "title": "Alien: Romulus",
+      "description": "Mientras exploran en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentran cara a cara con la forma de vida más aterradora del universo.",
+      "duration": "1h 59m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2024,
+      "releaseDate": "2024-08-13",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 75,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alienromulus2024/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Alienromulus2024/master.m3u8",
+      "createdAt": "2026-07-15T02:09:48.650Z",
+      "updatedAt": "2026-07-15T02:09:48.650Z",
+      "addedAt": "2026-07-15T02:09:48.650Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_435",
+      "type": "movie",
+      "title": "Una Historia Verdadera",
+      "description": "Alvin Straight (Richard Farnsworth) es un achacoso anciano que vive en Iowa con una hija discapacitada (Sissy Spacek). Además de sufrir un enfisema y pérdida de visión, tiene graves problemas de cadera que casi le impiden permanecer de pie. Cuando recibe la noticia de que su hermano Lyle (Stanton), con el que está enemistado desde hace diez años, ha sufrido un infarto, a pesar de su precario estado de salud, decide ir a verlo a Wisconsin. Para ello tendrá que recorrer unos 500 kilometros, y lo hace en el único medio de transporte del que dispone: una máquina cortacésped.",
+      "duration": "1h 52m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1999,
+      "releaseDate": "1999-10-15",
+      "genres": [
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 76,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unahistoriaverdadera1999/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unahistoriaverdadera1999/master.m3u8",
+      "createdAt": "2026-07-15T02:12:55.546Z",
+      "updatedAt": "2026-07-15T02:12:55.546Z",
+      "addedAt": "2026-07-15T02:12:55.546Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_436",
+      "type": "movie",
+      "title": "Prometeo",
+      "description": "Un equipo de exploradores descubre una pista a los orígenes de humanidad en la Tierra, conduciéndolos en un viaje a las esquinas más oscuras del universo. Allí, deben luchar una batalla aterradora para salvar el futuro de la raza humana.",
+      "duration": "2h 04m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2012,
+      "releaseDate": "2012-05-30",
+      "genres": [
+        "Sci-Fi",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 77,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Prometeo2012/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Prometeo2012/master.m3u8",
+      "createdAt": "2026-07-15T02:15:06.276Z",
+      "updatedAt": "2026-07-15T02:15:06.276Z",
+      "addedAt": "2026-07-15T02:15:06.276Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_437",
+      "type": "movie",
+      "title": "Las locuras del emperador",
+      "description": "El emperador Kuzco es convertido en llama por su exadministradora Yzma, y ahora debe recuperar su trono con la ayuda de Pacha, el amable pastor de llamas.",
+      "duration": "1h 18m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-12-15",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 78,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasLocurasdelEmperador2000/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasLocurasdelEmperador2000/master.m3u8",
+      "createdAt": "2026-07-16T04:33:44.118Z",
+      "updatedAt": "2026-07-16T04:33:44.118Z",
+      "addedAt": "2026-07-16T04:33:44.118Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_438",
+      "type": "movie",
+      "title": "Lilo y Stitch",
+      "description": "Lilo es una niña hawaiana que vive con su hermana mayor después de perder a sus padres. Un día adopta a un extraño ser al que llama Stitch, sin saber que en realidad es un experimento alienígena diseñado para destruir. Juntos aprenderán el verdadero significado de la amistad, la familia y el famoso concepto hawaiano de \"ohana\", que significa que nadie se queda atrás ni es olvidado.",
+      "duration": "1h 48m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2025,
+      "releaseDate": "2025-05-17",
+      "genres": [
+        "Family",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 79,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LiloYStitch2/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LiloYStitch2/master.m3u8",
+      "createdAt": "2026-07-16T04:37:37.126Z",
+      "updatedAt": "2026-07-17T22:05:57.937Z",
+      "addedAt": "2026-07-16T04:37:37.126Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_439",
+      "type": "movie",
+      "title": "Pokémon: Arceus y la joya de la vida",
+      "description": "Arceus, creador del mundo, viene a juzgar a la humanidad por el robo de la joya de la vida, pero Ash Ketchum y sus amigos son enviados al pasado para descubrir y, posiblemente, revertir los eventos que llevaron a la vendetta de Arceus.",
+      "duration": "1h 35m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2009,
+      "releaseDate": "2009-07-18",
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 80,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokémon_Arceus_y_la_joya_de_la_vida_HD/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokémon_Arceus_y_la_joya_de_la_vida_HD/master.m3u8",
+      "createdAt": "2026-07-16T04:38:47.717Z",
+      "updatedAt": "2026-07-16T04:38:47.717Z",
+      "addedAt": "2026-07-16T04:38:47.717Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_440",
+      "type": "movie",
+      "title": "Star Wars: El retorno del jedi",
+      "description": "La Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-12-13",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 38,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVI/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVI/master.m3u8",
+      "createdAt": "2026-07-16T06:00:42.212Z",
+      "updatedAt": "2026-07-16T06:36:37.953Z",
+      "addedAt": "2026-07-16T06:00:42.212Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_441",
+      "type": "movie",
+      "title": "Star Wars: Los últimos Jedi",
+      "description": "La Primera Orden se ha vuelto más poderosa y tiene contra las cuerdas a la Resistencia, liderada por la General Leia Organa. El piloto Poe Dameron encabeza una misión para intentar destruir un acorazado de la Primera Orden. Mientras tanto, la joven Rey tendrá que definir su futuro y su vocación, y el viejo jedi Luke Skywalker revaluar el significado de su vida.",
+      "duration": "2h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-12-13",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 39,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVIII/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVIII/master.m3u8",
+      "createdAt": "2026-07-16T06:05:22.570Z",
+      "updatedAt": "2026-07-16T06:05:22.570Z",
+      "addedAt": "2026-07-16T06:05:22.570Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_442",
+      "type": "movie",
+      "title": "Star Wars: El ascenso de Skywalker",
+      "description": "Un año después de los eventos de \"Los últimos Jedi\", los restos de la Resistencia se enfrentarán una vez más a la Primera Orden, involucrando conflictos del pasado y del presente. Mientras tanto, el antiguo conflicto entre los Jedi y los Sith llegará a su clímax, lo que llevará a la saga de los Skywalker a un final definitivo. Final de la trilogía iniciada con \"El despertar de la Fuerza\".",
+      "duration": "2h 21m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-12-18",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 40,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars9/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars9/master.m3u8",
+      "createdAt": "2026-07-16T06:06:38.029Z",
+      "updatedAt": "2026-07-16T06:06:38.029Z",
+      "addedAt": "2026-07-16T06:06:38.029Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_443",
+      "type": "movie",
+      "title": "Star Wars: El despertar de la fuerza",
+      "description": "Treinta años después de la victoria de la Alianza Rebelde sobre la segunda Estrella de la Muerte (hechos narrados en el Episodio VI: El retorno del Jedi), la galaxia está todavía en guerra. Una nueva República se ha constituido, pero una siniestra organización, la Primera Orden, ha resurgido de las cenizas del Imperio Galáctico. A los héroes de antaño, que luchan ahora en la Resistencia, se suman nuevos héroes: Poe Dameron, un piloto de caza, Finn, un desertor de la Primera Orden, Rey, una joven chatarrera, y BB-8, un androide rodante. Todos ellos luchan contra las fuerzas del Mal: el Capitán Phasma, de la Primera Orden, y Kylo Ren, un temible y misterioso personaje que empuña un sable de luz roja.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-12-15",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 41,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars7/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars7/master.m3u8",
+      "createdAt": "2026-07-16T06:07:53.040Z",
+      "updatedAt": "2026-07-16T06:07:53.040Z",
+      "addedAt": "2026-07-16T06:07:53.040Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_444",
+      "type": "movie",
+      "title": "El señor de la guerra",
+      "description": "Yuri Orlov, un traficante de armas ruso, recorre los países en guerra intentando eludir no sólo la persecución de un implacable agente de la Interpol, sino también la de sus rivales en el negocio e incluso la de alguno de sus clientes, todos ellos importantes dictadores.",
+      "duration": "2h 02m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2005,
+      "releaseDate": "2005-09-16",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "A",
+      "gridIndex": 42,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElSeñorDeLaGuerra2005/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElSeñorDeLaGuerra2005/master.m3u8",
+      "createdAt": "2026-07-17T22:00:31.552Z",
+      "updatedAt": "2026-07-17T22:00:31.552Z",
+      "addedAt": "2026-07-17T22:00:31.552Z",
       "addedBy": "seanf"
     }
   ],
@@ -46607,7 +47472,7 @@
             "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8",
             "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8",
           "createdAt": "2026-06-01T15:57:17.674Z",
           "updatedAt": "2026-06-05T12:20:08.444Z"
         }
@@ -53818,7 +54683,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e01/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e01/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53828,7 +54693,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e02/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e02/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53838,7 +54703,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e03/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e03/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53848,7 +54713,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e04/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e04/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53858,7 +54723,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e05/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e05/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53868,7 +54733,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e06/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e06/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53878,7 +54743,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e07/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e07/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53888,7 +54753,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e08/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e08/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53898,7 +54763,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e09/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e09/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53908,7 +54773,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e10/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e10/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53918,7 +54783,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e11/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e11/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53928,7 +54793,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e12/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01e12/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         },
         {
@@ -53938,7 +54803,7 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01eOva/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T1/Dorohedor01eOva/master.m3u8",
           "createdAt": "2026-07-03T02:55:51.519Z"
         }
       ],
@@ -53981,9 +54846,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e01/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e01/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.057Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e02",
@@ -53992,20 +54857,20 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e02/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e02/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e03",
           "slotId": "ep_2871",
           "title": "Capítulo 3",
           "links": {
-            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/Dorohedor02e03(ees)%20-%20copia/master.m3u8"
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e03/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e03/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e04",
@@ -54014,9 +54879,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e04/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e04/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e05",
@@ -54025,9 +54890,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e05/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e05/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e06",
@@ -54036,9 +54901,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e06/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e06/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e07",
@@ -54047,9 +54912,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e07/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e07/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e08",
@@ -54058,9 +54923,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e08/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e08/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e09",
@@ -54069,9 +54934,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e09/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e09/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e10",
@@ -54080,9 +54945,9 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e10/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e10/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         },
         {
           "id": "s01e11",
@@ -54091,17 +54956,2080 @@
           "links": {
             "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e11/master.m3u8"
           },
-          "master_url": "",
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Dorohedoro/T2/Dorohedor02e11/master.m3u8",
           "createdAt": "2026-07-03T03:05:29.058Z",
-          "updatedAt": "2026-07-04T05:42:53.534Z"
+          "updatedAt": "2026-07-04T06:02:31.903Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-07-03T03:05:29.058Z",
-      "updatedAt": "2026-07-04T05:42:53.534Z",
+      "updatedAt": "2026-07-04T06:02:31.903Z",
       "addedAt": "2026-07-03T03:05:29.058Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "series_163",
+      "type": "series",
+      "title": "Heidi T1",
+      "description": "Descubre las aventuras de Heidi, una niña encantadora que vive en las montañas con su abuelo y donde compartirá su amor por la naturaleza con sus amigos Pedro, Clara y su perro Niebla. Serie inspirada en el libro homónimo de la escritora suiza Johanna Spyri.",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1974,
+      "releaseDate": "1974-01-06",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 63,
+      "_seasonKey": "heidi|1",
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2880",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E01/master.m3u8",
+          "updatedAt": "2026-07-09T21:41:31.633Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2881",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E02/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2882",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E03/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2883",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E04/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2884",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E05/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2885",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E06/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2886",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E07/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2887",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E08/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2888",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E09/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2889",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E10/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2890",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E11/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2891",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E12/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2892",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E13/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2893",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E14/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E14/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E14/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2894",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E15/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E15/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E15/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2895",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E16/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E16/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E16/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2896",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E17/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E17/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E17/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e18",
+          "slotId": "ep_2897",
+          "title": "Capítulo 18",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E18/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E18/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E18/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e19",
+          "slotId": "ep_2898",
+          "title": "Capítulo 19",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E19/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E19/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E19/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e20",
+          "slotId": "ep_2899",
+          "title": "Capítulo 20",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E20/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E20/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E20/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e21",
+          "slotId": "ep_2900",
+          "title": "Capítulo 21",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E21/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E21/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E21/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e22",
+          "slotId": "ep_2901",
+          "title": "Capítulo 22",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E22/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E22/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E22/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e23",
+          "slotId": "ep_2902",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E23/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E23/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e24",
+          "slotId": "ep_2903",
+          "title": "Capítulo 24",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E24/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E24/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E24/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e25",
+          "slotId": "ep_2904",
+          "title": "Capítulo 25",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E25/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E25/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E25/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e26",
+          "slotId": "ep_2905",
+          "title": "Capítulo 26",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E26/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E26/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E26/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e27",
+          "slotId": "ep_2906",
+          "title": "Capítulo 27",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E27/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E27/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E27/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e28",
+          "slotId": "ep_2907",
+          "title": "Capítulo 28",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E28/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E28/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E28/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e29",
+          "slotId": "ep_2908",
+          "title": "Capítulo 29",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E29/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E29/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E29/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e30",
+          "slotId": "ep_2909",
+          "title": "Capítulo 30",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E30/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E30/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E30/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e31",
+          "slotId": "ep_2910",
+          "title": "Capítulo 31",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E31/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E31/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E31/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e32",
+          "slotId": "ep_2911",
+          "title": "Capítulo 32",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E32/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E32/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E32/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e33",
+          "slotId": "ep_2912",
+          "title": "Capítulo 33",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E33/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E33/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E33/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e34",
+          "slotId": "ep_2913",
+          "title": "Capítulo 34",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E34/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E34/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E34/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e35",
+          "slotId": "ep_2914",
+          "title": "Capítulo 35",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E35/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E35/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E35/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e36",
+          "slotId": "ep_2915",
+          "title": "Capítulo 36",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E36/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E36/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E36/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e37",
+          "slotId": "ep_2916",
+          "title": "Capítulo 37",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E37/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E37/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E37/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e38",
+          "slotId": "ep_2917",
+          "title": "Capítulo 38",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E38/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E38/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E38/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e39",
+          "slotId": "ep_2918",
+          "title": "Capítulo 39",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E39/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E39/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E39/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e40",
+          "slotId": "ep_2919",
+          "title": "Capítulo 40",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E40/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E40/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E40/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e41",
+          "slotId": "ep_2920",
+          "title": "Capítulo 41",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E41/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E41/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E41/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e42",
+          "slotId": "ep_2921",
+          "title": "Capítulo 42",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E42/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E42/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E42/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e43",
+          "slotId": "ep_2922",
+          "title": "Capítulo 43",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E43/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E43/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E43/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e44",
+          "slotId": "ep_2923",
+          "title": "Capítulo 44",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E44/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E44/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E44/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e45",
+          "slotId": "ep_2924",
+          "title": "Capítulo 45",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E45/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E45/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E45/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e46",
+          "slotId": "ep_2925",
+          "title": "Capítulo 46",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E46/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E46/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E46/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e47",
+          "slotId": "ep_2926",
+          "title": "Capítulo 47",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E47/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E47/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E47/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e48",
+          "slotId": "ep_2927",
+          "title": "Capítulo 48",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E48/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E48/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E48/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e49",
+          "slotId": "ep_2928",
+          "title": "Capítulo 49",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E49/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E49/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E49/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e50",
+          "slotId": "ep_2929",
+          "title": "Capítulo 50",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E50/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E50/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E50/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e51",
+          "slotId": "ep_2930",
+          "title": "Capítulo 51",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E51/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E51/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E51/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        },
+        {
+          "id": "s01e52",
+          "slotId": "ep_2931",
+          "title": "Capítulo 52",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E52/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E52/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Heidi/T1/HeidiS01E52/master.m3u8",
+          "updatedAt": "2026-07-09T21:57:32.991Z"
+        }
+      ],
+      "createdAt": "2026-07-09T21:41:32.059Z",
+      "updatedAt": "2026-07-09T21:57:32.991Z",
+      "addedAt": "2026-07-09T21:41:32.059Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "series_164",
+      "type": "series",
+      "title": "Candy Candy T1",
+      "description": "Candy es una niña huérfana, buena, optimista y con un gran corazón. Cuando era pequeña, vive en un orfanato con su mejor amiga, Annie, también huérfana, y allí ve por primera vez a su 'príncipe de la colina', una persona muy importante en su vida. Candy es adoptada por una familia con dos hermanastros malvados, Eliza y Neal. Un día, en el jardín de rosas, conoce a un chico Idéntico a su príncipe que se llama Antony. Después de esto, empieza una fantástica historia que ella nunca hubiese imaginado.",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1976,
+      "releaseDate": "1976-10-01",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 64,
+      "_seasonKey": "candycandy|1",
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_2932",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Lastravesurasdecandy1paramiantuS01E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Lastravesurasdecandy1paramiantuS01E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Lastravesurasdecandy1paramiantuS01E01/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_2933",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaaventuradecandyyannyS01E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaaventuradecandyyannyS01E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaaventuradecandyyannyS01E02/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_2934",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdisannyS01E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdisannyS01E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdisannyS01E03/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_2935",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CartadeannyS01E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CartadeannyS01E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CartadeannyS01E04/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_2936",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdoptadaporunafamiliaricaS01E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdoptadaporunafamiliaricaS01E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AdoptadaporunafamiliaricaS01E05/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_2937",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnprncipeenlacolinaS01E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnprncipeenlacolinaS01E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnprncipeenlacolinaS01E06/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_2938",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ParezcounadamaS01E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ParezcounadamaS01E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ParezcounadamaS01E07/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_2939",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnainvitacinfelizS01E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnainvitacinfelizS01E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnainvitacinfelizS01E08/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_2940",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbailemaravillosoS01E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbailemaravillosoS01E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbailemaravillosoS01E09/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_2941",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadamaenelestabloS01E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadamaenelestabloS01E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadamaenelestabloS01E10/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_2942",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapequeacintaS01E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapequeacintaS01E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapequeacintaS01E11/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_2943",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DulcecandyS01E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DulcecandyS01E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DulcecandyS01E12/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_2944",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TressolitariosS01E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TressolitariosS01E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TressolitariosS01E13/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e14",
+          "slotId": "ep_2945",
+          "title": "Capítulo 14",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/QueridoviejorbolenlacolinaS01E14/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/QueridoviejorbolenlacolinaS01E14/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/QueridoviejorbolenlacolinaS01E14/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e15",
+          "slotId": "ep_2946",
+          "title": "Capítulo 15",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadecisinquequitafelicidadacandyS01E15/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadecisinquequitafelicidadacandyS01E15/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnadecisinquequitafelicidadacandyS01E15/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e16",
+          "slotId": "ep_2947",
+          "title": "Capítulo 16",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajeaunpasdesconocidoS01E16/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajeaunpasdesconocidoS01E16/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajeaunpasdesconocidoS01E16/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e17",
+          "slotId": "ep_2948",
+          "title": "Capítulo 17",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EneldesiertolejanoS01E17/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EneldesiertolejanoS01E17/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EneldesiertolejanoS01E17/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e18",
+          "slotId": "ep_2949",
+          "title": "Capítulo 18",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElcrucifijodelasuerteS01E18/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElcrucifijodelasuerteS01E18/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElcrucifijodelasuerteS01E18/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e19",
+          "slotId": "ep_2950",
+          "title": "Capítulo 19",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DespusdeunpenosoviajeS01E19/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DespusdeunpenosoviajeS01E19/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DespusdeunpenosoviajeS01E19/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e20",
+          "slotId": "ep_2951",
+          "title": "Capítulo 20",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SoymsfelizqueunaalondraS01E20/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SoymsfelizqueunaalondraS01E20/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SoymsfelizqueunaalondraS01E20/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e21",
+          "slotId": "ep_2952",
+          "title": "Capítulo 21",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapalomatraeunvotodeamistadS01E21/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapalomatraeunvotodeamistadS01E21/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapalomatraeunvotodeamistadS01E21/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e22",
+          "slotId": "ep_2953",
+          "title": "Capítulo 22",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/NotemuerasanthonyS01E22/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/NotemuerasanthonyS01E22/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/NotemuerasanthonyS01E22/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e23",
+          "slotId": "ep_3058",
+          "title": "Capítulo 23",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E23/master.m3u8",
+          "updatedAt": "2026-07-16T04:32:37.844Z"
+        },
+        {
+          "id": "s01e24",
+          "slotId": "ep_2954",
+          "title": "Capítulo 24",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnthonymuereS01E24/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnthonymuereS01E24/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnthonymuereS01E24/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e25",
+          "slotId": "ep_2955",
+          "title": "Capítulo 25",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SobreponindosealdolorS01E25/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SobreponindosealdolorS01E25/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SobreponindosealdolorS01E25/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e26",
+          "slotId": "ep_2956",
+          "title": "Capítulo 26",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpadrerboltodolosabeS01E26/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpadrerboltodolosabeS01E26/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpadrerboltodolosabeS01E26/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e27",
+          "slotId": "ep_2957",
+          "title": "Capítulo 27",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElregalodeunngelS01E27/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElregalodeunngelS01E27/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElregalodeunngelS01E27/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e28",
+          "slotId": "ep_2958",
+          "title": "Capítulo 28",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldoloridocorazndecandyS01E28/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldoloridocorazndecandyS01E28/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldoloridocorazndecandyS01E28/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e29",
+          "slotId": "ep_2959",
+          "title": "Capítulo 29",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapartidallenadeesperanzasS01E29/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapartidallenadeesperanzasS01E29/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnapartidallenadeesperanzasS01E29/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e30",
+          "slotId": "ep_2960",
+          "title": "Capítulo 30",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmoratravsdelmarS01E30/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmoratravsdelmarS01E30/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmoratravsdelmarS01E30/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e31",
+          "slotId": "ep_2961",
+          "title": "Capítulo 31",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnnuevodaenunaviejaciudadS01E31/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnnuevodaenunaviejaciudadS01E31/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnnuevodaenunaviejaciudadS01E31/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e32",
+          "slotId": "ep_2962",
+          "title": "Capítulo 32",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtracolinadeponyS01E32/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtracolinadeponyS01E32/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtracolinadeponyS01E32/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e33",
+          "slotId": "ep_2963",
+          "title": "Capítulo 33",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaalumnaenvejecidaS01E33/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaalumnaenvejecidaS01E33/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaalumnaenvejecidaS01E33/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e34",
+          "slotId": "ep_2964",
+          "title": "Capítulo 34",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeunsobreS01E34/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeunsobreS01E34/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeunsobreS01E34/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e35",
+          "slotId": "ep_2965",
+          "title": "Capítulo 35",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmaravillosodomingoS01E35/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmaravillosodomingoS01E35/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmaravillosodomingoS01E35/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e36",
+          "slotId": "ep_2966",
+          "title": "Capítulo 36",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnnyrecuperasusonrisaS01E36/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnnyrecuperasusonrisaS01E36/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AnnyrecuperasusonrisaS01E36/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e37",
+          "slotId": "ep_2967",
+          "title": "Capítulo 37",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentroinesperadoS01E37/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentroinesperadoS01E37/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentroinesperadoS01E37/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e38",
+          "slotId": "ep_2968",
+          "title": "Capítulo 38",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeterryS01E38/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeterryS01E38/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElsecretodeterryS01E38/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e39",
+          "slotId": "ep_2969",
+          "title": "Capítulo 39",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EltesoroqueenfurecialarectoraS01E39/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EltesoroqueenfurecialarectoraS01E39/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EltesoroqueenfurecialarectoraS01E39/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e40",
+          "slotId": "ep_2970",
+          "title": "Capítulo 40",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SepuedeentrarysalirlibrementeS01E40/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SepuedeentrarysalirlibrementeS01E40/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SepuedeentrarysalirlibrementeS01E40/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e41",
+          "slotId": "ep_2971",
+          "title": "Capítulo 41",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnahadaenelfestivaldelcolegioS01E41/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnahadaenelfestivaldelcolegioS01E41/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnahadaenelfestivaldelcolegioS01E41/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e42",
+          "slotId": "ep_2972",
+          "title": "Capítulo 42",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpicnicamedianocheS01E42/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpicnicamedianocheS01E42/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpicnicamedianocheS01E42/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e43",
+          "slotId": "ep_2973",
+          "title": "Capítulo 43",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ColegiodeveranoS01E43/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ColegiodeveranoS01E43/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ColegiodeveranoS01E43/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e44",
+          "slotId": "ep_2974",
+          "title": "Capítulo 44",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LazosdesangreS01E44/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LazosdesangreS01E44/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LazosdesangreS01E44/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e45",
+          "slotId": "ep_2975",
+          "title": "Capítulo 45",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FiestablancaparadosS01E45/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FiestablancaparadosS01E45/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FiestablancaparadosS01E45/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e46",
+          "slotId": "ep_2976",
+          "title": "Capítulo 46",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FindeunveranovibranteS01E46/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FindeunveranovibranteS01E46/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FindeunveranovibranteS01E46/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e47",
+          "slotId": "ep_2977",
+          "title": "Capítulo 47",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LatrampadeelizaS01E47/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LatrampadeelizaS01E47/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LatrampadeelizaS01E47/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e48",
+          "slotId": "ep_2978",
+          "title": "Capítulo 48",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EntrefrasyespesasparedesS01E48/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EntrefrasyespesasparedesS01E48/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EntrefrasyespesasparedesS01E48/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e49",
+          "slotId": "ep_2979",
+          "title": "Capítulo 49",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LadecisindeterryS01E49/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LadecisindeterryS01E49/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LadecisindeterryS01E49/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e50",
+          "slotId": "ep_2980",
+          "title": "Capítulo 50",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PartidaenlabrumamatinalS01E50/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PartidaenlabrumamatinalS01E50/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PartidaenlabrumamatinalS01E50/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e51",
+          "slotId": "ep_2981",
+          "title": "Capítulo 51",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EllargocaminoalpuertoS01E51/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EllargocaminoalpuertoS01E51/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EllargocaminoalpuertoS01E51/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e52",
+          "slotId": "ep_2982",
+          "title": "Capítulo 52",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasestrellasdeunestabloS01E52/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasestrellasdeunestabloS01E52/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasestrellasdeunestabloS01E52/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e53",
+          "slotId": "ep_2983",
+          "title": "Capítulo 53",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmanecerenelmonterossdaleS01E53/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmanecerenelmonterossdaleS01E53/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmanecerenelmonterossdaleS01E53/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e54",
+          "slotId": "ep_3059",
+          "title": "Capítulo 54",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandycandyS01E54/master.m3u8",
+          "updatedAt": "2026-07-16T04:32:37.844Z"
+        },
+        {
+          "id": "s01e55",
+          "slotId": "ep_2984",
+          "title": "Capítulo 55",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajandocomopolizonteS01E55/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajandocomopolizonteS01E55/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ViajandocomopolizonteS01E55/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e56",
+          "slotId": "ep_2985",
+          "title": "Capítulo 56",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MsalldelatormentaS01E56/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MsalldelatormentaS01E56/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MsalldelatormentaS01E56/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e57",
+          "slotId": "ep_2986",
+          "title": "Capítulo 57",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpuertoatravsdeunaventanaS01E57/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpuertoatravsdeunaventanaS01E57/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElpuertoatravsdeunaventanaS01E57/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e58",
+          "slotId": "ep_2987",
+          "title": "Capítulo 58",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LavueltaalhogarbajolanieveS01E58/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LavueltaalhogarbajolanieveS01E58/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LavueltaalhogarbajolanieveS01E58/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e59",
+          "slotId": "ep_2988",
+          "title": "Capítulo 59",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MaestradejuegosporundaS01E59/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MaestradejuegosporundaS01E59/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MaestradejuegosporundaS01E59/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e60",
+          "slotId": "ep_2989",
+          "title": "Capítulo 60",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmigoveconelvientoS01E60/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmigoveconelvientoS01E60/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/AmigoveconelvientoS01E60/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e61",
+          "slotId": "ep_2990",
+          "title": "Capítulo 61",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MomentodedecisionesS01E61/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MomentodedecisionesS01E61/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MomentodedecisionesS01E61/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e62",
+          "slotId": "ep_2991",
+          "title": "Capítulo 62",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TrenhaciaunanuevavidaS01E62/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TrenhaciaunanuevavidaS01E62/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TrenhaciaunanuevavidaS01E62/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e63",
+          "slotId": "ep_2992",
+          "title": "Capítulo 63",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandyconoceaunaabuelaenlaciudadS01E63/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandyconoceaunaabuelaenlaciudadS01E63/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CandyconoceaunaabuelaenlaciudadS01E63/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e64",
+          "slotId": "ep_2993",
+          "title": "Capítulo 64",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnangelblancomuytorpeS01E64/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnangelblancomuytorpeS01E64/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnangelblancomuytorpeS01E64/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e65",
+          "slotId": "ep_2994",
+          "title": "Capítulo 65",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TratamientoconunasonrisaS01E65/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TratamientoconunasonrisaS01E65/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TratamientoconunasonrisaS01E65/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e66",
+          "slotId": "ep_2995",
+          "title": "Capítulo 66",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnabueloimaginarioS01E66/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnabueloimaginarioS01E66/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnabueloimaginarioS01E66/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e67",
+          "slotId": "ep_2996",
+          "title": "Capítulo 67",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MienadndeestsS01E67/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MienadndeestsS01E67/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/MienadndeestsS01E67/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e68",
+          "slotId": "ep_2997",
+          "title": "Capítulo 68",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CayeronptalosenprimaveraS01E68/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CayeronptalosenprimaveraS01E68/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CayeronptalosenprimaveraS01E68/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e69",
+          "slotId": "ep_2998",
+          "title": "Capítulo 69",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecuerdosdeunarosablancaS01E69/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecuerdosdeunarosablancaS01E69/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecuerdosdeunarosablancaS01E69/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e70",
+          "slotId": "ep_2999",
+          "title": "Capítulo 70",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanoviamuyjovenS01E70/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanoviamuyjovenS01E70/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanoviamuyjovenS01E70/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e71",
+          "slotId": "ep_3000",
+          "title": "Capítulo 71",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmarineroenlacolinaS01E71/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmarineroenlacolinaS01E71/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnmarineroenlacolinaS01E71/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e72",
+          "slotId": "ep_3001",
+          "title": "Capítulo 72",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnachicaencuartoespecialS01E72/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnachicaencuartoespecialS01E72/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnachicaencuartoespecialS01E72/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e73",
+          "slotId": "ep_3002",
+          "title": "Capítulo 73",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnrumorsobreterryS01E73/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnrumorsobreterryS01E73/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnrumorsobreterryS01E73/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e74",
+          "slotId": "ep_3003",
+          "title": "Capítulo 74",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/HaciaungranhospitaldeciudadS01E74/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/HaciaungranhospitaldeciudadS01E74/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/HaciaungranhospitaldeciudadS01E74/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e75",
+          "slotId": "ep_3004",
+          "title": "Capítulo 75",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaresidenciadelabueloS01E75/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaresidenciadelabueloS01E75/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaresidenciadelabueloS01E75/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e76",
+          "slotId": "ep_3005",
+          "title": "Capítulo 76",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LapequeacasadelrecuerdoS01E76/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LapequeacasadelrecuerdoS01E76/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LapequeacasadelrecuerdoS01E76/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e77",
+          "slotId": "ep_3006",
+          "title": "Capítulo 77",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaenfermeramuyconscienteS01E77/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaenfermeramuyconscienteS01E77/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaenfermeramuyconscienteS01E77/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e78",
+          "slotId": "ep_3007",
+          "title": "Capítulo 78",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LamelodadeterryS01E78/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LamelodadeterryS01E78/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LamelodadeterryS01E78/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e79",
+          "slotId": "ep_3008",
+          "title": "Capítulo 79",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DetrsdelascandilejasS01E79/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DetrsdelascandilejasS01E79/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DetrsdelascandilejasS01E79/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e80",
+          "slotId": "ep_3009",
+          "title": "Capítulo 80",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentromuybreveS01E80/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentromuybreveS01E80/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnencuentromuybreveS01E80/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e81",
+          "slotId": "ep_3010",
+          "title": "Capítulo 81",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TerrysinsurostroS01E81/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TerrysinsurostroS01E81/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/TerrysinsurostroS01E81/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e82",
+          "slotId": "ep_3011",
+          "title": "Capítulo 82",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CrecenfloresenuntiernocoraznS01E82/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CrecenfloresenuntiernocoraznS01E82/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CrecenfloresenuntiernocoraznS01E82/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e83",
+          "slotId": "ep_3012",
+          "title": "Capítulo 83",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnfantasmaquejueganalosnaipesS01E83/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnfantasmaquejueganalosnaipesS01E83/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnfantasmaquejueganalosnaipesS01E83/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e84",
+          "slotId": "ep_3013",
+          "title": "Capítulo 84",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElolordelaguerraeneluniformeS01E84/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElolordelaguerraeneluniformeS01E84/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElolordelaguerraeneluniformeS01E84/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e85",
+          "slotId": "ep_3014",
+          "title": "Capítulo 85",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnafamiliahechadeodioyamorS01E85/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnafamiliahechadeodioyamorS01E85/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnafamiliahechadeodioyamorS01E85/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e86",
+          "slotId": "ep_3015",
+          "title": "Capítulo 86",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElhombrequeperdisupasadoS01E86/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElhombrequeperdisupasadoS01E86/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElhombrequeperdisupasadoS01E86/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e87",
+          "slotId": "ep_3016",
+          "title": "Capítulo 87",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ExmenesparadosS01E87/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ExmenesparadosS01E87/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ExmenesparadosS01E87/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e88",
+          "slotId": "ep_3017",
+          "title": "Capítulo 88",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbuenalicienteS01E88/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbuenalicienteS01E88/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnbuenalicienteS01E88/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e89",
+          "slotId": "ep_3018",
+          "title": "Capítulo 89",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldesaparecidoseoralbertS01E89/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldesaparecidoseoralbertS01E89/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldesaparecidoseoralbertS01E89/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e90",
+          "slotId": "ep_3019",
+          "title": "Capítulo 90",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpequeocastilloS01E90/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpequeocastilloS01E90/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnpequeocastilloS01E90/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e91",
+          "slotId": "ep_3020",
+          "title": "Capítulo 91",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosamantescorazonesS01E91/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosamantescorazonesS01E91/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosamantescorazonesS01E91/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e92",
+          "slotId": "ep_3021",
+          "title": "Capítulo 92",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UntratamientoconshockS01E92/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UntratamientoconshockS01E92/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UntratamientoconshockS01E92/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e93",
+          "slotId": "ep_3022",
+          "title": "Capítulo 93",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CupidoconarrugasS01E93/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CupidoconarrugasS01E93/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/CupidoconarrugasS01E93/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e94",
+          "slotId": "ep_3023",
+          "title": "Capítulo 94",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosparaunviajeS01E94/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosparaunviajeS01E94/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/DosparaunviajeS01E94/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e95",
+          "slotId": "ep_3024",
+          "title": "Capítulo 95",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RivalesS01E95/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RivalesS01E95/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RivalesS01E95/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e96",
+          "slotId": "ep_3025",
+          "title": "Capítulo 96",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/InvitacinconpasajedeidaS01E96/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/InvitacinconpasajedeidaS01E96/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/InvitacinconpasajedeidaS01E96/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e97",
+          "slotId": "ep_3026",
+          "title": "Capítulo 97",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElreencuentroS01E97/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElreencuentroS01E97/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElreencuentroS01E97/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e98",
+          "slotId": "ep_3027",
+          "title": "Capítulo 98",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanochedeestrenoS01E98/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanochedeestrenoS01E98/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnanochedeestrenoS01E98/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e99",
+          "slotId": "ep_3028",
+          "title": "Capítulo 99",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SeparacinenundadenieveS01E99/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SeparacinenundadenieveS01E99/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/SeparacinenundadenieveS01E99/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e100",
+          "slotId": "ep_3029",
+          "title": "Capítulo 100",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaplataformadelaslgrimasS01E100/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaplataformadelaslgrimasS01E100/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaplataformadelaslgrimasS01E100/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e101",
+          "slotId": "ep_3030",
+          "title": "Capítulo 101",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnatisbodememoriaS01E101/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnatisbodememoriaS01E101/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnatisbodememoriaS01E101/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e102",
+          "slotId": "ep_3031",
+          "title": "Capítulo 102",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LacruzenlacolinadeponyS01E102/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LacruzenlacolinadeponyS01E102/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LacruzenlacolinadeponyS01E102/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e103",
+          "slotId": "ep_3032",
+          "title": "Capítulo 103",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnviajelargoydifcilS01E103/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnviajelargoydifcilS01E103/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnviajelargoydifcilS01E103/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e104",
+          "slotId": "ep_3033",
+          "title": "Capítulo 104",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaclnicanonecesitaunngelS01E104/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaclnicanonecesitaunngelS01E104/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnaclnicanonecesitaunngelS01E104/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e105",
+          "slotId": "ep_3034",
+          "title": "Capítulo 105",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElgentilrefugiadoS01E105/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElgentilrefugiadoS01E105/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElgentilrefugiadoS01E105/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e106",
+          "slotId": "ep_3035",
+          "title": "Capítulo 106",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtroasesinoS01E106/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtroasesinoS01E106/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/OtroasesinoS01E106/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e107",
+          "slotId": "ep_3036",
+          "title": "Capítulo 107",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Unmenespecialpara100trabajadoresS01E107/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Unmenespecialpara100trabajadoresS01E107/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/Unmenespecialpara100trabajadoresS01E107/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e108",
+          "slotId": "ep_3037",
+          "title": "Capítulo 108",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FestejosenelvalleS01E108/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FestejosenelvalleS01E108/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/FestejosenelvalleS01E108/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e109",
+          "slotId": "ep_3038",
+          "title": "Capítulo 109",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaslagrimasdeunpequeocowboyS01E109/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaslagrimasdeunpequeocowboyS01E109/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LaslagrimasdeunpequeocowboyS01E109/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e110",
+          "slotId": "ep_3039",
+          "title": "Capítulo 110",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnamorembarazosoS01E110/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnamorembarazosoS01E110/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/UnamorembarazosoS01E110/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e111",
+          "slotId": "ep_3040",
+          "title": "Capítulo 111",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecobrarelpasadoS01E111/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecobrarelpasadoS01E111/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/RecobrarelpasadoS01E111/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e112",
+          "slotId": "ep_3041",
+          "title": "Capítulo 112",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElengaodeneilS01E112/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElengaodeneilS01E112/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/ElengaodeneilS01E112/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e113",
+          "slotId": "ep_3042",
+          "title": "Capítulo 113",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PersonasvienenypersonassevanS01E113/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PersonasvienenypersonassevanS01E113/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/PersonasvienenypersonassevanS01E113/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e114",
+          "slotId": "ep_3043",
+          "title": "Capítulo 114",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldaenquecandyvealbisabueloS01E114/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldaenquecandyvealbisabueloS01E114/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/EldaenquecandyvealbisabueloS01E114/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        },
+        {
+          "id": "s01e115",
+          "slotId": "ep_3044",
+          "title": "Capítulo 115",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasrosasestnenflorenlacolinadeponyfinalS01E115/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasrosasestnenflorenlacolinadeponyfinalS01E115/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/CandyCandy/T1/LasrosasestnenflorenlacolinadeponyfinalS01E115/master.m3u8",
+          "updatedAt": "2026-07-09T22:21:34.666Z"
+        }
+      ],
+      "createdAt": "2026-07-09T22:21:34.666Z",
+      "updatedAt": "2026-07-16T04:32:37.844Z",
+      "addedAt": "2026-07-09T22:21:34.666Z",
+      "addedBy": "carmesi"
+    },
+    {
+      "id": "series_165",
+      "type": "series",
+      "title": "Yamada kun Lv 999 Koi Suru T1",
+      "description": "Akane Kinoshita, una estudiante universitaria, se enfrenta a la peor de las situaciones cuando acaba rompiendo con su novio después de que este tenga una aventura con una mujer que conoció jugando a un juego online.\n\nMientras alivia su estrés arrasando los cotos de caza abiertos de un juego online, Akane le cuenta todo a \"Yamada\", un jugador que conoció por casualidad y que pertenece al mismo gremio.\n\n\"No me importa\", es su cortante respuesta.\n\nPero cuando Akane se hace un cambio de imagen y se une a un evento offline para vengarse de su exnovio, vuelve a oír esas terribles palabras.\n\n¡Y ese fue el inesperado encuentro de Akane con \"Yamada\"！",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-04-02",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 70,
+      "_seasonKey": "yamada kun lv999 koi suru|1",
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_3045",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E01/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E01/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E01/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_3046",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E02/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E02/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E02/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_3047",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E03/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E03/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E03/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_3048",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E04/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E04/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E04/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_3049",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E05/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E05/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E05/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_3050",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E06/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E06/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E06/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e07",
+          "slotId": "ep_3051",
+          "title": "Capítulo 7",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E07/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E07/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E07/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e08",
+          "slotId": "ep_3052",
+          "title": "Capítulo 8",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E08/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E08/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E08/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e09",
+          "slotId": "ep_3053",
+          "title": "Capítulo 9",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E09/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E09/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E09/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e10",
+          "slotId": "ep_3054",
+          "title": "Capítulo 10",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E10/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E10/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E10/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e11",
+          "slotId": "ep_3055",
+          "title": "Capítulo 11",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E11/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E11/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E11/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e12",
+          "slotId": "ep_3056",
+          "title": "Capítulo 12",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E12/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E12/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E12/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        },
+        {
+          "id": "s01e13",
+          "slotId": "ep_3057",
+          "title": "Capítulo 13",
+          "links": {
+            "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E13/master.m3u8",
+            "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E13/master.m3u8"
+          },
+          "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Yamada kun Lv999 Koi Suru/T1/YamadaKunLv999KoiSuruS01E13/master.m3u8",
+          "updatedAt": "2026-07-15T02:03:09.190Z"
+        }
+      ],
+      "createdAt": "2026-07-15T02:03:09.190Z",
+      "updatedAt": "2026-07-15T02:03:09.190Z",
+      "addedAt": "2026-07-15T02:03:09.190Z",
       "addedBy": "seanf"
     }
   ]
