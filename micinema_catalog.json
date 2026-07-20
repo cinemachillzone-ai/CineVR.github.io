@@ -667,7 +667,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 74
+   "gridIndex": 74,
+   "cast": [
+    "Jun'ya Enoki",
+    "Adam McArthur",
+    "Adam McArthur",
+    "Adam McArthur",
+    "Yuma Uchida",
+    "Yuma Uchida"
+   ],
+   "director": "Shouta Goshozono, Sunghoo Park",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -763,7 +773,17 @@
    ],
    "atlas": "C",
    "gridIndex": 75,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Hiddleston",
+    "Owen Wilson",
+    "Owen Wilson",
+    "Sophia Di Martino",
+    "Wunmi Mosaku",
+    "Wunmi Mosaku"
+   ],
+   "director": "Kate Herron, Justin Benson",
+   "recommended": "82%"
   },
   {
    "type": "series",
@@ -2335,7 +2355,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 76
+   "gridIndex": 76,
+   "cast": [
+    "Frankie Muniz",
+    "Bryan Cranston",
+    "Justin Berfield",
+    "Erik Per Sullivan",
+    "Christopher Masterson",
+    "Jane Kaczmarek"
+   ],
+   "director": "Todd Holland, Jeff Melman",
+   "recommended": "82%"
   },
   {
    "type": "series",
@@ -2451,7 +2481,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 77
+   "gridIndex": 77,
+   "cast": [
+    "Jenna Ortega",
+    "Jenna Ortega",
+    "Hunter Doohan",
+    "Emma Myers",
+    "Joy Sunday",
+    "Georgie Farmer"
+   ],
+   "director": "Tim Burton, James Marshall",
+   "recommended": "80%"
   },
   {
    "type": "series",
@@ -3159,7 +3199,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 78
+   "gridIndex": 78,
+   "cast": [
+    "Hynden Walch",
+    "Hynden Walch",
+    "Hynden Walch",
+    "Greg Cipes",
+    "Greg Cipes",
+    "Greg Cipes"
+   ],
+   "director": "Michael Chang, Alex Soto",
+   "recommended": "79%"
   },
   {
    "type": "series",
@@ -3749,7 +3799,17 @@
    ],
    "atlas": "C",
    "gridIndex": 79,
-   "saga": "Kimetsu no Yaiba"
+   "saga": "Kimetsu no Yaiba",
+   "cast": [
+    "Natsuki Hanae",
+    "Zach Aguilar",
+    "Abby Trott",
+    "Abby Trott",
+    "Abby Trott",
+    "Akari Kitô"
+   ],
+   "director": "Haruo Sotozaki, Shin'ya Shimomura",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -4368,7 +4428,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 81
+   "gridIndex": 81,
+   "cast": [
+    "Matt Jones",
+    "Charlie Schlatter",
+    "Danny Cooksey",
+    "Danny Cooksey",
+    "John DiMaggio",
+    "Brian Stepanek"
+   ],
+   "director": "Christian Larocque, Chris Savino",
+   "recommended": "68%"
   },
   {
    "type": "series",
@@ -5001,7 +5071,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 82
+   "gridIndex": 82,
+   "cast": [
+    "Debi Derryberry",
+    "Debi Derryberry",
+    "Debi Derryberry",
+    "Rob Paulsen",
+    "Rob Paulsen",
+    "Rob Paulsen"
+   ],
+   "director": "Keith Alcorn, Mike Gasaway",
+   "recommended": "67%"
   },
   {
    "type": "series",
@@ -5281,7 +5361,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 83
+   "gridIndex": 83,
+   "cast": [
+    "Jonah Scott",
+    "Chikahiro Kobayashi",
+    "Chikahiro Kobayashi",
+    "Yuki Ono",
+    "Sayaka Senbongi",
+    "Sayaka Senbongi"
+   ],
+   "director": "Shin'ichi Matsumi, Yasuhiro Geshi",
+   "recommended": "76%"
   },
   {
    "type": "series",
@@ -5453,7 +5543,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 84
+   "gridIndex": 84,
+   "cast": [
+    "Yui Ishikawa",
+    "Erika Harlacher",
+    "Sanshi",
+    "Raissa Bueno",
+    "Aya Endô",
+    "Reba Buhr"
+   ],
+   "director": "Haruka Fujita, Taichi Ishidate",
+   "recommended": "84%"
   },
   {
    "type": "series",
@@ -5561,7 +5661,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 85
+   "gridIndex": 85,
+   "cast": [
+    "Naomi Watts",
+    "Bobby Cannavale",
+    "Mia Farrow",
+    "Henry Hunter Hall",
+    "Terry Kinney",
+    "Isabel Gravitt"
+   ],
+   "director": "Paris Barclay, Jennifer Lynch",
+   "recommended": "65%"
   },
   {
    "type": "series",
@@ -6232,7 +6342,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 86
+   "gridIndex": 86,
+   "cast": [
+    "Bryan Cranston",
+    "Aaron Paul",
+    "Anna Gunn",
+    "Betsy Brandt",
+    "Dean Norris",
+    "RJ Mitte"
+   ],
+   "director": "Michelle MacLaren, Adam Bernstein",
+   "recommended": "95%"
   },
   {
    "type": "series",
@@ -8689,7 +8809,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 87
+   "gridIndex": 87,
+   "cast": [
+    "John DiMaggio",
+    "John DiMaggio",
+    "John DiMaggio",
+    "Jeremy Shada",
+    "Jeremy Shada",
+    "Jeremy Shada"
+   ],
+   "director": "Bong Hee Han, Larry Leichliter",
+   "recommended": "87%"
   },
   {
    "type": "series",
@@ -10172,7 +10302,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 88
+   "gridIndex": 88,
+   "cast": [
+    "Dan Russell",
+    "Dan Russell",
+    "Dan Russell",
+    "Teresa Gallagher",
+    "Teresa Gallagher",
+    "Teresa Gallagher"
+   ],
+   "director": "Mic Graves, Antoine Perez",
+   "recommended": "84%"
   },
   {
    "type": "series",
@@ -10330,7 +10470,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 89
+   "gridIndex": 89,
+   "cast": [
+    "Yûichirô Umehara",
+    "Yui Ogura",
+    "Nao Tôyama",
+    "Yûichi Nakamura",
+    "Tomokazu Sugita",
+    "Yuka Iguchi"
+   ],
+   "director": "Takaharu Ozaki, Misato Takada",
+   "recommended": "73%"
   },
   {
    "type": "series",
@@ -10566,7 +10716,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 90
+   "gridIndex": 90,
+   "cast": [
+    "Nathan Fillion",
+    "Alyssa Diaz",
+    "Richard T. Jones",
+    "Melissa O'Neil",
+    "Eric Winter",
+    "Mekia Cox"
+   ],
+   "director": "Bill Roe, Tori Garrett",
+   "recommended": "80%"
   },
   {
    "type": "series",
@@ -10694,7 +10854,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 91
+   "gridIndex": 91,
+   "cast": [
+    "Kentarô Tone",
+    "Kôki Uchiyama",
+    "Momoka Terasawa",
+    "Akari Kitô",
+    "KENN",
+    "Aoi Yûki"
+   ],
+   "director": "Hiroyuki Imaishi, Kai Ikarashi",
+   "recommended": "83%"
   },
   {
    "type": "series",
@@ -11562,7 +11732,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 93
+   "gridIndex": 93,
+   "cast": [
+    "Bryan Cranston",
+    "Justin Berfield",
+    "Christopher Masterson",
+    "Keeley Karsten",
+    "Vaughan Murrae",
+    "Kiana Madeira"
+   ],
+   "director": "Ken Kwapis",
+   "recommended": "68%"
   },
   {
    "type": "series",
@@ -12023,7 +12203,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 94
+   "gridIndex": 94,
+   "cast": [
+    "Steve Blum",
+    "Kirk Thornton",
+    "Kirk Thornton",
+    "Kirk Thornton",
+    "Jun'ichi Suwabe",
+    "Wataru Takagi"
+   ],
+   "director": "Noriyuki Abe, Akihiro Enomoto",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -14249,7 +14439,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 95
+   "gridIndex": 95,
+   "cast": [
+    "J.G. Quintel",
+    "J.G. Quintel",
+    "J.G. Quintel",
+    "William Salyers",
+    "William Salyers",
+    "William Salyers"
+   ],
+   "director": "John Davis Infantino, Sean Szeles",
+   "recommended": "86%"
   },
   {
    "type": "series",
@@ -14507,7 +14707,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 96
+   "gridIndex": 96,
+   "cast": [
+    "Brandon Jay McLaren",
+    "Brandon Jay McLaren",
+    "Chris Violette",
+    "Chris Violette",
+    "Chris Violette",
+    "Matt Sadowski"
+   ],
+   "director": "John Laing, Paul Grinder",
+   "recommended": "69%"
   },
   {
    "type": "series",
@@ -14649,7 +14859,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 97
+   "gridIndex": 97,
+   "cast": [
+    "Miyu Irino",
+    "Ai Kayano",
+    "Haruka Tomatsu",
+    "Takahiro Sakurai",
+    "Saori Hayami",
+    "Takayuki Kondô"
+   ],
+   "director": "Tatsuyuki Nagai, Patrick Seitz",
+   "recommended": "81%"
   },
   {
    "type": "series",
@@ -14811,7 +15031,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 98
+   "gridIndex": 98,
+   "cast": [
+    "Nobunaga Shimazaki",
+    "Haruka Tomatsu",
+    "Rina Hidaka",
+    "Yukari Tamura",
+    "Kana Asumi",
+    "Kaori Ishihara"
+   ],
+   "director": "Tatsuyuki Nagai, Katsushi Sakurabi",
+   "recommended": "70%"
   },
   {
    "type": "series",
@@ -14934,7 +15164,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 99
+   "gridIndex": 99,
+   "cast": [
+    "Kevin Alejandro",
+    "Kevin Alejandro",
+    "Hailee Steinfeld",
+    "Ella Purnell",
+    "Ella Purnell",
+    "Katie Leung"
+   ],
+   "director": "Pascal Charrue, Arnaud Delord",
+   "recommended": "90%"
   },
   {
    "type": "series",
@@ -15335,7 +15575,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 100
+   "gridIndex": 100,
+   "cast": [
+    "Adam Carolla",
+    "Adam Carolla",
+    "Jess Harnell",
+    "Jess Harnell",
+    "Jess Harnell",
+    "Abbey McBride"
+   ],
+   "director": "Peter Avanzino, Dwayne Carey-Hill",
+   "recommended": "71%"
   },
   {
    "type": "series",
@@ -15487,7 +15737,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 101
+   "gridIndex": 101,
+   "cast": [
+    "Kikunosuke Toya",
+    "Ryan Colt Levy",
+    "Tomori Kusunoki",
+    "Shôgo Sakata",
+    "Suzie Yeung",
+    "Reagan Murdock"
+   ],
+   "director": "Ryû Nakayama, Masato Nakazono",
+   "recommended": "83%"
   },
   {
    "type": "series",
@@ -16300,7 +16560,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 102
+   "gridIndex": 102,
+   "cast": [
+    "Ben Diskin",
+    "Ben Diskin",
+    "Ben Diskin",
+    "Dee Bradley Baker",
+    "Dee Bradley Baker",
+    "Dee Bradley Baker"
+   ],
+   "director": "Tom Warburton",
+   "recommended": "72%"
   },
   {
    "type": "series",
@@ -18451,7 +18721,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 103
+   "gridIndex": 103,
+   "cast": [
+    "Josh Radnor",
+    "Jason Segel",
+    "Cobie Smulders",
+    "Neil Patrick Harris",
+    "Alyson Hannigan",
+    "Lyndsy Fonseca"
+   ],
+   "director": "Pamela Fryman, Rob Greenberg",
+   "recommended": "83%"
   },
   {
    "type": "series",
@@ -18984,7 +19264,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 104
+   "gridIndex": 104,
+   "cast": [
+    "David Kaufman",
+    "David Kaufman",
+    "David Kaufman",
+    "Grey DeLisle",
+    "Grey DeLisle",
+    "Grey DeLisle"
+   ],
+   "director": "Butch Hartman, Wincat Alcala",
+   "recommended": "72%"
   },
   {
    "type": "series",
@@ -19117,7 +19407,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 105
+   "gridIndex": 105,
+   "cast": [
+    "Elijah Wood",
+    "Elijah Wood",
+    "Collin Dean",
+    "Collin Dean",
+    "Melanie Lynskey",
+    "Christopher Lloyd"
+   ],
+   "director": "Nate Cash",
+   "recommended": "87%"
   },
   {
    "type": "series",
@@ -19815,7 +20115,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 106
+   "gridIndex": 106,
+   "cast": [
+    "Tracy Grandstaff",
+    "Wendy Hoopes",
+    "Wendy Hoopes",
+    "Wendy Hoopes",
+    "Julian Rebolledo",
+    "John Worth Lynn Jr."
+   ],
+   "director": "Karen Disher, Guy Moore",
+   "recommended": "81%"
   },
   {
    "type": "series",
@@ -21513,7 +21823,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 108
+   "gridIndex": 108,
+   "cast": [
+    "Gong Yoo",
+    "Kim Go-eun",
+    "Lee Dong-wook",
+    "Lee Dong-wook",
+    "Yoo In-na",
+    "Yook Sung-jae"
+   ],
+   "director": "Lee Eung-bok",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -22880,7 +23200,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 109
+   "gridIndex": 109,
+   "cast": [
+    "Matt Hill",
+    "Sam Vincent",
+    "Tony Sampson",
+    "Keenan Christensen",
+    "Kathleen Barr",
+    "Kathleen Barr"
+   ],
+   "director": "Danny Antonucci, Scott Underwood",
+   "recommended": "74%"
   },
   {
    "type": "series",
@@ -23318,7 +23648,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 110
+   "gridIndex": 110,
+   "cast": [
+    "Jason Ritter",
+    "Jason Ritter",
+    "Jason Ritter",
+    "Alex Hirsch",
+    "Alex Hirsch",
+    "Alex Hirsch"
+   ],
+   "director": "Joe Pitt, John Aoshima",
+   "recommended": "89%"
   },
   {
    "type": "series",
@@ -24210,7 +24550,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 111
+   "gridIndex": 111,
+   "cast": [
+    "Chris Parnell",
+    "Chris Parnell",
+    "Chris Parnell",
+    "Spencer Grammer",
+    "Spencer Grammer",
+    "Spencer Grammer"
+   ],
+   "director": "Wes Archer, Jacob Hair",
+   "recommended": "90%"
   },
   {
    "type": "series",
@@ -25137,7 +25487,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 114
+   "gridIndex": 114,
+   "cast": [
+    "Kappei Yamaguchi",
+    "Kappei Yamaguchi",
+    "Kôichi Yamadera",
+    "Kôichi Yamadera",
+    "Kôichi Yamadera",
+    "Megumi Hayashibara"
+   ],
+   "director": "Junji Nishimura, Takeshi Mori",
+   "recommended": "81%"
   },
   {
    "type": "series",
@@ -25251,7 +25611,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 115
+   "gridIndex": 115,
+   "cast": [
+    "Lizzie Freeman",
+    "Lizzie Freeman",
+    "Alex Rochon",
+    "Michael Kovach",
+    "Michael Kovach",
+    "Amanda Hufford"
+   ],
+   "director": "Gooseworx",
+   "recommended": "82%"
   },
   {
    "type": "series",
@@ -25364,7 +25734,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 116
+   "gridIndex": 116,
+   "cast": [
+    "Brandon Rogers",
+    "Brandon Rogers",
+    "Brandon Rogers",
+    "Richard Steven Horvitz",
+    "Richard Steven Horvitz",
+    "Richard Steven Horvitz"
+   ],
+   "director": "Vivienne Medrano",
+   "recommended": "80%"
   },
   {
    "type": "series",
@@ -25477,7 +25857,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 117
+   "gridIndex": 117,
+   "cast": [
+    "Steven Yeun",
+    "Steven Yeun",
+    "Steven Yeun",
+    "J.K. Simmons",
+    "J.K. Simmons",
+    "Sandra Oh"
+   ],
+   "director": "Dan Duncan, Shaun O'Neil",
+   "recommended": "87%"
   },
   {
    "type": "series",
@@ -25591,7 +25981,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 118
+   "gridIndex": 118,
+   "cast": [
+    "Karl Urban",
+    "Jack Quaid",
+    "Antony Starr",
+    "Erin Moriarty",
+    "Erin Moriarty",
+    "Jessie T. Usher"
+   ],
+   "director": "Philip Sgriccia, Karen Gaviola",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -25755,7 +26155,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 119
+   "gridIndex": 119,
+   "cast": [
+    "Sanae Kobayashi",
+    "Sanae Kobayashi",
+    "Chihiro Suzuki",
+    "Mamiko Noto",
+    "Sam Saletta",
+    "Kira Vincent-Davis"
+   ],
+   "director": "Mamoru Kanbe, Kôbun Shizuno",
+   "recommended": "78%"
   },
   {
    "type": "series",
@@ -26056,7 +26466,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 121
+   "gridIndex": 121,
+   "cast": [
+    "Noah Wyle",
+    "Patrick Ball",
+    "Katherine LaNasa",
+    "Fiona Dourif",
+    "Taylor Dearden",
+    "Isa Briones"
+   ],
+   "director": "Damian Marcano, Amanda Marsalis",
+   "recommended": "89%"
   },
   {
    "type": "series",
@@ -26307,7 +26727,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 122
+   "gridIndex": 122,
+   "cast": [
+    "Hugh Laurie",
+    "Omar Epps",
+    "Robert Sean Leonard",
+    "Jesse Spencer",
+    "Lisa Edelstein",
+    "Bobbin Bergstrom"
+   ],
+   "director": "Greg Yaitanes, Deran Sarafian",
+   "recommended": "87%"
   },
   {
    "type": "series",
@@ -26400,7 +26830,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 123
+   "gridIndex": 123,
+   "cast": [
+    "Kurumi Mamiya",
+    "Reina Ueda",
+    "Reina Ueda",
+    "Konomi Kohara",
+    "Anna Nagase",
+    "Colleen Clinkenbeard"
+   ],
+   "director": "Shin'ya Iino, Moaang",
+   "recommended": "87%"
   },
   {
    "type": "series",
@@ -27031,7 +27471,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 126
+   "gridIndex": 126,
+   "cast": [
+    "J. Michael Tatum",
+    "J. Michael Tatum",
+    "Brina Palencia",
+    "Brina Palencia",
+    "Michael C. Pizzuto",
+    "Monica Rial"
+   ],
+   "director": "Ian Sinclair, Naokatsu Tsuda",
+   "recommended": "76%"
   },
   {
    "type": "series",
@@ -28076,7 +28526,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 129
+   "gridIndex": 129,
+   "cast": [
+    "Mamoru Miyano",
+    "Brad Swaile",
+    "Vincent Tong",
+    "Vincent Tong",
+    "Ryô Naitô",
+    "Ryô Naitô"
+   ],
+   "director": "Tetsurō Araki, Kei Tsunematsu",
+   "recommended": "89%"
   },
   {
    "type": "series",
@@ -28604,7 +29064,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 130
+   "gridIndex": 130,
+   "cast": [
+    "Yûsuke Kobayashi",
+    "Manami Numakura",
+    "Gen Satô",
+    "Kengo Kawanishi",
+    "Kengo Kawanishi",
+    "Karin Takahashi"
+   ],
+   "director": "Shin'ya Iino, Jerry Jewell",
+   "recommended": "81%"
   },
   {
    "type": "series",
@@ -28912,7 +29382,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 132
+   "gridIndex": 132,
+   "cast": [
+    "Ella Purnell",
+    "Aaron Moten",
+    "Walton Goggins",
+    "Walton Goggins",
+    "Moises Arias",
+    "Frances Turner"
+   ],
+   "director": "Frederick E.O. Toye, Jonathan Nolan",
+   "recommended": "83%"
   },
   {
    "type": "series",
@@ -29066,7 +29546,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 133
+   "gridIndex": 133,
+   "cast": [
+    "Ricco Fajardo",
+    "Dawn M. Bennett",
+    "Dawn M. Bennett",
+    "Aaron Roberts",
+    "Subaru Kimura",
+    "Wataru Hatano"
+   ],
+   "director": "Ai Yoshimura",
+   "recommended": "57%"
   },
   {
    "type": "series",
@@ -29205,7 +29695,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 134
+   "gridIndex": 134,
+   "cast": [
+    "Saori Hayami",
+    "Saori Hayami",
+    "Daiki Yamashita",
+    "Kôki Uchiyama",
+    "Daisuke Ono",
+    "Ayahi Takagaki"
+   ],
+   "director": "Hideya Takahashi, Akira Mano",
+   "recommended": "62%"
   },
   {
    "type": "series",
@@ -29290,7 +29790,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 135
+   "gridIndex": 135,
+   "cast": [
+    "Dario Yazbek Bernal",
+    "Diana Bovio",
+    "Regina Blandón",
+    "Adrian Ladron",
+    "Verónica Bravo",
+    "Antonio Arochi"
+   ],
+   "director": "Catalina Aguilar Mastretta, Santiago Limón",
+   "recommended": "57%"
   },
   {
    "type": "series",
@@ -29438,7 +29948,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 136
+   "gridIndex": 136,
+   "cast": [
+    "Kaitlin Olson",
+    "Daniel Sunjata",
+    "Javicia Leslie",
+    "Deniz Akdeniz",
+    "Amirah J",
+    "Matthew Lamb"
+   ],
+   "director": "James Roday Rodriguez, Nancy Hower",
+   "recommended": "76%"
   },
   {
    "type": "series",
@@ -29556,7 +30076,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 137
+   "gridIndex": 137,
+   "cast": [
+    "Erika Henningsen",
+    "Stephanie Beatriz",
+    "Stephanie Beatriz",
+    "Blake Roman",
+    "Blake Roman",
+    "Blake Roman"
+   ],
+   "director": "Vivienne Medrano",
+   "recommended": "76%"
   },
   {
    "type": "series",
@@ -29677,7 +30207,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 138
+   "gridIndex": 138,
+   "cast": [
+    "Kim Mu-yeol",
+    "Lee Sung-min",
+    "Jin Ki-joo",
+    "Pyo Ji-hoon",
+    "Ha-young",
+    "Lee Bong-joon"
+   ],
+   "director": "Hong Jong-chan",
+   "recommended": "85%"
   },
   {
    "type": "series",
@@ -29827,7 +30367,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 139
+   "gridIndex": 139,
+   "cast": [
+    "Yumiko Nakajima",
+    "Yumiko Nakajima",
+    "Kôichi Tôchika",
+    "Kenji Hamada",
+    "Mai Gotô",
+    "Mai Gotô"
+   ],
+   "director": "Shin Ônuma",
+   "recommended": "75%"
   },
   {
    "type": "series",
@@ -29979,7 +30529,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 140
+   "gridIndex": 140,
+   "cast": [
+    "Natsumi Yanase",
+    "Monica Rial",
+    "Hiroko Taguchi",
+    "Junko Okada",
+    "Hiro Shimono",
+    "Motoki Takagi"
+   ],
+   "director": "Shin Ônuma, Shûji Miyazaki",
+   "recommended": "74%"
   },
   {
    "type": "series",
@@ -30134,7 +30694,16 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 142
+   "gridIndex": 142,
+   "cast": [
+    "Ashley Johnson",
+    "Randall Park",
+    "Elijah Wood",
+    "Liv Hewson",
+    "Phil LaMarr",
+    "Debra Wilson"
+   ],
+   "recommended": "72%"
   },
   {
    "type": "series",
@@ -30443,7 +31012,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 144
+   "gridIndex": 144,
+   "cast": [
+    "Reina Kondô",
+    "Kengo Takanashi",
+    "Miyu Tomita",
+    "Yoshimasa Hosoya",
+    "Yû Kobayashi",
+    "Wataru Takagi"
+   ],
+   "director": "Yūichirō Hayashi, Nobuyoshi Arai",
+   "recommended": "81%"
   },
   {
    "type": "series",
@@ -30941,7 +31520,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 145
+   "gridIndex": 145,
+   "cast": [
+    "Vic Perrin",
+    "Randi Kiger",
+    "Kazuko Sugiyama",
+    "Kôhei Miyauchi",
+    "Kôhei Miyauchi",
+    "Noriko Ohara"
+   ],
+   "director": "Isao Takahata",
+   "recommended": "75%"
   },
   {
    "type": "series",
@@ -32006,7 +32595,17 @@
     }
    ],
    "atlas": "C",
-   "gridIndex": 146
+   "gridIndex": 146,
+   "cast": [
+    "Minori Matsushima",
+    "Kazuhiko Inoue",
+    "Makio Inoue",
+    "Taeko Nakanishi",
+    "Taeko Nakanishi",
+    "Taeko Nakanishi"
+   ],
+   "director": "Tetsuo Imazawa, Hiroshi Shidara",
+   "recommended": "80%"
   },
   {
    "type": "series",
@@ -32187,7 +32786,17 @@
    "gridIndex": 0,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BabyDriver/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 6760
+   "tokenDuration": 6760,
+   "cast": [
+    "Ansel Elgort",
+    "Jon Bernthal",
+    "Jon Hamm",
+    "Eiza González",
+    "Micah Howard",
+    "Lily James"
+   ],
+   "director": "Edgar Wright",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -32220,7 +32829,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanComienza/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 8403,
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Christian Bale",
+    "Christian Bale",
+    "Michael Caine",
+    "Ken Watanabe",
+    "Liam Neeson",
+    "Katie Holmes"
+   ],
+   "director": "Christopher Nolan",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -32252,7 +32871,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deadpool/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 6487,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Ryan Reynolds",
+    "Ryan Reynolds",
+    "Morena Baccarin",
+    "T.J. Miller",
+    "Ed Skrein",
+    "Karan Soni"
+   ],
+   "director": "Tim Miller",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -32284,7 +32913,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Deadpool2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 8040,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Ryan Reynolds",
+    "Ryan Reynolds",
+    "Ryan Reynolds",
+    "Josh Brolin",
+    "Morena Baccarin",
+    "Julian Dennison"
+   ],
+   "director": "David Leitch",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -32317,7 +32956,17 @@
    "gridIndex": 4,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/drive/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 6025
+   "tokenDuration": 6025,
+   "cast": [
+    "Ryan Gosling",
+    "Carey Mulligan",
+    "Bryan Cranston",
+    "Albert Brooks",
+    "Oscar Isaac",
+    "Christina Hendricks"
+   ],
+   "director": "Nicolas Winding Refn",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -32350,7 +32999,17 @@
    "gridIndex": 5,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ArmyOfThieves/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 7775
+   "tokenDuration": 7775,
+   "cast": [
+    "Matthias Schweighöfer",
+    "Nathalie Emmanuel",
+    "Ruby O. Fee",
+    "Stuart Martin",
+    "Guz Khan",
+    "Jonathan Cohen"
+   ],
+   "director": "Matthias Schweighöfer",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -32382,7 +33041,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BatmanElCaballeroDeLaNocheAsciende/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 9873,
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Christian Bale",
+    "Tom Hardy",
+    "Anne Hathaway",
+    "Gary Oldman",
+    "Joseph Gordon-Levitt",
+    "Marion Cotillard"
+   ],
+   "director": "Christopher Nolan",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -32416,7 +33085,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuardiansOfTheGalaxyVol3/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 9002,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Chris Pratt",
+    "Chris Pratt",
+    "Chukwudi Iwuji",
+    "Bradley Cooper",
+    "Pom Klementieff",
+    "Dave Bautista"
+   ],
+   "director": "James Gunn",
+   "recommended": "79%"
   },
   {
    "type": "movie",
@@ -32450,7 +33129,17 @@
    "gridIndex": 8,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Interestelar/master.m3u8",
    "updatedAt": "2026-05-28T03:12:50.406Z",
-   "tokenDuration": 10143
+   "tokenDuration": 10143,
+   "cast": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain",
+    "Mackenzie Foy",
+    "Ellen Burstyn",
+    "John Lithgow"
+   ],
+   "director": "Christopher Nolan",
+   "recommended": "87%"
   },
   {
    "type": "movie",
@@ -32484,7 +33173,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWick/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 6073,
-   "saga": "John Wick"
+   "saga": "John Wick",
+   "cast": [
+    "Keanu Reeves",
+    "Michael Nyqvist",
+    "Alfie Allen",
+    "Willem Dafoe",
+    "Dean Winters",
+    "Adrianne Palicki"
+   ],
+   "director": "Chad Stahelski",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -32518,7 +33217,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/joker/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 7309,
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Joaquin Phoenix",
+    "Robert De Niro",
+    "Zazie Beetz",
+    "Frances Conroy",
+    "Brett Cullen",
+    "Shea Whigham"
+   ],
+   "director": "Todd Phillips",
+   "recommended": "83%"
   },
   {
    "type": "movie",
@@ -32552,7 +33261,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JohnWickChapter4/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 10158,
-   "saga": "John Wick"
+   "saga": "John Wick",
+   "cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "George Georgiou",
+    "Lance Reddick",
+    "Clancy Brown",
+    "Ian McShane"
+   ],
+   "director": "Chad Stahelski",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -32586,7 +33305,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LigaDeLaJusticia/master.m3u8",
    "updatedAt": "2026-05-28T02:53:12.883Z",
    "tokenDuration": 8046,
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Ben Affleck",
+    "Ben Affleck",
+    "Gal Gadot",
+    "Gal Gadot",
+    "Jason Momoa",
+    "Jason Momoa"
+   ],
+   "director": "Zack Snyder",
+   "recommended": "60%"
   },
   {
    "type": "movie",
@@ -32618,7 +33347,17 @@
    "master_url": "",
    "updatedAt": "2026-07-02T22:22:42.572Z",
    "tokenDuration": 8890,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Holland",
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal",
+    "Jake Gyllenhaal",
+    "Marisa Tomei"
+   ],
+   "director": "Jon Watts",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -32652,7 +33391,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarvelSpidermanRegresoACasa/master.m3u8",
    "updatedAt": "2026-05-28T02:53:24.040Z",
    "tokenDuration": 8007,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Holland",
+    "Tom Holland",
+    "Michael Keaton",
+    "Michael Keaton",
+    "Robert Downey Jr.",
+    "Robert Downey Jr."
+   ],
+   "director": "Jon Watts",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -32686,7 +33435,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Piratasdelcaribe/master.m3u8",
    "updatedAt": "2026-05-28T02:53:34.601Z",
    "tokenDuration": 8591,
-   "saga": "Piratas del Caribe"
+   "saga": "Piratas del Caribe",
+   "cast": [
+    "Johnny Depp",
+    "Geoffrey Rush",
+    "Orlando Bloom",
+    "Keira Knightley",
+    "Jack Davenport",
+    "Jonathan Pryce"
+   ],
+   "director": "Gore Verbinski",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -32720,7 +33479,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PiratesOfTheCaribbeanAtWorldSEnd/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 10111,
-   "saga": "Piratas del Caribe"
+   "saga": "Piratas del Caribe",
+   "cast": [
+    "Johnny Depp",
+    "Orlando Bloom",
+    "Keira Knightley",
+    "Geoffrey Rush",
+    "Jack Davenport",
+    "Bill Nighy"
+   ],
+   "director": "Gore Verbinski",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -32753,7 +33522,17 @@
    "gridIndex": 17,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PulpFiction/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 9261
+   "tokenDuration": 9261,
+   "cast": [
+    "John Travolta",
+    "Uma Thurman",
+    "Samuel L. Jackson",
+    "Bruce Willis",
+    "Tim Roth",
+    "Amanda Plummer"
+   ],
+   "director": "Quentin Tarantino",
+   "recommended": "88%"
   },
   {
    "type": "movie",
@@ -32787,7 +33566,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoYFurioso/master.m3u8",
    "updatedAt": "2026-05-28T02:53:44.398Z",
    "tokenDuration": 6416,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Rick Yune",
+    "Chad Lindberg"
+   ],
+   "director": "Rob Cohen",
+   "recommended": "68%"
   },
   {
    "type": "movie",
@@ -32821,7 +33610,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso02/master.m3u8",
    "updatedAt": "2026-05-28T03:15:25.291Z",
    "tokenDuration": 6109,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Paul Walker",
+    "Tyrese Gibson",
+    "Cole Hauser",
+    "Eva Mendes",
+    "Ludacris",
+    "Thom Barry"
+   ],
+   "director": "John Singleton",
+   "recommended": "60%"
   },
   {
    "type": "movie",
@@ -32855,7 +33654,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso03RetoEnTokio/master.m3u8",
    "updatedAt": "2026-05-28T02:53:54.561Z",
    "tokenDuration": 6255,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Lucas Black",
+    "Zachery Ty Bryan",
+    "Shad Moss",
+    "Damien Marzette",
+    "Trula M. Marcus",
+    "Brandon Brendel"
+   ],
+   "director": "Justin Lin",
+   "recommended": "61%"
   },
   {
    "type": "movie",
@@ -32889,7 +33698,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso04/master.m3u8",
    "updatedAt": "2026-05-28T03:15:43.048Z",
    "tokenDuration": 6416,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "John Ortiz",
+    "Laz Alonso"
+   ],
+   "director": "Justin Lin",
+   "recommended": "65%"
   },
   {
    "type": "movie",
@@ -32923,7 +33742,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso05/master.m3u8",
    "updatedAt": "2026-05-28T02:54:05.128Z",
    "tokenDuration": 7821,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Dwayne Johnson",
+    "Jordana Brewster",
+    "Tyrese Gibson",
+    "Ludacris"
+   ],
+   "director": "Justin Lin",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -32957,7 +33786,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RapidoFurioso06/master.m3u8",
    "updatedAt": "2026-05-28T02:54:15.180Z",
    "tokenDuration": 7807,
-   "saga": "Rápidos y Furiosos"
+   "saga": "Rápidos y Furiosos",
+   "cast": [
+    "Vin Diesel",
+    "Paul Walker",
+    "Dwayne Johnson",
+    "Michelle Rodriguez",
+    "Jordana Brewster",
+    "Tyrese Gibson"
+   ],
+   "director": "Justin Lin",
+   "recommended": "70%"
   },
   {
    "type": "movie",
@@ -32990,7 +33829,17 @@
    "gridIndex": 24,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ReadyPlayerone/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 8395
+   "tokenDuration": 8395,
+   "cast": [
+    "Tye Sheridan",
+    "Tye Sheridan",
+    "Olivia Cooke",
+    "Olivia Cooke",
+    "Ben Mendelsohn",
+    "Lena Waithe"
+   ],
+   "director": "Steven Spielberg",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -33024,7 +33873,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwars/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 7485,
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Felicity Jones",
+    "Diego Luna",
+    "Alan Tudyk",
+    "Donnie Yen",
+    "Wen Jiang",
+    "Ben Mendelsohn"
+   ],
+   "director": "Gareth Edwards",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -33056,7 +33915,17 @@
    "gridIndex": 26,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Runner2049/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 9808
+   "tokenDuration": 9808,
+   "cast": [
+    "Harrison Ford",
+    "Ryan Gosling",
+    "Ana de Armas",
+    "Dave Bautista",
+    "Robin Wright",
+    "Mark Arnold"
+   ],
+   "director": "Denis Villeneuve",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -33090,7 +33959,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SorprendenteHombreArana/master.m3u8",
    "updatedAt": "2026-05-28T02:54:26.143Z",
    "tokenDuration": 8178,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Andrew Garfield",
+    "Andrew Garfield",
+    "Emma Stone",
+    "Rhys Ifans",
+    "Rhys Ifans",
+    "Irrfan Khan"
+   ],
+   "director": "Marc Webb",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -33124,7 +34003,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpiderManNoWayHome/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
    "tokenDuration": 8890,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Holland",
+    "Tom Holland",
+    "Zendaya",
+    "Benedict Cumberbatch",
+    "Jacob Batalon",
+    "Jon Favreau"
+   ],
+   "director": "Jon Watts",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -33157,7 +34046,17 @@
    "gridIndex": 29,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.230Z",
-   "tokenDuration": 6555
+   "tokenDuration": 6555,
+   "cast": [
+    "Neve Campbell",
+    "Courteney Cox",
+    "Isabel May",
+    "Jasmin Savoy Brown",
+    "Mason Gooding",
+    "Roger L. Jackson"
+   ],
+   "director": "Kevin Williamson",
+   "recommended": "55%"
   },
   {
    "type": "movie",
@@ -33191,7 +34090,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6467,
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Ginnifer Goodwin",
+    "Jason Bateman",
+    "Ke Huy Quan",
+    "Fortune Feimster",
+    "Andy Samberg",
+    "David Strathairn"
+   ],
+   "director": "Jared Bush, Byron Howard",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -33225,7 +34134,17 @@
    "gridIndex": 31,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 11829
+   "tokenDuration": 11829,
+   "cast": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver",
+    "Stephen Lang",
+    "Oona Chaplin",
+    "Kate Winslet"
+   ],
+   "director": "James Cameron",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -33260,7 +34179,17 @@
    "gridIndex": 32,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 4629
+   "tokenDuration": 4629,
+   "cast": [
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Emily Watson",
+    "Tracey Ullman",
+    "Tracey Ullman",
+    "Paul Whitehouse"
+   ],
+   "director": "Tim Burton, Mike Johnson",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -33292,7 +34221,17 @@
    "gridIndex": 33,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta2014/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 8596
+   "tokenDuration": 8596,
+   "cast": [
+    "Damián Alcázar",
+    "Alfonso Herrera",
+    "Joaquín Cosio",
+    "Osvaldo Benavides",
+    "Silvia Navarro",
+    "Flavio Medina"
+   ],
+   "director": "Luis Estrada",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -33322,7 +34261,17 @@
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 34,
-   "master_url": "qq"
+   "master_url": "qq",
+   "cast": [
+    "Chris Pratt",
+    "Rebecca Ferguson",
+    "Kali Reis",
+    "Annabelle Wallis",
+    "Chris Sullivan",
+    "Kylie Rogers"
+   ],
+   "director": "Timur Bekmambetov",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -33353,7 +34302,17 @@
    "atlas": "A",
    "gridIndex": 35,
    "master_url": "qaq",
-   "saga": "Exterminio"
+   "saga": "Exterminio",
+   "cast": [
+    "Jodie Comer",
+    "Aaron Taylor-Johnson",
+    "Ralph Fiennes",
+    "Rocco Haynes",
+    "Haley Flaherty",
+    "Harriet Taylor"
+   ],
+   "director": "Danny Boyle",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -33382,7 +34341,17 @@
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 36,
-   "master_url": "qwdq"
+   "master_url": "qwdq",
+   "cast": [
+    "Zo In-sung",
+    "Park Jeong-min",
+    "Park Hae-joon",
+    "Shin Sae-Kyeong",
+    "Jeong Eu-gene",
+    "Pierce Conran"
+   ],
+   "director": "Ryoo Seung-wan",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -33418,7 +34387,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 13687,
-   "saga": "El Señor de los Anillos"
+   "saga": "El Señor de los Anillos",
+   "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Orlando Bloom",
+    "Sean Bean",
+    "Alan Howard",
+    "Noel Appleby"
+   ],
+   "director": "Peter Jackson",
+   "recommended": "89%"
   },
   {
    "type": "movie",
@@ -33452,7 +34431,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLasDosTorres2002/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 14121,
-   "saga": "El Señor de los Anillos"
+   "saga": "El Señor de los Anillos",
+   "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen",
+    "Orlando Bloom",
+    "Bruce Allpress",
+    "Sean Astin"
+   ],
+   "director": "Peter Jackson",
+   "recommended": "88%"
   },
   {
    "type": "movie",
@@ -33486,7 +34475,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosElRetornoDelRey2003/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 15786,
-   "saga": "El Señor de los Anillos"
+   "saga": "El Señor de los Anillos",
+   "cast": [
+    "Elijah Wood",
+    "Viggo Mortensen",
+    "Ian McKellen",
+    "Orlando Bloom",
+    "Noel Appleby",
+    "Ali Astin"
+   ],
+   "director": "Peter Jackson",
+   "recommended": "90%"
   },
   {
    "type": "movie",
@@ -33519,7 +34518,17 @@
    "gridIndex": 40,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPerfectoAsesino1994/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6577
+   "tokenDuration": 6577,
+   "cast": [
+    "Jean Reno",
+    "Gary Oldman",
+    "Natalie Portman",
+    "Danny Aiello",
+    "Peter Appel",
+    "Willi One Blood"
+   ],
+   "director": "Luc Besson",
+   "recommended": "85%"
   },
   {
    "type": "movie",
@@ -33554,7 +34563,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElIncreibleCastilloVagabundo2004/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 7196,
-   "saga": "Studio Ghibli"
+   "saga": "Studio Ghibli",
+   "cast": [
+    "Chieko Baishō",
+    "Takuya Kimura",
+    "Tatsuya Gashûin",
+    "Akihiro Miwa",
+    "Ryûnosuke Kamiki",
+    "Mitsunori Isaki"
+   ],
+   "director": "Hayao Miyazaki",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -33588,7 +34607,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElViajeDeChihiro2001/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 7517,
-   "saga": "Studio Ghibli"
+   "saga": "Studio Ghibli",
+   "cast": [
+    "Daveigh Chase",
+    "Miyu Irino",
+    "Rumi Hiiragi",
+    "Mari Natsuki",
+    "Mari Natsuki",
+    "Takashi Naitô"
+   ],
+   "director": "Hayao Miyazaki",
+   "recommended": "86%"
   },
   {
    "type": "movie",
@@ -33621,7 +34650,17 @@
    "gridIndex": 43,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Akira1988/master.m3u8",
    "updatedAt": "2026-05-28T02:54:36.403Z",
-   "tokenDuration": 7478
+   "tokenDuration": 7478,
+   "cast": [
+    "Mitsuo Iwata",
+    "Nozomu Sasaki",
+    "Mami Koyama",
+    "Tesshô Genda",
+    "Hiroshi Ôtake",
+    "Kôichi Kitamura"
+   ],
+   "director": "Katsuhiro Ōtomo",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -33654,7 +34693,17 @@
    "gridIndex": 44,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/vDeVenganza2006/master.m3u8",
    "updatedAt": "2026-06-05T10:55:30.194Z",
-   "tokenDuration": 7952
+   "tokenDuration": 7952,
+   "cast": [
+    "Hugo Weaving",
+    "Natalie Portman",
+    "Rupert Graves",
+    "Stephen Rea",
+    "Stephen Fry",
+    "John Hurt"
+   ],
+   "director": "James McTeigue",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -33712,7 +34761,17 @@
    "gridIndex": 46,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/goodBoy2022/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 4575
+   "tokenDuration": 4575,
+   "cast": [
+    "Gard Løkke",
+    "Katrine Lovise Øpstad Fredriksen",
+    "Nicolai Narvesen Lied",
+    "Amalie Willoch Njaastad",
+    "Viljar Bøe",
+    "Marie Waade Grønning"
+   ],
+   "director": "Viljar Bøe",
+   "recommended": "56%"
   },
   {
    "type": "movie",
@@ -33742,7 +34801,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosREvolucion2011/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6297,
-   "saga": "El Planeta de los Simios"
+   "saga": "El Planeta de los Simios",
+   "cast": [
+    "James Franco",
+    "Andy Serkis",
+    "Freida Pinto",
+    "Karin Konoval",
+    "Karin Konoval",
+    "Terry Notary"
+   ],
+   "director": "Rupert Wyatt",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -33772,7 +34841,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosConfrontacion2014/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 7825,
-   "saga": "El Planeta de los Simios"
+   "saga": "El Planeta de los Simios",
+   "cast": [
+    "Gary Oldman",
+    "Keri Russell",
+    "Andy Serkis",
+    "Kodi Smit-McPhee",
+    "Jason Clarke",
+    "Toby Kebbell"
+   ],
+   "director": "Matt Reeves",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -33802,7 +34881,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimios3LaGuerra2017/master.m3u8",
    "updatedAt": "2026-05-28T02:54:56.669Z",
    "tokenDuration": 8410,
-   "saga": "El Planeta de los Simios"
+   "saga": "El Planeta de los Simios",
+   "cast": [
+    "Andy Serkis",
+    "Woody Harrelson",
+    "Steve Zahn",
+    "Karin Konoval",
+    "Amiah Miller",
+    "Terry Notary"
+   ],
+   "director": "Matt Reeves",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -33832,7 +34921,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosNuevoReino2024/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 8681,
-   "saga": "El Planeta de los Simios"
+   "saga": "El Planeta de los Simios",
+   "cast": [
+    "Owen Teague",
+    "Freya Allan",
+    "Freya Allan",
+    "Kevin Durand",
+    "Peter Macon",
+    "William H. Macy"
+   ],
+   "director": "Wes Ball",
+   "recommended": "68%"
   },
   {
    "type": "movie",
@@ -33861,7 +34960,17 @@
    "gridIndex": 51,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elResplandor1980/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 8624
+   "tokenDuration": 8624,
+   "cast": [
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd",
+    "Scatman Crothers",
+    "Barry Nelson",
+    "Philip Stone"
+   ],
+   "director": "Stanley Kubrick",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -33951,7 +35060,17 @@
    "gridIndex": 54,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd1/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5335
+   "tokenDuration": 5335,
+   "cast": [
+    "Topol",
+    "Norma Crane",
+    "Leonard Frey",
+    "Molly Picon",
+    "Paul Mann",
+    "Rosalind Harris"
+   ],
+   "director": "Norman Jewison",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -33980,7 +35099,17 @@
    "gridIndex": 55,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5074
+   "tokenDuration": 5074,
+   "cast": [
+    "Topol",
+    "Norma Crane",
+    "Leonard Frey",
+    "Molly Picon",
+    "Paul Mann",
+    "Rosalind Harris"
+   ],
+   "director": "Norman Jewison",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -34010,7 +35139,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8",
    "updatedAt": "2026-05-28T02:55:15.475Z",
    "tokenDuration": 5501,
-   "saga": "Nadie"
+   "saga": "Nadie",
+   "cast": [
+    "Bob Odenkirk",
+    "Aleksey Serebryakov",
+    "Connie Nielsen",
+    "Christopher Lloyd",
+    "Michael Ironside",
+    "Colin Salmon"
+   ],
+   "director": "Ilya Naishuller",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -34039,7 +35178,17 @@
    "gridIndex": 57,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sinNovedadEnElFrente/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 8929
+   "tokenDuration": 8929,
+   "cast": [
+    "Felix Kammerer",
+    "Albrecht Schuch",
+    "Aaron Hilmer",
+    "Moritz Klaus",
+    "Adrian Grünewald",
+    "Edin Hasanovic"
+   ],
+   "director": "Edward Berger",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -34068,7 +35217,17 @@
    "gridIndex": 58,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaParejaExplosiva1998/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5870
+   "tokenDuration": 5870,
+   "cast": [
+    "Jackie Chan",
+    "Chris Tucker",
+    "Ken Leung",
+    "Tom Wilkinson",
+    "Tom Wilkinson",
+    "Tzi Ma"
+   ],
+   "director": "Brett Ratner",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -34098,7 +35257,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nadie22025/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5389,
-   "saga": "Nadie"
+   "saga": "Nadie",
+   "cast": [
+    "Bob Odenkirk",
+    "Connie Nielsen",
+    "Christopher Lloyd",
+    "John Ortiz",
+    "RZA",
+    "Sharon Stone"
+   ],
+   "director": "Timo Tjahjanto",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -34127,7 +35296,17 @@
    "gridIndex": 60,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/contraataque2025/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5130
+   "tokenDuration": 5130,
+   "cast": [
+    "Luis Alberti",
+    "Noé Hernández",
+    "Leonardo Alonso",
+    "Luis Curiel",
+    "David Calderón León",
+    "Guillermo Nava"
+   ],
+   "director": "Chava Cartas",
+   "recommended": "60%"
   },
   {
    "type": "movie",
@@ -34156,7 +35335,17 @@
    "gridIndex": 61,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8",
    "updatedAt": "2026-05-28T02:55:25.991Z",
-   "tokenDuration": 8078
+   "tokenDuration": 8078,
+   "cast": [
+    "Brad Pitt",
+    "Shia LaBeouf",
+    "Logan Lerman",
+    "Michael Peña",
+    "Jon Bernthal",
+    "Jim Parrack"
+   ],
+   "director": "David Ayer",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -34185,7 +35374,17 @@
    "gridIndex": 62,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPacto2023/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7384
+   "tokenDuration": 7384,
+   "cast": [
+    "Jake Gyllenhaal",
+    "Dar Salim",
+    "Sean Sagar",
+    "Jason Wong",
+    "Rhys Yates",
+    "Christian Ochoa Lavernia"
+   ],
+   "director": "Guy Ritchie",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -34214,7 +35413,17 @@
    "gridIndex": 63,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8",
    "updatedAt": "2026-05-28T02:55:36.820Z",
-   "tokenDuration": 5482
+   "tokenDuration": 5482,
+   "cast": [
+    "Jorma Tommila",
+    "Aksel Hennie",
+    "Jack Doolan",
+    "Mimosa Willamo",
+    "Onni Tommila",
+    "Tatu Sinisalo"
+   ],
+   "director": "Jalmari Helander",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -34246,7 +35455,17 @@
    "gridIndex": 64,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8",
    "updatedAt": "2026-05-28T02:55:47.935Z",
-   "tokenDuration": 6736
+   "tokenDuration": 6736,
+   "cast": [
+    "Mark Wahlberg",
+    "Mila Kunis",
+    "Seth MacFarlane",
+    "Joel McHale",
+    "Giovanni Ribisi",
+    "Patrick Warburton"
+   ],
+   "director": "Seth MacFarlane",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -34279,7 +35498,17 @@
    "gridIndex": 65,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/togetherJuntosHastaLaMuerte2025/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6097
+   "tokenDuration": 6097,
+   "cast": [
+    "Dave Franco",
+    "Alison Brie",
+    "Damon Herriman",
+    "Mia Morrissey",
+    "Karl Richmond",
+    "Jack Kenny"
+   ],
+   "director": "Michael Shanks",
+   "recommended": "67%"
   },
   {
    "type": "movie",
@@ -34313,7 +35542,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaPiedraFilosofal/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 9531,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Richard Harris",
+    "Maggie Smith",
+    "Robbie Coltrane"
+   ],
+   "director": "Chris Columbus",
+   "recommended": "77%"
   },
   {
    "type": "movie",
@@ -34347,7 +35586,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HARRYPotterylacamarasecreta/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 10464,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson",
+    "Richard Harris",
+    "Richard Griffiths",
+    "Fiona Shaw"
+   ],
+   "director": "Chris Columbus",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -34382,7 +35631,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElPrisioneroDeAzkaban/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 8502,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Richard Griffiths",
+    "Pam Ferris",
+    "Fiona Shaw"
+   ],
+   "director": "Alfonso Cuarón",
+   "recommended": "79%"
   },
   {
    "type": "movie",
@@ -34416,7 +35675,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElCalizDeFuego/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 9425,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Eric Sykes",
+    "Timothy Spall",
+    "David Tennant"
+   ],
+   "director": "Mike Newell",
+   "recommended": "77%"
   },
   {
    "type": "movie",
@@ -34450,7 +35719,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaOrdenDelFenix/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 8294,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Brendan Gleeson",
+    "Harry Melling",
+    "Jason Boyd"
+   ],
+   "director": "David Yates",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -34484,7 +35763,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElMisterioDelPrincipe/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 9211,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Michael Gambon",
+    "Dave Legeno",
+    "Elarica Johnson"
+   ],
+   "director": "David Yates",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -34518,7 +35807,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8",
    "updatedAt": "2026-05-28T02:55:57.785Z",
    "tokenDuration": 8765,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Bill Nighy",
+    "Richard Griffiths",
+    "Harry Melling"
+   ],
+   "director": "David Yates",
+   "recommended": "77%"
   },
   {
    "type": "movie",
@@ -34552,7 +35851,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte2/master.m3u8",
    "updatedAt": "2026-05-28T02:56:08.619Z",
    "tokenDuration": 7827,
-   "saga": "Harry Potter"
+   "saga": "Harry Potter",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint",
+    "Michael Gambon",
+    "Ralph Fiennes",
+    "Alan Rickman"
+   ],
+   "director": "David Yates",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -34585,7 +35894,17 @@
    "gridIndex": 74,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
    "updatedAt": "2026-05-28T02:56:19.290Z",
-   "tokenDuration": 7784
+   "tokenDuration": 7784,
+   "cast": [
+    "Miyu Irino",
+    "Saori Hayami",
+    "Aoi Yûki",
+    "Kenshô Ono",
+    "Yûki Kaneko",
+    "Yui Ishikawa"
+   ],
+   "director": "Naoko Yamada",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -34619,7 +35938,16 @@
    "gridIndex": 75,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
    "updatedAt": "2026-05-28T02:56:29.742Z",
-   "tokenDuration": 5932
+   "tokenDuration": 5932,
+   "cast": [
+    "Eric Nam",
+    "Dave Bautista",
+    "Jessica Matten",
+    "Román Zaragoza",
+    "Steven Yeun",
+    "Dionne Quan"
+   ],
+   "director": "Lauren Montgomery, Steve Ahn"
   },
   {
    "type": "movie",
@@ -34652,7 +35980,17 @@
    "gridIndex": 76,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/13RuletaRusa/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5434
+   "tokenDuration": 5434,
+   "cast": [
+    "Jared Padalecki",
+    "Amanda Righetti",
+    "Derek Mears",
+    "Danielle Panabaker",
+    "Travis Van Winkle",
+    "Aaron Yoo"
+   ],
+   "director": "Marcus Nispel",
+   "recommended": "55%"
   },
   {
    "type": "movie",
@@ -34686,7 +36024,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6876,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Pedro Pascal",
+    "Pedro Pascal",
+    "Vanessa Kirby",
+    "Vanessa Kirby",
+    "Ebon Moss-Bachrach",
+    "Ebon Moss-Bachrach"
+   ],
+   "director": "Matt Shakman",
+   "recommended": "68%"
   },
   {
    "type": "movie",
@@ -34719,7 +36067,17 @@
    "gridIndex": 78,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deNocheConElDiablo2024/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5568
+   "tokenDuration": 5568,
+   "cast": [
+    "David Dastmalchian",
+    "Laura Gordon",
+    "Ian Bliss",
+    "Fayssal Bazzi",
+    "Ingrid Torelli",
+    "Rhys Auteri"
+   ],
+   "director": "Cameron Cairnes, Colin Cairnes",
+   "recommended": "70%"
   },
   {
    "type": "movie",
@@ -34817,7 +36175,17 @@
    "gridIndex": 81,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EquipoDemolicion/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7457
+   "tokenDuration": 7457,
+   "cast": [
+    "Dave Bautista",
+    "Jason Momoa",
+    "Temuera Morrison",
+    "Morena Baccarin",
+    "Roimata Fox",
+    "Frankie Adams"
+   ],
+   "director": "Ángel Manuel Soto",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -34850,7 +36218,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ExterminioElTemploDeHuesos/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6561,
-   "saga": "Exterminio"
+   "saga": "Exterminio",
+   "cast": [
+    "Jack O'Connell",
+    "Alfie Williams",
+    "Connor Newall",
+    "Erin Kellyman",
+    "Maura Bird",
+    "Ghazi Al Ruffai"
+   ],
+   "director": "Nia DaCosta",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -34916,7 +36294,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
    "updatedAt": "2026-06-15T01:22:45.417Z",
    "tokenDuration": 8575,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Robert Downey Jr.",
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Chris Evans",
+    "Scarlett Johansson",
+    "Scarlett Johansson"
+   ],
+   "director": "Joss Whedon",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -34950,7 +36338,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
    "updatedAt": "2026-06-15T01:20:27.676Z",
    "tokenDuration": 8575,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Robert Downey Jr.",
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Mark Ruffalo"
+   ],
+   "director": "Joss Whedon",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -34984,7 +36382,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 8962,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Robert Downey Jr.",
+    "Robert Downey Jr.",
+    "Chris Hemsworth",
+    "Mark Ruffalo",
+    "Mark Ruffalo",
+    "Chris Evans"
+   ],
+   "director": "Anthony Russo, Joe Russo",
+   "recommended": "84%"
   },
   {
    "id": "movie_088",
@@ -35018,7 +36426,17 @@
    "updatedAt": "2026-06-16T02:01:57.417Z",
    "addedAt": "2026-06-10T19:48:13.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Anthony Gonzalez",
+    "Gael García Bernal",
+    "Benjamin Bratt",
+    "Alanna Ubach",
+    "Renée Victor",
+    "Jaime Camil"
+   ],
+   "director": "Lee Unkrich, Adrian Molina",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -35050,7 +36468,17 @@
    "gridIndex": 88,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaEmpleada/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7882
+   "tokenDuration": 7882,
+   "cast": [
+    "Sydney Sweeney",
+    "Amanda Seyfried",
+    "Brandon Sklenar",
+    "Peter Colandro",
+    "Don DiPetta",
+    "Lamar Baucom-Slaughter"
+   ],
+   "director": "Paul Feig",
+   "recommended": "67%"
   },
   {
    "type": "movie",
@@ -35083,7 +36511,17 @@
    "gridIndex": 89,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinPiedad/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5968
+   "tokenDuration": 5968,
+   "cast": [
+    "Chris Pratt",
+    "Rebecca Ferguson",
+    "Kali Reis",
+    "Annabelle Wallis",
+    "Chris Sullivan",
+    "Kylie Rogers"
+   ],
+   "director": "Timur Bekmambetov",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -35117,7 +36555,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thor/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6891,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Chris Hemsworth",
+    "Anthony Hopkins",
+    "Natalie Portman",
+    "Tom Hiddleston",
+    "Stellan Skarsgård",
+    "Kat Dennings"
+   ],
+   "director": "Kenneth Branagh",
+   "recommended": "70%"
   },
   {
    "type": "movie",
@@ -35151,7 +36599,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thunderbolts20251080P-Dual-Lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 7603,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Florence Pugh",
+    "Sebastian Stan",
+    "Julia Louis-Dreyfus",
+    "Lewis Pullman",
+    "David Harbour",
+    "Wyatt Russell"
+   ],
+   "director": "Jake Schreier",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -35183,7 +36641,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/venom/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6729,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Hardy",
+    "Tom Hardy",
+    "Michelle Williams",
+    "Riz Ahmed",
+    "Riz Ahmed",
+    "Scott Haze"
+   ],
+   "director": "Ruben Fleischer",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -35216,7 +36684,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Venom2/master.m3u8",
    "updatedAt": "2026-05-28T02:57:01.856Z",
    "tokenDuration": 5854,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tom Hardy",
+    "Tom Hardy",
+    "Woody Harrelson",
+    "Woody Harrelson",
+    "Michelle Williams",
+    "Naomie Harris"
+   ],
+   "director": "Andy Serkis",
+   "recommended": "59%"
   },
   {
    "type": "movie",
@@ -35250,7 +36728,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/WakandaForEver/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 9679,
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Letitia Wright",
+    "Lupita Nyong'o",
+    "Danai Gurira",
+    "Winston Duke",
+    "Angela Bassett",
+    "Tenoch Huerta"
+   ],
+   "director": "Ryan Coogler",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -35284,7 +36772,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6519,
-   "saga": "Transformers"
+   "saga": "Transformers",
+   "cast": [
+    "Shia LaBeouf",
+    "Megan Fox",
+    "Josh Duhamel",
+    "Tyrese Gibson",
+    "Rachael Taylor",
+    "Anthony Anderson"
+   ],
+   "director": "Michael Bay",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -35318,7 +36816,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6519,
-   "saga": "Transformers"
+   "saga": "Transformers",
+   "cast": [
+    "Shia LaBeouf",
+    "Rosie Huntington-Whiteley",
+    "Tyrese Gibson",
+    "Josh Duhamel",
+    "John Turturro",
+    "Patrick Dempsey"
+   ],
+   "director": "Michael Bay",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -35352,7 +36860,17 @@
    "gridIndex": 97,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MiNovioEsUnZombie/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5866
+   "tokenDuration": 5866,
+   "cast": [
+    "Nicholas Hoult",
+    "Teresa Palmer",
+    "John Malkovich",
+    "Lio Tipton",
+    "Rob Corddry",
+    "Dave Franco"
+   ],
+   "director": "Jonathan Levine",
+   "recommended": "68%"
   },
   {
    "type": "movie",
@@ -35385,7 +36903,17 @@
    "gridIndex": 98,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMunecoDeArcilla1080plLat2025/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6645
+   "tokenDuration": 6645,
+   "cast": [
+    "Yo Yang",
+    "Cecilia Choi",
+    "Derek Chang",
+    "Tracy Chou",
+    "Hsueh-Fu Kuo",
+    "Wei-min Chen"
+   ],
+   "director": "Meng-Ju Shieh",
+   "recommended": "57%"
   },
   {
    "type": "movie",
@@ -35418,7 +36946,17 @@
    "gridIndex": 99,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenstein2025lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 9146
+   "tokenDuration": 9146,
+   "cast": [
+    "Oscar Isaac",
+    "Jacob Elordi",
+    "Christoph Waltz",
+    "Mia Goth",
+    "Mia Goth",
+    "Felix Kammerer"
+   ],
+   "director": "Guillermo del Toro",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -35450,7 +36988,17 @@
    "gridIndex": 100,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unallamadaperdida2008lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5206
+   "tokenDuration": 5206,
+   "cast": [
+    "Edward Burns",
+    "Shannyn Sossamon",
+    "Ana Claudia Talancón",
+    "Ray Wise",
+    "Azura Skye",
+    "Johnny Lewis"
+   ],
+   "director": "Eric Valette",
+   "recommended": "41%"
   },
   {
    "type": "movie",
@@ -35484,7 +37032,17 @@
    "gridIndex": 101,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GodzillaMinusOne2023DVDRip-Lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7478
+   "tokenDuration": 7478,
+   "cast": [
+    "Minami Hamabe",
+    "Ryûnosuke Kamiki",
+    "Yuki Yamada",
+    "Sakura Andō",
+    "Hidetaka Yoshioka",
+    "Munetaka Aoki"
+   ],
+   "director": "Takashi Yamazaki",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -35513,7 +37071,17 @@
    "gridIndex": 102,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
    "updatedAt": "2026-05-28T02:57:17.469Z",
-   "tokenDuration": 5586
+   "tokenDuration": 5586,
+   "cast": [
+    "Dee Wallace",
+    "Daniel Hugh Kelly",
+    "Danny Pintauro",
+    "Christopher Stone",
+    "Ed Lauter",
+    "Kaiulani Lee"
+   ],
+   "director": "Lewis Teague",
+   "recommended": "61%"
   },
   {
    "type": "movie",
@@ -35545,7 +37113,17 @@
    "gridIndex": 103,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elTelefonoNegro2022lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6203
+   "tokenDuration": 6203,
+   "cast": [
+    "Mason Thames",
+    "Madeleine McGraw",
+    "Ethan Hawke",
+    "Jeremy Davies",
+    "E. Roger Mitchell",
+    "Troy Rudeseal"
+   ],
+   "director": "Scott Derrickson",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -35576,7 +37154,17 @@
    "atlas": "A",
    "gridIndex": 104,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RelatosSalvajes2014/master.m3u8",
-   "updatedAt": "2026-05-27T19:11:32.231Z"
+   "updatedAt": "2026-05-27T19:11:32.231Z",
+   "cast": [
+    "Darío Grandinetti",
+    "María Marull",
+    "Mónica Villa",
+    "Diego Starosta",
+    "Marcelo Frasca",
+    "Lucila Mangone"
+   ],
+   "director": "Damián Szifron",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -35642,7 +37230,17 @@
    "gridIndex": 106,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ELAMaNeCeRDELOsMUeRtOs2004lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5999
+   "tokenDuration": 5999,
+   "cast": [
+    "Sarah Polley",
+    "Ving Rhames",
+    "Mekhi Phifer",
+    "Jake Weber",
+    "Ty Burrell",
+    "Michael Kelly"
+   ],
+   "director": "Zack Snyder",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -35674,7 +37272,17 @@
    "gridIndex": 107,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Maleficio2022Lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6688
+   "tokenDuration": 6688,
+   "cast": [
+    "Hsuan-yen Tsai",
+    "Sin-Ting Huang",
+    "Ying-Hsuan Kao",
+    "Sean Lin",
+    "Sean Lin",
+    "Ching-Yu Wen"
+   ],
+   "director": "Kevin Ko",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -35706,7 +37314,17 @@
    "gridIndex": 108,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBebeDeRosemary1968lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 8223
+   "tokenDuration": 8223,
+   "cast": [
+    "Mia Farrow",
+    "John Cassavetes",
+    "Ruth Gordon",
+    "Sidney Blackmer",
+    "Maurice Evans",
+    "Ralph Bellamy"
+   ],
+   "director": "Roman Polanski",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -35774,7 +37392,17 @@
    "gridIndex": 110,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CoralineYLaPuertaSecreta2009lat/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6037
+   "tokenDuration": 6037,
+   "cast": [
+    "Dakota Fanning",
+    "Teri Hatcher",
+    "Teri Hatcher",
+    "Teri Hatcher",
+    "John Hodgman",
+    "John Hodgman"
+   ],
+   "director": "Henry Selick",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -35809,7 +37437,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaNahuala2007/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5061,
-   "saga": "Las Leyendas"
+   "saga": "Las Leyendas",
+   "cast": [
+    "Andrés Bustamante",
+    "Jesús Ochoa",
+    "Rafael Inclán",
+    "Martha Higareda",
+    "Manuel 'Loco' Valdés",
+    "Ofelia Medina"
+   ],
+   "director": "Ricardo Arnaiz",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -35842,7 +37480,17 @@
    "gridIndex": 112,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nosferatu2024/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7955
+   "tokenDuration": 7955,
+   "cast": [
+    "Lily-Rose Depp",
+    "Nicholas Hoult",
+    "Bill Skarsgård",
+    "Aaron Taylor-Johnson",
+    "Willem Dafoe",
+    "Emma Corrin"
+   ],
+   "director": "Robert Eggers",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -35876,7 +37524,17 @@
    "gridIndex": 113,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MonsterHighAmorMonstruoso/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 2761
+   "tokenDuration": 2761,
+   "cast": [
+    "Laura Bailey",
+    "Ogie Banks",
+    "Cam Clarke",
+    "Cam Clarke",
+    "Cam Clarke",
+    "Debi Derryberry"
+   ],
+   "director": "Dustin Mckenzie, Steve Sacks",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -35911,7 +37569,17 @@
    "gridIndex": 114,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibroDeLaVida/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5724
+   "tokenDuration": 5724,
+   "cast": [
+    "Diego Luna",
+    "Zoe Saldaña",
+    "Channing Tatum",
+    "Ron Perlman",
+    "Christina Applegate",
+    "Ice Cube"
+   ],
+   "director": "Jorge R. Gutiérrez",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -35945,7 +37613,17 @@
    "gridIndex": 115,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElQuintoElemento1997/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7596
+   "tokenDuration": 7596,
+   "cast": [
+    "Bruce Willis",
+    "Milla Jovovich",
+    "Gary Oldman",
+    "Ian Holm",
+    "Chris Tucker",
+    "Luke Perry"
+   ],
+   "director": "Luc Besson",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -35980,7 +37658,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EscuadronSuicida2016/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 8073,
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Will Smith",
+    "Jared Leto",
+    "Margot Robbie",
+    "Viola Davis",
+    "Jaime FitzSimons",
+    "Ike Barinholtz"
+   ],
+   "director": "David Ayer",
+   "recommended": "59%"
   },
   {
    "type": "movie",
@@ -36088,7 +37776,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDelChupacabras2016/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 4960,
-   "saga": "Las Leyendas"
+   "saga": "Las Leyendas",
+   "cast": [
+    "Emilio Treviño",
+    "Gabriela Guzmán",
+    "Germán Fabregat",
+    "Carlo Vázquez",
+    "Benny Emmanuel",
+    "Crystal Lopez"
+   ],
+   "director": "Alberto Rodriguez",
+   "recommended": "55%"
   },
   {
    "type": "movie",
@@ -36121,7 +37819,17 @@
    "gridIndex": 120,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarcianosAlAtaque1996/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6346
+   "tokenDuration": 6346,
+   "cast": [
+    "Jack Nicholson",
+    "Jack Nicholson",
+    "Pierce Brosnan",
+    "Sarah Jessica Parker",
+    "Annette Bening",
+    "Glenn Close"
+   ],
+   "director": "Tim Burton",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -36190,7 +37898,17 @@
    "gridIndex": 122,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPaisDeLasMaravillas2010/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6514
+   "tokenDuration": 6514,
+   "cast": [
+    "Mia Wasikowska",
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Anne Hathaway",
+    "Crispin Glover",
+    "Matt Lucas"
+   ],
+   "director": "Tim Burton",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -36223,7 +37941,17 @@
    "gridIndex": 123,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Beetlejuice1988/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 5527
+   "tokenDuration": 5527,
+   "cast": [
+    "Alec Baldwin",
+    "Geena Davis",
+    "Michael Keaton",
+    "Annie McEnroe",
+    "Maurice Page",
+    "Hugo Stanger"
+   ],
+   "director": "Tim Burton",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -36257,7 +37985,17 @@
    "gridIndex": 124,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
    "updatedAt": "2026-07-02T22:16:10.539Z",
-   "tokenDuration": 6923
+   "tokenDuration": 6923,
+   "cast": [
+    "Johnny Depp",
+    "Freddie Highmore",
+    "David Kelly",
+    "Helena Bonham Carter",
+    "Noah Taylor",
+    "Missi Pyle"
+   ],
+   "director": "Tim Burton",
+   "recommended": "67%"
   },
   {
    "type": "movie",
@@ -36291,7 +38029,17 @@
    "gridIndex": 125,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJovenManosDeTijera1990/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6302
+   "tokenDuration": 6302,
+   "cast": [
+    "Johnny Depp",
+    "Winona Ryder",
+    "Dianne Wiest",
+    "Anthony Michael Hall",
+    "Kathy Baker",
+    "Robert Oliveri"
+   ],
+   "director": "Tim Burton",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -36327,7 +38075,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenweenie2012/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5215,
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Winona Ryder",
+    "Catherine O'Hara",
+    "Catherine O'Hara",
+    "Catherine O'Hara",
+    "Martin Short",
+    "Martin Short"
+   ],
+   "director": "Tim Burton",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -36361,7 +38119,17 @@
    "gridIndex": 127,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MissPeregrineYLosNinosPeculiares2016/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7616
+   "tokenDuration": 7616,
+   "cast": [
+    "Eva Green",
+    "Asa Butterfield",
+    "Samuel L. Jackson",
+    "Judi Dench",
+    "Rupert Everett",
+    "Allison Janney"
+   ],
+   "director": "Tim Burton",
+   "recommended": "67%"
   },
   {
    "type": "movie",
@@ -36395,7 +38163,17 @@
    "gridIndex": 128,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuerraMundialZ2013/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7384
+   "tokenDuration": 7384,
+   "cast": [
+    "Brad Pitt",
+    "Mireille Enos",
+    "Daniella Kertesz",
+    "James Badge Dale",
+    "Ludi Boeken",
+    "Matthew Fox"
+   ],
+   "director": "Marc Forster",
+   "recommended": "70%"
   },
   {
    "type": "movie",
@@ -36566,7 +38344,17 @@
    "gridIndex": 133,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBuenoElMaloYElFeo1966/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 10723
+   "tokenDuration": 10723,
+   "cast": [
+    "Clint Eastwood",
+    "Eli Wallach",
+    "Lee Van Cleef",
+    "Lee Van Cleef",
+    "Aldo Giuffrè",
+    "Luigi Pistilli"
+   ],
+   "director": "Sergio Leone",
+   "recommended": "88%"
   },
   {
    "type": "movie",
@@ -36600,7 +38388,17 @@
    "gridIndex": 134,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8",
    "updatedAt": "2026-05-28T02:57:27.705Z",
-   "tokenDuration": 6982
+   "tokenDuration": 6982,
+   "cast": [
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Alan Rickman",
+    "Timothy Spall",
+    "Sacha Baron Cohen",
+    "Jamie Campbell Bower"
+   ],
+   "director": "Tim Burton",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -36633,7 +38431,17 @@
    "gridIndex": 135,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laterminal/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7775
+   "tokenDuration": 7775,
+   "cast": [
+    "Tom Hanks",
+    "Catherine Zeta-Jones",
+    "Chi McBride",
+    "Stanley Tucci",
+    "Diego Luna",
+    "Barry Shabaka Henley"
+   ],
+   "director": "Steven Spielberg",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -36668,7 +38476,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elzorroyelsabueso/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 4973,
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Mickey Rooney",
+    "Kurt Russell",
+    "Pearl Bailey",
+    "Jack Albertson",
+    "Sandy Duncan",
+    "Jeanette Nolan"
+   ],
+   "director": "Ted Berman, Richard Rich",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -36701,7 +38519,17 @@
    "gridIndex": 137,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lahermanastrafea/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 6553
+   "tokenDuration": 6553,
+   "cast": [
+    "Lea Myren",
+    "Ane Dahl Torp",
+    "Thea Sofie Loch Næss",
+    "Flo Fagerli",
+    "Isac Calmroth",
+    "Malte Gårdinger"
+   ],
+   "director": "Emilie Blichfeldt",
+   "recommended": "70%"
   },
   {
    "type": "movie",
@@ -36735,7 +38563,17 @@
    "gridIndex": 138,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLaberintoDelFauno/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 7132
+   "tokenDuration": 7132,
+   "cast": [
+    "Ivana Baquero",
+    "Ariadna Gil",
+    "Sergi López",
+    "Maribel Verdú",
+    "Doug Jones",
+    "Doug Jones"
+   ],
+   "director": "Guillermo del Toro",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -36770,7 +38608,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5383,
-   "saga": "Hotel Transylvania"
+   "saga": "Hotel Transylvania",
+   "cast": [
+    "Adam Sandler",
+    "Andy Samberg",
+    "Selena Gomez",
+    "Kevin James",
+    "Steve Buscemi",
+    "David Spade"
+   ],
+   "director": "Genndy Tartakovsky",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -36806,7 +38654,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania3/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5844,
-   "saga": "Hotel Transylvania"
+   "saga": "Hotel Transylvania",
+   "cast": [
+    "Adam Sandler",
+    "Andy Samberg",
+    "Selena Gomez",
+    "Kevin James",
+    "Fran Drescher",
+    "Steve Buscemi"
+   ],
+   "director": "Genndy Tartakovsky",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -36842,7 +38700,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8",
    "updatedAt": "2026-05-28T02:57:37.563Z",
    "tokenDuration": 5252,
-   "saga": "Hotel Transylvania"
+   "saga": "Hotel Transylvania",
+   "cast": [
+    "Andy Samberg",
+    "Selena Gomez",
+    "Kathryn Hahn",
+    "Jim Gaffigan",
+    "Steve Buscemi",
+    "Molly Shannon"
+   ],
+   "director": "Derek Drymon, Jennifer Kluska",
+   "recommended": "60%"
   },
   {
    "type": "movie",
@@ -36877,7 +38745,17 @@
    "gridIndex": 142,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
    "updatedAt": "2026-05-28T02:57:47.642Z",
-   "tokenDuration": 6396
+   "tokenDuration": 6396,
+   "cast": [
+    "Ryûnosuke Kamiki",
+    "Mone Kamishiraishi",
+    "Ryō Narita",
+    "Aoi Yûki",
+    "Nobunaga Shimazaki",
+    "Kaito Ishikawa"
+   ],
+   "director": "Makoto Shinkai",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -36909,7 +38787,17 @@
    "gridIndex": 143,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LookBack/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
-   "tokenDuration": 3500
+   "tokenDuration": 3500,
+   "cast": [
+    "Yumi Kawai",
+    "Mizuki Yoshida",
+    "Yôichirô Saitô",
+    "Kôta Oka",
+    "Kureha Maki",
+    "Kôya Yoshihashi"
+   ],
+   "director": "Kiyotaka Oshiyama",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -36944,7 +38832,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil1/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 6031,
-   "saga": "Resident Evil"
+   "saga": "Resident Evil",
+   "cast": [
+    "Milla Jovovich",
+    "Michelle Rodriguez",
+    "Ryan McCluskey",
+    "Oscar Pearce",
+    "Indra Ové",
+    "Anna Bolt"
+   ],
+   "director": "Paul W.S. Anderson",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -36979,7 +38877,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5629,
-   "saga": "Resident Evil"
+   "saga": "Resident Evil",
+   "cast": [
+    "Milla Jovovich",
+    "Sienna Guillory",
+    "Oded Fehr",
+    "Thomas Kretschmann",
+    "Sophie Vavasseur",
+    "Razaaq Adoti"
+   ],
+   "director": "Alexander Witt",
+   "recommended": "61%"
   },
   {
    "type": "movie",
@@ -37014,7 +38922,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil3/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5646,
-   "saga": "Resident Evil"
+   "saga": "Resident Evil",
+   "cast": [
+    "Milla Jovovich",
+    "Ali Larter",
+    "Oded Fehr",
+    "Iain Glen",
+    "Ashanti",
+    "Christopher Egan"
+   ],
+   "director": "Russell Mulcahy",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -37048,7 +38966,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMaxSalvajesDeAutopista/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5587,
-   "saga": "Mad Max"
+   "saga": "Mad Max",
+   "cast": [
+    "Mel Gibson",
+    "Joanne Samuel",
+    "Hugh Keays-Byrne",
+    "Steve Bisley",
+    "Tim Burns",
+    "Roger Ward"
+   ],
+   "director": "George Miller",
+   "recommended": "68%"
   },
   {
    "type": "movie",
@@ -37082,7 +39010,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.231Z",
    "tokenDuration": 5691,
-   "saga": "Mad Max"
+   "saga": "Mad Max",
+   "cast": [
+    "Mel Gibson",
+    "Bruce Spence",
+    "Michael Preston",
+    "Max Phipps",
+    "Vernon Wells",
+    "Kjell Nilsson"
+   ],
+   "director": "George Miller",
+   "recommended": "76%"
   },
   {
    "type": "movie",
@@ -37116,7 +39054,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax3MasAllaDeLaCupulaDelTrueno/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 6419,
-   "saga": "Mad Max"
+   "saga": "Mad Max",
+   "cast": [
+    "Mel Gibson",
+    "Tina Turner",
+    "Bruce Spence",
+    "Adam Cockburn",
+    "Frank Thring",
+    "Angelo Rossitto"
+   ],
+   "director": "George Miller, George Ogilvie",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -37150,7 +39098,17 @@
    "gridIndex": 150,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FreeGuyTomandoElControl/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6899
+   "tokenDuration": 6899,
+   "cast": [
+    "Ryan Reynolds",
+    "Jodie Comer",
+    "Jodie Comer",
+    "Taika Waititi",
+    "Lil Rel Howery",
+    "Joe Keery"
+   ],
+   "director": "Shawn Levy",
+   "recommended": "71%"
   },
   {
    "type": "movie",
@@ -37188,7 +39146,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElExtranoMundoDeJack/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 4597,
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Danny Elfman",
+    "Danny Elfman",
+    "Danny Elfman",
+    "Chris Sarandon",
+    "Catherine O'Hara",
+    "Catherine O'Hara"
+   ],
+   "director": "Henry Selick",
+   "recommended": "79%"
   },
   {
    "type": "movie",
@@ -37263,7 +39231,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Megamente/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5735,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Will Ferrell",
+    "Jonah Hill",
+    "Brad Pitt",
+    "Tina Fey",
+    "David Cross",
+    "Ben Stiller"
+   ],
+   "director": "Tom McGrath",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -37298,7 +39276,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5394,
-   "saga": "Lluvia de Hamburguesas"
+   "saga": "Lluvia de Hamburguesas",
+   "cast": [
+    "Anna Faris",
+    "Bill Hader",
+    "Bruce Campbell",
+    "James Caan",
+    "Andy Samberg",
+    "Mr. T"
+   ],
+   "director": "Phil Lord, Christopher Miller",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -37329,7 +39317,17 @@
    "gridIndex": 155,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 7624
+   "tokenDuration": 7624,
+   "cast": [
+    "Jaafar Jackson",
+    "Nia Long",
+    "Colman Domingo",
+    "Juliano Valdi",
+    "Jayden Harville",
+    "Jaylen Lyndon Hunter"
+   ],
+   "director": "Antoine Fuqua",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -37363,7 +39361,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 6966,
-   "saga": "Volver al Futuro"
+   "saga": "Volver al Futuro",
+   "cast": [
+    "Michael J. Fox",
+    "Christopher Lloyd",
+    "Lea Thompson",
+    "Crispin Glover",
+    "Tom Wilson",
+    "Claudia Wells"
+   ],
+   "director": "Robert Zemeckis",
+   "recommended": "85%"
   },
   {
    "type": "movie",
@@ -37399,7 +39407,17 @@
    "gridIndex": 157,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nimona/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6166
+   "tokenDuration": 6166,
+   "cast": [
+    "Chloë Grace Moretz",
+    "Riz Ahmed",
+    "Eugene Lee Yang",
+    "Frances Conroy",
+    "Lorraine Toussaint",
+    "Beck Bennett"
+   ],
+   "director": "Nick Bruno, Troy Quane",
+   "recommended": "75%"
   },
   {
    "type": "movie",
@@ -37431,7 +39449,17 @@
    "gridIndex": 158,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NosotrosLosNobles/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6490
+   "tokenDuration": 6490,
+   "cast": [
+    "Gonzalo Vega",
+    "Luis Gerardo Méndez",
+    "Karla Souza",
+    "Juan Pablo Gil",
+    "Ianis Guerrero",
+    "Karla Sofía Gascón"
+   ],
+   "director": "Gary Alazraki",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -37467,7 +39495,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5405,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Mike Myers",
+    "Mike Myers",
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "John Lithgow"
+   ],
+   "director": "Andrew Adamson, Vicky Jenson",
+   "recommended": "79%"
   },
   {
    "type": "movie",
@@ -37504,7 +39542,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5543,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz",
+    "Julie Andrews",
+    "Antonio Banderas",
+    "John Cleese"
+   ],
+   "director": "Andrew Adamson, Kelly Asbury",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -37540,7 +39588,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek3/master.m3u8",
    "updatedAt": "2026-05-28T02:57:57.394Z",
    "tokenDuration": 5563,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Mike Myers",
+    "Cameron Diaz",
+    "Eddie Murphy",
+    "Antonio Banderas",
+    "Julie Andrews",
+    "John Cleese"
+   ],
+   "director": "Chris Miller, Raman Hui",
+   "recommended": "61%"
   },
   {
    "type": "movie",
@@ -37576,7 +39634,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShrekParaSiempre/master.m3u8",
    "updatedAt": "2026-05-28T02:58:06.784Z",
    "tokenDuration": 5594,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Mike Myers",
+    "Cameron Diaz",
+    "Eddie Murphy",
+    "Antonio Banderas",
+    "Julie Andrews",
+    "John Cleese"
+   ],
+   "director": "Mike Mitchell",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -37612,7 +39680,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5872,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jay Baruchel",
+    "Gerard Butler",
+    "Christopher Mintz-Plasse",
+    "Craig Ferguson",
+    "America Ferrera",
+    "Jonah Hill"
+   ],
+   "director": "Dean DeBlois, Chris Sanders",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -37648,7 +39726,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 6116,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jay Baruchel",
+    "Cate Blanchett",
+    "Gerard Butler",
+    "Craig Ferguson",
+    "America Ferrera",
+    "Jonah Hill"
+   ],
+   "director": "Dean DeBlois",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -37678,7 +39766,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon3/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 6247,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jay Baruchel",
+    "America Ferrera",
+    "F. Murray Abraham",
+    "Cate Blanchett",
+    "Gerard Butler",
+    "Craig Ferguson"
+   ],
+   "director": "Dean DeBlois",
+   "recommended": "74%"
   },
   {
    "type": "movie",
@@ -37713,7 +39811,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElcaminohaciaElDorado/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5366,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Kevin Kline",
+    "Kenneth Branagh",
+    "Rosie Perez",
+    "Armand Assante",
+    "Edward James Olmos",
+    "Jim Cummings"
+   ],
+   "director": "Bibo Bergeron, Don Paul",
+   "recommended": "69%"
   },
   {
    "type": "movie",
@@ -37746,7 +39854,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5339,
-   "saga": "Scary Movie"
+   "saga": "Scary Movie",
+   "cast": [
+    "Anna Faris",
+    "Jon Abrahams",
+    "Marlon Wayans",
+    "Carmen Electra",
+    "Dave Sheridan",
+    "Frank B. Moore"
+   ],
+   "director": "Keenen Ivory Wayans",
+   "recommended": "63%"
   },
   {
    "type": "movie",
@@ -37779,7 +39897,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie2/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 4977,
-   "saga": "Scary Movie"
+   "saga": "Scary Movie",
+   "cast": [
+    "Anna Faris",
+    "Marlon Wayans",
+    "Antony Acker",
+    "Mark Barrett",
+    "Richard Bellos",
+    "Suzanne Bianqui"
+   ],
+   "director": "Keenen Ivory Wayans",
+   "recommended": "54%"
   },
   {
    "type": "movie",
@@ -37812,7 +39940,17 @@
    "gridIndex": 9,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MemoriasDeUnCaracol/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 5686
+   "tokenDuration": 5686,
+   "cast": [
+    "Jacki Weaver",
+    "Sarah Snook",
+    "Charlotte Belsey",
+    "Agnes Davison",
+    "Mason Litsos",
+    "Daniel Agdag"
+   ],
+   "director": "Adam Elliot",
+   "recommended": "78%"
   },
   {
    "type": "movie",
@@ -37845,7 +39983,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BeanElNombreDelDesastre/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5358,
-   "saga": "Mr. Bean"
+   "saga": "Mr. Bean",
+   "cast": [
+    "Rowan Atkinson",
+    "Peter MacNicol",
+    "John Mills",
+    "Pamela Reed",
+    "Harris Yulin",
+    "Burt Reynolds"
+   ],
+   "director": "Mel Smith",
+   "recommended": "65%"
   },
   {
    "type": "movie",
@@ -37879,7 +40027,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasVacacionesDeMrBean/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5375,
-   "saga": "Mr. Bean"
+   "saga": "Mr. Bean",
+   "cast": [
+    "Rowan Atkinson",
+    "Willem Dafoe",
+    "Steve Pemberton",
+    "Lily Atkinson",
+    "Preston Nyman",
+    "Sharlit Deyzac"
+   ],
+   "director": "Steve Bendelack",
+   "recommended": "64%"
   },
   {
    "type": "movie",
@@ -37915,7 +40073,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElOrigenDeLosGuardianes/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 5831,
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Hugh Jackman",
+    "Alec Baldwin",
+    "Isla Fisher",
+    "Chris Pine",
+    "Jude Law",
+    "Dakota Goyo"
+   ],
+   "director": "Peter Ramsey",
+   "recommended": "72%"
   },
   {
    "type": "movie",
@@ -37978,7 +40146,17 @@
    "gridIndex": 14,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
    "updatedAt": "2026-05-28T02:58:17.087Z",
-   "tokenDuration": 11764
+   "tokenDuration": 11764,
+   "cast": [
+    "Martin Sheen",
+    "Marlon Brando",
+    "Robert Duvall",
+    "Frederic Forrest",
+    "Sam Bottoms",
+    "Laurence Fishburne"
+   ],
+   "director": "Francis Ford Coppola",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -38007,7 +40185,17 @@
    "gridIndex": 15,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DulceYAmargo/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6149
+   "tokenDuration": 6149,
+   "cast": [
+    "Jang Ki-yong",
+    "Chae Soo-bin",
+    "Krystal Jung",
+    "Jung Bo-min",
+    "Go Gyu-pil",
+    "Jeong Hee-tae"
+   ],
+   "director": "Kae-Byeok Lee",
+   "recommended": "66%"
   },
   {
    "type": "movie",
@@ -38040,7 +40228,17 @@
    "gridIndex": 16,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/OjoPorOjo/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6100
+   "tokenDuration": 6100,
+   "cast": [
+    "Sally Field",
+    "Kiefer Sutherland",
+    "Ed Harris",
+    "Olivia Burnette",
+    "Alexandra Kyle",
+    "Joe Mantegna"
+   ],
+   "director": "John Schlesinger",
+   "recommended": "62%"
   },
   {
    "type": "movie",
@@ -38075,7 +40273,17 @@
    "gridIndex": 17,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
    "updatedAt": "2026-05-27T18:46:48.687Z",
-   "tokenDuration": 6016
+   "tokenDuration": 6016,
+   "cast": [
+    "Kikunosuke Toya",
+    "Shiori Izawa",
+    "Tomori Kusunoki",
+    "Shôgo Sakata",
+    "Natsuki Hanae",
+    "Maaya Uchida"
+   ],
+   "director": "Tatsuya Yoshihara",
+   "recommended": "83%"
   },
   {
    "type": "movie",
@@ -38110,7 +40318,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
    "updatedAt": "2026-05-28T02:58:28.347Z",
    "tokenDuration": 9302,
-   "saga": "Kimetsu no Yaiba"
+   "saga": "Kimetsu no Yaiba",
+   "cast": [
+    "Zach Aguilar",
+    "Zach Aguilar",
+    "Saeko Akiho",
+    "Yôhei Azakami",
+    "Ryan Bartley",
+    "Ryan Bartley"
+   ],
+   "director": "Haruo Sotozaki, Hikaru Kondô",
+   "recommended": "84%"
   },
   {
    "type": "movie",
@@ -38141,7 +40359,9 @@
    "gridIndex": 19,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaSingularVidaDeIbelin/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6225
+   "tokenDuration": 6225,
+   "director": "Benjamin Ree",
+   "recommended": "81%"
   },
   {
    "type": "movie",
@@ -38174,7 +40394,17 @@
    "gridIndex": 20,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CriaturasLuminosas/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6840
+   "tokenDuration": 6840,
+   "cast": [
+    "Sally Field",
+    "Lewis Pullman",
+    "Colm Meaney",
+    "Joan Chen",
+    "Kathy Baker",
+    "Beth Grant"
+   ],
+   "director": "Olivia Newman",
+   "recommended": "77%"
   },
   {
    "type": "movie",
@@ -38206,7 +40436,9 @@
    "gridIndex": 21,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaNinaDeLaFoto/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6155
+   "tokenDuration": 6155,
+   "director": "Skye Borgman",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -38239,7 +40471,17 @@
    "gridIndex": 22,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/96Minutos/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 7180
+   "tokenDuration": 7180,
+   "cast": [
+    "Brittany Snow",
+    "Evan Ross",
+    "Sharon Conley",
+    "Justin Martin",
+    "David Oyelowo",
+    "Christian Serratos"
+   ],
+   "director": "Aimee Lagos",
+   "recommended": "57%"
   },
   {
    "type": "movie",
@@ -38274,7 +40516,17 @@
    "gridIndex": 23,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Intercambiados/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6106
+   "tokenDuration": 6106,
+   "cast": [
+    "Michael B. Jordan",
+    "Juno Temple",
+    "Tracy Morgan",
+    "Tracy Morgan",
+    "Cedric The Entertainer",
+    "Justina Machado"
+   ],
+   "director": "Nathan Greno",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -38307,7 +40559,17 @@
    "gridIndex": 24,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ProyectoFinDelMundo/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 9383
+   "tokenDuration": 9383,
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz",
+    "Lionel Boyce",
+    "Milana Vayntrub",
+    "Ken Leung"
+   ],
+   "director": "Phil Lord, Christopher Miller",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -38341,7 +40603,17 @@
    "gridIndex": 25,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SangreAsesina/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 7730
+   "tokenDuration": 7730,
+   "cast": [
+    "Pimchanok Luevisadpaibul",
+    "Tor Thanapob Leeratanakachorn",
+    "Sivakorn Adulsuttikul",
+    "Chai Chatayodom Hiranyatithi",
+    "Theerachai Wimolchaireuk",
+    "Teerawat Mulvilai"
+   ],
+   "director": "Taweewat Wantha",
+   "recommended": "57%"
   },
   {
    "type": "movie",
@@ -38376,7 +40648,17 @@
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElChicoYLaGarza/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
    "tokenDuration": 7437,
-   "saga": "Studio Ghibli"
+   "saga": "Studio Ghibli",
+   "cast": [
+    "Soma Santoki",
+    "Masaki Suda",
+    "Kô Shibasaki",
+    "Aimyon",
+    "Yoshino Kimura",
+    "Takuya Kimura"
+   ],
+   "director": "Hayao Miyazaki",
+   "recommended": "73%"
   },
   {
    "type": "movie",
@@ -38409,7 +40691,17 @@
    "gridIndex": 27,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KillBillVol1/master.m3u8",
    "updatedAt": "2026-05-28T02:58:39.090Z",
-   "tokenDuration": 6656
+   "tokenDuration": 6656,
+   "cast": [
+    "Uma Thurman",
+    "David Carradine",
+    "Daryl Hannah",
+    "Michael Madsen",
+    "Lucy Liu",
+    "Vivica A. Fox"
+   ],
+   "director": "Quentin Tarantino",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -38443,7 +40735,17 @@
    "gridIndex": 28,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeakyBlindersElHombreInmortal/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6844
+   "tokenDuration": 6844,
+   "cast": [
+    "Cillian Murphy",
+    "Rebecca Ferguson",
+    "Rebecca Ferguson",
+    "Tim Roth",
+    "Sophie Rundle",
+    "Barry Keoghan"
+   ],
+   "director": "Tom Harper",
+   "recommended": "65%"
   },
   {
    "type": "movie",
@@ -38477,7 +40779,17 @@
    "gridIndex": 29,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PerfectBlue/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 4904
+   "tokenDuration": 4904,
+   "cast": [
+    "Junko Iwao",
+    "Rica Matsumoto",
+    "Shinpachi Tsuji",
+    "Masaaki Ôkura",
+    "Yôsuke Akimoto",
+    "Yoku Shioya"
+   ],
+   "director": "Satoshi Kon",
+   "recommended": "80%"
   },
   {
    "type": "movie",
@@ -38510,7 +40822,17 @@
    "gridIndex": 30,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TaxiDriver/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6828
+   "tokenDuration": 6828,
+   "cast": [
+    "Robert De Niro",
+    "Jodie Foster",
+    "Cybill Shepherd",
+    "Albert Brooks",
+    "Diahnne Abbott",
+    "Frank Adu"
+   ],
+   "director": "Martin Scorsese",
+   "recommended": "82%"
   },
   {
    "type": "movie",
@@ -38577,7 +40899,17 @@
    "gridIndex": 32,
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8",
    "updatedAt": "2026-05-27T19:11:32.232Z",
-   "tokenDuration": 6928
+   "tokenDuration": 6928,
+   "cast": [
+    "Wagner Moura",
+    "André Ramiro",
+    "Caio Junqueira",
+    "Milhem Cortaz",
+    "Fernanda Machado",
+    "Maria Ribeiro"
+   ],
+   "director": "José Padilha",
+   "recommended": "80%"
   },
   {
    "id": "movie_194",
@@ -38612,7 +40944,17 @@
    "updatedAt": "2026-05-31T22:30:45.987Z",
    "tokenDuration": 7775,
    "addedAt": "2026-05-14T07:01:34.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Bruce Willis",
+    "Madeleine Stowe",
+    "Brad Pitt",
+    "Joseph Melito",
+    "Jon Seda",
+    "Michael Chance"
+   ],
+   "director": "Terry Gilliam",
+   "recommended": "80%"
   },
   {
    "id": "movie_195",
@@ -38685,7 +41027,17 @@
    "updatedAt": "2026-06-01T06:00:04.919Z",
    "tokenDuration": 5400,
    "addedAt": "2026-05-15T00:34:08.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Matthieu Chedid",
+    "Vanessa Paradis",
+    "Gad Elmaleh",
+    "François Cluzet",
+    "Ludivine Sagnier",
+    "Julie Ferrier"
+   ],
+   "director": "Bibo Bergeron",
+   "recommended": "67%"
   },
   {
    "id": "movie_197",
@@ -38717,7 +41069,17 @@
    "updatedAt": "2026-06-01T06:00:04.919Z",
    "tokenDuration": 9166,
    "addedAt": "2026-05-15T06:24:59.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Christian Bale",
+    "John Malkovich",
+    "Miranda Richardson",
+    "Nigel Havers",
+    "Joe Pantoliano",
+    "Leslie Phillips"
+   ],
+   "director": "Steven Spielberg",
+   "recommended": "77%"
   },
   {
    "id": "movie_198",
@@ -38749,7 +41111,17 @@
    "updatedAt": "2026-06-01T06:00:04.919Z",
    "tokenDuration": 6162,
    "addedAt": "2026-05-15T12:15:51.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Russell Crowe",
+    "Al Pacino",
+    "Christopher Plummer",
+    "Diane Venora",
+    "Philip Baker Hall",
+    "Lindsay Crouse"
+   ],
+   "director": "Michael Mann",
+   "recommended": "78%"
   },
   {
    "id": "movie_199",
@@ -38784,7 +41156,17 @@
    "updatedAt": "2026-06-01T06:00:04.920Z",
    "tokenDuration": 7147,
    "addedAt": "2026-05-15T18:06:42.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Kōji Yakusho",
+    "Aoi Miyazaki",
+    "Shôta Sometani",
+    "Suzu Hirose",
+    "Kazuhiro Yamaji",
+    "Mamoru Miyano"
+   ],
+   "director": "Mamoru Hosoda",
+   "recommended": "76%"
   },
   {
    "id": "movie_200",
@@ -38818,7 +41200,17 @@
    "updatedAt": "2026-06-01T06:00:04.920Z",
    "tokenDuration": 6332,
    "addedAt": "2026-05-15T23:57:33.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Ma Dong-seok",
+    "Lee Jun-hyuk",
+    "Munetaka Aoki",
+    "Ahn Se-ho",
+    "Bae Noo-ri",
+    "Gong Teyu"
+   ],
+   "director": "Lee Sang-yong",
+   "recommended": "66%"
   },
   {
    "id": "movie_201",
@@ -38850,7 +41242,17 @@
    "updatedAt": "2026-06-01T06:00:04.920Z",
    "tokenDuration": 8918,
    "addedAt": "2026-05-16T05:48:25.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Emile Hirsch",
+    "Vince Vaughn",
+    "Catherine Keener",
+    "Marcia Gay Harden",
+    "William Hurt",
+    "Jena Malone"
+   ],
+   "director": "Sean Penn",
+   "recommended": "80%"
   },
   {
    "id": "movie_202",
@@ -38882,7 +41284,9 @@
    "updatedAt": "2026-06-01T06:00:04.920Z",
    "tokenDuration": 5765,
    "addedAt": "2026-05-16T11:39:16.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "director": "Christy Wegener",
+   "recommended": "63%"
   },
   {
    "id": "movie_203",
@@ -38914,7 +41318,17 @@
    "updatedAt": "2026-06-01T06:00:04.920Z",
    "tokenDuration": 5261,
    "addedAt": "2026-05-16T17:30:07.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "John Cusack",
+    "Ray Liotta",
+    "Amanda Peet",
+    "John Hawkes",
+    "Alfred Molina",
+    "Clea DuVall"
+   ],
+   "director": "James Mangold",
+   "recommended": "73%"
   },
   {
    "id": "movie_204",
@@ -38946,7 +41360,17 @@
    "updatedAt": "2026-07-02T22:16:33.031Z",
    "addedAt": "2026-05-16T23:20:59.000Z",
    "addedBy": "Sistema",
-   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8"
+   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JackRyanDeTomClancyGuerraFantasma/master.m3u8",
+   "cast": [
+    "John Krasinski",
+    "Wendell Pierce",
+    "Sienna Miller",
+    "Michael Kelly",
+    "Max Beesley",
+    "Betty Gabriel"
+   ],
+   "director": "Andrew Bernstein",
+   "recommended": "57%"
   },
   {
    "id": "movie_205",
@@ -38980,7 +41404,17 @@
    "tokenDuration": 6101,
    "addedAt": "2026-06-04T11:45:59.000Z",
    "addedBy": "Sistema",
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Lupita Nyong'o",
+    "Lupita Nyong'o",
+    "Pedro Pascal",
+    "Kit Connor",
+    "Bill Nighy",
+    "Stephanie Hsu"
+   ],
+   "director": "Chris Sanders",
+   "recommended": "82%"
   },
   {
    "id": "movie_206",
@@ -39014,7 +41448,17 @@
    "tokenDuration": 8178,
    "addedAt": "2026-05-17T11:02:41.000Z",
    "addedBy": "Sistema",
-   "saga": "Matrix"
+   "saga": "Matrix",
+   "cast": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss",
+    "Hugo Weaving",
+    "Gloria Foster",
+    "Joe Pantoliano"
+   ],
+   "director": "Lana Wachowski, Lilly Wachowski",
+   "recommended": "87%"
   },
   {
    "id": "movie_207",
@@ -39046,7 +41490,17 @@
    "updatedAt": "2026-06-01T18:00:04.944Z",
    "tokenDuration": 9888,
    "addedAt": "2026-05-17T16:53:33.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Eric Bana",
+    "Daniel Craig",
+    "Marie-Josée Croze",
+    "Ciarán Hinds",
+    "Mathieu Kassovitz",
+    "Hanns Zischler"
+   ],
+   "director": "Steven Spielberg",
+   "recommended": "75%"
   },
   {
    "id": "movie_208",
@@ -39078,7 +41532,9 @@
    "updatedAt": "2026-06-01T18:00:04.944Z",
    "tokenDuration": 5692,
    "addedAt": "2026-05-17T22:44:24.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "director": "Skye Borgman",
+   "recommended": "67%"
   },
   {
    "id": "movie_209",
@@ -39113,7 +41569,17 @@
    "tokenDuration": 5904,
    "addedAt": "2026-05-18T10:26:07.000Z",
    "addedBy": "Sistema",
-   "saga": "Illumination"
+   "saga": "Illumination",
+   "cast": [
+    "Brie Larson",
+    "Virginia Dare Jelenic",
+    "Benny Safdie",
+    "Kevin Michael Richardson",
+    "Chris Pratt",
+    "Charlie Day"
+   ],
+   "director": "Aaron Horvath, Michael Jelenic",
+   "recommended": "63%"
   },
   {
    "id": "movie_210",
@@ -39146,7 +41612,17 @@
    "updatedAt": "2026-06-01T18:00:04.945Z",
    "tokenDuration": 7508,
    "addedAt": "2026-05-18T16:16:58.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Jeff Bridges",
+    "Jeff Bridges",
+    "Garrett Hedlund",
+    "Olivia Wilde",
+    "Bruce Boxleitner",
+    "Bruce Boxleitner"
+   ],
+   "director": "Joseph Kosinski",
+   "recommended": "68%"
   },
   {
    "id": "movie_211",
@@ -39179,7 +41655,17 @@
    "updatedAt": "2026-06-01T18:00:04.945Z",
    "tokenDuration": 5589,
    "addedAt": "2026-05-18T22:07:49.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Brendan Fraser",
+    "Elizabeth Hurley",
+    "Frances O'Connor",
+    "Frances O'Connor",
+    "Miriam Shor",
+    "Miriam Shor"
+   ],
+   "director": "Harold Ramis",
+   "recommended": "61%"
   },
   {
    "id": "movie_212",
@@ -39211,7 +41697,17 @@
    "updatedAt": "2026-06-01T18:00:04.945Z",
    "tokenDuration": 7842,
    "addedAt": "2026-05-19T03:58:41.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Cameron Diaz",
+    "Matt Dillon",
+    "Ben Stiller",
+    "Lee Evans",
+    "Chris Elliott",
+    "Lin Shaye"
+   ],
+   "director": "Bobby Farrelly, Peter Farrelly",
+   "recommended": "71%"
   },
   {
    "id": "movie_213",
@@ -39244,7 +41740,17 @@
    "updatedAt": "2026-06-01T15:00:33.232Z",
    "addedAt": "2026-05-19T09:49:32.000Z",
    "addedBy": "Sistema",
-   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Arco2025BDLatino/master.m3u8"
+   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Arco2025BDLatino/master.m3u8",
+   "cast": [
+    "Margot Ringard Oldra",
+    "Oscar Tresanini",
+    "Nathanaël Perrot",
+    "Alma Jodorowsky",
+    "Alma Jodorowsky",
+    "Swann Arlaud"
+   ],
+   "director": "Ugo Bienvenu",
+   "recommended": "73%"
   },
   {
    "id": "movie_214",
@@ -39275,7 +41781,17 @@
    "updatedAt": "2026-06-01T18:00:04.945Z",
    "tokenDuration": 5534,
    "addedAt": "2026-05-19T15:40:23.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Brendan Fraser",
+    "Steve Buscemi",
+    "Adam Sandler",
+    "Chris Farley",
+    "Michael McKean",
+    "Judd Nelson"
+   ],
+   "director": "Michael Lehmann",
+   "recommended": "62%"
   },
   {
    "id": "movie_215",
@@ -39307,7 +41823,17 @@
    "updatedAt": "2026-06-01T15:16:40.792Z",
    "addedAt": "2026-05-19T21:31:15.000Z",
    "addedBy": "Sistema",
-   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8"
+   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElFinDelMundo/master.m3u8",
+   "cast": [
+    "John Cusack",
+    "Thandiwe Newton",
+    "Chiwetel Ejiofor",
+    "Amanda Peet",
+    "Oliver Platt",
+    "Tom McCarthy"
+   ],
+   "director": "Roland Emmerich",
+   "recommended": "59%"
   },
   {
    "id": "movie_216",
@@ -39339,7 +41865,17 @@
    "updatedAt": "2026-06-01T18:00:04.945Z",
    "tokenDuration": 7717,
    "addedAt": "2026-05-20T03:22:06.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Denzel Washington",
+    "Clive Owen",
+    "Jodie Foster",
+    "Christopher Plummer",
+    "Willem Dafoe",
+    "Chiwetel Ejiofor"
+   ],
+   "director": "Spike Lee",
+   "recommended": "76%"
   },
   {
    "id": "movie_217",
@@ -39371,7 +41907,17 @@
    "updatedAt": "2026-06-01T15:24:56.456Z",
    "addedAt": "2026-05-20T09:12:57.000Z",
    "addedBy": "Sistema",
-   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JURASICKPARK1/master.m3u8"
+   "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JURASICKPARK1/master.m3u8",
+   "cast": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum",
+    "Richard Attenborough",
+    "Bob Peck",
+    "Martin Ferrero"
+   ],
+   "director": "Steven Spielberg",
+   "recommended": "82%"
   },
   {
    "id": "movie_218",
@@ -39438,7 +41984,17 @@
    "updatedAt": "2026-06-05T12:48:00.062Z",
    "tokenDuration": 7318,
    "addedAt": "2026-05-20T20:54:40.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Rosa Salazar",
+    "Christoph Waltz",
+    "Jennifer Connelly",
+    "Mahershala Ali",
+    "Ed Skrein",
+    "Jackie Earle Haley"
+   ],
+   "director": "Robert Rodriguez",
+   "recommended": "73%"
   },
   {
    "id": "movie_220",
@@ -39471,7 +42027,17 @@
    "updatedAt": "2026-06-05T12:48:00.406Z",
    "tokenDuration": 10223,
    "addedAt": "2026-05-21T02:45:31.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Al Pacino",
+    "Michelle Pfeiffer",
+    "Steven Bauer",
+    "Mary Elizabeth Mastrantonio",
+    "Robert Loggia",
+    "Miriam Colon"
+   ],
+   "director": "Brian De Palma",
+   "recommended": "83%"
   },
   {
    "id": "movie_221",
@@ -39504,7 +42070,17 @@
    "updatedAt": "2026-06-05T12:48:00.682Z",
    "tokenDuration": 4989,
    "addedAt": "2026-05-21T08:36:22.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Samuel L. Jackson",
+    "Eugene Levy",
+    "Miguel Ferrer",
+    "Luke Goss",
+    "Susie Essman",
+    "Anthony Mackie"
+   ],
+   "director": "Les Mayfield",
+   "recommended": "56%"
   },
   {
    "id": "movie_222",
@@ -39538,7 +42114,17 @@
    "tokenDuration": 9134,
    "addedAt": "2026-05-21T14:27:14.000Z",
    "addedBy": "Sistema",
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart",
+    "Michael Caine",
+    "Maggie Gyllenhaal",
+    "Gary Oldman"
+   ],
+   "director": "Christopher Nolan",
+   "recommended": "91%"
   },
   {
    "id": "movie_223",
@@ -39571,7 +42157,17 @@
    "updatedAt": "2026-06-05T12:52:13.162Z",
    "tokenDuration": 5881,
    "addedAt": "2026-05-21T20:18:05.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Milla Jovovich",
+    "Milla Jovovich",
+    "Elias Koteas",
+    "Will Patton",
+    "Hakeem Kae-Kazim",
+    "Corey Johnson"
+   ],
+   "director": "Olatunde Osunsanmi",
+   "recommended": "59%"
   },
   {
    "id": "movie_224",
@@ -39604,7 +42200,17 @@
    "updatedAt": "2026-06-05T12:52:13.428Z",
    "tokenDuration": 5879,
    "addedAt": "2026-05-22T02:08:56.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Gerard Butler",
+    "Morena Baccarin",
+    "Roman Griffin Davis",
+    "Amber Rose Revah",
+    "Tommie Earl Jenkins",
+    "Trond Fausa"
+   ],
+   "director": "Ric Roman Waugh",
+   "recommended": "52%"
   },
   {
    "id": "movie_225",
@@ -39638,7 +42244,17 @@
    "tokenDuration": 7252,
    "addedAt": "2026-05-22T13:50:39.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Chris Pratt",
+    "Vin Diesel",
+    "Bradley Cooper",
+    "Zoe Saldaña",
+    "Dave Bautista",
+    "Lee Pace"
+   ],
+   "director": "James Gunn",
+   "recommended": "80%"
   },
   {
    "id": "movie_226",
@@ -39672,7 +42288,17 @@
    "tokenDuration": 8087,
    "addedAt": "2026-05-22T19:41:30.000Z",
    "addedBy": "Sistema",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Alden Ehrenreich",
+    "Woody Harrelson",
+    "Emilia Clarke",
+    "Donald Glover",
+    "Joonas Suotamo",
+    "Thandiwe Newton"
+   ],
+   "director": "Ron Howard",
+   "recommended": "69%"
   },
   {
    "id": "movie_227",
@@ -39705,7 +42331,17 @@
    "tokenDuration": 7273,
    "addedAt": "2026-05-23T01:32:22.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tobey Maguire",
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "Willem Dafoe",
+    "Willem Dafoe",
+    "James Franco"
+   ],
+   "director": "Sam Raimi",
+   "recommended": "74%"
   },
   {
    "id": "movie_228",
@@ -39739,7 +42375,17 @@
    "tokenDuration": 8149,
    "addedAt": "2026-05-23T07:23:13.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tobey Maguire",
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "Alfred Molina",
+    "Alfred Molina",
+    "James Franco"
+   ],
+   "director": "Sam Raimi",
+   "recommended": "75%"
   },
   {
    "id": "movie_229",
@@ -39773,7 +42419,17 @@
    "tokenDuration": 8351,
    "addedAt": "2026-05-23T13:14:04.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Tobey Maguire",
+    "Tobey Maguire",
+    "Kirsten Dunst",
+    "Topher Grace",
+    "Topher Grace",
+    "Thomas Haden Church"
+   ],
+   "director": "Sam Raimi",
+   "recommended": "63%"
   },
   {
    "id": "movie_230",
@@ -39808,7 +42464,17 @@
    "tokenDuration": 5492,
    "addedAt": "2026-05-23T19:04:56.000Z",
    "addedBy": "Sistema",
-   "saga": "Hotel Transylvania"
+   "saga": "Hotel Transylvania",
+   "cast": [
+    "Adam Sandler",
+    "Kevin James",
+    "Andy Samberg",
+    "Selena Gomez",
+    "Fran Drescher",
+    "Steve Buscemi"
+   ],
+   "director": "Genndy Tartakovsky",
+   "recommended": "71%"
   },
   {
    "id": "movie_231",
@@ -39842,7 +42508,17 @@
    "tokenDuration": 7343,
    "addedAt": "2026-05-24T06:46:38.000Z",
    "addedBy": "Sistema",
-   "saga": "John Wick"
+   "saga": "John Wick",
+   "cast": [
+    "Keanu Reeves",
+    "Riccardo Scamarcio",
+    "Ian McShane",
+    "Ruby Rose",
+    "Common",
+    "Claudia Gerini"
+   ],
+   "director": "Chad Stahelski",
+   "recommended": "74%"
   },
   {
    "id": "movie_232",
@@ -39876,7 +42552,17 @@
    "tokenDuration": 5712,
    "addedAt": "2026-05-24T12:37:30.000Z",
    "addedBy": "Sistema",
-   "saga": "Lluvia de Hamburguesas"
+   "saga": "Lluvia de Hamburguesas",
+   "cast": [
+    "Bill Hader",
+    "Anna Faris",
+    "Will Forte",
+    "Neil Patrick Harris",
+    "James Caan",
+    "Andy Samberg"
+   ],
+   "director": "Cody Cameron, Kris Pearn",
+   "recommended": "63%"
   },
   {
    "id": "movie_233",
@@ -39909,7 +42595,17 @@
    "tokenDuration": 6498,
    "addedAt": "2026-05-24T18:28:21.000Z",
    "addedBy": "Sistema",
-   "saga": "Los Cazafantasmas"
+   "saga": "Los Cazafantasmas",
+   "cast": [
+    "Bill Murray",
+    "Dan Aykroyd",
+    "Sigourney Weaver",
+    "Harold Ramis",
+    "Rick Moranis",
+    "Ernie Hudson"
+   ],
+   "director": "Ivan Reitman",
+   "recommended": "66%"
   },
   {
    "id": "movie_234",
@@ -39946,7 +42642,17 @@
    "tokenDuration": 6752,
    "addedAt": "2026-05-25T00:19:12.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "John C. Reilly",
+    "Sarah Silverman",
+    "Gal Gadot",
+    "Taraji P. Henson",
+    "Jack McBrayer",
+    "Jane Lynch"
+   ],
+   "director": "Phil Johnston, Rich Moore",
+   "recommended": "70%"
   },
   {
    "id": "movie_235",
@@ -39979,7 +42685,17 @@
    "createdAt": "2026-06-11T00:03:57.230Z",
    "updatedAt": "2026-06-11T00:03:57.230Z",
    "addedAt": "2026-06-04T17:36:50.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Gakuto Kajiwara",
+    "Nobunaga Shimazaki",
+    "Kana Yûki",
+    "Jun'ichi Suwabe",
+    "Toshiyuki Morikawa",
+    "Toshihiko Seki"
+   ],
+   "director": "Ayataka Tanemura",
+   "recommended": "74%"
   },
   {
    "id": "movie_236",
@@ -40042,7 +42758,17 @@
    "tokenDuration": 8495,
    "addedAt": "2026-05-25T17:51:46.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Andrew Garfield",
+    "Andrew Garfield",
+    "Emma Stone",
+    "Jamie Foxx",
+    "Jamie Foxx",
+    "Paul Giamatti"
+   ],
+   "director": "Marc Webb",
+   "recommended": "66%"
   },
   {
    "id": "movie_238",
@@ -40077,7 +42803,17 @@
    "tokenDuration": 8406,
    "addedAt": "2026-05-25T23:42:38.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Shameik Moore",
+    "Hailee Steinfeld",
+    "Brian Tyree Henry",
+    "Luna Lauren Velez",
+    "Jake Johnson",
+    "Oscar Isaac"
+   ],
+   "director": "Joaquim Dos Santos, Kemp Powers",
+   "recommended": "85%"
   },
   {
    "id": "movie_239",
@@ -40112,7 +42848,17 @@
    "tokenDuration": 7011,
    "addedAt": "2026-05-26T05:33:29.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Shameik Moore",
+    "Jake Johnson",
+    "Hailee Steinfeld",
+    "Mahershala Ali",
+    "Brian Tyree Henry",
+    "Lily Tomlin"
+   ],
+   "director": "Bob Persichetti, Peter Ramsey",
+   "recommended": "84%"
   },
   {
    "id": "movie_240",
@@ -40175,7 +42921,17 @@
    "tokenDuration": 8875,
    "addedAt": "2026-05-27T04:56:54.000Z",
    "addedBy": "Sistema",
-   "saga": "Matrix"
+   "saga": "Matrix",
+   "cast": [
+    "Keanu Reeves",
+    "Keanu Reeves",
+    "Carrie-Anne Moss",
+    "Carrie-Anne Moss",
+    "Yahya Abdul-Mateen II",
+    "Yahya Abdul-Mateen II"
+   ],
+   "director": "Lana Wachowski",
+   "recommended": "56%"
   },
   {
    "id": "movie_242",
@@ -40207,7 +42963,17 @@
    "updatedAt": "2026-06-05T12:52:21.616Z",
    "tokenDuration": 7814,
    "addedAt": "2026-05-27T10:47:45.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Tom Cruise",
+    "Jennifer Connelly",
+    "Miles Teller",
+    "Val Kilmer",
+    "Bashir Salahuddin",
+    "Jon Hamm"
+   ],
+   "director": "Joseph Kosinski",
+   "recommended": "82%"
   },
   {
    "id": "movie_243",
@@ -40308,7 +43074,17 @@
    "tokenDuration": 7638,
    "addedAt": "2026-05-28T04:20:19.000Z",
    "addedBy": "Sistema",
-   "saga": "Transformers"
+   "saga": "Transformers",
+   "cast": [
+    "Shia LaBeouf",
+    "Megan Fox",
+    "Josh Duhamel",
+    "Tyrese Gibson",
+    "John Turturro",
+    "Ramón Rodríguez"
+   ],
+   "director": "Michael Bay",
+   "recommended": "60%"
   },
   {
    "id": "movie_246",
@@ -40338,7 +43114,17 @@
    "createdAt": "2026-06-05T12:52:22.520Z",
    "updatedAt": "2026-06-05T12:52:22.520Z",
    "addedAt": "2026-05-28T10:11:11.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Matthew Modine",
+    "Kelli Williams",
+    "Richard Chevolleau",
+    "Jeff Pustil",
+    "Ken James",
+    "Richard Fitzpatrick"
+   ],
+   "director": "Jeff Bleckner",
+   "recommended": "66%"
   },
   {
    "id": "movie_247",
@@ -40371,7 +43157,17 @@
    "updatedAt": "2026-06-16T02:02:30.259Z",
    "addedAt": "2026-06-11T01:39:05.000Z",
    "addedBy": "Sistema",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Sigourney Weaver",
+    "Charles S. Dutton",
+    "Charles Dance",
+    "Paul McGann",
+    "Brian Glover",
+    "Ralph Brown"
+   ],
+   "director": "David Fincher",
+   "recommended": "64%"
   },
   {
    "id": "movie_248",
@@ -40470,7 +43266,17 @@
    "updatedAt": "2026-06-05T12:52:23.732Z",
    "tokenDuration": 6289,
    "addedAt": "2026-05-29T09:34:36.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Hugh Jackman",
+    "Michelle Williams",
+    "Zac Efron",
+    "Zendaya",
+    "Rebecca Ferguson",
+    "Austyn Johnson"
+   ],
+   "director": "Michael Gracey",
+   "recommended": "75%"
   },
   {
    "id": "movie_251",
@@ -40569,7 +43375,17 @@
    "updatedAt": "2026-06-05T12:52:24.820Z",
    "tokenDuration": 6138,
    "addedAt": "2026-05-30T03:07:10.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Ai Hashimoto",
+    "Hio Miyazawa",
+    "Miki Mizuno",
+    "Tokuma Nishioka",
+    "Tokuma Nishioka",
+    "Kimiko Yo"
+   ],
+   "director": "Jun Matsumoto",
+   "recommended": "70%"
   },
   {
    "id": "movie_254",
@@ -40602,7 +43418,17 @@
    "updatedAt": "2026-06-05T12:52:25.326Z",
    "tokenDuration": 3020,
    "addedAt": "2026-05-30T08:58:01.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Kappei Yamaguchi",
+    "Takako Honda",
+    "Yûko Mizutani",
+    "Mitsuo Iwata",
+    "Kiyoyuki Yanada",
+    "Nobuo Tobita"
+   ],
+   "director": "Hiroyuki Imaishi",
+   "recommended": "71%"
   },
   {
    "id": "movie_255",
@@ -40636,7 +43462,17 @@
    "updatedAt": "2026-06-05T12:55:35.180Z",
    "tokenDuration": 5649,
    "addedAt": "2026-05-30T14:48:53.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Natsuki Hanae",
+    "Yoshimasa Hosoya",
+    "Suzuko Mimori",
+    "Mutsumi Tamura",
+    "Hitomi Yoshida",
+    "Junya Ikeda"
+   ],
+   "director": "Tomohisa Taguchi",
+   "recommended": "75%"
   },
   {
    "id": "movie_256",
@@ -40702,7 +43538,17 @@
    "tokenDuration": 7009,
    "addedAt": "2026-05-31T14:12:18.000Z",
    "addedBy": "Sistema",
-   "saga": "Kimetsu no Yaiba"
+   "saga": "Kimetsu no Yaiba",
+   "cast": [
+    "Natsuki Hanae",
+    "Akari Kitô",
+    "Yoshitsugu Matsuoka",
+    "Hiro Shimono",
+    "Satoshi Hino",
+    "Takahiro Sakurai"
+   ],
+   "director": "Haruo Sotozaki",
+   "recommended": "82%"
   },
   {
    "id": "movie_258",
@@ -40734,7 +43580,16 @@
    "updatedAt": "2026-06-05T12:55:37.036Z",
    "tokenDuration": 5913,
    "addedAt": "2026-06-01T01:54:00.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Kimiko Yo",
+    "Tokuma Nishioka",
+    "Aju Makita",
+    "Hio Miyazawa",
+    "Miki Mizuno"
+   ],
+   "director": "Kenichi Kasai",
+   "recommended": "70%"
   },
   {
    "id": "movie_259",
@@ -40767,7 +43622,17 @@
    "updatedAt": "2026-06-05T12:55:37.541Z",
    "tokenDuration": 5420,
    "addedAt": "2026-06-01T07:44:52.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Hidetaka Yoshioka",
+    "Masato Hagiwara",
+    "Yuka Nanri",
+    "Unshô Ishizuka",
+    "Kazuhiko Inoue",
+    "Risa Mizuno"
+   ],
+   "director": "Makoto Shinkai",
+   "recommended": "68%"
   },
   {
    "id": "movie_260",
@@ -40801,7 +43666,17 @@
    "updatedAt": "2026-06-05T12:55:37.755Z",
    "tokenDuration": 6889,
    "addedAt": "2026-06-01T13:35:43.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Mayumi Tanaka",
+    "Kazuya Nakai",
+    "Akemi Okamura",
+    "Kappei Yamaguchi",
+    "Hiroaki Hirata",
+    "Ikue Ôtani"
+   ],
+   "director": "Gorô Taniguchi",
+   "recommended": "67%"
   },
   {
    "id": "movie_261",
@@ -40835,7 +43710,17 @@
    "updatedAt": "2026-06-05T12:55:44.902Z",
    "tokenDuration": 7256,
    "addedAt": "2026-06-02T01:17:26.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Nanoka Hara",
+    "Hokuto Matsumura",
+    "Eri Fukatsu",
+    "Shôta Sometani",
+    "Sairi Itô",
+    "Kotone Hanase"
+   ],
+   "director": "Makoto Shinkai",
+   "recommended": "76%"
   },
   {
    "id": "movie_262",
@@ -40871,7 +43756,17 @@
    "tokenDuration": 4504,
    "addedAt": "2026-06-02T07:08:17.000Z",
    "addedBy": "Sistema",
-   "saga": "Studio Ghibli"
+   "saga": "Studio Ghibli",
+   "cast": [
+    "Chizuru Ikewaki",
+    "Yoshihiko Hakamada",
+    "Aki Maeda",
+    "Takayuki Yamada",
+    "Hitomi Satô",
+    "Kenta Satoi"
+   ],
+   "director": "Hiroyuki Morita",
+   "recommended": "71%"
   },
   {
    "id": "movie_263",
@@ -40904,7 +43799,17 @@
    "updatedAt": "2026-06-06T04:10:58.501Z",
    "tokenDuration": 5592,
    "addedAt": "2026-06-02T12:59:08.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Jake Gyllenhaal",
+    "Michelle Monaghan",
+    "Vera Farmiga",
+    "Jeffrey Wright",
+    "Michael Arden",
+    "Cas Anvar"
+   ],
+   "director": "Duncan Jones",
+   "recommended": "75%"
   },
   {
    "id": "movie_264",
@@ -40939,7 +43844,17 @@
    "tokenDuration": 6714,
    "addedAt": "2026-06-02T18:50:00.000Z",
    "addedBy": "Sistema",
-   "saga": "Los Descendientes"
+   "saga": "Los Descendientes",
+   "cast": [
+    "Dove Cameron",
+    "Cameron Boyce",
+    "Booboo Stewart",
+    "Sofia Carson",
+    "Mitchell Hope",
+    "Melanie Paxson"
+   ],
+   "director": "Kenny Ortega",
+   "recommended": "63%"
   },
   {
    "id": "movie_265",
@@ -40972,7 +43887,17 @@
    "updatedAt": "2026-06-06T04:16:43.407Z",
    "tokenDuration": 6169,
    "addedAt": "2026-06-03T00:40:51.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Takuya Kimura",
+    "Yû Aoi",
+    "Takeshi Aono",
+    "Kôsei Hirota",
+    "Unshô Ishizuka",
+    "Kenta Miyake"
+   ],
+   "director": "Takeshi Koike",
+   "recommended": "75%"
   },
   {
    "id": "movie_266",
@@ -41005,7 +43930,17 @@
    "updatedAt": "2026-06-06T05:06:33.028Z",
    "tokenDuration": 6270,
    "addedAt": "2026-06-03T06:31:42.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Megumi Ogata",
+    "Kana Hanazawa",
+    "Yûichi Nakamura",
+    "Takahiro Sakurai",
+    "Mikako Komatsu",
+    "Kôki Uchiyama"
+   ],
+   "director": "Sunghoo Park",
+   "recommended": "78%"
   },
   {
    "id": "movie_267",
@@ -41038,7 +43973,17 @@
    "tokenDuration": 6309,
    "addedAt": "2026-06-03T12:22:34.000Z",
    "addedBy": "Sistema",
-   "saga": "Los Cazafantasmas"
+   "saga": "Los Cazafantasmas",
+   "cast": [
+    "Bill Murray",
+    "Dan Aykroyd",
+    "Sigourney Weaver",
+    "Harold Ramis",
+    "Rick Moranis",
+    "Annie Potts"
+   ],
+   "director": "Ivan Reitman",
+   "recommended": "78%"
   },
   {
    "id": "movie_268",
@@ -41072,7 +44017,17 @@
    "tokenDuration": 7865,
    "addedAt": "2026-06-04T00:04:16.000Z",
    "addedBy": "Sistema",
-   "saga": "John Wick"
+   "saga": "John Wick",
+   "cast": [
+    "Keanu Reeves",
+    "Halle Berry",
+    "Ian McShane",
+    "Laurence Fishburne",
+    "Mark Dacascos",
+    "Asia Kate Dillon"
+   ],
+   "director": "Chad Stahelski",
+   "recommended": "74%"
   },
   {
    "id": "movie_269",
@@ -41106,7 +44061,17 @@
    "updatedAt": "2026-06-07T06:44:26.998Z",
    "tokenDuration": 5978,
    "addedAt": "2026-06-04T05:55:08.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Arden Cho",
+    "May Hong",
+    "Ji-young Yoo",
+    "Ahn Hyo-seop",
+    "Yunjin Kim",
+    "Ken Jeong"
+   ],
+   "director": "Chris Appelhans, Maggie Kang",
+   "recommended": "74%"
   },
   {
    "id": "movie_270",
@@ -41140,7 +44105,17 @@
    "updatedAt": "2026-06-11T00:08:13.939Z",
    "addedAt": "2026-06-05T05:18:33.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Don Rickles",
+    "Jim Varney",
+    "Wallace Shawn",
+    "John Ratzenberger"
+   ],
+   "director": "John Lasseter",
+   "recommended": "83%"
   },
   {
    "id": "movie_271",
@@ -41173,7 +44148,17 @@
    "updatedAt": "2026-06-11T00:08:50.092Z",
    "addedAt": "2026-06-05T11:09:24.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack",
+    "Kelsey Grammer",
+    "Don Rickles",
+    "Jim Varney"
+   ],
+   "director": "John Lasseter, Ash Brannon",
+   "recommended": "79%"
   },
   {
    "id": "movie_272",
@@ -41206,7 +44191,17 @@
    "updatedAt": "2026-06-11T00:09:25.308Z",
    "addedAt": "2026-06-05T17:00:16.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack",
+    "Ned Beatty",
+    "Don Rickles",
+    "Michael Keaton"
+   ],
+   "director": "Lee Unkrich",
+   "recommended": "83%"
   },
   {
    "id": "movie_273",
@@ -41240,7 +44235,17 @@
    "updatedAt": "2026-06-11T00:10:04.266Z",
    "addedAt": "2026-06-05T22:51:07.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Annie Potts",
+    "Tony Hale",
+    "Keegan-Michael Key",
+    "Madeleine McGraw"
+   ],
+   "director": "Josh Cooley",
+   "recommended": "76%"
   },
   {
    "id": "movie_274",
@@ -41273,7 +44278,17 @@
    "updatedAt": "2026-06-15T01:23:33.990Z",
    "addedAt": "2026-06-06T04:41:58.000Z",
    "addedBy": "Sistema",
-   "saga": "Marvel"
+   "saga": "Marvel",
+   "cast": [
+    "Robert Downey Jr.",
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Mark Ruffalo"
+   ],
+   "director": "Anthony Russo, Joe Russo",
+   "recommended": "84%"
   },
   {
    "id": "movie_275",
@@ -41305,7 +44320,17 @@
    "createdAt": "2026-06-14T22:41:33.194Z",
    "updatedAt": "2026-06-14T22:41:33.194Z",
    "addedAt": "2026-06-09T20:24:48.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Taron Egerton",
+    "Mara Huf",
+    "Miles Barrow",
+    "Rick Yune",
+    "Nikita Efremov",
+    "Toby Jones"
+   ],
+   "director": "Jon S. Baird",
+   "recommended": "74%"
   },
   {
    "id": "movie_276",
@@ -41369,7 +44394,17 @@
    "createdAt": "2026-06-11T20:45:14.799Z",
    "updatedAt": "2026-06-11T20:45:14.799Z",
    "addedAt": "2026-06-06T22:14:32.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise",
+    "Sally Field",
+    "Rebecca Williams",
+    "Michael Conner Humphreys"
+   ],
+   "director": "Robert Zemeckis",
+   "recommended": "88%"
   },
   {
    "id": "movie_278",
@@ -41402,7 +44437,17 @@
    "createdAt": "2026-06-11T20:47:25.138Z",
    "updatedAt": "2026-06-11T20:47:25.138Z",
    "addedAt": "2026-06-07T04:05:23.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Freddie Highmore",
+    "Mia Farrow",
+    "Madonna",
+    "Madonna",
+    "Ron Crawford",
+    "Ron Crawford"
+   ],
+   "director": "Luc Besson",
+   "recommended": "60%"
   },
   {
    "id": "movie_279",
@@ -41434,7 +44479,17 @@
    "createdAt": "2026-06-11T20:48:40.322Z",
    "updatedAt": "2026-06-11T20:48:40.322Z",
    "addedAt": "2026-06-07T09:56:15.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Robin Williams",
+    "Forest Whitaker",
+    "Tom T. Tran",
+    "Chintara Sukapatana",
+    "Bruno Kirby",
+    "Robert Wuhl"
+   ],
+   "director": "Barry Levinson",
+   "recommended": "73%"
   },
   {
    "id": "movie_280",
@@ -41468,7 +44523,17 @@
    "updatedAt": "2026-06-11T20:52:28.253Z",
    "addedAt": "2026-06-07T15:47:06.000Z",
    "addedBy": "Sistema",
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jack Black",
+    "Angelina Jolie",
+    "Jackie Chan",
+    "Dustin Hoffman",
+    "Gary Oldman",
+    "Seth Rogen"
+   ],
+   "director": "Jennifer Yuh Nelson",
+   "recommended": "73%"
   },
   {
    "id": "movie_281",
@@ -41502,7 +44567,17 @@
    "updatedAt": "2026-06-11T20:53:17.933Z",
    "addedAt": "2026-06-07T21:37:57.000Z",
    "addedBy": "Sistema",
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jack Black",
+    "Ian McShane",
+    "Angelina Jolie",
+    "Dustin Hoffman",
+    "Jackie Chan",
+    "Seth Rogen"
+   ],
+   "director": "Mark Osborne, John Stevenson",
+   "recommended": "76%"
   },
   {
    "id": "movie_282",
@@ -41535,7 +44610,17 @@
    "createdAt": "2026-06-11T20:53:56.968Z",
    "updatedAt": "2026-06-11T20:53:56.968Z",
    "addedAt": "2026-06-08T03:28:49.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Stephen Chow",
+    "Wah Yuen",
+    "Qiu Yuen",
+    "Siu-Lung Leung",
+    "Xiaogang Feng",
+    "Zhihua Dong"
+   ],
+   "director": "Stephen Chow",
+   "recommended": "77%"
   },
   {
    "id": "movie_283",
@@ -41568,7 +44653,17 @@
    "updatedAt": "2026-06-11T20:54:49.859Z",
    "addedAt": "2026-06-08T09:19:40.000Z",
    "addedBy": "Sistema",
-   "saga": "Studio Ghibli"
+   "saga": "Studio Ghibli",
+   "cast": [
+    "Yôji Matsuda",
+    "Yuriko Ishida",
+    "Yûko Tanaka",
+    "Kaoru Kobayashi",
+    "Masahiko Nishimura",
+    "Tsunehiko Kamijô"
+   ],
+   "director": "Hayao Miyazaki",
+   "recommended": "83%"
   },
   {
    "id": "movie_284",
@@ -41602,7 +44697,17 @@
    "updatedAt": "2026-06-11T20:55:37.947Z",
    "addedAt": "2026-06-08T15:10:31.000Z",
    "addedBy": "Sistema",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Brad Garrett",
+    "Lou Romano",
+    "Patton Oswalt",
+    "Ian Holm",
+    "Brian Dennehy",
+    "Peter Sohn"
+   ],
+   "director": "Brad Bird, Jan Pinkava",
+   "recommended": "81%"
   },
   {
    "id": "movie_285",
@@ -41635,7 +44740,17 @@
    "updatedAt": "2026-06-11T20:58:08.832Z",
    "tokenDuration": 0,
    "addedAt": "2026-06-08T21:01:23.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Adeline Rudolph",
+    "Karl Urban",
+    "Martyn Ford",
+    "Tati Gabrielle",
+    "Jessica McNamee",
+    "Mehcad Brooks"
+   ],
+   "director": "Simon McQuoid",
+   "recommended": "64%"
   },
   {
    "id": "movie_286",
@@ -41670,7 +44785,17 @@
    "updatedAt": "2026-06-14T22:00:15.442Z",
    "addedAt": "2026-06-09T14:33:57.000Z",
    "addedBy": "Sistema",
-   "saga": "Las Leyendas"
+   "saga": "Las Leyendas",
+   "cast": [
+    "Mayté Cordeiro",
+    "Andrés Couturier",
+    "Erick Elias",
+    "Benny Emmanuel",
+    "Eduardo España",
+    "Herman López"
+   ],
+   "director": "Alberto Rodriguez",
+   "recommended": "69%"
   },
   {
    "id": "movie_287",
@@ -41702,7 +44827,17 @@
    "createdAt": "2026-06-14T23:19:09.944Z",
    "updatedAt": "2026-06-14T23:47:48.523Z",
    "addedAt": "2026-06-10T02:15:39.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Harvey Shain",
+    "William Rotsler",
+    "Dee Lockwood",
+    "Wendell Swink",
+    "Mickey Jines",
+    "James Brand"
+   ],
+   "director": "Peter Perry Jr.",
+   "recommended": "45%"
   },
   {
    "id": "movie_288",
@@ -41768,7 +44903,17 @@
    "updatedAt": "2026-06-16T02:03:24.263Z",
    "addedAt": "2026-06-11T07:29:56.000Z",
    "addedBy": "Sistema",
-   "saga": "Z-O-M-B-I-E-S"
+   "saga": "Z-O-M-B-I-E-S",
+   "cast": [
+    "Milo Manheim",
+    "Meg Donnelly",
+    "Trevor Tordjman",
+    "Kylee Russell",
+    "Carla Jeffery",
+    "Kingston Foster"
+   ],
+   "director": "Paul Hoen",
+   "recommended": "60%"
   },
   {
    "id": "movie_290",
@@ -41800,7 +44945,17 @@
    "updatedAt": "2026-06-16T02:04:32.136Z",
    "addedAt": "2026-06-11T13:20:47.000Z",
    "addedBy": "Sistema",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Sigourney Weaver",
+    "Tom Skerritt",
+    "John Hurt",
+    "Veronica Cartwright",
+    "Harry Dean Stanton",
+    "Ian Holm"
+   ],
+   "director": "Ridley Scott",
+   "recommended": "84%"
   },
   {
    "id": "movie_291",
@@ -41833,7 +44988,17 @@
    "updatedAt": "2026-06-16T02:05:06.157Z",
    "addedAt": "2026-06-11T19:11:39.000Z",
    "addedBy": "Sistema",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Sigourney Weaver",
+    "Winona Ryder",
+    "Dominique Pinon",
+    "Ron Perlman",
+    "Gary Dourdan",
+    "Michael Wincott"
+   ],
+   "director": "Jean-Pierre Jeunet",
+   "recommended": "62%"
   },
   {
    "id": "movie_292",
@@ -41866,7 +45031,17 @@
    "updatedAt": "2026-06-16T02:05:59.280Z",
    "addedAt": "2026-06-12T01:02:30.000Z",
    "addedBy": "Sistema",
-   "saga": "It"
+   "saga": "It",
+   "cast": [
+    "Bill Skarsgård",
+    "Jaeden Martell",
+    "Finn Wolfhard",
+    "Sophia Lillis",
+    "Jeremy Ray Taylor",
+    "Chosen Jacobs"
+   ],
+   "director": "Andy Muschietti",
+   "recommended": "73%"
   },
   {
    "id": "movie_293",
@@ -41899,7 +45074,17 @@
    "createdAt": "2026-06-16T02:10:12.637Z",
    "updatedAt": "2026-06-16T02:10:12.637Z",
    "addedAt": "2026-06-12T06:53:21.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Mel Gibson",
+    "Sophie Marceau",
+    "Patrick McGoohan",
+    "Angus Macfadyen",
+    "James Robinson",
+    "Sean Lawlor"
+   ],
+   "director": "Mel Gibson",
+   "recommended": "83%"
   },
   {
    "id": "movie_294",
@@ -41932,7 +45117,17 @@
    "updatedAt": "2026-06-16T02:13:33.934Z",
    "addedAt": "2026-06-12T18:35:04.000Z",
    "addedBy": "Sistema",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Sigourney Weaver",
+    "Michael Biehn",
+    "Carrie Henn",
+    "Paul Reiser",
+    "Lance Henriksen",
+    "Bill Paxton"
+   ],
+   "director": "James Cameron",
+   "recommended": "84%"
   },
   {
    "id": "movie_295",
@@ -41964,7 +45159,17 @@
    "createdAt": "2026-06-16T03:32:06.979Z",
    "updatedAt": "2026-06-16T03:32:06.979Z",
    "addedAt": "2026-06-13T00:25:55.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "James Stewart",
+    "Lee Remick",
+    "Ben Gazzara",
+    "Arthur O'Connell",
+    "Eve Arden",
+    "Kathryn Grant"
+   ],
+   "director": "Otto Preminger",
+   "recommended": "80%"
   },
   {
    "id": "movie_296",
@@ -41995,7 +45200,17 @@
    "createdAt": "2026-06-16T04:02:50.473Z",
    "updatedAt": "2026-06-16T04:02:50.473Z",
    "addedAt": "2026-06-13T06:16:46.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Lindsay Lohan",
+    "Lindsay Lohan",
+    "Dennis Quaid",
+    "Natasha Richardson",
+    "Elaine Hendrix",
+    "Lisa Ann Walter"
+   ],
+   "director": "Nancy Meyers",
+   "recommended": "67%"
   },
   {
    "id": "movie_297",
@@ -42027,7 +45242,17 @@
    "createdAt": "2026-06-16T04:05:24.330Z",
    "updatedAt": "2026-06-16T04:05:24.330Z",
    "addedAt": "2026-06-13T12:07:38.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Emma Thompson",
+    "Tom Hanks",
+    "Annie Rose Buckley",
+    "Colin Farrell",
+    "Ruth Wilson",
+    "Paul Giamatti"
+   ],
+   "director": "John Lee Hancock",
+   "recommended": "75%"
   },
   {
    "id": "movie_298",
@@ -42058,7 +45283,17 @@
    "createdAt": "2026-06-16T04:06:02.505Z",
    "updatedAt": "2026-06-16T04:06:02.505Z",
    "addedAt": "2026-06-13T17:58:29.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Ryan Gosling",
+    "Emma Stone",
+    "Rosemarie DeWitt",
+    "J.K. Simmons",
+    "Amiee Conn",
+    "Terry Walters"
+   ],
+   "director": "Damien Chazelle",
+   "recommended": "80%"
   },
   {
    "id": "movie_299",
@@ -42090,7 +45325,17 @@
    "createdAt": "2026-06-16T04:07:28.483Z",
    "updatedAt": "2026-06-16T04:07:28.483Z",
    "addedAt": "2026-06-13T23:49:20.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Dolph Lundgren",
+    "Frank Langella",
+    "Meg Foster",
+    "Billy Barty",
+    "Courteney Cox",
+    "Robert Duncan McNeill"
+   ],
+   "director": "Gary Goddard",
+   "recommended": "54%"
   },
   {
    "id": "movie_300",
@@ -42121,7 +45366,17 @@
    "createdAt": "2026-06-16T04:13:38.440Z",
    "updatedAt": "2026-06-16T04:13:38.440Z",
    "addedAt": "2026-06-14T05:40:12.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Mark Wahlberg",
+    "Kurt Russell",
+    "Douglas M. Griffin",
+    "James DuMont",
+    "Joe Chrest",
+    "Gina Rodriguez"
+   ],
+   "director": "Peter Berg",
+   "recommended": "71%"
   },
   {
    "id": "movie_301",
@@ -42185,7 +45440,17 @@
    "createdAt": "2026-06-16T04:15:25.947Z",
    "updatedAt": "2026-06-16T04:15:25.947Z",
    "addedAt": "2026-06-14T17:21:54.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Edward Norton",
+    "Gugu Mbatha-Raw",
+    "Alec Baldwin",
+    "Willem Dafoe",
+    "Bruce Willis",
+    "Ethan Suplee"
+   ],
+   "director": "Edward Norton",
+   "recommended": "68%"
   },
   {
    "id": "movie_303",
@@ -42219,7 +45484,17 @@
    "updatedAt": "2026-06-16T04:18:01.846Z",
    "addedAt": "2026-06-14T23:12:46.000Z",
    "addedBy": "Sistema",
-   "saga": "Divergente"
+   "saga": "Divergente",
+   "cast": [
+    "Shailene Woodley",
+    "Theo James",
+    "Jeff Daniels",
+    "Naomi Watts",
+    "Octavia Spencer",
+    "Zoë Kravitz"
+   ],
+   "director": "Robert Schwentke",
+   "recommended": "57%"
   },
   {
    "id": "movie_304",
@@ -42285,7 +45560,17 @@
    "updatedAt": "2026-06-16T04:20:37.638Z",
    "addedAt": "2026-06-15T10:54:28.000Z",
    "addedBy": "Sistema",
-   "saga": "Misión de Rescate"
+   "saga": "Misión de Rescate",
+   "cast": [
+    "Chris Hemsworth",
+    "Bryon Lerum",
+    "Ryder Lerum",
+    "Rudhraksh Jaiswal",
+    "Shivam Vichare",
+    "Piyush Khati"
+   ],
+   "director": "Sam Hargrave",
+   "recommended": "68%"
   },
   {
    "id": "movie_306",
@@ -42318,7 +45603,17 @@
    "updatedAt": "2026-06-16T04:21:03.306Z",
    "addedAt": "2026-06-15T16:45:20.000Z",
    "addedBy": "Sistema",
-   "saga": "Misión de Rescate"
+   "saga": "Misión de Rescate",
+   "cast": [
+    "Chris Hemsworth",
+    "Golshifteh Farahani",
+    "Adam Bessa",
+    "Tornike Gogrichiani",
+    "Tornike Gogrichiani",
+    "Demetre Kavelashvili"
+   ],
+   "director": "Sam Hargrave",
+   "recommended": "70%"
   },
   {
    "id": "movie_307",
@@ -42351,7 +45646,15 @@
    "createdAt": "2026-06-16T04:21:34.764Z",
    "updatedAt": "2026-06-16T04:21:34.764Z",
    "addedAt": "2026-06-15T22:36:11.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Ivan Labanda",
+    "Ivan Labanda",
+    "Metodi Dimitrov",
+    "Robin Krambroeckers"
+   ],
+   "director": "Pablo Berger",
+   "recommended": "76%"
   },
   {
    "id": "movie_308",
@@ -42381,7 +45684,17 @@
    "createdAt": "2026-06-16T04:22:39.655Z",
    "updatedAt": "2026-06-16T04:22:39.655Z",
    "addedAt": "2026-06-16T04:27:02.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Leonardo DiCaprio",
+    "Kate Winslet",
+    "Christopher Fitzgerald",
+    "Jonathan Roumie",
+    "Neal Bledsoe",
+    "Marin Ireland"
+   ],
+   "director": "Sam Mendes",
+   "recommended": "73%"
   },
   {
    "id": "movie_309",
@@ -42412,7 +45725,17 @@
    "createdAt": "2026-06-16T04:23:44.259Z",
    "updatedAt": "2026-06-16T04:23:44.259Z",
    "addedAt": "2026-06-16T10:17:54.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Suraj Sharma",
+    "Irrfan Khan",
+    "Adil Hussain",
+    "Tabu",
+    "Ayush Tandon",
+    "Gautam Belur"
+   ],
+   "director": "Ang Lee",
+   "recommended": "79%"
   },
   {
    "id": "movie_310",
@@ -42505,7 +45828,12 @@
    "createdAt": "2026-06-16T04:31:42.887Z",
    "updatedAt": "2026-06-16T04:31:42.887Z",
    "addedAt": "2026-06-17T09:41:19.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Anthony Sherwood"
+   ],
+   "director": "Meilan Lam",
+   "recommended": "53%"
   },
   {
    "id": "movie_313",
@@ -42537,7 +45865,17 @@
    "createdAt": "2026-06-16T04:33:00.672Z",
    "updatedAt": "2026-06-16T04:33:00.672Z",
    "addedAt": "2026-06-17T15:32:10.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Tommy Lee Jones",
+    "Javier Bardem",
+    "Josh Brolin",
+    "Woody Harrelson",
+    "Kelly Macdonald",
+    "Garret Dillahunt"
+   ],
+   "director": "Ethan Coen, Joel Coen",
+   "recommended": "82%"
   },
   {
    "id": "movie_314",
@@ -42599,7 +45937,9 @@
    "createdAt": "2026-06-16T04:41:03.111Z",
    "updatedAt": "2026-06-16T04:41:03.111Z",
    "addedAt": "2026-06-18T09:04:44.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "director": "Eva Müller, Michael Schmitt",
+   "recommended": "73%"
   },
   {
    "id": "movie_316",
@@ -42627,7 +45967,17 @@
    "createdAt": "2026-06-16T06:01:10.941Z",
    "updatedAt": "2026-06-16T08:25:26.635Z",
    "addedAt": "2026-06-18T14:55:35.000Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Zo In-sung",
+    "Park Jeong-min",
+    "Park Hae-joon",
+    "Shin Sae-Kyeong",
+    "Jeong Eu-gene",
+    "Pierce Conran"
+   ],
+   "director": "Ryoo Seung-wan",
+   "recommended": "64%"
   },
   {
    "id": "movie_317",
@@ -42660,7 +46010,17 @@
    "updatedAt": "2026-06-16T21:19:02.765Z",
    "addedAt": "2026-06-18T20:46:27.000Z",
    "addedBy": "Sistema",
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Robert Pattinson",
+    "Robert Pattinson",
+    "Zoë Kravitz",
+    "Jeffrey Wright",
+    "Colin Farrell",
+    "Colin Farrell"
+   ],
+   "director": "Matt Reeves",
+   "recommended": "78%"
   },
   {
    "id": "movie_318",
@@ -42693,7 +46053,17 @@
    "updatedAt": "2026-06-16T21:28:16.854Z",
    "addedAt": "2026-06-19T14:19:01.000Z",
    "addedBy": "Sistema",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Alec Guinness",
+    "Peter Cushing",
+    "Anthony Daniels"
+   ],
+   "director": "George Lucas",
+   "recommended": "86%"
   },
   {
    "id": "movie_319",
@@ -42726,7 +46096,17 @@
    "updatedAt": "2026-06-16T21:28:54.309Z",
    "addedAt": "2026-06-19T20:09:52.000Z",
    "addedBy": "Sistema",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Mark Hamill",
+    "Harrison Ford",
+    "Carrie Fisher",
+    "Billy Dee Williams",
+    "Anthony Daniels",
+    "David Prowse"
+   ],
+   "director": "Irvin Kershner",
+   "recommended": "87%"
   },
   {
    "id": "movie_320",
@@ -42759,7 +46139,17 @@
    "updatedAt": "2026-06-16T21:30:25.975Z",
    "addedAt": "2026-06-20T02:00:43.000Z",
    "addedBy": "Sistema",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac",
+    "Domhnall Gleeson",
+    "Harrison Ford",
+    "Mark Hamill"
+   ],
+   "director": "J.J. Abrams",
+   "recommended": "77%"
   },
   {
    "type": "movie",
@@ -42827,7 +46217,17 @@
    "updatedAt": "2026-06-23T07:53:51.339Z",
    "addedAt": "2026-06-20T07:52:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Los Descendientes"
+   "saga": "Los Descendientes",
+   "cast": [
+    "Dove Cameron",
+    "Cameron Boyce",
+    "Sofia Carson",
+    "Booboo Stewart",
+    "Mitchell Hope",
+    "Brenna D'Amico"
+   ],
+   "director": "Kenny Ortega",
+   "recommended": "64%"
   },
   {
    "id": "movie_323",
@@ -42859,7 +46259,17 @@
    "updatedAt": "2026-06-23T07:54:13.729Z",
    "addedAt": "2026-06-20T07:53:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Christian Campbell",
+    "Jim Conrad",
+    "Alessandro Juliani",
+    "Christopher Judge",
+    "Lisa Ann Beley",
+    "Lisa Ann Beley"
+   ],
+   "director": "Greg Richardson",
+   "recommended": "64%"
   },
   {
    "id": "movie_324",
@@ -42892,7 +46302,17 @@
    "updatedAt": "2026-06-23T07:56:25.301Z",
    "addedAt": "2026-06-20T07:55:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Divergente"
+   "saga": "Divergente",
+   "cast": [
+    "Shailene Woodley",
+    "Theo James",
+    "Kate Winslet",
+    "Jai Courtney",
+    "Ashley Judd",
+    "Ray Stevenson"
+   ],
+   "director": "Neil Burger",
+   "recommended": "66%"
   },
   {
    "id": "movie_325",
@@ -42926,7 +46346,17 @@
    "updatedAt": "2026-06-23T07:58:05.209Z",
    "addedAt": "2026-06-20T07:56:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Lisa Ann Beley",
+    "Lisa Ann Beley",
+    "Christian Campbell",
+    "Brian Drummond",
+    "Alessandro Juliani",
+    "Scott McNeil"
+   ],
+   "director": "Sean Sullivan",
+   "recommended": "69%"
   },
   {
    "id": "movie_326",
@@ -42959,7 +46389,17 @@
    "updatedAt": "2026-06-23T07:59:45.534Z",
    "addedAt": "2026-06-20T07:57:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Divergente"
+   "saga": "Divergente",
+   "cast": [
+    "Shailene Woodley",
+    "Ansel Elgort",
+    "Theo James",
+    "Kate Winslet",
+    "Jai Courtney",
+    "Mekhi Phifer"
+   ],
+   "director": "Robert Schwentke",
+   "recommended": "62%"
   },
   {
    "id": "movie_327",
@@ -42992,7 +46432,17 @@
    "updatedAt": "2026-06-23T08:00:33.249Z",
    "addedAt": "2026-06-20T07:58:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Kathleen Barr",
+    "Kathleen Barr",
+    "Meghan Black",
+    "Christian Campbell",
+    "Michael Donovan",
+    "Michael Donovan"
+   ],
+   "director": "Sean Sullivan",
+   "recommended": "69%"
   },
   {
    "id": "movie_328",
@@ -43027,7 +46477,17 @@
    "updatedAt": "2026-06-23T08:01:28.959Z",
    "addedAt": "2026-06-20T07:59:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Garry Chalk",
+    "Jim Conrad",
+    "Brian Drummond",
+    "Brian Drummond",
+    "Mark Hildreth",
+    "Alessandro Juliani"
+   ],
+   "director": "Audu Paden, Greg Richardson",
+   "recommended": "65%"
   },
   {
    "id": "movie_329",
@@ -43060,7 +46520,12 @@
    "updatedAt": "2026-06-23T08:01:51.250Z",
    "addedAt": "2026-06-20T08:00:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Andrew Francis"
+   ],
+   "director": "Vincent Edwards, Audu Paden",
+   "recommended": "58%"
   },
   {
    "id": "movie_330",
@@ -43093,7 +46558,17 @@
    "updatedAt": "2026-06-23T08:02:29.227Z",
    "addedAt": "2026-06-20T08:01:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Christian Campbell",
+    "Alessandro Juliani",
+    "Scott McNeil",
+    "Scott McNeil",
+    "Lisa Ann Beley",
+    "Lisa Ann Beley"
+   ],
+   "director": "William Lau",
+   "recommended": "69%"
   },
   {
    "id": "movie_331",
@@ -43127,7 +46602,17 @@
    "updatedAt": "2026-06-23T08:02:55.022Z",
    "addedAt": "2026-06-20T08:02:35.000Z",
    "addedBy": "Sistema",
-   "saga": "Max Steel"
+   "saga": "Max Steel",
+   "cast": [
+    "Mark Hildreth",
+    "Jim Conrad",
+    "Alessandro Juliani",
+    "Colin Murdock",
+    "Colin Murdock",
+    "Nicole Oliver"
+   ],
+   "director": "Greg Richardson",
+   "recommended": "67%"
   },
   {
    "id": "movie_332",
@@ -43224,7 +46709,17 @@
    "createdAt": "2026-06-23T08:31:18.472Z",
    "updatedAt": "2026-06-23T08:31:18.472Z",
    "addedAt": "2026-06-23T08:31:18.472Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Ashton Kutcher",
+    "Amanda Peet",
+    "Taryn Manning",
+    "Aimee Garcia",
+    "Lee Garlington",
+    "Birdie M. Hale"
+   ],
+   "director": "Nigel Cole",
+   "recommended": "66%"
   },
   {
    "id": "movie_335",
@@ -43256,7 +46751,17 @@
    "createdAt": "2026-06-23T08:32:44.349Z",
    "updatedAt": "2026-06-23T08:32:44.349Z",
    "addedAt": "2026-06-23T08:32:44.349Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Chow Yun-Fat",
+    "Michelle Yeoh",
+    "Ziyi Zhang",
+    "Chang Chen",
+    "Sihung Lung",
+    "Pei-Pei Cheng"
+   ],
+   "director": "Ang Lee",
+   "recommended": "79%"
   },
   {
    "id": "movie_336",
@@ -43290,7 +46795,17 @@
    "updatedAt": "2026-06-23T08:33:12.331Z",
    "addedAt": "2026-06-23T08:33:12.331Z",
    "addedBy": "Sistema",
-   "saga": "Los Descendientes"
+   "saga": "Los Descendientes",
+   "cast": [
+    "Kylie Cantrall",
+    "Malia Baker",
+    "Dara Reneé",
+    "Ruby Rose Turner",
+    "Morgan Dudley",
+    "Melanie Paxson"
+   ],
+   "director": "Jennifer Phang",
+   "recommended": "47%"
   },
   {
    "id": "movie_337",
@@ -43320,7 +46835,17 @@
    "createdAt": "2026-06-23T13:09:35.769Z",
    "updatedAt": "2026-06-23T13:09:35.769Z",
    "addedAt": "2026-06-23T13:09:35.769Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Bela Lugosi",
+    "Helen Chandler",
+    "David Manners",
+    "Dwight Frye",
+    "Edward Van Sloan",
+    "Herbert Bunston"
+   ],
+   "director": "Tod Browning, Karl Freund",
+   "recommended": "73%"
   },
   {
    "id": "movie_338",
@@ -43353,7 +46878,17 @@
    "updatedAt": "2026-06-23T19:23:27.495Z",
    "addedAt": "2026-06-23T19:23:27.495Z",
    "addedBy": "Sistema",
-   "saga": "Z-O-M-B-I-E-S"
+   "saga": "Z-O-M-B-I-E-S",
+   "cast": [
+    "Milo Manheim",
+    "Meg Donnelly",
+    "Trevor Tordjman",
+    "Kylee Russell",
+    "Carla Jeffery",
+    "Chandler Kinney"
+   ],
+   "director": "Paul Hoen",
+   "recommended": "54%"
   },
   {
    "id": "movie_339",
@@ -43384,7 +46919,17 @@
    "createdAt": "2026-06-23T19:24:03.132Z",
    "updatedAt": "2026-06-23T19:24:03.132Z",
    "addedAt": "2026-06-23T19:24:03.132Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Sylvester Stallone",
+    "Armand Assante",
+    "Rob Schneider",
+    "Jürgen Prochnow",
+    "Max von Sydow",
+    "Diane Lane"
+   ],
+   "director": "Danny Cannon",
+   "recommended": "56%"
   },
   {
    "id": "movie_340",
@@ -43415,7 +46960,17 @@
    "updatedAt": "2026-06-23T19:24:43.547Z",
    "addedAt": "2026-06-23T19:24:43.547Z",
    "addedBy": "Sistema",
-   "saga": "Z-O-M-B-I-E-S"
+   "saga": "Z-O-M-B-I-E-S",
+   "cast": [
+    "Milo Manheim",
+    "Meg Donnelly",
+    "Trevor Tordjman",
+    "Kylee Russell",
+    "Carla Jeffery",
+    "Chandler Kinney"
+   ],
+   "director": "Paul Hoen",
+   "recommended": "58%"
   },
   {
    "id": "movie_341",
@@ -43446,7 +47001,17 @@
    "createdAt": "2026-06-23T19:25:18.256Z",
    "updatedAt": "2026-06-23T19:25:18.256Z",
    "addedAt": "2026-06-23T19:25:18.256Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Kazunari Ninomiya",
+    "Yamato Kochi",
+    "Naru Asanuma",
+    "Kotone Hanase",
+    "Hirota Ôtsuka",
+    "Tara Nakashima"
+   ],
+   "director": "Genki Kawamura",
+   "recommended": "65%"
   },
   {
    "id": "movie_342",
@@ -43477,7 +47042,17 @@
    "updatedAt": "2026-06-30T19:00:24.254Z",
    "addedAt": "2026-06-30T19:00:24.254Z",
    "addedBy": "Sistema",
-   "saga": "DC"
+   "saga": "DC",
+   "cast": [
+    "Halle Berry",
+    "Halle Berry",
+    "Sharon Stone",
+    "Benjamin Bratt",
+    "Lambert Wilson",
+    "Frances Conroy"
+   ],
+   "director": "Pitof",
+   "recommended": "35%"
   },
   {
    "id": "movie_343",
@@ -43505,7 +47080,17 @@
    "createdAt": "2026-06-30T19:01:02.569Z",
    "updatedAt": "2026-06-30T19:01:02.569Z",
    "addedAt": "2026-06-30T19:01:02.569Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Zoey Deutch",
+    "Nick Robinson",
+    "Harry Shum Jr.",
+    "Leah McKendrick",
+    "Ciara Bravo",
+    "Toby Sandeman"
+   ],
+   "director": "Leah McKendrick",
+   "recommended": "73%"
   },
   {
    "id": "movie_344",
@@ -43537,7 +47122,17 @@
    "updatedAt": "2026-06-30T19:01:27.342Z",
    "addedAt": "2026-06-30T19:01:27.342Z",
    "addedBy": "Sistema",
-   "saga": "DreamWorks"
+   "saga": "DreamWorks",
+   "cast": [
+    "Jerry Seinfeld",
+    "Renée Zellweger",
+    "Matthew Broderick",
+    "Patrick Warburton",
+    "John Goodman",
+    "Chris Rock"
+   ],
+   "director": "Steve Hickner, Simon J. Smith",
+   "recommended": "61%"
   },
   {
    "id": "movie_345",
@@ -43567,7 +47162,17 @@
    "createdAt": "2026-06-30T19:01:57.287Z",
    "updatedAt": "2026-06-30T19:01:57.287Z",
    "addedAt": "2026-06-30T19:01:57.287Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Halle Berry",
+    "Penélope Cruz",
+    "Robert Downey Jr.",
+    "Charles S. Dutton",
+    "John Carroll Lynch",
+    "Bernard Hill"
+   ],
+   "director": "Mathieu Kassovitz",
+   "recommended": "58%"
   },
   {
    "id": "movie_346",
@@ -43597,7 +47202,17 @@
    "createdAt": "2026-06-30T19:04:01.978Z",
    "updatedAt": "2026-06-30T19:04:01.978Z",
    "addedAt": "2026-06-30T19:04:01.978Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Peter O'Toole",
+    "Alec Guinness",
+    "Anthony Quinn",
+    "Jack Hawkins",
+    "Omar Sharif",
+    "José Ferrer"
+   ],
+   "director": "David Lean",
+   "recommended": "83%"
   },
   {
    "id": "movie_347",
@@ -43625,7 +47240,17 @@
    "createdAt": "2026-06-30T19:04:27.776Z",
    "updatedAt": "2026-06-30T19:04:27.776Z",
    "addedAt": "2026-06-30T19:04:27.776Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Jennifer Lopez",
+    "Ryan Guzman",
+    "Kristin Chenoweth",
+    "John Corbett",
+    "Ian Nelson",
+    "Lexi Atkins"
+   ],
+   "director": "Rob Cohen",
+   "recommended": "47%"
   },
   {
    "id": "movie_348",
@@ -43656,7 +47281,17 @@
    "createdAt": "2026-06-30T19:05:05.969Z",
    "updatedAt": "2026-06-30T19:05:05.969Z",
    "addedAt": "2026-06-30T19:05:05.969Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "George Clooney",
+    "Matt Damon",
+    "Bill Murray",
+    "Cate Blanchett",
+    "John Goodman",
+    "Jean Dujardin"
+   ],
+   "director": "George Clooney",
+   "recommended": "61%"
   },
   {
    "id": "movie_349",
@@ -43685,7 +47320,17 @@
    "createdAt": "2026-06-30T19:05:29.114Z",
    "updatedAt": "2026-06-30T19:05:29.114Z",
    "addedAt": "2026-06-30T19:05:29.114Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Jin Seon-kyu",
+    "Gong Myoung",
+    "Kim Ji Suk",
+    "Yoon Kyung-ho",
+    "Kang Han-na",
+    "Lee Da-hee"
+   ],
+   "director": "Gyu-tae Park",
+   "recommended": "62%"
   },
   {
    "id": "movie_350",
@@ -43715,7 +47360,17 @@
    "createdAt": "2026-06-30T19:05:54.245Z",
    "updatedAt": "2026-06-30T19:05:54.245Z",
    "addedAt": "2026-06-30T19:05:54.245Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Hugh Jackman",
+    "Brett Goldstein",
+    "Brett Goldstein",
+    "Patrick Stewart",
+    "Regina Hall",
+    "Bella Ramsey"
+   ],
+   "director": "Kyle Balda",
+   "recommended": "74%"
   },
   {
    "id": "movie_351",
@@ -43743,7 +47398,17 @@
    "createdAt": "2026-06-30T19:06:16.051Z",
    "updatedAt": "2026-06-30T19:06:16.051Z",
    "addedAt": "2026-06-30T19:06:16.051Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Mads Mikkelsen",
+    "Thomas Bo Larsen",
+    "Annika Wedderkopp",
+    "Lasse Fogelstrøm",
+    "Susse Wold",
+    "Anne Louise Hassing"
+   ],
+   "director": "Thomas Vinterberg",
+   "recommended": "83%"
   },
   {
    "id": "movie_352",
@@ -43771,7 +47436,17 @@
    "createdAt": "2026-06-30T19:06:52.822Z",
    "updatedAt": "2026-06-30T19:06:52.822Z",
    "addedAt": "2026-06-30T19:06:52.822Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "John Cena",
+    "Eric André",
+    "Michelle Monaghan",
+    "Christopher Meloni",
+    "Sherry Cola",
+    "Ego Nwodim"
+   ],
+   "director": "Matt Spicer",
+   "recommended": "55%"
   },
   {
    "id": "movie_353",
@@ -43799,7 +47474,17 @@
    "createdAt": "2026-06-30T19:07:36.672Z",
    "updatedAt": "2026-06-30T19:07:36.672Z",
    "addedAt": "2026-06-30T19:07:36.672Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Clint Eastwood",
+    "Bee Vang",
+    "Christopher Carley",
+    "Ahney Her",
+    "Brian Haley",
+    "Geraldine Hughes"
+   ],
+   "director": "Clint Eastwood",
+   "recommended": "81%"
   },
   {
    "id": "movie_354",
@@ -43831,7 +47516,17 @@
    "updatedAt": "2026-06-30T19:08:01.462Z",
    "addedAt": "2026-06-30T19:08:01.462Z",
    "addedBy": "Sistema",
-   "saga": "Los Descendientes"
+   "saga": "Los Descendientes",
+   "cast": [
+    "Dove Cameron",
+    "Cameron Boyce",
+    "Sofia Carson",
+    "Booboo Stewart",
+    "Mitchell Hope",
+    "Sarah Jeffery"
+   ],
+   "director": "Kenny Ortega",
+   "recommended": "64%"
   },
   {
    "id": "movie_355",
@@ -43862,7 +47557,17 @@
    "createdAt": "2026-06-30T19:08:24.880Z",
    "updatedAt": "2026-06-30T19:08:24.880Z",
    "addedAt": "2026-06-30T19:08:24.880Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Tim Curry",
+    "Tim Curry",
+    "Rupert Everett",
+    "Flea",
+    "Lacey Chabert",
+    "Tom Kane"
+   ],
+   "director": "Cathy Malkasian, Jeff McGrath",
+   "recommended": "57%"
   },
   {
    "id": "movie_356",
@@ -43892,7 +47597,17 @@
    "createdAt": "2026-06-30T19:08:57.315Z",
    "updatedAt": "2026-06-30T19:08:57.315Z",
    "addedAt": "2026-06-30T19:08:57.315Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Sam Rockwell",
+    "Juno Temple",
+    "Haley Lu Richardson",
+    "Michael Peña",
+    "Zazie Beetz",
+    "Asim Chaudhry"
+   ],
+   "director": "Gore Verbinski",
+   "recommended": "70%"
   },
   {
    "id": "movie_357",
@@ -43955,7 +47670,17 @@
    "createdAt": "2026-07-01T20:34:55.714Z",
    "updatedAt": "2026-07-01T20:34:55.714Z",
    "addedAt": "2026-07-01T20:34:55.714Z",
-   "addedBy": "Sistema"
+   "addedBy": "Sistema",
+   "cast": [
+    "Matthew Lillard",
+    "Freddie Prinze Jr.",
+    "Sarah Michelle Gellar",
+    "Linda Cardellini",
+    "Rowan Atkinson",
+    "Isla Fisher"
+   ],
+   "director": "Raja Gosnell",
+   "recommended": "54%"
   },
   {
    "id": "movie_359",
@@ -44013,7 +47738,17 @@
    "createdAt": "2026-07-03T02:45:49.855Z",
    "updatedAt": "2026-07-03T02:45:49.855Z",
    "addedAt": "2026-07-03T02:45:49.855Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Megumi Hayashibara",
+    "Megumi Hayashibara",
+    "Tôru Emori",
+    "Katsunosuke Hori",
+    "Tôru Furuya",
+    "Kôichi Yamadera"
+   ],
+   "director": "Satoshi Kon",
+   "recommended": "77%"
   },
   {
    "id": "movie_361",
@@ -44043,7 +47778,17 @@
    "createdAt": "2026-07-07T00:06:55.528Z",
    "updatedAt": "2026-07-07T00:37:22.545Z",
    "addedAt": "2026-07-07T00:06:55.528Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Chiwetel Ejiofor",
+    "Renate Reinsve",
+    "Mark Duplass",
+    "Finn Bennett",
+    "Lukita Maxwell",
+    "Avan Jogia"
+   ],
+   "director": "Kane Parsons",
+   "recommended": "69%"
   },
   {
    "id": "movie_362",
@@ -44129,7 +47874,17 @@
    "createdAt": "2026-07-07T00:10:58.322Z",
    "updatedAt": "2026-07-07T00:10:58.322Z",
    "addedAt": "2026-07-07T00:10:58.322Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Benedict Cumberbatch",
+    "Tom Hardy",
+    "Nicola Duffett",
+    "Claire-Louise Cordwell",
+    "Edna Doré",
+    "Candis Nergaard"
+   ],
+   "director": "David Attwood",
+   "recommended": "76%"
   },
   {
    "id": "movie_365",
@@ -44158,7 +47913,17 @@
    "createdAt": "2026-07-07T00:13:00.110Z",
    "updatedAt": "2026-07-07T00:13:00.110Z",
    "addedAt": "2026-07-07T00:13:00.110Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jackie Chan",
+    "Feng Hsu",
+    "Ling Lung Yu",
+    "Ie Lung Shen",
+    "Kuo Wang",
+    "Hui-Lou Chen"
+   ],
+   "director": "Wei Lo",
+   "recommended": "53%"
   },
   {
    "id": "movie_366",
@@ -44188,7 +47953,17 @@
    "createdAt": "2026-07-07T00:13:58.121Z",
    "updatedAt": "2026-07-07T00:31:09.156Z",
    "addedAt": "2026-07-07T00:13:58.121Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Bruce Lee",
+    "Nora Miao",
+    "James Tien",
+    "Maria Yi",
+    "Robert Baker",
+    "Fu Ching Chen"
+   ],
+   "director": "Wei Lo",
+   "recommended": "72%"
   },
   {
    "id": "movie_367",
@@ -44217,7 +47992,17 @@
    "createdAt": "2026-07-07T00:14:41.663Z",
    "updatedAt": "2026-07-07T00:38:32.724Z",
    "addedAt": "2026-07-07T00:14:41.663Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Henry Cavill",
+    "Jake Gyllenhaal",
+    "Eiza González",
+    "Carlos Bardem",
+    "Michael Vu",
+    "Fisher Stevens"
+   ],
+   "director": "Guy Ritchie",
+   "recommended": "63%"
   },
   {
    "id": "movie_368",
@@ -44246,7 +48031,17 @@
    "createdAt": "2026-07-07T00:16:21.540Z",
    "updatedAt": "2026-07-07T00:23:45.240Z",
    "addedAt": "2026-07-07T00:16:21.540Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jackie Chan",
+    "Nora Miao",
+    "Sing Chen",
+    "Ying-Chieh Han",
+    "Ming Yi",
+    "Ming Cheng Chang"
+   ],
+   "director": "Wei Lo",
+   "recommended": "55%"
   },
   {
    "id": "movie_369",
@@ -44276,7 +48071,17 @@
    "createdAt": "2026-07-07T00:17:15.901Z",
    "updatedAt": "2026-07-07T00:17:15.901Z",
    "addedAt": "2026-07-07T00:17:15.901Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jackie Chan",
+    "Siu-Tin Yuen",
+    "Hung-Lieh Chen",
+    "Dean Shek",
+    "Kwok-Choi Hon",
+    "Biao Yuen"
+   ],
+   "director": "Mu Chu, Hai-Feng Wei",
+   "recommended": "51%"
   },
   {
    "id": "movie_370",
@@ -44305,7 +48110,17 @@
    "createdAt": "2026-07-07T00:18:05.371Z",
    "updatedAt": "2026-07-07T00:18:05.371Z",
    "addedAt": "2026-07-07T00:18:05.371Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Tao-Liang Tan",
+    "James Tien",
+    "Jackie Chan",
+    "Ching Chu",
+    "Wei Yang",
+    "Sammo Kam-Bo Hung"
+   ],
+   "director": "John Woo",
+   "recommended": "60%"
   },
   {
    "id": "movie_371",
@@ -44333,7 +48148,17 @@
    "createdAt": "2026-07-07T00:18:46.600Z",
    "updatedAt": "2026-07-07T00:18:46.600Z",
    "addedAt": "2026-07-07T00:18:46.600Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jeff Bridges",
+    "Jeff Bridges",
+    "Tommy Lee Jones",
+    "Suzy Amis",
+    "Lloyd Bridges",
+    "Forest Whitaker"
+   ],
+   "director": "Stephen Hopkins",
+   "recommended": "63%"
   },
   {
    "id": "movie_372",
@@ -44361,7 +48186,17 @@
    "createdAt": "2026-07-07T00:19:33.849Z",
    "updatedAt": "2026-07-07T00:19:33.849Z",
    "addedAt": "2026-07-07T00:19:33.849Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jackie Chan",
+    "Chun-Erh Lung",
+    "Kang Chin",
+    "Ping-Yu Chang",
+    "Yi-Fei Chang",
+    "Lu-Chiang Chao"
+   ],
+   "director": "Chi-Hwa Chen",
+   "recommended": "64%"
   },
   {
    "id": "movie_373",
@@ -44390,7 +48225,17 @@
    "createdAt": "2026-07-07T00:20:16.840Z",
    "updatedAt": "2026-07-07T00:20:16.840Z",
    "addedAt": "2026-07-07T00:20:16.840Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Charlie Chin",
+    "Qiu Yuen",
+    "Betty Pei Ti",
+    "Chin Hu",
+    "Jackie Chan",
+    "Chiang Nan"
+   ],
+   "director": "Mu Chu",
+   "recommended": "36%"
   },
   {
    "id": "movie_374",
@@ -44418,7 +48263,17 @@
    "createdAt": "2026-07-07T00:20:51.782Z",
    "updatedAt": "2026-07-07T00:26:10.815Z",
    "addedAt": "2026-07-07T00:20:51.782Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jackie Chan",
+    "James Tien",
+    "Siu-Lung Leung",
+    "Ping Wang",
+    "Ming Liu",
+    "Quen Wang"
+   ],
+   "director": "Wei Lo",
+   "recommended": "55%"
   },
   {
    "id": "movie_375",
@@ -44449,7 +48304,17 @@
    "createdAt": "2026-07-07T00:32:03.249Z",
    "updatedAt": "2026-07-07T00:32:03.249Z",
    "addedAt": "2026-07-07T00:32:03.249Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Susumu Akagi",
+    "Takatsugu Awazu",
+    "Chô",
+    "Hayato Fujii",
+    "Jun Fukushima",
+    "Tesshô Genda"
+   ],
+   "director": "Yutaka Uemura",
+   "recommended": "75%"
   },
   {
    "id": "movie_376",
@@ -44477,7 +48342,17 @@
    "createdAt": "2026-07-07T00:34:04.892Z",
    "updatedAt": "2026-07-07T00:34:04.892Z",
    "addedAt": "2026-07-07T00:34:04.892Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Bruce Lee",
+    "John Saxon",
+    "Jim Kelly",
+    "Ahna Capri",
+    "Shih Kien",
+    "Robert Wall"
+   ],
+   "director": "Robert Clouse",
+   "recommended": "76%"
   },
   {
    "id": "movie_377",
@@ -44535,7 +48410,17 @@
    "createdAt": "2026-07-10T05:14:16.095Z",
    "updatedAt": "2026-07-10T05:14:16.095Z",
    "addedAt": "2026-07-10T05:14:16.095Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Matthew Modine",
+    "R. Lee Ermey",
+    "Vincent D'Onofrio",
+    "Adam Baldwin",
+    "Dorian Harewood",
+    "Kevyn Major Howard"
+   ],
+   "director": "Stanley Kubrick",
+   "recommended": "82%"
   },
   {
    "id": "movie_379",
@@ -44594,7 +48479,17 @@
    "createdAt": "2026-07-10T05:16:11.446Z",
    "updatedAt": "2026-07-10T05:16:11.446Z",
    "addedAt": "2026-07-10T05:16:11.446Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Shirley Temple",
+    "Jean Hersholt",
+    "Jean Hersholt",
+    "Arthur Treacher",
+    "Helen Westley",
+    "Thomas Beck"
+   ],
+   "director": "Allan Dwan",
+   "recommended": "72%"
   },
   {
    "id": "movie_381",
@@ -44623,7 +48518,17 @@
    "createdAt": "2026-07-15T02:06:04.601Z",
    "updatedAt": "2026-07-15T02:06:04.601Z",
    "addedAt": "2026-07-15T02:06:04.601Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Jacob Scipio",
+    "Lou Llobell",
+    "Melissa Leo",
+    "Joseph Lopez",
+    "Miles Fowler",
+    "Alan Trong"
+   ],
+   "director": "André Øvredal",
+   "recommended": "55%"
   },
   {
    "id": "movie_382",
@@ -44653,7 +48558,17 @@
    "createdAt": "2026-07-15T02:07:43.898Z",
    "updatedAt": "2026-07-15T02:07:43.898Z",
    "addedAt": "2026-07-15T02:07:43.898Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Matthew Broderick",
+    "Ally Sheedy",
+    "John Wood",
+    "Dabney Coleman",
+    "Barry Corbin",
+    "Juanin Clay"
+   ],
+   "director": "John Badham",
+   "recommended": "71%"
   },
   {
    "id": "movie_383",
@@ -44683,7 +48598,17 @@
    "updatedAt": "2026-07-15T02:08:28.995Z",
    "addedAt": "2026-07-15T02:08:28.995Z",
    "addedBy": "seanf",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Michael Fassbender",
+    "Michael Fassbender",
+    "Katherine Waterston",
+    "Billy Crudup",
+    "Danny McBride",
+    "Demián Bichir"
+   ],
+   "director": "Ridley Scott",
+   "recommended": "64%"
   },
   {
    "id": "movie_384",
@@ -44713,7 +48638,17 @@
    "updatedAt": "2026-07-15T02:09:48.650Z",
    "addedAt": "2026-07-15T02:09:48.650Z",
    "addedBy": "seanf",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Cailee Spaeny",
+    "David Jonsson",
+    "Archie Renaux",
+    "Isabela Merced",
+    "Spike Fearn",
+    "Aileen Wu"
+   ],
+   "director": "Fede Alvarez",
+   "recommended": "71%"
   },
   {
    "id": "movie_385",
@@ -44741,7 +48676,17 @@
    "createdAt": "2026-07-15T02:12:55.546Z",
    "updatedAt": "2026-07-15T02:12:55.546Z",
    "addedAt": "2026-07-15T02:12:55.546Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Richard Farnsworth",
+    "Sissy Spacek",
+    "Jane Galloway Heitz",
+    "Joseph A. Carpenter",
+    "Donald Wiegert",
+    "Tracey Maloney"
+   ],
+   "director": "David Lynch",
+   "recommended": "80%"
   },
   {
    "id": "movie_386",
@@ -44772,7 +48717,17 @@
    "updatedAt": "2026-07-15T02:15:06.276Z",
    "addedAt": "2026-07-15T02:15:06.276Z",
    "addedBy": "seanf",
-   "saga": "Alien"
+   "saga": "Alien",
+   "cast": [
+    "Noomi Rapace",
+    "Logan Marshall-Green",
+    "Michael Fassbender",
+    "Charlize Theron",
+    "Idris Elba",
+    "Guy Pearce"
+   ],
+   "director": "Ridley Scott",
+   "recommended": "70%"
   },
   {
    "id": "movie_387",
@@ -44805,7 +48760,17 @@
    "updatedAt": "2026-07-16T04:33:44.118Z",
    "addedAt": "2026-07-16T04:33:44.118Z",
    "addedBy": "carmesi",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "David Spade",
+    "John Goodman",
+    "Eartha Kitt",
+    "Patrick Warburton",
+    "Wendie Malick",
+    "Kellyann Kelso"
+   ],
+   "director": "Mark Dindal",
+   "recommended": "74%"
   },
   {
    "id": "movie_388",
@@ -44836,7 +48801,17 @@
    "updatedAt": "2026-07-17T22:05:57.937Z",
    "addedAt": "2026-07-16T04:37:37.126Z",
    "addedBy": "carmesi",
-   "saga": "Disney|Pixar"
+   "saga": "Disney|Pixar",
+   "cast": [
+    "Maia Kealoha",
+    "Sydney Agudong",
+    "Chris Sanders",
+    "Zach Galifianakis",
+    "Billy Magnussen",
+    "Courtney B. Vance"
+   ],
+   "director": "Dean Fleischer Camp",
+   "recommended": "67%"
   },
   {
    "id": "movie_389",
@@ -44867,7 +48842,17 @@
    "createdAt": "2026-07-16T04:38:47.717Z",
    "updatedAt": "2026-07-16T04:38:47.717Z",
    "addedAt": "2026-07-16T04:38:47.717Z",
-   "addedBy": "carmesi"
+   "addedBy": "carmesi",
+   "cast": [
+    "Sarah Natochenny",
+    "Sarah Natochenny",
+    "Sarah Natochenny",
+    "Sarah Natochenny",
+    "Sarah Natochenny",
+    "Sarah Natochenny"
+   ],
+   "director": "Kunihiko Yuyama",
+   "recommended": "63%"
   },
   {
    "id": "movie_390",
@@ -44929,7 +48914,17 @@
    "updatedAt": "2026-07-16T06:05:22.570Z",
    "addedAt": "2026-07-16T06:05:22.570Z",
    "addedBy": "carmesi",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Mark Hamill",
+    "Mark Hamill",
+    "Carrie Fisher",
+    "Adam Driver"
+   ],
+   "director": "Rian Johnson",
+   "recommended": "68%"
   },
   {
    "id": "movie_392",
@@ -44960,7 +48955,17 @@
    "updatedAt": "2026-07-16T06:06:38.029Z",
    "addedAt": "2026-07-16T06:06:38.029Z",
    "addedBy": "carmesi",
-   "saga": "Star Wars"
+   "saga": "Star Wars",
+   "cast": [
+    "Daisy Ridley",
+    "John Boyega",
+    "Oscar Isaac",
+    "Adam Driver",
+    "Mark Hamill",
+    "Mark Hamill"
+   ],
+   "director": "J.J. Abrams",
+   "recommended": "63%"
   },
   {
    "id": "movie_393",
@@ -44990,7 +48995,17 @@
    "createdAt": "2026-07-17T22:00:31.552Z",
    "updatedAt": "2026-07-17T22:00:31.552Z",
    "addedAt": "2026-07-17T22:00:31.552Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Nicolas Cage",
+    "Ethan Hawke",
+    "Jared Leto",
+    "Bridget Moynahan",
+    "Shake Tukhmanyan",
+    "Jean-Pierre Nshanian"
+   ],
+   "director": "Andrew Niccol",
+   "recommended": "76%"
   },
   {
    "id": "movie_394",
@@ -45022,7 +49037,17 @@
    "createdAt": "2026-07-18T07:39:17.085Z",
    "updatedAt": "2026-07-18T07:39:17.085Z",
    "addedAt": "2026-07-18T07:39:17.085Z",
-   "addedBy": "seanf"
+   "addedBy": "seanf",
+   "cast": [
+    "Will Smith",
+    "Kevin Kline",
+    "Kevin Kline",
+    "Kenneth Branagh",
+    "Salma Hayek",
+    "M. Emmet Walsh"
+   ],
+   "director": "Barry Sonnenfeld",
+   "recommended": "49%"
   }
  ],
  "sagas": [
