@@ -3860,7 +3860,6 @@
        "title": "Capítulo 2",
        "slotId": "ep_345",
        "links": {
-        "language_Japanese": "",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KimetsuNoYaiba/t1/KimetsuNoYaiba_S01E02/master.m3u8",
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KimetsuNoYaiba/t1/KimetsuNoYaiba_S01E02/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KimetsuNoYaiba/t1/KimetsuNoYaiba_S01E02/master.m3u8"
@@ -4109,7 +4108,6 @@
        "title": "Capítulo 1",
        "slotId": "ep_366",
        "links": {
-        "language_Spanish": "asd",
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E01/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KickButtowski/t2/KickButtowski_S02E01/master.m3u8"
        }
@@ -30358,10 +30356,7 @@
       {
        "id": "s01e12",
        "title": "Capítulo 12",
-       "slotId": "ep_2729",
-       "links": {
-        "language_Spanish": ""
-       }
+       "slotId": "ep_2729"
       }
      ]
     }
@@ -32774,7 +32769,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BabyDriver/master.m3u8",
-    "language_English": "sd",
     "language_Spanish": "https://cdn.yutopiaforge.com/cdn/e10a8359-edc9-4ca9-9905-f8445166ebfd/playlist.m3u8",
     "master_url": "https://cdn.yutopiaforge.com/cdn/e10a8359-edc9-4ca9-9905-f8445166ebfd/playlist.m3u8"
    },
@@ -33335,16 +33329,12 @@
    "languages": [
     "language_Spanish"
    ],
-   "links": {
-    "default": ""
-   },
    "enabled": false,
    "id": "movie_014",
    "addedAt": "2026-04-01T04:46:32.910Z",
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 13,
-   "master_url": "",
    "updatedAt": "2026-07-02T22:22:42.572Z",
    "tokenDuration": 8890,
    "saga": "Marvel",
@@ -34035,7 +34025,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8",
-    "language_Spanish": "1qawdq",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scream7/master.m3u8"
    },
    "enabled": false,
@@ -34078,7 +34067,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8",
-    "language_Spanish": "11",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Zootopia2/master.m3u8"
    },
    "enabled": false,
@@ -34123,7 +34111,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8",
-    "language_Spanish": "qqq",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AvatarFuegoYCeniza/master.m3u8"
    },
    "enabled": true,
@@ -34168,7 +34155,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8",
-    "language_Spanish": "asas",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8"
    },
    "enabled": true,
@@ -34210,7 +34196,6 @@
    ],
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta2014/master.m3u8",
-    "language_Spanish": "q",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta2014/master.m3u8"
    },
    "enabled": true,
@@ -34251,17 +34236,12 @@
    "languages": [
     "language_Spanish"
    ],
-   "links": {
-    "default": "qq",
-    "language_Spanish": "qq"
-   },
    "enabled": true,
    "id": "movie_035",
    "addedAt": "2026-04-03T21:56:07.430Z",
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 34,
-   "master_url": "qq",
    "cast": [
     "Chris Pratt",
     "Rebecca Ferguson",
@@ -34291,17 +34271,12 @@
    "languages": [
     "language_Spanish"
    ],
-   "links": {
-    "default": "qaq",
-    "language_Spanish": "qaq"
-   },
    "enabled": true,
    "id": "movie_036",
    "addedAt": "2026-04-03T22:03:40.888Z",
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 35,
-   "master_url": "qaq",
    "saga": "Exterminio",
    "cast": [
     "Jodie Comer",
@@ -34331,17 +34306,12 @@
    "languages": [
     "language_Spanish"
    ],
-   "links": {
-    "default": "qwdq",
-    "language_Spanish": "qwdq"
-   },
    "enabled": true,
    "id": "movie_037",
    "addedAt": "2026-04-03T22:12:22.925Z",
    "addedBy": "Admin",
    "atlas": "A",
    "gridIndex": 36,
-   "master_url": "qwdq",
    "cast": [
     "Zo In-sung",
     "Park Jeong-min",
@@ -34381,7 +34351,6 @@
    "videoUrl": "ads",
    "links": {
     "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8",
-    "language_Spanish": "ads",
     "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8"
    },
    "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8",
