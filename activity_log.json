@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T00:50:23.244Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_209"
-  },
-  {
     "timestamp": "2026-05-08T00:53:11.768Z",
     "user": "Admin",
     "action": "ADD",
@@ -3469,5 +3463,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_449",
     "title": "Un Paseo por las Tumbas"
+  },
+  {
+    "ts": "2026-07-21T07:06:59.405Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_450",
+    "title": "Obsesión"
   }
 ]
