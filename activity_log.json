@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T00:53:11.768Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_210"
-  },
-  {
     "timestamp": "2026-05-08T00:56:06.681Z",
     "user": "Admin",
     "action": "ADD",
@@ -3468,6 +3462,13 @@
     "ts": "2026-07-21T07:06:59.405Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_450",
+    "title": "Obsesión"
+  },
+  {
+    "ts": "2026-07-21T09:12:59.464Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
     "target": "movie_450",
     "title": "Obsesión"
   }
