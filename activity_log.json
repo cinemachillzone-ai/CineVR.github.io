@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T00:06:41.442Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_208"
-  },
-  {
     "timestamp": "2026-05-06T09:27:58.858Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3466,5 +3460,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_446",
     "title": "Por un puñado de dólares"
+  },
+  {
+    "ts": "2026-07-21T02:29:32.883Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_447",
+    "title": "Tenemos que hablar de Kevin"
   }
 ]
