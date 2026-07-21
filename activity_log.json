@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-06T09:27:58.858Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_083"
-  },
-  {
     "timestamp": "2026-05-08T00:49:06.887Z",
     "user": "Admin",
     "action": "ADD",
@@ -3467,5 +3461,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_447",
     "title": "Tenemos que hablar de Kevin"
+  },
+  {
+    "ts": "2026-07-21T02:33:16.251Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_448",
+    "title": "Tesis"
   }
 ]
