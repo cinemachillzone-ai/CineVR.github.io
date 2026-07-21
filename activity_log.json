@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T00:49:06.887Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_209"
-  },
-  {
     "timestamp": "2026-05-08T00:50:23.244Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3468,5 +3462,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_448",
     "title": "Tesis"
+  },
+  {
+    "ts": "2026-07-21T02:34:20.796Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_449",
+    "title": "Un Paseo por las Tumbas"
   }
 ]
