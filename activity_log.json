@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-08T01:02:23.357Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_117"
-  },
-  {
     "timestamp": "2026-05-10T00:03:14.538Z",
     "user": "Admin",
     "action": "ADD",
@@ -3470,6 +3464,13 @@
     "ts": "2026-07-22T22:17:58.767Z",
     "actor": "yutamir",
     "action": "ADD_MOVIE",
+    "target": "movie_451",
+    "title": "Backrooms Multi idioma"
+  },
+  {
+    "ts": "2026-07-22T22:36:57.772Z",
+    "actor": "yutamir",
+    "action": "EDIT_MOVIE",
     "target": "movie_451",
     "title": "Backrooms Multi idioma"
   }
