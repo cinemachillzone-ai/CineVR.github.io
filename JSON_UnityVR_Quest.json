@@ -14569,12 +14569,24 @@
       "gridIndex": 5,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/master.m3u8",
       "createdAt": "2026-07-22T22:17:33.150Z",
-      "updatedAt": "2026-07-22T22:37:13.371Z",
+      "updatedAt": "2026-07-22T22:38:28.716Z",
       "addedAt": "2026-07-22T22:17:33.150Z",
       "addedBy": "yutamir",
       "subtitles": [
-        "es",
-        "en"
+        {
+          "code": "es",
+          "name": "Espanol",
+          "auto": false,
+          "url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/subs_es.json",
+          "vtt": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/subs_es.vtt"
+        },
+        {
+          "code": "en",
+          "name": "English",
+          "auto": false,
+          "url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/subs_en.json",
+          "vtt": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/subs_en.vtt"
+        }
       ]
     },
     {
