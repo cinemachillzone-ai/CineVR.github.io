@@ -14569,9 +14569,13 @@
       "gridIndex": 5,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/master.m3u8",
       "createdAt": "2026-07-22T22:17:33.150Z",
-      "updatedAt": "2026-07-22T22:17:33.150Z",
+      "updatedAt": "2026-07-22T22:36:33.510Z",
       "addedAt": "2026-07-22T22:17:33.150Z",
-      "addedBy": "yutamir"
+      "addedBy": "yutamir",
+      "subtitles": [
+        "es",
+        "en"
+      ]
     },
     {
       "type": "series",
