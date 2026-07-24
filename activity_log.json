@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T00:12:45.718Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_118"
-  },
-  {
     "timestamp": "2026-05-10T00:12:52.055Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3475,5 +3469,14 @@
     "action": "EDIT_MOVIE",
     "target": "movie_451",
     "title": "Backrooms Multi idioma"
+  },
+  {
+    "ts": "2026-07-24T11:00:21.823Z",
+    "actor": "carmesi",
+    "action": "INJECT_SERIES",
+    "target": "series_166",
+    "title": "Pokemon",
+    "season": 1,
+    "episodes": 82
   }
 ]
