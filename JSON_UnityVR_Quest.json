@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 474,
+    "catalogCount": 475,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -47201,6 +47201,952 @@
       ],
       "atlas": "C",
       "gridIndex": 147
+    },
+    {
+      "id": "series_166",
+      "type": "series",
+      "title": "Pokemon",
+      "description": "La serie narra las aventuras del joven entrenador Pokemon de diez a\u00f1os Ash Ketchum, que decide comenzar su aventura para llegar a convertirse un d\u00eda en un gran Maestro de Pokemon. Para ello deber\u00e1 recorrer distintas regiones, capturar cuantos m\u00e1s Pokemon pueda, y conseguir las medallas de gimnasio necesarias y as\u00ed participar en la Liga Pokemon, ganarla y as\u00ed estar un paso m\u00e1s cerca de convertirse en Maestro Pokemon. Para ello cuenta con la ayuda de Pikachu, su primer Pokemon, que obtuvo de manos del Profesor Oak. En su recorrido conocer\u00e1 y har\u00e1 nuevos amigos, que le acompa\u00f1ar\u00e1n y ayudar\u00e1n para conseguir alcanzar su sue\u00f1o.",
+      "duration": "",
+      "rating": "TV-Y7",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1997,
+      "releaseDate": "1997-04-01",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "cast": [
+        "\u677e\u672c\u68a8\u9999",
+        "\u5927\u8c37\u80b2\u6c5f",
+        "\u5c71\u4e0b\u5927\u8f1d",
+        "Keny\u016b Horiuchi"
+      ],
+      "director": "",
+      "recommended": "Recomendado 80%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 6,
+      "_baseKey": "pokemon",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_3060",
+              "title": "Cap\u00edtulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E01/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_3061",
+              "title": "Cap\u00edtulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E02/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_3062",
+              "title": "Cap\u00edtulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E03/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_3063",
+              "title": "Cap\u00edtulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E04/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_3064",
+              "title": "Cap\u00edtulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E05/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_3065",
+              "title": "Cap\u00edtulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E06/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_3066",
+              "title": "Cap\u00edtulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E07/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_3067",
+              "title": "Cap\u00edtulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E08/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_3068",
+              "title": "Cap\u00edtulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E09/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_3069",
+              "title": "Cap\u00edtulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E10/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_3070",
+              "title": "Cap\u00edtulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E11/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_3071",
+              "title": "Cap\u00edtulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E12/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e13",
+              "slotId": "ep_3072",
+              "title": "Cap\u00edtulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E13/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e14",
+              "slotId": "ep_3073",
+              "title": "Cap\u00edtulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E14/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e15",
+              "slotId": "ep_3074",
+              "title": "Cap\u00edtulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E15/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e16",
+              "slotId": "ep_3075",
+              "title": "Cap\u00edtulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E16/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e17",
+              "slotId": "ep_3076",
+              "title": "Cap\u00edtulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E17/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e18",
+              "slotId": "ep_3077",
+              "title": "Cap\u00edtulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E18/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e19",
+              "slotId": "ep_3078",
+              "title": "Cap\u00edtulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E19/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e20",
+              "slotId": "ep_3079",
+              "title": "Cap\u00edtulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E20/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e21",
+              "slotId": "ep_3080",
+              "title": "Cap\u00edtulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E21/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e22",
+              "slotId": "ep_3081",
+              "title": "Cap\u00edtulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E22/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e23",
+              "slotId": "ep_3082",
+              "title": "Cap\u00edtulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E23/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e24",
+              "slotId": "ep_3083",
+              "title": "Cap\u00edtulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E24/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e25",
+              "slotId": "ep_3084",
+              "title": "Cap\u00edtulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E25/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e26",
+              "slotId": "ep_3085",
+              "title": "Cap\u00edtulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E26/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e27",
+              "slotId": "ep_3086",
+              "title": "Cap\u00edtulo 27",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E27/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E27/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E27/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e28",
+              "slotId": "ep_3087",
+              "title": "Cap\u00edtulo 28",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E28/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E28/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E28/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e29",
+              "slotId": "ep_3088",
+              "title": "Cap\u00edtulo 29",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E29/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E29/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E29/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e30",
+              "slotId": "ep_3089",
+              "title": "Cap\u00edtulo 30",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E30/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E30/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E30/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e31",
+              "slotId": "ep_3090",
+              "title": "Cap\u00edtulo 31",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E31/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E31/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E31/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e32",
+              "slotId": "ep_3091",
+              "title": "Cap\u00edtulo 32",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E32/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E32/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E32/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e33",
+              "slotId": "ep_3092",
+              "title": "Cap\u00edtulo 33",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E33/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E33/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E33/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e34",
+              "slotId": "ep_3093",
+              "title": "Cap\u00edtulo 34",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E34/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E34/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E34/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e35",
+              "slotId": "ep_3094",
+              "title": "Cap\u00edtulo 35",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E35/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E35/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E35/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e36",
+              "slotId": "ep_3095",
+              "title": "Cap\u00edtulo 36",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E36/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E36/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E36/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e37",
+              "slotId": "ep_3096",
+              "title": "Cap\u00edtulo 37",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E37/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E37/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E37/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e38",
+              "slotId": "ep_3097",
+              "title": "Cap\u00edtulo 38",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E38/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E38/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E38/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e39",
+              "slotId": "ep_3098",
+              "title": "Cap\u00edtulo 39",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E39/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E39/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E39/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e40",
+              "slotId": "ep_3099",
+              "title": "Cap\u00edtulo 40",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E40/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E40/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E40/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e41",
+              "slotId": "ep_3100",
+              "title": "Cap\u00edtulo 41",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E41/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E41/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E41/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e42",
+              "slotId": "ep_3101",
+              "title": "Cap\u00edtulo 42",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E42/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E42/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E42/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e43",
+              "slotId": "ep_3102",
+              "title": "Cap\u00edtulo 43",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E43/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E43/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E43/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e44",
+              "slotId": "ep_3103",
+              "title": "Cap\u00edtulo 44",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E44/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E44/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E44/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e45",
+              "slotId": "ep_3104",
+              "title": "Cap\u00edtulo 45",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E45/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E45/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E45/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e46",
+              "slotId": "ep_3105",
+              "title": "Cap\u00edtulo 46",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E46/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E46/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E46/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e47",
+              "slotId": "ep_3106",
+              "title": "Cap\u00edtulo 47",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E47/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E47/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E47/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e48",
+              "slotId": "ep_3107",
+              "title": "Cap\u00edtulo 48",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E48/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E48/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E48/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e49",
+              "slotId": "ep_3108",
+              "title": "Cap\u00edtulo 49",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E49/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E49/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E49/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e50",
+              "slotId": "ep_3109",
+              "title": "Cap\u00edtulo 50",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E50/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E50/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E50/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e51",
+              "slotId": "ep_3110",
+              "title": "Cap\u00edtulo 51",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E51/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E51/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E51/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e52",
+              "slotId": "ep_3111",
+              "title": "Cap\u00edtulo 52",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E52/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E52/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E52/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e53",
+              "slotId": "ep_3112",
+              "title": "Cap\u00edtulo 53",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E53/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E53/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E53/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e54",
+              "slotId": "ep_3113",
+              "title": "Cap\u00edtulo 54",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E54/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E54/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E54/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e55",
+              "slotId": "ep_3114",
+              "title": "Cap\u00edtulo 55",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E55/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E55/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E55/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e56",
+              "slotId": "ep_3115",
+              "title": "Cap\u00edtulo 56",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E56/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E56/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E56/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e57",
+              "slotId": "ep_3116",
+              "title": "Cap\u00edtulo 57",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E57/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E57/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E57/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e58",
+              "slotId": "ep_3117",
+              "title": "Cap\u00edtulo 58",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E58/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E58/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E58/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e59",
+              "slotId": "ep_3118",
+              "title": "Cap\u00edtulo 59",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E59/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E59/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E59/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e60",
+              "slotId": "ep_3119",
+              "title": "Cap\u00edtulo 60",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E60/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E60/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E60/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e61",
+              "slotId": "ep_3120",
+              "title": "Cap\u00edtulo 61",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E61/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E61/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E61/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e62",
+              "slotId": "ep_3121",
+              "title": "Cap\u00edtulo 62",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E62/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E62/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E62/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e63",
+              "slotId": "ep_3122",
+              "title": "Cap\u00edtulo 63",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E63/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E63/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E63/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e64",
+              "slotId": "ep_3123",
+              "title": "Cap\u00edtulo 64",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E64/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E64/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E64/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e65",
+              "slotId": "ep_3124",
+              "title": "Cap\u00edtulo 65",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E65/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E65/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E65/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e66",
+              "slotId": "ep_3125",
+              "title": "Cap\u00edtulo 66",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E66/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E66/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E66/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e67",
+              "slotId": "ep_3126",
+              "title": "Cap\u00edtulo 67",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E67/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E67/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E67/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e68",
+              "slotId": "ep_3127",
+              "title": "Cap\u00edtulo 68",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E68/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E68/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E68/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e69",
+              "slotId": "ep_3128",
+              "title": "Cap\u00edtulo 69",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E69/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E69/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E69/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e70",
+              "slotId": "ep_3129",
+              "title": "Cap\u00edtulo 70",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E70/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E70/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E70/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e71",
+              "slotId": "ep_3130",
+              "title": "Cap\u00edtulo 71",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E71/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E71/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E71/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e72",
+              "slotId": "ep_3131",
+              "title": "Cap\u00edtulo 72",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E72/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E72/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E72/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e73",
+              "slotId": "ep_3132",
+              "title": "Cap\u00edtulo 73",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E73/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E73/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E73/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e74",
+              "slotId": "ep_3133",
+              "title": "Cap\u00edtulo 74",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E74/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E74/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E74/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e75",
+              "slotId": "ep_3134",
+              "title": "Cap\u00edtulo 75",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E75/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E75/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E75/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e76",
+              "slotId": "ep_3135",
+              "title": "Cap\u00edtulo 76",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E76/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E76/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E76/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e77",
+              "slotId": "ep_3136",
+              "title": "Cap\u00edtulo 77",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E77/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E77/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E77/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e78",
+              "slotId": "ep_3137",
+              "title": "Cap\u00edtulo 78",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E78/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E78/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E78/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e79",
+              "slotId": "ep_3138",
+              "title": "Cap\u00edtulo 79",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E79/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E79/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E79/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e80",
+              "slotId": "ep_3139",
+              "title": "Cap\u00edtulo 80",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E80/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E80/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E80/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e81",
+              "slotId": "ep_3140",
+              "title": "Cap\u00edtulo 81",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E81/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E81/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E81/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            },
+            {
+              "id": "s01e82",
+              "slotId": "ep_3141",
+              "title": "Cap\u00edtulo 82",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E82/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E82/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pokemon/T1/PokemonS01E82/master.m3u8",
+              "updatedAt": "2026-07-24T10:59:54.563Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-07-24T10:59:54.563Z",
+      "updatedAt": "2026-07-24T10:59:54.563Z",
+      "addedAt": "2026-07-24T10:59:54.563Z",
+      "addedBy": "carmesi"
     }
   ],
   "sagas": [
