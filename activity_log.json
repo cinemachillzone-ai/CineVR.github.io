@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T00:12:52.055Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_118"
-  },
-  {
     "timestamp": "2026-05-10T00:19:39.015Z",
     "user": "Admin",
     "action": "ADD",
@@ -3478,5 +3472,13 @@
     "title": "Pokemon",
     "season": 1,
     "episodes": 82
+  },
+  {
+    "ts": "2026-07-24T11:13:24.150Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_166",
+    "title": "Pokemon",
+    "eps_changed": 0
   }
 ]
