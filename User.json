@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-24 04:40",
+  "lastUpdate": "2026-07-24 04:49",
   "stars": [
     {
       "user": "Lucesgrupo",
@@ -24,6 +24,10 @@
     {
       "user": "MixiBinx",
       "cellIndex": 5
+    },
+    {
+      "user": "Gaaratan",
+      "cellIndex": 6
     }
   ],
   "patreons": [
@@ -168,9 +172,10 @@
       "expiresAt": "2026-08-01T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 10,
-      "isStar": false,
+      "isStar": true,
       "patreonAccount": "Gaaratan",
-      "starAtlasIndex": 0
+      "starAtlasIndex": 0,
+      "starCellIndex": 6
     },
     {
       "id": "user_012",

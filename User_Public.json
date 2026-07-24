@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-24 04:40",
+  "lastUpdate": "2026-07-24 04:49",
   "patreonGlobal": false,
   "stars": [
     {
@@ -25,6 +25,10 @@
     {
       "user": "MixiBinx",
       "cellIndex": 5
+    },
+    {
+      "user": "Gaaratan",
+      "cellIndex": 6
     }
   ],
   "patreons": [
@@ -134,8 +138,9 @@
       "role": "Cinefilo",
       "atlasIndex": 0,
       "cellIndex": 10,
-      "isStar": false,
-      "starAtlasIndex": 0
+      "isStar": true,
+      "starAtlasIndex": 0,
+      "starCellIndex": 6
     },
     {
       "id": "user_012",
