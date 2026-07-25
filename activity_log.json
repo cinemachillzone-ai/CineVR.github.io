@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T00:19:39.015Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_119"
-  },
-  {
     "timestamp": "2026-05-10T00:28:38.492Z",
     "user": "Admin",
     "action": "ADD",
@@ -3479,6 +3473,14 @@
     "action": "EDIT_SERIES",
     "target": "series_166",
     "title": "Pokemon",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-07-25T00:37:37.121Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_073",
+    "title": "Candy Candy",
     "eps_changed": 0
   }
 ]
