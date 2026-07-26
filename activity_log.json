@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T00:33:07.972Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_121"
-  },
-  {
     "timestamp": "2026-05-10T00:37:29.249Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3481,5 +3475,14 @@
     "ts": "2026-07-25T01:49:45.102Z",
     "actor": "yutamir",
     "action": "REBUILD_FROM_DB"
+  },
+  {
+    "ts": "2026-07-26T21:50:04.435Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_167",
+    "title": "Los Simpson",
+    "season": 1,
+    "episodes": 13
   }
 ]
