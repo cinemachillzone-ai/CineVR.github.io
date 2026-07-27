@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-10T00:41:18.867Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_100"
-  },
-  {
     "timestamp": "2026-05-12T01:57:07.123Z",
     "user": "Admin",
     "action": "ADD",
@@ -3484,5 +3478,11 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 2401001
+  },
+  {
+    "ts": "2026-07-27T02:39:03.925Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 2401109
   }
 ]
