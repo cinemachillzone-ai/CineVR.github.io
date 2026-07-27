@@ -2804,7 +2804,7 @@
     },
     {
       "type": "movie",
-      "title": "The Legend of Aang: The Last Airbender",
+      "title": "The Legend of Aang: The Last Airbender (Sub Espa\u00f1ol)",
       "description": "La historia contin\u00faa a\u00f1os despu\u00e9s de la serie original, mostrando a Aang ya como adulto junto a sus amigos. Enfrenta nuevas amenazas mientras intenta mantener el equilibrio entre las naciones y preservar la paz en el mundo, ahora con responsabilidades m\u00e1s grandes como Avatar.",
       "duration": "",
       "rating": "PG-13",
@@ -2828,7 +2828,7 @@
       "atlas": "A",
       "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
-      "updatedAt": "2026-05-28T02:56:29.742Z",
+      "updatedAt": "2026-07-27T22:48:25.392Z",
       "tokenDuration": 5932,
       "cast": [
         "Eric Nam",
