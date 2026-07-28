@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:22:13.316Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_113"
-  },
-  {
     "timestamp": "2026-05-20T04:22:21.686Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3511,5 +3505,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_470",
     "title": "IT: Capítulo 2"
+  },
+  {
+    "ts": "2026-07-28T04:05:36.827Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_168",
+    "title": "Chiikawa",
+    "eps_changed": 0
   }
 ]
