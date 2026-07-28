@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:01:12.665Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_228"
-  },
-  {
     "timestamp": "2026-05-20T04:01:24.596Z",
     "user": "Admin",
     "action": "DEEP_REPAIR",
@@ -3507,5 +3501,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_454",
     "title": "Avatar Aang: el último maestro del aire"
+  },
+  {
+    "ts": "2026-07-28T02:42:56.675Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_468",
+    "title": "Exterminio: La evolución"
   }
 ]
