@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T02:02:35.627Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_213"
-  },
-  {
     "timestamp": "2026-05-12T02:04:01.809Z",
     "user": "Admin",
     "action": "ADD",
@@ -3489,5 +3483,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_452",
     "title": "Hulk: El hombre increíble"
+  },
+  {
+    "ts": "2026-07-28T01:21:58.402Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_453",
+    "title": "Capitán América: El Primer Vengador"
   }
 ]
