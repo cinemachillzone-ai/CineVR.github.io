@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:14:35.919Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_113"
-  },
-  {
     "timestamp": "2026-05-20T04:15:35.213Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3509,5 +3503,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_456",
     "title": "Scary Movie: Terroríficamente incorrecta"
+  },
+  {
+    "ts": "2026-07-28T02:59:55.564Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_469",
+    "title": "Amos del Universo"
   }
 ]
