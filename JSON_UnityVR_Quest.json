@@ -14683,16 +14683,19 @@
     {
       "id": "movie_455",
       "type": "movie",
-      "title": "My Super Fan Girl",
-      "description": "",
-      "duration": "",
+      "title": "Supergirl",
+      "description": "Kara Zor-El, prima de Superman, emprende un viaje por el espacio tras sufrir una tragedia personal. En el camino une fuerzas con una joven llamada Ruthye para perseguir a un despiadado enemigo. Su misi\u00f3n la llevar\u00e1 a enfrentarse a desaf\u00edos que pondr\u00e1n a prueba su fuerza, su compasi\u00f3n y su sentido de la justicia. La pel\u00edcula est\u00e1 inspirada en el c\u00f3mic Supergirl: Woman of Tomorrow.",
+      "duration": "1h 48min",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
-      "year": 2012,
-      "releaseDate": "2012-05-01",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-06-25",
       "genres": [
-        "Comedy"
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
       ],
       "languages": [
         "language_Spanish"
@@ -14701,9 +14704,19 @@
       "gridIndex": 12,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Supergirl2026/master.m3u8",
       "createdAt": "2026-07-28T01:32:03.172Z",
-      "updatedAt": "2026-07-28T01:32:03.172Z",
+      "updatedAt": "2026-07-28T01:39:35.485Z",
       "addedAt": "2026-07-28T01:32:03.172Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "recommended": "62%",
+      "cast": [
+        "Milly Alcock",
+        "Jason Momoa",
+        "Matthias Schoenaerts",
+        "Eve Ridley",
+        "David Corenswet"
+      ],
+      "director": "James Gunn",
+      "saga": "DC"
     },
     {
       "type": "series",
