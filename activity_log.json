@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-15T06:54:36.508Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_228"
-  },
-  {
     "timestamp": "2026-05-20T04:01:12.665Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3506,5 +3500,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_467",
     "title": "Pokémon: Volcanion y la maravilla mecánica"
+  },
+  {
+    "ts": "2026-07-28T02:40:23.044Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_454",
+    "title": "Avatar Aang: el último maestro del aire"
   }
 ]
