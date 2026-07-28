@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:22:21.686Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_111"
-  },
-  {
     "ts": "2026-05-27T00:44:06.423Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3512,6 +3506,14 @@
     "action": "EDIT_SERIES",
     "target": "series_168",
     "title": "Chiikawa",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-07-28T04:05:59.827Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_167",
+    "title": "Los Simpson",
     "eps_changed": 0
   }
 ]
