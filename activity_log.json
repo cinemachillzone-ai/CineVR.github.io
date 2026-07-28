@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T02:12:14.613Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_218"
-  },
-  {
     "timestamp": "2026-05-14T00:53:39.039Z",
     "user": "Admin",
     "action": "ADD",
@@ -3497,5 +3491,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_458",
     "title": "Iron Man 2"
+  },
+  {
+    "ts": "2026-07-28T01:46:02.945Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_459",
+    "title": "Exterminio: El templo de huesos"
   }
 ]
