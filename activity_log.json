@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T02:04:01.809Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_217"
-  },
-  {
     "timestamp": "2026-05-12T02:06:24.469Z",
     "user": "Admin",
     "action": "ADD",
@@ -3490,5 +3484,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_453",
     "title": "Capitán América: El Primer Vengador"
+  },
+  {
+    "ts": "2026-07-28T01:23:17.935Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_454",
+    "title": "El último maestro del aire"
   }
 ]
