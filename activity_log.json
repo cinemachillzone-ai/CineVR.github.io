@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-14T00:59:59.180Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_224"
-  },
-  {
     "timestamp": "2026-05-14T01:02:10.040Z",
     "user": "Admin",
     "action": "ADD",
@@ -3501,5 +3495,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_462",
     "title": "Pokémon 3: el hechizo de los Unown"
+  },
+  {
+    "ts": "2026-07-28T01:58:59.934Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_463",
+    "title": "Pokémon: Hoopa y un duelo histórico"
   }
 ]
