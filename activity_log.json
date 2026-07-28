@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-12T01:59:17.054Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_215"
-  },
-  {
     "timestamp": "2026-05-12T02:01:31.699Z",
     "user": "Admin",
     "action": "ADD",
@@ -3485,5 +3479,14 @@
     "action": "EDIT_MOVIE",
     "target": "movie_076",
     "title": "The Legend of Aang: The Last Airbender (Sub Español)"
+  },
+  {
+    "ts": "2026-07-28T01:18:19.505Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_168",
+    "title": "Chiikawa",
+    "season": 1,
+    "episodes": 10
   }
 ]
