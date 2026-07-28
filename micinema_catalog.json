@@ -65121,6 +65121,36 @@
       "updatedAt": "2026-07-28T02:59:28.084Z",
       "addedAt": "2026-07-28T02:59:28.084Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_470",
+      "type": "movie",
+      "title": "IT: Capítulo 2",
+      "description": "En este segundo capitulo Han pasado 27 años desde que el \"Club de los Perdedores\", formado por Bill, Berverly, Richie, Ben, Eddie, Mike y Stanley, se enfrentaran al macabro y despiadado Pennywise (Bill Skarsgård). En cuanto tuvieron oportunidad, abandonaron el pueblo de Derry, en el estado de Maine, que tantos problemas les había ocasionado. Sin embargo, ahora, siendo adultos, parece que no pueden escapar de su pasado. Todos deberán enfrentarse de nuevo al temible payaso para descubrir si de verdad están preparados para superar sus traumas de la infancia.",
+      "duration": "2h 49m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2019,
+      "releaseDate": "2019-09-04",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 27,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/itCapituloDos2019/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/itCapituloDos2019/master.m3u8",
+      "createdAt": "2026-07-28T03:31:02.107Z",
+      "updatedAt": "2026-07-28T03:31:02.107Z",
+      "addedAt": "2026-07-28T03:31:02.107Z",
+      "addedBy": "carmesi"
     }
   ],
   "sagas": [
