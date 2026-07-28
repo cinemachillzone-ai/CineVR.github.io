@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-05-20T04:15:35.213Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_111"
-  },
-  {
     "timestamp": "2026-05-20T04:22:13.316Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3510,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_469",
     "title": "Amos del Universo"
+  },
+  {
+    "ts": "2026-07-28T03:31:14.590Z",
+    "actor": "carmesi",
+    "action": "INJECT_MOVIE",
+    "target": "movie_470",
+    "title": "IT: Capítulo 2"
   }
 ]
