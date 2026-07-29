@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:56:26.226Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_097",
-    "title": "Una voz silenciosa"
-  },
-  {
     "ts": "2026-05-28T02:56:36.914Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3515,5 +3508,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_458",
     "title": "Iron Man 2"
+  },
+  {
+    "ts": "2026-07-29T22:19:22.356Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 17,
+    "count": 22
   }
 ]
