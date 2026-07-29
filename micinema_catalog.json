@@ -71672,6 +71672,36 @@
       "updatedAt": "2026-07-29T20:42:07.667Z",
       "addedAt": "2026-07-29T20:42:07.667Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_492",
+      "type": "movie",
+      "title": "Capitán América y el Soldado del Invierno",
+      "description": "Mientras Steve Rogers lucha por asumir su papel en el mundo moderno, se une a un compañero Vengador y agente de S.H.I.E.L.D., Viuda Negra, para luchar contra una nueva amenaza de la historia: un asesino conocido como el Soldado de Invierno.",
+      "duration": "2h 16m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-03-20",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 49,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Capitnamricayelsoldadodelinvierno2014/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Capitnamricayelsoldadodelinvierno2014/master.m3u8",
+      "createdAt": "2026-07-29T20:43:14.108Z",
+      "updatedAt": "2026-07-29T20:43:14.108Z",
+      "addedAt": "2026-07-29T20:43:14.108Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
