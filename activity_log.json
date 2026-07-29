@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-27T02:12:43.176Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_227",
-    "title": "ejemplo"
-  },
-  {
     "ts": "2026-05-27T18:44:10.032Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3511,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_476",
     "title": "Pokémon: Genesect y el despertar de una leyenda"
+  },
+  {
+    "ts": "2026-07-29T05:27:33.607Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_477",
+    "title": "Pokémon Blanco: Victini y Zekrom"
   }
 ]
