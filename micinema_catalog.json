@@ -71137,6 +71137,38 @@
       "updatedAt": "2026-07-29T05:22:19.292Z",
       "addedAt": "2026-07-29T05:22:19.292Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_475",
+      "type": "movie",
+      "title": "Pokémon x siempre: Celebi, la voz del bosque",
+      "description": "Todos tus personajes favoritos de Pokémon están de vuelta, y se unen por primera vez por los legendarios Pokémon Celebi y Suicune, en esta última emocionante aventura de Pokémon! Para escapar de un codicioso cazador de Pokémon, Celebi debe usar lo último de su energía para viajar a través del tiempo hasta nuestros días. Celebi trae consigo a Sammy, un chico que había estado tratando de protegerlo. Junto con Ash, Pikachu y el resto de la pandilla, Sammy y Celebi encuentran un enemigo mucho más avanzado que el cazador dejado atrás en el pasado. Este nuevo enemigo posee una Pokéball llamada \"Bola Oscura\", que transforma el Pokémon que captura en criaturas malignas y mucho más fuertes. Cuando Celebi es capturado, el destino de todo el bosque está amenazado. ¡Deja que POKÉMON 4EVER te lleve a un mundo de aventuras mientras Ash, Suicune y el resto toman acción para salvar el día!",
+      "duration": "1h 20m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2001,
+      "releaseDate": "2001-07-07",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Animation",
+        "Sci-Fi",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 32,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon4PokmonXSiempreCelebiLaVozDelBosque/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon4PokmonXSiempreCelebiLaVozDelBosque/master.m3u8",
+      "createdAt": "2026-07-29T05:24:08.307Z",
+      "updatedAt": "2026-07-29T05:24:08.307Z",
+      "addedAt": "2026-07-29T05:24:08.307Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
