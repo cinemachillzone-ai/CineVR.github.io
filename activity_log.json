@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-27T01:02:24.559Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_121",
-    "title": "soy una prueba",
-    "episodes": 1
-  },
-  {
     "ts": "2026-05-27T01:06:08.193Z",
     "actor": "carmesi",
     "action": "DELETE_SERIES",
@@ -3512,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_472",
     "title": "La película Pokémon: Los secretos de la selva"
+  },
+  {
+    "ts": "2026-07-29T05:21:13.711Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_473",
+    "title": "Pokémon: Giratina y el guerrero celestial"
   }
 ]
