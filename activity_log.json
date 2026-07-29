@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-05-27T01:01:52.671Z",
-    "actor": "carmesi",
-    "action": "RECALCULATE_INDICES",
-    "renames": 0
-  },
-  {
     "ts": "2026-05-27T01:02:24.559Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3511,5 +3505,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_471",
     "title": "Pokémon: ¡Yo te elijo!"
+  },
+  {
+    "ts": "2026-07-29T05:19:46.927Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_472",
+    "title": "La película Pokémon: Los secretos de la selva"
   }
 ]
