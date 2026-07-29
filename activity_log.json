@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:55:03.443Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_071",
-    "title": "El planeta de los simios: La guerra"
-  },
-  {
     "ts": "2026-05-28T02:55:12.538Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3511,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_490",
     "title": "Guardianes de la Galaxia volumen 2"
+  },
+  {
+    "ts": "2026-07-29T20:42:21.132Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_491",
+    "title": "Pantera Negra"
   }
 ]
