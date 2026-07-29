@@ -71012,6 +71012,37 @@
       "updatedAt": "2026-07-28T03:31:02.107Z",
       "addedAt": "2026-07-28T03:31:02.107Z",
       "addedBy": "carmesi"
+    },
+    {
+      "id": "movie_471",
+      "type": "movie",
+      "title": "Pokémon: ¡Yo te elijo!",
+      "description": "Ash Ketchum, un chico de 10 años originario de Pueblo Paleta esta a punto de ver uno de sus sueños hacerse realidad: convertirse en Maestro Pokémon. Para esto necesita recibir su primer Pokémon de manos del profesor Oak, aunque este chico que sueña con todas las aventuras que va a tener,  jamás imaginó terminar con un indiciplinado Pikachu.",
+      "duration": "1h 38m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-07-15",
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 28,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon20YoTeElijo/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon20YoTeElijo/master.m3u8",
+      "createdAt": "2026-07-29T05:17:38.527Z",
+      "updatedAt": "2026-07-29T05:17:38.527Z",
+      "addedAt": "2026-07-29T05:17:38.527Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
