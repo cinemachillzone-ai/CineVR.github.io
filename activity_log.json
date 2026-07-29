@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-27T00:55:35.728Z",
-    "actor": "carmesi",
-    "action": "DELETE_SERIES",
-    "target": "series_121",
-    "title": "Esto es un Test"
-  },
-  {
     "ts": "2026-05-27T01:01:52.671Z",
     "actor": "carmesi",
     "action": "RECALCULATE_INDICES",
@@ -3511,5 +3504,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 2898229
+  },
+  {
+    "ts": "2026-07-29T05:17:51.802Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_471",
+    "title": "Pokémon: ¡Yo te elijo!"
   }
 ]
