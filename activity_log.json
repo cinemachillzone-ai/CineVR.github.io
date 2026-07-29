@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-27T01:10:41.624Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_227",
-    "title": "soy un test"
-  },
-  {
     "ts": "2026-05-27T02:09:09.792Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
@@ -3511,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_474",
     "title": "Pokémon, la película: Negro - Victini y Reshiram"
+  },
+  {
+    "ts": "2026-07-29T05:24:20.910Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_475",
+    "title": "Pokémon x siempre: Celebi, la voz del bosque"
   }
 ]
