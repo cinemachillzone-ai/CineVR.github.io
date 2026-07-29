@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:56:47.871Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_105",
-    "title": "El mafioso, el policía y el diablo"
-  },
-  {
     "ts": "2026-05-28T02:56:58.531Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3517,5 +3510,13 @@
     "target": "series_167",
     "season": 18,
     "count": 22
+  },
+  {
+    "ts": "2026-07-29T22:20:46.081Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 19,
+    "count": 20
   }
 ]
