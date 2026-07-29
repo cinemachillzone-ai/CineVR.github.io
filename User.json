@@ -1,8 +1,8 @@
 {
-  "lastUpdate": "2026-07-27 12:46",
+  "lastUpdate": "2026-07-29 23:42",
   "stars": [
     {
-      "user": "Lucesgrupo",
+      "user": "Sean F",
       "cellIndex": 0
     },
     {
@@ -234,10 +234,11 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-07-02T00:00:00.000Z",
+      "expiresAt": "2026-09-11T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 15,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "yamiyamero"
     },
     {
       "id": "user_017",
@@ -285,7 +286,8 @@
       "expiresAt": "2026-08-31T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 19,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "Melvin_vr"
     },
     {
       "id": "user_021",
@@ -296,7 +298,8 @@
       "expiresAt": "2026-08-24T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 20,
-      "isStar": false
+      "isStar": false,
+      "patreonAccount": "Zetzen6"
     },
     {
       "id": "user_022",
