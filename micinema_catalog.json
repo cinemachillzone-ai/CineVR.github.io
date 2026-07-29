@@ -71593,12 +71593,12 @@
       "atlas": "D",
       "gridIndex": 15,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan2DeMarvelStudios/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan22010/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan2DeMarvelStudios/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan2DeMarvelStudios/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan22010/master.m3u8",
       "createdAt": "2026-07-28T01:43:47.764Z",
-      "updatedAt": "2026-07-28T01:43:47.764Z",
+      "updatedAt": "2026-07-29T22:02:16.612Z",
       "addedAt": "2026-07-28T01:43:47.764Z",
       "addedBy": "seanf"
     },
