@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:53:41.407Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_024",
-    "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
-  },
-  {
     "ts": "2026-05-28T02:53:51.119Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3511,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_482",
     "title": "Pokémon: Lucario y el misterio de Mew"
+  },
+  {
+    "ts": "2026-07-29T05:37:56.181Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_483",
+    "title": "Pokémon: El surgimiento de Darkrai"
   }
 ]
