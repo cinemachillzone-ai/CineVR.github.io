@@ -71457,6 +71457,39 @@
       "updatedAt": "2026-07-29T05:39:01.864Z",
       "addedAt": "2026-07-29T05:39:01.864Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_485",
+      "type": "movie",
+      "title": "Pokémon: Jirachi y los deseos",
+      "description": "El Cometa del Milenio va a hacer su aparición, tan anticipada desde hace tiempo, en el cielo otra vez. Supuestamente concederá los deseos de todos aquellos que lo vean aparecer por el cielo. Por supuesto, Ash y sus amigos están también interesados en el Festival del Milenio, especialmente cuando asisten a una actuación mágica del Gran Butler. Mucho más interesante es el misterioso objeto que posee Butler ¡a través del cual Max oye una misteriosa voz que le llama! Cuando Jirachi emerge de su sueño, Max tiene un nuevo amigo; por desgracia, solo durante los pocos días que el Cometa del Milenio aparece en el cielo.\r Max está ansioso por pasar el mayor tiempo posible con su nuevo amigo, pero el Gran Butler tiene sus propios planes para Jirachi, que no soy muy amistosos. Quiere revivir al Groudon Legendario, y Jirachi podría ser capaz de concederle ese deseo.\r ¿Podrán Max, Ash, May y Brock detener a Butler y salvar a Jirachi antes de que Groudon reaparezca?",
+      "duration": "1h 21m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2003,
+      "releaseDate": "2003-07-19",
+      "genres": [
+        "Family",
+        "Action",
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 42,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon6JirachiYLosDeseos/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon6JirachiYLosDeseos/master.m3u8",
+      "createdAt": "2026-07-29T05:40:17.244Z",
+      "updatedAt": "2026-07-29T05:40:17.244Z",
+      "addedAt": "2026-07-29T05:40:17.244Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
