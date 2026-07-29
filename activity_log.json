@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:54:33.303Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_040",
-    "title": "The Amazing Spider-Man"
-  },
-  {
     "ts": "2026-05-28T02:54:43.417Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3511,5 +3504,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_487",
     "title": "Iron man - El hombre de hierro"
+  },
+  {
+    "ts": "2026-07-29T05:45:20.728Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_488",
+    "title": "Pokémon Detective Pikachu"
   }
 ]
