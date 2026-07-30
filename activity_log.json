@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:57:24.376Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_131",
-    "title": "Cujo"
-  },
-  {
     "ts": "2026-05-28T02:57:34.357Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3520,5 +3513,13 @@
     "target": "series_167",
     "season": 21,
     "count": 23
+  },
+  {
+    "ts": "2026-07-30T00:11:26.437Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 22,
+    "count": 22
   }
 ]
