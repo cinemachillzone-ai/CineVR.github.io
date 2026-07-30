@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T01:54:49.321Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_232",
-    "title": "El Niño y la Bestia"
-  },
-  {
     "ts": "2026-06-01T02:10:49.101Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3527,6 +3520,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 35,
+    "count": 18
+  },
+  {
+    "ts": "2026-07-30T20:26:27.413Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 36,
     "count": 18
   }
 ]
