@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:21:50.042Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_123",
-    "title": "Rick y Morty T5",
-    "episodes": 10
-  },
-  {
     "ts": "2026-05-31T23:24:50.387Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3525,5 +3517,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_487",
     "title": "Iron man - El hombre de hierro"
+  },
+  {
+    "ts": "2026-07-30T08:47:24.757Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_453",
+    "title": "Capitán América: El Primer Vengador"
   }
 ]
