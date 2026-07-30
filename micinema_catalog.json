@@ -58657,10 +58657,257 @@
               "updatedAt": "2026-07-30T20:23:39.839Z"
             }
           ]
+        },
+        {
+          "number": 33,
+          "episodes": [
+            {
+              "id": "s33e01",
+              "slotId": "ep_5027",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E01/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e02",
+              "slotId": "ep_5028",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E02/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e03",
+              "slotId": "ep_5029",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E03/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e04",
+              "slotId": "ep_5030",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E04/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e05",
+              "slotId": "ep_5031",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E05/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e06",
+              "slotId": "ep_5032",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E06/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e07",
+              "slotId": "ep_5033",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E07/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e08",
+              "slotId": "ep_5034",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E08/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e09",
+              "slotId": "ep_5035",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E09/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e10",
+              "slotId": "ep_5036",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E10/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e11",
+              "slotId": "ep_5037",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E11/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e12",
+              "slotId": "ep_5038",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E12/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e13",
+              "slotId": "ep_5039",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E13/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e14",
+              "slotId": "ep_5040",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E14/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e15",
+              "slotId": "ep_5041",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E15/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e16",
+              "slotId": "ep_5042",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E16/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e17",
+              "slotId": "ep_5043",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E17/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e18",
+              "slotId": "ep_5044",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E18/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e19",
+              "slotId": "ep_5045",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E19/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e20",
+              "slotId": "ep_5046",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E20/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e21",
+              "slotId": "ep_5047",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E21/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            },
+            {
+              "id": "s33e22",
+              "slotId": "ep_5048",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T33/LossimpsonS33E22/master.m3u8",
+              "updatedAt": "2026-07-30T20:24:14.689Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-07-26T21:49:38.295Z",
-      "updatedAt": "2026-07-30T20:23:39.839Z",
+      "updatedAt": "2026-07-30T20:24:14.689Z",
       "addedAt": "2026-07-26T21:49:38.295Z",
       "addedBy": "seanf"
     },
