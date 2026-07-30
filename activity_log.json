@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T00:36:40.362Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_229",
-    "title": "Un Monstruo en París"
-  },
-  {
     "ts": "2026-06-01T00:53:55.479Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3524,6 +3517,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 31,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:23:53.015Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 32,
     "count": 22
   }
 ]
