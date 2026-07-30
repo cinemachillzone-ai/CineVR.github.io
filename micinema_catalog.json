@@ -57669,10 +57669,246 @@
               "updatedAt": "2026-07-30T03:28:13.024Z"
             }
           ]
+        },
+        {
+          "number": 29,
+          "episodes": [
+            {
+              "id": "s29e01",
+              "slotId": "ep_4939",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E01/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e02",
+              "slotId": "ep_4940",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E02/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e03",
+              "slotId": "ep_4941",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E03/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e04",
+              "slotId": "ep_4942",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E04/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e05",
+              "slotId": "ep_4943",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E05/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e06",
+              "slotId": "ep_4944",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E06/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e07",
+              "slotId": "ep_4945",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E07/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e08",
+              "slotId": "ep_4946",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E08/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e09",
+              "slotId": "ep_4947",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E09/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e10",
+              "slotId": "ep_4948",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E10/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e11",
+              "slotId": "ep_4949",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E11/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e12",
+              "slotId": "ep_4950",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E12/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e13",
+              "slotId": "ep_4951",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E13/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e14",
+              "slotId": "ep_4952",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E14/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e15",
+              "slotId": "ep_4953",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E15/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e16",
+              "slotId": "ep_4954",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E16/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e17",
+              "slotId": "ep_4955",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E17/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e18",
+              "slotId": "ep_4956",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E18/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e19",
+              "slotId": "ep_4957",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E19/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e20",
+              "slotId": "ep_4958",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E20/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            },
+            {
+              "id": "s29e21",
+              "slotId": "ep_4959",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T29/LossimpsonS29E21/master.m3u8",
+              "updatedAt": "2026-07-30T20:21:33.253Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-07-26T21:49:38.295Z",
-      "updatedAt": "2026-07-30T03:28:13.024Z",
+      "updatedAt": "2026-07-30T20:21:33.253Z",
       "addedAt": "2026-07-26T21:49:38.295Z",
       "addedBy": "seanf"
     },
