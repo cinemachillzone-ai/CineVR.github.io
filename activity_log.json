@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-31T22:30:55.441Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_227",
-    "title": "12 Monos"
-  },
-  {
     "ts": "2026-05-31T23:06:04.224Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
@@ -3525,5 +3518,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_490",
     "title": "Guardianes de la Galaxia volumen 2"
+  },
+  {
+    "ts": "2026-07-30T08:44:06.436Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_491",
+    "title": "Pantera Negra"
   }
 ]
