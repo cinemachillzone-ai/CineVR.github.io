@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:36:32.371Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_125",
-    "title": "Rick y Morty T7",
-    "episodes": 10
-  },
-  {
     "ts": "2026-05-31T23:41:50.434Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3525,5 +3517,13 @@
     "target": "series_167",
     "season": 29,
     "count": 21
+  },
+  {
+    "ts": "2026-07-30T20:22:23.055Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 30,
+    "count": 23
   }
 ]
