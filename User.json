@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-30 00:01",
+  "lastUpdate": "2026-07-30 07:18",
   "stars": [
     {
       "user": "Sean F",
@@ -115,15 +115,15 @@
     },
     {
       "id": "user_007",
-      "user": "P i e r r o t",
+      "user": "slots19",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cinefilo",
+      "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
       "expiresAt": "2026-06-23T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 6,
       "isStar": false,
-      "patreonAccount": "ForTodayDubs"
+      "patreonAccount": ""
     },
     {
       "id": "user_008",
