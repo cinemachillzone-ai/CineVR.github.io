@@ -56692,10 +56692,257 @@
               "updatedAt": "2026-07-30T00:12:36.123Z"
             }
           ]
+        },
+        {
+          "number": 25,
+          "episodes": [
+            {
+              "id": "s25e01",
+              "slotId": "ep_4852",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E01/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e02",
+              "slotId": "ep_4853",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E02/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e03",
+              "slotId": "ep_4854",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E03/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e04",
+              "slotId": "ep_4855",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E04/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e05",
+              "slotId": "ep_4856",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E05/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e06",
+              "slotId": "ep_4857",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E06/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e07",
+              "slotId": "ep_4858",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E07/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e08",
+              "slotId": "ep_4859",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E08/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e09",
+              "slotId": "ep_4860",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E09/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e10",
+              "slotId": "ep_4861",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E10/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e11",
+              "slotId": "ep_4862",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E11/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e12",
+              "slotId": "ep_4863",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E12/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e13",
+              "slotId": "ep_4864",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E13/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e14",
+              "slotId": "ep_4865",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E14/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e15",
+              "slotId": "ep_4866",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E15/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e16",
+              "slotId": "ep_4867",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E16/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e17",
+              "slotId": "ep_4868",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E17/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e18",
+              "slotId": "ep_4869",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E18/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e19",
+              "slotId": "ep_4870",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E19/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e20",
+              "slotId": "ep_4871",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E20/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e21",
+              "slotId": "ep_4872",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E21/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            },
+            {
+              "id": "s25e22",
+              "slotId": "ep_4873",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LosSimpson/T25/LossimpsonS25E22/master.m3u8",
+              "updatedAt": "2026-07-30T03:26:02.828Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-07-26T21:49:38.295Z",
-      "updatedAt": "2026-07-30T00:12:36.123Z",
+      "updatedAt": "2026-07-30T03:26:02.828Z",
       "addedAt": "2026-07-26T21:49:38.295Z",
       "addedBy": "seanf"
     },
