@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:06:04.224Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_228",
-    "title": "Cadaver de la novia"
-  },
-  {
     "ts": "2026-05-31T23:09:05.937Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
@@ -3525,5 +3518,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_491",
     "title": "Pantera Negra"
+  },
+  {
+    "ts": "2026-07-30T08:44:59.132Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_489",
+    "title": "Capitán América: Civil War"
   }
 ]
