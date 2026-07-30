@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:09:05.937Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_229",
-    "title": "Charlie y la Fábrica de Chocolate"
-  },
-  {
     "ts": "2026-05-31T23:21:50.042Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3525,5 +3518,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_489",
     "title": "Capitán América: Civil War"
+  },
+  {
+    "ts": "2026-07-30T08:45:43.590Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_487",
+    "title": "Iron man - El hombre de hierro"
   }
 ]
