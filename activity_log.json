@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T01:04:55.454Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_230",
-    "title": "El Imperio del Sol"
-  },
-  {
     "ts": "2026-06-01T01:45:32.250Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3525,6 +3518,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 33,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:25:10.519Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 34,
     "count": 22
   }
 ]
