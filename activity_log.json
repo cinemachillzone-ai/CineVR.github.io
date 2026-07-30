@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-01T00:53:55.479Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_127",
-    "title": "Rick y Morty – Temporada 9",
-    "episodes": 1
-  },
-  {
     "ts": "2026-06-01T01:04:55.454Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3525,6 +3517,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 32,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:24:27.779Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 33,
     "count": 22
   }
 ]
