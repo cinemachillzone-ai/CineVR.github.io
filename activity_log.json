@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:58:03.821Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_194",
-    "title": "Shrek Tercero"
-  },
-  {
     "ts": "2026-05-28T02:58:13.866Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3523,6 +3516,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 25,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T03:27:11.781Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 26,
     "count": 22
   }
 ]
