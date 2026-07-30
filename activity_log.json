@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-31T22:02:55.333Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_122",
-    "title": "Spider Noir a Color",
-    "episodes": 8
-  },
-  {
     "ts": "2026-05-31T22:30:55.441Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
@@ -3526,5 +3518,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_492",
     "title": "Capitán América y el Soldado del Invierno"
+  },
+  {
+    "ts": "2026-07-30T08:42:59.936Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_490",
+    "title": "Guardianes de la Galaxia volumen 2"
   }
 ]
