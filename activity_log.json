@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:57:44.612Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_171",
-    "title": "Hotel Transylvania: Transformanía"
-  },
-  {
     "ts": "2026-05-28T02:57:54.460Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3521,6 +3514,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_167",
     "season": 23,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T00:12:48.861Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 24,
     "count": 22
   }
 ]
