@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T01:45:32.250Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_231",
-    "title": "El Informante"
-  },
-  {
     "ts": "2026-06-01T01:54:49.321Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3527,5 +3520,13 @@
     "target": "series_167",
     "season": 34,
     "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:25:47.424Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 35,
+    "count": 18
   }
 ]
