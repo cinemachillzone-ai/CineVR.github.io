@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:33:45.260Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_124",
-    "title": "Rick y Morty T6",
-    "episodes": 10
-  },
-  {
     "ts": "2026-05-31T23:36:32.371Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3525,5 +3517,13 @@
     "action": "EDIT_MOVIE",
     "target": "movie_452",
     "title": "Hulk: El hombre increíble"
+  },
+  {
+    "ts": "2026-07-30T20:21:46.037Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 29,
+    "count": 21
   }
 ]
