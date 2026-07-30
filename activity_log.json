@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-05-31T23:26:10.505Z",
-    "actor": "carmesi",
-    "action": "RECALCULATE_INDICES",
-    "renames": 176
-  },
-  {
     "ts": "2026-05-31T23:33:45.260Z",
     "actor": "carmesi",
     "action": "ADD_SERIES",
@@ -3520,6 +3514,13 @@
   },
   {
     "ts": "2026-07-30T08:48:14.664Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_452",
+    "title": "Hulk: El hombre increíble"
+  },
+  {
+    "ts": "2026-07-30T08:48:50.042Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
     "target": "movie_452",
