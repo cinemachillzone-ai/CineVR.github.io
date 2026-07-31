@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:02:54.836Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 8,
-    "episodes": 0
-  },
-  {
     "ts": "2026-06-05T13:04:25.765Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING_SERIES",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_523",
     "title": "Cars 3"
+  },
+  {
+    "ts": "2026-07-31T04:25:58.777Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_521",
+    "title": "Bichos: Una Aventura en Miniatura"
   }
 ]
