@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:24:02.026Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_101",
-    "title": "Batman: El Caballero de la Noche"
-  },
-  {
     "ts": "2026-06-05T13:24:24.515Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_526",
     "title": "El Diario De La Princesa"
+  },
+  {
+    "ts": "2026-07-31T04:30:14.405Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_527",
+    "title": "Cupido motorizado"
   }
 ]
