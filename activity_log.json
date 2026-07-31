@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T02:10:49.101Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_233",
-    "title": "Fuerza Bruta: Sin Salida"
-  },
-  {
     "ts": "2026-06-01T02:15:59.495Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3529,5 +3522,12 @@
     "target": "series_167",
     "season": 36,
     "count": 18
+  },
+  {
+    "ts": "2026-07-31T03:49:20.231Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_494",
+    "title": "101 dálmatas: ¡Ahora la magia es real!"
   }
 ]
