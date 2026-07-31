@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-01T15:57:30.121Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_128",
-    "title": "Kuroshitsuji T1",
-    "episodes": 25
-  },
-  {
     "ts": "2026-06-01T16:04:28.760Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3529,5 +3521,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_514",
     "title": "Los increíbles"
+  },
+  {
+    "ts": "2026-07-31T04:13:30.230Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_515",
+    "title": "Los increíbles 2"
   }
 ]
