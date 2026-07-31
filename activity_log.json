@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:01:43.861Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 8,
-    "episodes": 0
-  },
-  {
     "ts": "2026-06-05T13:02:54.836Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING_SERIES",
@@ -3524,5 +3517,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_522",
     "title": "Cars"
+  },
+  {
+    "ts": "2026-07-31T04:25:31.647Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_523",
+    "title": "Cars 3"
   }
 ]
