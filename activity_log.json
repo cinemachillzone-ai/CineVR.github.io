@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:05:00.435Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 2,
-    "episodes": 13
-  },
-  {
     "ts": "2026-06-05T13:23:22.136Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_524",
     "title": "Dumbo"
+  },
+  {
+    "ts": "2026-07-31T04:27:26.601Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_525",
+    "title": "Cars 2"
   }
 ]
