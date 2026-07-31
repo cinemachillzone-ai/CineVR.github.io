@@ -78537,6 +78537,36 @@
       "updatedAt": "2026-07-31T04:28:58.388Z",
       "addedAt": "2026-07-31T04:28:58.388Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_527",
+      "type": "movie",
+      "title": "Cupido motorizado",
+      "description": "Herbie es un Volkswagen escarabajo blanco con voluntad y pensamientos propios en esta aventura de la Disney que relata la relación del coche con sus diversos pilotos y conductores. Douglas es un piloto de carreras que, tras comenzar con poco interés por Herbie, cree que su repentina victoria se debe a su habilidad y no a la de nuestro protagonista. Finalmente se dará cuenta del valor del coche cuando un tramposo rival trame un complot para robarle a Herbie.",
+      "duration": "1h 48m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1968,
+      "releaseDate": "1968-12-23",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 84,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CupidoMotorizado/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CupidoMotorizado/master.m3u8",
+      "createdAt": "2026-07-31T04:30:00.059Z",
+      "updatedAt": "2026-07-31T04:30:00.059Z",
+      "addedAt": "2026-07-31T04:30:00.059Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
