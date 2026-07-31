@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-05T12:20:19.572Z",
-    "actor": "carmesi",
-    "action": "EDIT_SERIES",
-    "target": "series_128",
-    "title": "Kuroshitsuji T1",
-    "eps_changed": 25
-  },
-  {
     "ts": "2026-06-05T12:48:13.667Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING",
@@ -3522,5 +3514,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_518",
     "title": "Robin Hood"
+  },
+  {
+    "ts": "2026-07-31T04:17:31.973Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_519",
+    "title": "Bambi"
   }
 ]
