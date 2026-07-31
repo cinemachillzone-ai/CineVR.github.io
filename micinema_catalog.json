@@ -77537,6 +77537,35 @@
       "addedAt": "2026-07-29T21:53:33.502Z",
       "addedBy": "seanf",
       "saga": "Marvel"
+    },
+    {
+      "id": "movie_494",
+      "type": "movie",
+      "title": "101 dálmatas: ¡Ahora la magia es real!",
+      "description": "Obsesionada por obtener la auténtica piel de dálmatas para crear su nueva línea de moda, Cruella de Vil no se detiene ante nada. Cuando Anita, una de sus mejores diseñadoras, le cuenta lo contentos que están ella y su marido Roger, porque su pareja de dálmatas, Pongo y Perlita, van a tener cachorros, la mente de Cruella empieza a maquinar para quedarse con los pequeños",
+      "duration": "1h 43m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1996,
+      "releaseDate": "1996-11-27",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 51,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/101DlmatasLiveAction1996/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/101DlmatasLiveAction1996/master.m3u8",
+      "createdAt": "2026-07-31T03:49:06.688Z",
+      "updatedAt": "2026-07-31T03:49:06.688Z",
+      "addedAt": "2026-07-31T03:49:06.688Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
