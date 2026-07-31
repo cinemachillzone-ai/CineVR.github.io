@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-05T12:52:36.372Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 40
-  },
-  {
     "ts": "2026-06-05T12:55:58.119Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING",
@@ -3522,5 +3516,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_520",
     "title": "Mary Poppins"
+  },
+  {
+    "ts": "2026-07-31T04:19:43.803Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_521",
+    "title": "Bichos: Una Aventura en Miniatura"
   }
 ]
