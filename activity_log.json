@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T15:25:05.591Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_253",
-    "title": "Jurassic Park"
-  },
-  {
     "ts": "2026-06-01T15:28:57.828Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3529,5 +3522,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_512",
     "title": "Los Aristogatos"
+  },
+  {
+    "ts": "2026-07-31T04:11:49.552Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_513",
+    "title": "Querida, encogí a los niños"
   }
 ]
