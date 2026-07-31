@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T15:28:57.828Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_254",
-    "title": "Magia Extraña"
-  },
-  {
     "ts": "2026-06-01T15:57:30.121Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3529,5 +3522,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_513",
     "title": "Querida, encogí a los niños"
+  },
+  {
+    "ts": "2026-07-31T04:12:45.577Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_514",
+    "title": "Los increíbles"
   }
 ]
