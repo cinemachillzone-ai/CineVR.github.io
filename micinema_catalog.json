@@ -77685,6 +77685,36 @@
       "updatedAt": "2026-07-31T03:52:14.426Z",
       "addedAt": "2026-07-31T03:52:14.426Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_499",
+      "type": "movie",
+      "title": "Blanca Nieves y los siete enanos",
+      "description": "La historia de una joven princesa que es perseguida por su malvada madrastra. Con la ayuda de siete enanos amigables, Blancanieves vive una aventura mágica llena de valentía, amistad y el poder del amor verdadero para vencer a la oscuridad y encontrar su final feliz.",
+      "duration": "1h 23m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1938,
+      "releaseDate": "1938-01-22",
+      "genres": [
+        "Fantasy",
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 56,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BlancanievesYLosSienteEnanos1937/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BlancanievesYLosSienteEnanos1937/master.m3u8",
+      "createdAt": "2026-07-31T03:53:11.386Z",
+      "updatedAt": "2026-07-31T03:53:11.386Z",
+      "addedAt": "2026-07-31T03:53:11.386Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
