@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T14:29:13.671Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_243",
-    "title": "Número desconocido: Un escándalo de ciberacoso escolar"
-  },
-  {
     "ts": "2026-06-01T14:39:35.162Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3529,5 +3522,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_502",
     "title": "La cenicienta"
+  },
+  {
+    "ts": "2026-07-31T03:58:42.358Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_503",
+    "title": "El fantástico Sr. Zorro"
   }
 ]
