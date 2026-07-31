@@ -77566,6 +77566,35 @@
       "updatedAt": "2026-07-31T03:49:06.688Z",
       "addedAt": "2026-07-31T03:49:06.688Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_495",
+      "type": "movie",
+      "title": "102 Dálmatas",
+      "description": "Cruella de Vil logra salir de la cárcel después de someterse a un tratamiento con el que parece haberse curado de su obsesión por las pieles y el abrigo hecho de dálmatas. Pero el tiempo pasa y las auténticas aficiones y perversiones vuelven a manifestarse con todo su esplendor, sobre todo cuando aparece una hermosa perrita dálmata sin manchas, la número 102",
+      "duration": "1h 40m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-10-07",
+      "genres": [
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 52,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/102DlmatasLiveAction2000/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/102DlmatasLiveAction2000/master.m3u8",
+      "createdAt": "2026-07-31T03:49:52.430Z",
+      "updatedAt": "2026-07-31T03:49:52.430Z",
+      "addedAt": "2026-07-31T03:49:52.430Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
