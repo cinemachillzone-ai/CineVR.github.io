@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:04:25.765Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 3,
-    "episodes": 60
-  },
-  {
     "ts": "2026-06-05T13:05:00.435Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING_SERIES",
@@ -3524,5 +3517,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_521",
     "title": "Bichos: Una Aventura en Miniatura"
+  },
+  {
+    "ts": "2026-07-31T04:26:22.234Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_524",
+    "title": "Dumbo"
   }
 ]
