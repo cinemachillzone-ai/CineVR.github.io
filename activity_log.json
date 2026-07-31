@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-05T10:09:26.838Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_122",
-    "title": "Spider Noir a Color",
-    "eps_changed": 8
-  },
-  {
     "ts": "2026-06-05T10:55:41.127Z",
     "actor": "yutamir",
     "action": "TMDB_AUTOFILL",
@@ -3527,5 +3519,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_516",
     "title": "Patoaventuras la película: El tesoro de la lámpara perdida"
+  },
+  {
+    "ts": "2026-07-31T04:15:46.426Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_517",
+    "title": "Tron"
   }
 ]
