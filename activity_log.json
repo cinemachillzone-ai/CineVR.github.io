@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-05T12:55:58.119Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 21
-  },
-  {
     "ts": "2026-06-05T13:00:29.521Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING_SERIES",
@@ -3523,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_521",
     "title": "Bichos: Una Aventura en Miniatura"
+  },
+  {
+    "ts": "2026-07-31T04:21:23.708Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_522",
+    "title": "The Little Cars: La gran carrera"
   }
 ]
