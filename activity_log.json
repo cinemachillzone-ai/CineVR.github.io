@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-01T14:51:06.662Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_247",
-    "title": "Al Diablo con el Diablo"
-  },
-  {
     "ts": "2026-06-01T14:56:56.310Z",
     "actor": "seanf",
     "action": "ADD_MOVIE",
@@ -3529,5 +3522,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_506",
     "title": "El Diario De La Princesa 2"
+  },
+  {
+    "ts": "2026-07-31T04:03:22.869Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_507",
+    "title": "El Zorro y el Sabueso 2"
   }
 ]
