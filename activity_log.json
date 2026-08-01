@@ -1,394 +1,5 @@
 [
   {
-    "ts": "2026-05-28T02:58:35.934Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_212",
-    "title": "Demon Slayer: Castillo Infinito"
-  },
-  {
-    "ts": "2026-05-28T02:58:47.055Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_221",
-    "title": "Kill Bill: Volumen 1"
-  },
-  {
-    "ts": "2026-05-31T21:57:58.995Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_121",
-    "title": "Spider Noir Blanco y Negro",
-    "episodes": 8
-  },
-  {
-    "ts": "2026-05-31T22:02:55.333Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_122",
-    "title": "Spider Noir a Color",
-    "episodes": 8
-  },
-  {
-    "ts": "2026-05-31T22:30:55.441Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_227",
-    "title": "12 Monos"
-  },
-  {
-    "ts": "2026-05-31T23:06:04.224Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_228",
-    "title": "Cadaver de la novia"
-  },
-  {
-    "ts": "2026-05-31T23:09:05.937Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_229",
-    "title": "Charlie y la Fábrica de Chocolate"
-  },
-  {
-    "ts": "2026-05-31T23:21:50.042Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_123",
-    "title": "Rick y Morty T5",
-    "episodes": 10
-  },
-  {
-    "ts": "2026-05-31T23:24:50.387Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_053",
-    "title": "The Wrecking Crew"
-  },
-  {
-    "ts": "2026-05-31T23:26:10.505Z",
-    "actor": "carmesi",
-    "action": "RECALCULATE_INDICES",
-    "renames": 176
-  },
-  {
-    "ts": "2026-05-31T23:33:45.260Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_124",
-    "title": "Rick y Morty T6",
-    "episodes": 10
-  },
-  {
-    "ts": "2026-05-31T23:36:32.371Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_125",
-    "title": "Rick y Morty T7",
-    "episodes": 10
-  },
-  {
-    "ts": "2026-05-31T23:41:50.434Z",
-    "actor": "carmesi",
-    "action": "ADD_SERIES",
-    "target": "series_126",
-    "title": "Rick y Morty T8",
-    "episodes": 10
-  },
-  {
-    "ts": "2026-06-01T00:36:40.362Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_229",
-    "title": "Un Monstruo en París"
-  },
-  {
-    "ts": "2026-06-01T00:53:55.479Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_127",
-    "title": "Rick y Morty – Temporada 9",
-    "episodes": 1
-  },
-  {
-    "ts": "2026-06-01T01:04:55.454Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_230",
-    "title": "El Imperio del Sol"
-  },
-  {
-    "ts": "2026-06-01T01:45:32.250Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_231",
-    "title": "El Informante"
-  },
-  {
-    "ts": "2026-06-01T01:54:49.321Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_232",
-    "title": "El Niño y la Bestia"
-  },
-  {
-    "ts": "2026-06-01T02:10:49.101Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_233",
-    "title": "Fuerza Bruta: Sin Salida"
-  },
-  {
-    "ts": "2026-06-01T02:15:59.495Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_234",
-    "title": "Hacia Rutas Salvajes"
-  },
-  {
-    "ts": "2026-06-01T02:22:36.188Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_235",
-    "title": "I Am Vanessa Guillén"
-  },
-  {
-    "ts": "2026-06-01T02:26:35.937Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_236",
-    "title": "Identidad"
-  },
-  {
-    "ts": "2026-06-01T02:32:01.635Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_237",
-    "title": "Jack Ryan: Guerra Fantasma"
-  },
-  {
-    "ts": "2026-06-01T03:04:49.866Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_238",
-    "title": "Las Guerreras K-Pop (Canciones en Ingles y doblaje en español)"
-  },
-  {
-    "ts": "2026-06-01T03:09:47.423Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_239",
-    "title": "Los Cazafantasmas 2"
-  },
-  {
-    "ts": "2026-06-01T03:33:31.520Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_240",
-    "title": "Matrix"
-  },
-  {
-    "ts": "2026-06-01T14:24:06.175Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_241",
-    "title": "Múnich"
-  },
-  {
-    "ts": "2026-06-01T14:29:13.671Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_243",
-    "title": "Número desconocido: Un escándalo de ciberacoso escolar"
-  },
-  {
-    "ts": "2026-06-01T14:39:35.162Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_244",
-    "title": "Super Mario Galaxy: La Película"
-  },
-  {
-    "ts": "2026-06-01T14:43:21.887Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_245",
-    "title": "Matrix Resurrecciones"
-  },
-  {
-    "ts": "2026-06-01T14:47:17.931Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_246",
-    "title": "Tron: El Legado"
-  },
-  {
-    "ts": "2026-06-01T14:51:06.662Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_247",
-    "title": "Al Diablo con el Diablo"
-  },
-  {
-    "ts": "2026-06-01T14:56:56.310Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_248",
-    "title": "Algo Pasa con Mary"
-  },
-  {
-    "ts": "2026-06-01T15:00:43.790Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_249",
-    "title": "Arco"
-  },
-  {
-    "ts": "2026-06-01T15:04:58.507Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_250",
-    "title": "Cabezas Huecas"
-  },
-  {
-    "ts": "2026-06-01T15:16:49.115Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_251",
-    "title": "2012"
-  },
-  {
-    "ts": "2026-06-01T15:21:24.371Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_252",
-    "title": "El Plan Perfecto"
-  },
-  {
-    "ts": "2026-06-01T15:25:05.591Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_253",
-    "title": "Jurassic Park"
-  },
-  {
-    "ts": "2026-06-01T15:28:57.828Z",
-    "actor": "seanf",
-    "action": "ADD_MOVIE",
-    "target": "movie_254",
-    "title": "Magia Extraña"
-  },
-  {
-    "ts": "2026-06-01T15:57:30.121Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_128",
-    "title": "Kuroshitsuji T1",
-    "episodes": 25
-  },
-  {
-    "ts": "2026-06-01T16:04:28.760Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_129",
-    "title": "Kuroshitsuji T2",
-    "episodes": 12
-  },
-  {
-    "ts": "2026-06-05T10:09:26.838Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_122",
-    "title": "Spider Noir a Color",
-    "eps_changed": 8
-  },
-  {
-    "ts": "2026-06-05T10:55:41.127Z",
-    "actor": "yutamir",
-    "action": "TMDB_AUTOFILL",
-    "target": "movie_065",
-    "title": "V de Venganza",
-    "fields": [
-      "duration",
-      "genres"
-    ]
-  },
-  {
-    "ts": "2026-06-05T12:20:19.572Z",
-    "actor": "carmesi",
-    "action": "EDIT_SERIES",
-    "target": "series_128",
-    "title": "Kuroshitsuji T1",
-    "eps_changed": 25
-  },
-  {
-    "ts": "2026-06-05T12:48:13.667Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 3
-  },
-  {
-    "ts": "2026-06-05T12:52:36.372Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 40
-  },
-  {
-    "ts": "2026-06-05T12:55:58.119Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 21
-  },
-  {
-    "ts": "2026-06-05T13:00:29.521Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 1,
-    "episodes": 0
-  },
-  {
-    "ts": "2026-06-05T13:01:43.861Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 8,
-    "episodes": 0
-  },
-  {
-    "ts": "2026-06-05T13:02:54.836Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 8,
-    "episodes": 0
-  },
-  {
-    "ts": "2026-06-05T13:04:25.765Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 3,
-    "episodes": 60
-  },
-  {
-    "ts": "2026-06-05T13:05:00.435Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING_SERIES",
-    "series": 2,
-    "episodes": 13
-  },
-  {
-    "ts": "2026-06-05T13:23:22.136Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_307",
-    "title": "Your Name"
-  },
-  {
-    "ts": "2026-06-05T13:24:02.026Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_101",
-    "title": "Batman: El Caballero de la Noche"
-  },
-  {
     "ts": "2026-06-05T13:24:24.515Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3527,5 +3138,391 @@
     "target": "series_167",
     "season": 28,
     "count": 21
+  },
+  {
+    "ts": "2026-07-30T08:36:06.758Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_458",
+    "title": "Iron Man 2"
+  },
+  {
+    "ts": "2026-07-30T08:41:12.488Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_493",
+    "title": "Iron Man 3"
+  },
+  {
+    "ts": "2026-07-30T08:42:10.219Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_492",
+    "title": "Capitán América y el Soldado del Invierno"
+  },
+  {
+    "ts": "2026-07-30T08:42:59.936Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_490",
+    "title": "Guardianes de la Galaxia volumen 2"
+  },
+  {
+    "ts": "2026-07-30T08:44:06.436Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_491",
+    "title": "Pantera Negra"
+  },
+  {
+    "ts": "2026-07-30T08:44:59.132Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_489",
+    "title": "Capitán América: Civil War"
+  },
+  {
+    "ts": "2026-07-30T08:45:43.590Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_487",
+    "title": "Iron man - El hombre de hierro"
+  },
+  {
+    "ts": "2026-07-30T08:47:24.757Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_453",
+    "title": "Capitán América: El Primer Vengador"
+  },
+  {
+    "ts": "2026-07-30T08:48:14.664Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_452",
+    "title": "Hulk: El hombre increíble"
+  },
+  {
+    "ts": "2026-07-30T08:48:50.042Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_452",
+    "title": "Hulk: El hombre increíble"
+  },
+  {
+    "ts": "2026-07-30T20:21:46.037Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 29,
+    "count": 21
+  },
+  {
+    "ts": "2026-07-30T20:22:23.055Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 30,
+    "count": 23
+  },
+  {
+    "ts": "2026-07-30T20:23:15.187Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 31,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:23:53.015Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 32,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:24:27.779Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 33,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:25:10.519Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 34,
+    "count": 22
+  },
+  {
+    "ts": "2026-07-30T20:25:47.424Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 35,
+    "count": 18
+  },
+  {
+    "ts": "2026-07-30T20:26:27.413Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_167",
+    "season": 36,
+    "count": 18
+  },
+  {
+    "ts": "2026-07-31T03:49:20.231Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_494",
+    "title": "101 dálmatas: ¡Ahora la magia es real!"
+  },
+  {
+    "ts": "2026-07-31T03:50:04.937Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_495",
+    "title": "102 Dálmatas"
+  },
+  {
+    "ts": "2026-07-31T03:51:01.257Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_496",
+    "title": "La noche de las narices frías"
+  },
+  {
+    "ts": "2026-07-31T03:51:44.620Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_497",
+    "title": "Dumbo"
+  },
+  {
+    "ts": "2026-07-31T03:52:28.215Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_498",
+    "title": "Blanca Nieves"
+  },
+  {
+    "ts": "2026-07-31T03:53:24.399Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_499",
+    "title": "Blanca Nieves y los siete enanos"
+  },
+  {
+    "ts": "2026-07-31T03:54:33.200Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_500",
+    "title": "Alicia a través del espejo"
+  },
+  {
+    "ts": "2026-07-31T03:55:41.961Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_501",
+    "title": "Alicia en el país de las maravillas"
+  },
+  {
+    "ts": "2026-07-31T03:56:38.825Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_502",
+    "title": "La cenicienta"
+  },
+  {
+    "ts": "2026-07-31T03:58:42.358Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_503",
+    "title": "El fantástico Sr. Zorro"
+  },
+  {
+    "ts": "2026-07-31T03:59:54.726Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_504",
+    "title": "Enredados Por Siempre"
+  },
+  {
+    "ts": "2026-07-31T04:01:02.145Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_505",
+    "title": "El jorobado de Notre Dame 2"
+  },
+  {
+    "ts": "2026-07-31T04:02:06.694Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_506",
+    "title": "El Diario De La Princesa 2"
+  },
+  {
+    "ts": "2026-07-31T04:03:22.869Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_507",
+    "title": "El Zorro y el Sabueso 2"
+  },
+  {
+    "ts": "2026-07-31T04:04:17.356Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_508",
+    "title": "El jorobado de Notre Dame"
+  },
+  {
+    "ts": "2026-07-31T04:04:56.505Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_509",
+    "title": "Hércules"
+  },
+  {
+    "ts": "2026-07-31T04:06:08.843Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_510",
+    "title": "Un viaje increíble"
+  },
+  {
+    "ts": "2026-07-31T04:07:06.553Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_511",
+    "title": "Enredados"
+  },
+  {
+    "ts": "2026-07-31T04:10:35.117Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_512",
+    "title": "Los Aristogatos"
+  },
+  {
+    "ts": "2026-07-31T04:11:49.552Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_513",
+    "title": "Querida, encogí a los niños"
+  },
+  {
+    "ts": "2026-07-31T04:12:45.577Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_514",
+    "title": "Los increíbles"
+  },
+  {
+    "ts": "2026-07-31T04:13:30.230Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_515",
+    "title": "Los increíbles 2"
+  },
+  {
+    "ts": "2026-07-31T04:14:41.738Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_516",
+    "title": "Patoaventuras la película: El tesoro de la lámpara perdida"
+  },
+  {
+    "ts": "2026-07-31T04:15:46.426Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_517",
+    "title": "Tron"
+  },
+  {
+    "ts": "2026-07-31T04:16:53.625Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_518",
+    "title": "Robin Hood"
+  },
+  {
+    "ts": "2026-07-31T04:17:31.973Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_519",
+    "title": "Bambi"
+  },
+  {
+    "ts": "2026-07-31T04:18:43.282Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_520",
+    "title": "Mary Poppins"
+  },
+  {
+    "ts": "2026-07-31T04:19:43.803Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_521",
+    "title": "Bichos: Una Aventura en Miniatura"
+  },
+  {
+    "ts": "2026-07-31T04:21:23.708Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_522",
+    "title": "The Little Cars: La gran carrera"
+  },
+  {
+    "ts": "2026-07-31T04:24:50.673Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_522",
+    "title": "Cars"
+  },
+  {
+    "ts": "2026-07-31T04:25:31.647Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_523",
+    "title": "Cars 3"
+  },
+  {
+    "ts": "2026-07-31T04:25:58.777Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_521",
+    "title": "Bichos: Una Aventura en Miniatura"
+  },
+  {
+    "ts": "2026-07-31T04:26:22.234Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_524",
+    "title": "Dumbo"
+  },
+  {
+    "ts": "2026-07-31T04:27:26.601Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_525",
+    "title": "Cars 2"
+  },
+  {
+    "ts": "2026-07-31T04:29:12.349Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_526",
+    "title": "El Diario De La Princesa"
+  },
+  {
+    "ts": "2026-07-31T04:30:14.405Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_527",
+    "title": "Cupido motorizado"
   }
 ]
