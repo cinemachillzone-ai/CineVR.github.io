@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-05T14:03:53.273Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_121"
-  },
-  {
     "timestamp": "2026-06-05T14:04:01.490Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3526,5 +3520,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_548",
     "title": "Bernardo y Bianca"
+  },
+  {
+    "ts": "2026-08-01T22:35:17.294Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_549",
+    "title": "Aladdín y el rey de los ladrones"
   }
 ]
