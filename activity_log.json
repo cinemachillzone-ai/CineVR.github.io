@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:32:36.479Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_310",
-    "title": "雲のむこう、約束の場所"
-  },
-  {
     "ts": "2026-06-05T13:32:56.898Z",
     "actor": "carmesi",
     "action": "DELETE_SERIES",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_544",
     "title": "Una Chihuahua de Beverly Hills 3: ¡Viva la Fiesta!"
+  },
+  {
+    "ts": "2026-08-01T22:29:15.888Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_545",
+    "title": "Buscando a Nemo"
   }
 ]
