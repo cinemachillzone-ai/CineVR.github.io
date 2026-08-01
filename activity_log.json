@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T20:45:56.040Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_180"
-  },
-  {
     "timestamp": "2026-06-06T20:46:05.019Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3529,5 +3523,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_564",
     "title": "Monsters, Inc."
+  },
+  {
+    "ts": "2026-08-01T22:56:23.167Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_565",
+    "title": "Mulán"
   }
 ]
