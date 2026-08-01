@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:31:30.894Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_316",
-    "title": "Suzume"
-  },
-  {
     "ts": "2026-06-05T13:31:52.247Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_541",
     "title": "El Libro de la Selva 2"
+  },
+  {
+    "ts": "2026-08-01T22:24:49.824Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_542",
+    "title": "El libro de la selva"
   }
 ]
