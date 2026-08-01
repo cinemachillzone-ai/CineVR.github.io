@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-30 07:21",
+  "lastUpdate": "2026-08-01 21:09",
   "stars": [
     {
       "user": "Sean F",
@@ -51,7 +51,7 @@
       "link": "https://guns.lol/wolfdaver",
       "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-06-19T00:00:00.000Z",
+      "expiresAt": "2026-08-30T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 1,
       "isStar": false,
@@ -64,7 +64,7 @@
       "link": " https://guns.lol/wolfdaver",
       "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-07-17T00:00:00.000Z",
+      "expiresAt": "2026-08-30T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 2,
       "isStar": true,
@@ -75,15 +75,15 @@
     },
     {
       "id": "user_004",
-      "user": "Vodzka",
+      "user": "Slots 3",
       "link": "https://discord.gg/4gVCuSYP",
-      "role": "Familiar",
+      "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
       "expiresAt": "2050-04-19T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 3,
       "isStar": false,
-      "patreonAccount": "Owner"
+      "patreonAccount": ""
     },
     {
       "id": "user_005",
