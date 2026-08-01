@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T20:46:05.019Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_181"
-  },
-  {
     "timestamp": "2026-06-06T20:47:51.978Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3530,5 +3524,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_565",
     "title": "Mulán"
+  },
+  {
+    "ts": "2026-08-01T22:57:30.269Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_566",
+    "title": "La Bella y La Bestia"
   }
 ]
