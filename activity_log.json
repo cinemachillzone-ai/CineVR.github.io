@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-06T04:31:07.409Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_104",
-    "title": "Ranma ½ T3",
-    "eps_changed": 20
-  },
-  {
     "ts": "2026-06-06T05:06:50.640Z",
     "actor": "yutamir",
     "action": "DISCOVER_MISSING",
@@ -3529,5 +3521,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_559",
     "title": "Pocahontas II: Encuentro de dos mundos"
+  },
+  {
+    "ts": "2026-08-01T22:50:48.392Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_560",
+    "title": "La Sirenita 2: Regreso al Mar"
   }
 ]
