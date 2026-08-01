@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:31:07.766Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_313",
-    "title": "One Piece Film: Red"
-  },
-  {
     "ts": "2026-06-05T13:31:30.894Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3522,6 +3515,13 @@
     "ts": "2026-08-01T22:20:13.223Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_541",
+    "title": "El Libro de la Selva 2"
+  },
+  {
+    "ts": "2026-08-01T22:23:42.873Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
     "target": "movie_541",
     "title": "El Libro de la Selva 2"
   }
