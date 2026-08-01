@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:29:42.813Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_305",
-    "title": "Demon Slayer: Mugen Train La película"
-  },
-  {
     "ts": "2026-06-05T13:30:04.749Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_537",
     "title": "El rey león II: El reino de Simba"
+  },
+  {
+    "ts": "2026-08-01T22:16:58.380Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_538",
+    "title": "El rey león"
   }
 ]
