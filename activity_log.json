@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:25:09.605Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_239",
-    "title": "Los Cazafantasmas 2"
-  },
-  {
     "ts": "2026-06-05T13:26:52.905Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_529",
     "title": "La Bella y La Bestia"
+  },
+  {
+    "ts": "2026-08-01T22:00:05.662Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_530",
+    "title": "Frozen 2"
   }
 ]
