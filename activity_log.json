@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-06T04:11:15.156Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_298",
-    "title": "8 Minutos antes de morir"
-  },
-  {
     "ts": "2026-06-06T04:12:46.041Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3531,5 +3524,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_553",
     "title": "Una chihuahua de Beverly Hills"
+  },
+  {
+    "ts": "2026-08-01T22:43:41.182Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_554",
+    "title": "Una chihuahua de Beverly Hills 2"
   }
 ]
