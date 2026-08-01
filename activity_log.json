@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:30:46.430Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_301",
-    "title": "Hacia el Bosque de las Luciérnagas"
-  },
-  {
     "ts": "2026-06-05T13:31:07.766Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_540",
     "title": "El Libro de la Selva"
+  },
+  {
+    "ts": "2026-08-01T22:20:13.223Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_541",
+    "title": "El Libro de la Selva 2"
   }
 ]
