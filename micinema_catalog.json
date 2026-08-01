@@ -79386,6 +79386,36 @@
       "updatedAt": "2026-08-01T22:43:28.450Z",
       "addedAt": "2026-08-01T22:43:28.450Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_555",
+      "type": "movie",
+      "title": "Mulán",
+      "description": "Narra la historia de Mulán, una intrépida joven lo arriesga todo por amor a su familia y a su país hasta convertirse en una de las mayores guerreras de la historia de China. Cuando el emperador de China decreta que un hombre de cada familia debe servir en el Ejército Imperial para defender al país de los invasores del norte, Hua Mulán, la hija mayor de un condecorado guerrero, decide ocupar el lugar de su padre enfermo. Haciéndose pasar por un hombre, Hua Jun, se enfrenta a constantes desafíos y deberá aprender a canalizar su fuerza interior y a aceptar su verdadero potencial. Un viaje épico que la convertirá en una reconocida guerrera y le permitirá ganarse el respeto de una nación agradecida... y de un padre orgulloso. Remake del clásico de Disney.",
+      "duration": "2h 00m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2020,
+      "releaseDate": "2020-09-04",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 112,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MulanLiveAction/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MulanLiveAction/master.m3u8",
+      "createdAt": "2026-08-01T22:44:37.050Z",
+      "updatedAt": "2026-08-01T22:44:37.050Z",
+      "addedAt": "2026-08-01T22:44:37.050Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
