@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-06T05:06:50.640Z",
-    "actor": "yutamir",
-    "action": "DISCOVER_MISSING",
-    "count": 2
-  },
-  {
     "ts": "2026-06-06T05:08:03.054Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3528,5 +3522,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_560",
     "title": "La Sirenita 2: Regreso al Mar"
+  },
+  {
+    "ts": "2026-08-01T22:51:42.468Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_561",
+    "title": "Peter Pan 2: El regreso al país de Nunca Jamás"
   }
 ]
