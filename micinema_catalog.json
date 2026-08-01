@@ -78987,11 +78987,11 @@
       "atlas": "D",
       "gridIndex": 98,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva/master.m3u8"
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva2/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva2/master.m3u8",
       "createdAt": "2026-08-01T22:20:00.821Z",
-      "updatedAt": "2026-08-01T22:20:00.821Z",
+      "updatedAt": "2026-08-01T22:23:30.257Z",
       "addedAt": "2026-08-01T22:20:00.821Z",
       "addedBy": "seanf"
     }
