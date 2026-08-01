@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T03:01:16.794Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "ts": "2026-06-06T04:11:15.156Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3530,5 +3524,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_552",
     "title": "Tarzán"
+  },
+  {
+    "ts": "2026-08-01T22:43:09.627Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_553",
+    "title": "Una chihuahua de Beverly Hills"
   }
 ]
