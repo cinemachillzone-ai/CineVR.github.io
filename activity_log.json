@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:24:45.236Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_184",
-    "title": "Lluvia de Hamburguesas 2: La Venganza de las Sobras"
-  },
-  {
     "ts": "2026-06-05T13:25:09.605Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_528",
     "title": "101 dálmatas II: Una aventura en Londres"
+  },
+  {
+    "ts": "2026-08-01T21:50:11.315Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_529",
+    "title": "La Bella y La Bestia"
   }
 ]
