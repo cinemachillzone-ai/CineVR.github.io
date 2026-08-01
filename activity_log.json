@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T20:47:51.978Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_014"
-  },
-  {
     "timestamp": "2026-06-06T20:49:39.866Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3531,5 +3525,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_566",
     "title": "La Bella y La Bestia"
+  },
+  {
+    "ts": "2026-08-01T22:58:36.473Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_567",
+    "title": "Monsters University"
   }
 ]
