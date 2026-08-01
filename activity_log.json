@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:50:39.504Z",
-    "actor": "yutamir",
-    "action": "FULL_SAVE",
-    "size": 1624472
-  },
-  {
     "timestamp": "2026-06-05T14:03:53.273Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3525,5 +3519,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_547",
     "title": "Bernardo y Bianca 2: En Cangurolandia"
+  },
+  {
+    "ts": "2026-08-01T22:34:19.672Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_548",
+    "title": "Bernardo y Bianca"
   }
 ]
