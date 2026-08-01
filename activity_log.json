@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:28:26.239Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_085",
-    "title": "Jujutsu Kaisen 0"
-  },
-  {
     "ts": "2026-06-05T13:28:49.085Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_534",
     "title": "George de la Selva"
+  },
+  {
+    "ts": "2026-08-01T22:13:24.987Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_535",
+    "title": "La Bella y la Bestia : El mundo mágico de Bella"
   }
 ]
