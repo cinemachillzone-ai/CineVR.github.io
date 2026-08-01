@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:29:10.008Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_296",
-    "title": "Dead Leaves"
-  },
-  {
     "ts": "2026-06-05T13:29:42.813Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_536",
     "title": "Aladdín"
+  },
+  {
+    "ts": "2026-08-01T22:15:37.867Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_537",
+    "title": "El rey león II: El reino de Simba"
   }
 ]
