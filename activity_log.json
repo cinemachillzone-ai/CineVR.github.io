@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T20:49:39.866Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_001"
-  },
-  {
     "timestamp": "2026-06-06T20:49:59.476Z",
     "user": "Admin",
     "action": "DEEP_REPAIR",
@@ -3532,5 +3526,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_567",
     "title": "Monsters University"
+  },
+  {
+    "ts": "2026-08-01T22:59:34.467Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_568",
+    "title": "La sirenita"
   }
 ]
