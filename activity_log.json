@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:30:25.816Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_317",
-    "title": "El regreso del gato"
-  },
-  {
     "ts": "2026-06-05T13:30:46.430Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_539",
     "title": "El rey león 1½"
+  },
+  {
+    "ts": "2026-08-01T22:19:20.255Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_540",
+    "title": "El Libro de la Selva"
   }
 ]
