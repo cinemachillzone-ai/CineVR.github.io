@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:26:52.905Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_245",
-    "title": "Matrix Resurrecciones"
-  },
-  {
     "ts": "2026-06-05T13:27:15.489Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_530",
     "title": "Frozen 2"
+  },
+  {
+    "ts": "2026-08-01T22:06:56.092Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_531",
+    "title": "El rey león"
   }
 ]
