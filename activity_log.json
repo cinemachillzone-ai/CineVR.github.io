@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-05T13:28:49.085Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_293",
-    "title": "Ao no Exorcist The Movie"
-  },
-  {
     "ts": "2026-06-05T13:29:10.008Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3524,5 +3517,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_535",
     "title": "La Bella y la Bestia : El mundo mágico de Bella"
+  },
+  {
+    "ts": "2026-08-01T22:14:23.737Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_536",
+    "title": "Aladdín"
   }
 ]
