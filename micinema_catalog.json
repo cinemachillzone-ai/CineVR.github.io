@@ -79720,6 +79720,35 @@
       "updatedAt": "2026-08-01T22:56:10.921Z",
       "addedAt": "2026-08-01T22:56:10.921Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_566",
+      "type": "movie",
+      "title": "La Bella y La Bestia",
+      "description": "Una joven soñadora y romántica llamada Bella, vive en una pequeña aldea junto a su padre, un inventor de artilugios, al que algunos consideran un anciano demente.Un día su padre se marcha a una feria para exponer sus inventos, pero se pierde en el camino y acaba en un grande y viejo castillo.",
+      "duration": "2h 09m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-03-16",
+      "genres": [
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 123,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Labellaylabestialiveaction/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Labellaylabestialiveaction/master.m3u8",
+      "createdAt": "2026-08-01T22:57:17.503Z",
+      "updatedAt": "2026-08-01T22:57:17.503Z",
+      "addedAt": "2026-08-01T22:57:17.503Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
