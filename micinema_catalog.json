@@ -79143,6 +79143,38 @@
       "updatedAt": "2026-08-01T22:29:49.209Z",
       "addedAt": "2026-08-01T22:29:49.209Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_547",
+      "type": "movie",
+      "title": "Bernardo y Bianca 2: En Cangurolandia",
+      "description": "Los agentes de la R.A.S., la Srta. Bianca y Bernardo, corren a Australia para salvar a un niño y a una rara águila dorada de un cazador furtivo asesino.",
+      "duration": "1h 17m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 1990,
+      "releaseDate": "1990-11-16",
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Action",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 104,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Bernardoybiancaencangurolandia/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Bernardoybiancaencangurolandia/master.m3u8",
+      "createdAt": "2026-08-01T22:32:19.190Z",
+      "updatedAt": "2026-08-01T22:32:19.190Z",
+      "addedAt": "2026-08-01T22:32:19.190Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
