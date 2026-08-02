@@ -59802,10 +59802,103 @@
               "updatedAt": "2026-08-02T06:50:14.500Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_5119",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E01/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_5120",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E02/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_5121",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E03/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_5122",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E04/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_5123",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E05/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_5124",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E06/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_5125",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E07/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_5126",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T2/CastlevaniaS02E08/master.m3u8",
+              "updatedAt": "2026-08-02T08:20:25.493Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-02T06:50:14.500Z",
-      "updatedAt": "2026-08-02T06:50:14.500Z",
+      "updatedAt": "2026-08-02T08:20:25.493Z",
       "addedAt": "2026-08-02T06:50:14.500Z",
       "addedBy": "carmesi"
     },
