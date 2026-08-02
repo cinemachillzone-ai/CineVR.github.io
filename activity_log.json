@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T22:15:31.393Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "timestamp": "2026-06-06T22:16:55.385Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3541,5 +3535,13 @@
     "title": "Avatar La leyenda de Aang Live Action",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-08-02T08:20:38.784Z",
+    "actor": "carmesi",
+    "action": "INJECT_EPISODES",
+    "target": "series_169",
+    "season": 2,
+    "count": 8
   }
 ]
