@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T20:50:55.667Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "ts": "2026-06-06T22:06:15.059Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3534,5 +3528,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 3233154
+  },
+  {
+    "ts": "2026-08-02T04:07:19.239Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_569",
+    "title": "La bella y la bestia: Una Navidad encantada"
   }
 ]
