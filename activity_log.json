@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-06T22:06:15.059Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_301",
-    "title": "Las guerreras k-pop"
-  },
-  {
     "timestamp": "2026-06-06T22:08:12.911Z",
     "user": "Admin",
     "action": "DEEP_REPAIR",
@@ -3535,5 +3528,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_569",
     "title": "La bella y la bestia: Una Navidad encantada"
+  },
+  {
+    "ts": "2026-08-02T04:17:51.903Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_508",
+    "title": "El jorobado de Notre Dame"
   }
 ]
