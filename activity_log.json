@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:55:04.269Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_316",
-    "title": "La princesa Mononoke"
-  },
-  {
     "ts": "2026-06-11T20:55:50.486Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3585,5 +3578,13 @@
     "target": "series_177",
     "season": 2,
     "count": 14
+  },
+  {
+    "ts": "2026-08-03T20:36:32.841Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_177",
+    "season": 3,
+    "count": 13
   }
 ]
