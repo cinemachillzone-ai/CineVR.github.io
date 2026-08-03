@@ -61042,10 +61042,103 @@
               "updatedAt": "2026-08-03T05:22:06.176Z"
             }
           ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "id": "s04e01",
+              "slotId": "ep_5211",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e02",
+              "slotId": "ep_5212",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e03",
+              "slotId": "ep_5213",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e04",
+              "slotId": "ep_5214",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e05",
+              "slotId": "ep_5215",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e06",
+              "slotId": "ep_5216",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e07",
+              "slotId": "ep_5217",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            },
+            {
+              "id": "s04e08",
+              "slotId": "ep_5218",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T4/LaCasaDePapelS04E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:22:43.477Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T05:20:59.810Z",
-      "updatedAt": "2026-08-03T05:22:06.176Z",
+      "updatedAt": "2026-08-03T05:22:43.477Z",
       "addedAt": "2026-08-03T05:20:59.810Z",
       "addedBy": "seanf"
     }
