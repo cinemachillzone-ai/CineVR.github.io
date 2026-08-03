@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:44:52.676Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_309",
-    "title": "Evangelion: 3.0+1.0 Tres veces una vez"
-  },
-  {
     "ts": "2026-06-11T20:45:28.395Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3575,5 +3568,13 @@
     "target": "series_174",
     "season": 7,
     "count": 7
+  },
+  {
+    "ts": "2026-08-03T05:32:01.956Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_174",
+    "season": 8,
+    "count": 6
   }
 ]
