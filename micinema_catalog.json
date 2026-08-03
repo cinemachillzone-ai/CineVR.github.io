@@ -62906,14 +62906,18 @@
       "id": "series_176",
       "type": "series",
       "title": "One puch man Ovas",
-      "description": "",
+      "description": "Los OVAs de One Punch Man son episodios especiales que expanden las aventuras de Saitama y los demás héroes con historias inéditas, generalmente enfocadas en situaciones cotidianas, humor y personajes secundarios. Aunque no son esenciales para la trama principal, ofrecen más desarrollo y momentos divertidos del universo de la serie.",
       "duration": "",
-      "rating": "",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2015,
+      "releaseDate": "2015-12-24",
+      "genres": [
+        "Action",
+        "Animation",
+        "Comedy"
+      ],
       "cast": [],
       "director": "",
       "recommended": "",
@@ -63074,7 +63078,7 @@
         }
       ],
       "createdAt": "2026-08-03T20:27:19.819Z",
-      "updatedAt": "2026-08-03T20:27:19.819Z",
+      "updatedAt": "2026-08-03T20:30:19.254Z",
       "addedAt": "2026-08-03T20:27:19.819Z",
       "addedBy": "seanf"
     }
