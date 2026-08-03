@@ -60274,10 +60274,213 @@
               "updatedAt": "2026-08-03T05:14:44.024Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_5147",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_5148",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_5149",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_5150",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_5151",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_5152",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_5153",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_5154",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_5155",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E09/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_5156",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E10/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_5157",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E11/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_5158",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E12/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_5159",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E14/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e15",
+              "slotId": "ep_5160",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E15/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e16",
+              "slotId": "ep_5161",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E16/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e17",
+              "slotId": "ep_5162",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E17/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e18",
+              "slotId": "ep_5163",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E18/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            },
+            {
+              "id": "s02e19",
+              "slotId": "ep_5164",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LaleyendadeAang/T2/LaleyendadeaangS02E19/master.m3u8",
+              "updatedAt": "2026-08-03T05:19:18.205Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T05:14:44.024Z",
-      "updatedAt": "2026-08-03T05:18:13.757Z",
+      "updatedAt": "2026-08-03T05:19:18.205Z",
       "addedAt": "2026-08-03T05:14:44.024Z",
       "addedBy": "seanf",
       "saga": "Avatar Studios"
