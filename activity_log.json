@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:11:43.892Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_307",
-    "title": "Vengadores End Gamen"
-  },
-  {
     "ts": "2026-06-11T09:28:32.810Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3572,6 +3565,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_174",
     "season": 5,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-03T05:31:01.562Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_174",
+    "season": 6,
     "count": 10
   }
 ]
