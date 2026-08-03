@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:53:31.364Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_314",
-    "title": "Kung Fu Panda"
-  },
-  {
     "ts": "2026-06-11T20:54:09.117Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3582,5 +3575,14 @@
     "target": "series_176",
     "title": "One puch man Ovas",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-08-03T20:34:53.325Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_177",
+    "title": "La leyenda de Korra",
+    "season": 1,
+    "episodes": 12
   }
 ]
