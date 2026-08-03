@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T22:16:58.661Z",
-    "user": "Admin",
-    "action": "DELETE",
-    "targetId": "movie_300"
-  },
-  {
     "timestamp": "2026-06-06T22:17:09.350Z",
     "user": "Admin",
     "action": "DELETE",
@@ -3543,5 +3537,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 3244716
+  },
+  {
+    "ts": "2026-08-03T05:13:32.181Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_570",
+    "title": "El último maestro del aire"
   }
 ]
