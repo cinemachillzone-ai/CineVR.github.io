@@ -63253,10 +63253,169 @@
               "updatedAt": "2026-08-03T20:34:40.511Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_5387",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E01/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_5388",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E02/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_5389",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E03/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_5390",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E04/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_5391",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E05/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_5392",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E06/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_5393",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E07/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_5394",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E08/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_5395",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E09/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_5396",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E10/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_5397",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E11/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_5398",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E12/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e13",
+              "slotId": "ep_5399",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E13/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_5400",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T2/LaLeyendaDeKorraS02E14/master.m3u8",
+              "updatedAt": "2026-08-03T20:35:47.591Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T20:34:40.511Z",
-      "updatedAt": "2026-08-03T20:34:40.511Z",
+      "updatedAt": "2026-08-03T20:35:47.591Z",
       "addedAt": "2026-08-03T20:34:40.511Z",
       "addedBy": "seanf"
     }
