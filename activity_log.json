@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:09:02.279Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_304",
-    "title": "Toy Story 2"
-  },
-  {
     "ts": "2026-06-11T00:09:37.943Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3569,6 +3562,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_174",
     "season": 2,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-03T05:29:25.267Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_174",
+    "season": 3,
     "count": 10
   }
 ]
