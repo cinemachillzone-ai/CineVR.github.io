@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:45:28.395Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_310",
-    "title": "Forrest Gump"
-  },
-  {
     "ts": "2026-06-11T20:47:38.708Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3576,5 +3569,14 @@
     "target": "series_174",
     "season": 8,
     "count": 6
+  },
+  {
+    "ts": "2026-08-03T20:25:47.626Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_175",
+    "title": "One punch man",
+    "season": 1,
+    "episodes": 12
   }
 ]
