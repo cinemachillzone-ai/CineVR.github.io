@@ -61377,10 +61377,103 @@
               "updatedAt": "2026-08-03T05:24:23.200Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_5237",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_5238",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_5239",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_5240",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_5241",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_5242",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_5243",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_5244",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Devil May Cry/T2/DevilMayCryS02E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:24:59.230Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T05:24:23.200Z",
-      "updatedAt": "2026-08-03T05:24:23.200Z",
+      "updatedAt": "2026-08-03T05:24:59.230Z",
       "addedAt": "2026-08-03T05:24:23.200Z",
       "addedBy": "seanf"
     }
