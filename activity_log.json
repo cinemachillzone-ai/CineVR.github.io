@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:05:52.467Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_302",
-    "title": "Dulce y Amargo"
-  },
-  {
     "ts": "2026-06-11T00:08:26.600Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3567,5 +3560,14 @@
     "target": "series_169",
     "season": 4,
     "count": 10
+  },
+  {
+    "ts": "2026-08-03T05:28:17.936Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_174",
+    "title": "Juego de Tronos",
+    "season": 1,
+    "episodes": 10
   }
 ]
