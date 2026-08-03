@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-09T22:04:55.320Z",
-    "actor": "carmesi",
-    "action": "EDIT_MOVIE",
-    "target": "movie_300",
-    "title": "Robot Salvaje"
-  },
-  {
     "ts": "2026-06-10T22:30:20.450Z",
     "actor": "yutamir",
     "action": "FULL_SAVE",
@@ -3563,5 +3556,13 @@
     "title": "Devil May Cry",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-08-03T05:25:12.670Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_173",
+    "season": 2,
+    "count": 8
   }
 ]
