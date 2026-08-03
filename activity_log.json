@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:48:52.900Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_312",
-    "title": "Buenos días, Vietnam"
-  },
-  {
     "ts": "2026-06-11T20:52:42.120Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3579,5 +3572,14 @@
     "target": "series_175",
     "season": 2,
     "count": 12
+  },
+  {
+    "ts": "2026-08-03T20:27:33.676Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_176",
+    "title": "One puch man Ovas",
+    "season": 0,
+    "episodes": 13
   }
 ]
