@@ -62590,6 +62590,180 @@
       "updatedAt": "2026-08-03T05:31:49.362Z",
       "addedAt": "2026-08-03T05:28:04.950Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_175",
+      "type": "series",
+      "title": "One punch man",
+      "description": "La historia tiene lugar en una de las metrópolis ficticias de la Tierra, la Ciudad Z en Japón. El mundo está lleno de extraños monstruos que misteriosamente aparecen y causan muchos desastres. Saitama, el protagonista, es un poderoso superhéroe que derrota fácilmente a los monstruos u otros villanos con un único golpe. Debido a esto, Saitama ha encontrado aburrida su fuerza y siempre está tratando de encontrar rivales más poderosos que le puedan igualar. En sus aventuras se encuentra con nuevos amigos, enemigos y su propio discípulo, el cíborg Genos, y se une a la Asociación de Héroes para ganar fama por todas sus acciones para prevenir el mal. A pesar de derrotar a muchos enemigos poderosos que los principales héroes, incluso los de la Asociación de Héroes, son incapaces de derrotar, Saitama es incapaz de conseguir el reconocimiento de sus acciones en general. La mayoría de la gente lo discrimina por su apariencia física normal y algunos lo acusan de ser un héroe falso. Sólo un pequeño número de individuos reconocen su increíble talento y humildad hacia los demás.",
+      "duration": "0h 24m",
+      "rating": "TV-PG",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2015,
+      "releaseDate": "2015-10-05",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "cast": [
+        "古川慎"
+      ],
+      "director": "",
+      "recommended": "Recomendado 84%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 5,
+      "_baseKey": "one punch man",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_5338",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E01/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_5339",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E02/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_5340",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E03/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_5341",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E04/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_5342",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E05/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_5343",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E06/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_5344",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E07/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_5345",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E08/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_5346",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E09/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_5347",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E10/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_5348",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E11/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_5349",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/One punch man/T1/OnePunchManS01E12/master.m3u8",
+              "updatedAt": "2026-08-03T20:25:32.115Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-08-03T20:25:32.115Z",
+      "updatedAt": "2026-08-03T20:25:32.115Z",
+      "addedAt": "2026-08-03T20:25:32.115Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
