@@ -62201,10 +62201,125 @@
               "updatedAt": "2026-08-03T05:29:52.911Z"
             }
           ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "s05e01",
+              "slotId": "ep_5305",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e02",
+              "slotId": "ep_5306",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e03",
+              "slotId": "ep_5307",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e04",
+              "slotId": "ep_5308",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e05",
+              "slotId": "ep_5309",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e06",
+              "slotId": "ep_5310",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e07",
+              "slotId": "ep_5311",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e08",
+              "slotId": "ep_5312",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e09",
+              "slotId": "ep_5313",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E09/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            },
+            {
+              "id": "s05e10",
+              "slotId": "ep_5314",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Juego de Tronos/T5/JuegoDeTronosS05E10/master.m3u8",
+              "updatedAt": "2026-08-03T05:30:19.582Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T05:28:04.950Z",
-      "updatedAt": "2026-08-03T05:29:52.911Z",
+      "updatedAt": "2026-08-03T05:30:19.582Z",
       "addedAt": "2026-08-03T05:28:04.950Z",
       "addedBy": "seanf"
     }
