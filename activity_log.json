@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T22:34:47.827Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "timestamp": "2026-06-06T22:35:53.881Z",
     "user": "Admin",
     "action": "DEEP_REPAIR",
@@ -3551,5 +3545,13 @@
     "target": "series_171",
     "season": 2,
     "count": 18
+  },
+  {
+    "ts": "2026-08-03T05:20:10.979Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_171",
+    "season": 3,
+    "count": 16
   }
 ]
