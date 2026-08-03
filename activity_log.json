@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-06T22:36:20.758Z",
-    "user": "Admin",
-    "action": "DEEP_REPAIR",
-    "targetId": "catalog"
-  },
-  {
     "ts": "2026-06-07T06:44:39.820Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3556,5 +3550,13 @@
     "title": "La casa de papel",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-03T05:21:45.946Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_172",
+    "season": 2,
+    "count": 9
   }
 ]
