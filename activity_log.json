@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-10T22:30:20.450Z",
-    "actor": "yutamir",
-    "action": "FULL_SAVE",
-    "size": 1681861
-  },
-  {
     "ts": "2026-06-11T00:04:10.046Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3564,5 +3558,13 @@
     "target": "series_173",
     "season": 2,
     "count": 8
+  },
+  {
+    "ts": "2026-08-03T05:26:46.135Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_169",
+    "season": 3,
+    "count": 10
   }
 ]
