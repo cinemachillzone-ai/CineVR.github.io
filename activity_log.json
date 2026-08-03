@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:52:42.120Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_313",
-    "title": "Kung Fu Panda 2"
-  },
-  {
     "ts": "2026-06-11T20:53:31.364Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3581,5 +3574,13 @@
     "title": "One puch man Ovas",
     "season": 0,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-03T20:30:32.060Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_176",
+    "title": "One puch man Ovas",
+    "eps_changed": 0
   }
 ]
