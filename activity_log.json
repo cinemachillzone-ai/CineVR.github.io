@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-07T06:44:39.820Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_299",
-    "title": "Las guerreras k-pop"
-  },
-  {
     "ts": "2026-06-07T06:45:16.682Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3558,5 +3551,13 @@
     "target": "series_172",
     "season": 2,
     "count": 9
+  },
+  {
+    "ts": "2026-08-03T05:22:19.426Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_172",
+    "season": 3,
+    "count": 8
   }
 ]
