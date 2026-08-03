@@ -60665,6 +60665,192 @@
       "addedAt": "2026-08-03T05:14:44.024Z",
       "addedBy": "seanf",
       "saga": "Avatar Studios"
+    },
+    {
+      "id": "series_172",
+      "type": "series",
+      "title": "La casa de papel",
+      "description": "Ocho ladrones toman rehenes en la Fábrica Nacional de Moneda y Timbre de España, mientras el líder de la banda manipula a la policía para cumplir con su plan.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2017,
+      "releaseDate": "2017-05-02",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "cast": [
+        "Úrsula Corberó",
+        "Itziar Ituño",
+        "Álvaro Morte",
+        "Pedro Alonso",
+        "Miguel Herrán",
+        "Jaime Lorente"
+      ],
+      "director": "Álex Pina",
+      "recommended": "Recomendado 82%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 2,
+      "_baseKey": "la casa de papel",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_5181",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_5182",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_5183",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_5184",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_5185",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_5186",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_5187",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_5188",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_5189",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E09/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_5190",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E10/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_5191",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E11/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_5192",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E12/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            },
+            {
+              "id": "s01e13",
+              "slotId": "ep_5193",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T1/LaCasaDePapelS01E13/master.m3u8",
+              "updatedAt": "2026-08-03T05:20:59.810Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-08-03T05:20:59.810Z",
+      "updatedAt": "2026-08-03T05:20:59.810Z",
+      "addedAt": "2026-08-03T05:20:59.810Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
