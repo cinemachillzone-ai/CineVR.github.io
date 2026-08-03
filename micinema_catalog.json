@@ -60027,14 +60027,19 @@
       "id": "series_171",
       "type": "series",
       "title": "Laleyendade Aang",
-      "description": "",
+      "description": "En un mundo donde algunas personas pueden controlar los cuatro elementos (agua, tierra, fuego y aire), el joven Aang, el último Maestro Aire y el Avatar, despierta después de haber permanecido congelado durante cien años. Junto a Katara y Sokka, emprende un viaje para dominar los cuatro elementos y detener la guerra iniciada por la Nación del Fuego.",
       "duration": "",
       "rating": "",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2005,
+      "releaseDate": "2005-02-21",
+      "genres": [
+        "Action",
+        "Animation",
+        "Comedy",
+        "Adventure"
+      ],
       "cast": [],
       "director": "",
       "recommended": "",
@@ -60272,9 +60277,10 @@
         }
       ],
       "createdAt": "2026-08-03T05:14:44.024Z",
-      "updatedAt": "2026-08-03T05:14:44.024Z",
+      "updatedAt": "2026-08-03T05:18:13.757Z",
       "addedAt": "2026-08-03T05:14:44.024Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "saga": "Avatar Studios"
     }
   ],
   "movies": [
