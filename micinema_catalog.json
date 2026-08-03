@@ -61135,10 +61135,125 @@
               "updatedAt": "2026-08-03T05:22:43.477Z"
             }
           ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "s05e01",
+              "slotId": "ep_5219",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e02",
+              "slotId": "ep_5220",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e03",
+              "slotId": "ep_5221",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e04",
+              "slotId": "ep_5222",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e05",
+              "slotId": "ep_5223",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e06",
+              "slotId": "ep_5224",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e07",
+              "slotId": "ep_5225",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e08",
+              "slotId": "ep_5226",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e09",
+              "slotId": "ep_5227",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E09/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            },
+            {
+              "id": "s05e10",
+              "slotId": "ep_5228",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La casa de papel/T5/LaCasaDePapelS05E10/master.m3u8",
+              "updatedAt": "2026-08-03T05:23:08.328Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T05:20:59.810Z",
-      "updatedAt": "2026-08-03T05:22:43.477Z",
+      "updatedAt": "2026-08-03T05:23:08.328Z",
       "addedAt": "2026-08-03T05:20:59.810Z",
       "addedBy": "seanf"
     }
