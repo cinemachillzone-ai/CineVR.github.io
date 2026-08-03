@@ -59895,10 +59895,125 @@
               "updatedAt": "2026-08-02T08:20:25.493Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_5245",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E01/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_5246",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E02/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_5247",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E03/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_5248",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E04/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_5249",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E05/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_5250",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E06/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_5251",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E07/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_5252",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E08/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_5253",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E09/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_5254",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Castlevania/T3/CastlevaniaS03E10/master.m3u8",
+              "updatedAt": "2026-08-03T05:26:32.658Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-02T06:50:14.500Z",
-      "updatedAt": "2026-08-02T08:20:25.493Z",
+      "updatedAt": "2026-08-03T05:26:32.658Z",
       "addedAt": "2026-08-02T06:50:14.500Z",
       "addedBy": "carmesi"
     },
