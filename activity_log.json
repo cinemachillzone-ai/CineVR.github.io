@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-09T08:46:51.272Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_300",
-    "title": "Robot Salvaje 1080p-Lat"
-  },
-  {
     "ts": "2026-06-09T22:04:55.320Z",
     "actor": "carmesi",
     "action": "EDIT_MOVIE",
@@ -3561,5 +3554,14 @@
     "target": "series_172",
     "season": 5,
     "count": 10
+  },
+  {
+    "ts": "2026-08-03T05:24:36.429Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_173",
+    "title": "Devil May Cry",
+    "season": 1,
+    "episodes": 8
   }
 ]
