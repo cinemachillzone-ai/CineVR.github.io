@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:54:09.117Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_315",
-    "title": "Kung fu"
-  },
-  {
     "ts": "2026-06-11T20:55:04.269Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3584,5 +3577,13 @@
     "title": "La leyenda de Korra",
     "season": 1,
     "episodes": 12
+  },
+  {
+    "ts": "2026-08-03T20:36:00.522Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_177",
+    "season": 2,
+    "count": 14
   }
 ]
