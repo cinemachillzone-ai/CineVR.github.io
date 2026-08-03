@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:47:38.708Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_311",
-    "title": "Arthur y los Minimoys"
-  },
-  {
     "ts": "2026-06-11T20:48:52.900Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3578,5 +3571,13 @@
     "title": "One punch man",
     "season": 1,
     "episodes": 12
+  },
+  {
+    "ts": "2026-08-03T20:26:46.650Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_175",
+    "season": 2,
+    "count": 12
   }
 ]
