@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T00:04:10.046Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_301",
-    "title": "Black Clover: La espada del rey mago"
-  },
-  {
     "ts": "2026-06-11T00:05:52.467Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3565,6 +3558,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_169",
     "season": 3,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-03T05:27:13.590Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_169",
+    "season": 4,
     "count": 10
   }
 ]
