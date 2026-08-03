@@ -63560,10 +63560,158 @@
               "updatedAt": "2026-08-03T20:36:20.173Z"
             }
           ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "id": "s04e01",
+              "slotId": "ep_5414",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E01/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e02",
+              "slotId": "ep_5415",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E02/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e03",
+              "slotId": "ep_5416",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E03/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e04",
+              "slotId": "ep_5417",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E04/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e05",
+              "slotId": "ep_5418",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E05/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e06",
+              "slotId": "ep_5419",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E06/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e07",
+              "slotId": "ep_5420",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E07/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e08",
+              "slotId": "ep_5421",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E08/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e09",
+              "slotId": "ep_5422",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E09/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e10",
+              "slotId": "ep_5423",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E10/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e11",
+              "slotId": "ep_5424",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E11/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e12",
+              "slotId": "ep_5425",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E12/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            },
+            {
+              "id": "s04e13",
+              "slotId": "ep_5426",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/La leyenda de Korra/T4/LaLeyendaDeKorraS04E13/master.m3u8",
+              "updatedAt": "2026-08-03T20:36:53.167Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-03T20:34:40.511Z",
-      "updatedAt": "2026-08-03T20:36:20.173Z",
+      "updatedAt": "2026-08-03T20:36:53.167Z",
       "addedAt": "2026-08-03T20:34:40.511Z",
       "addedBy": "seanf"
     }
