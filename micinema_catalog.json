@@ -60276,8 +60276,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 1,
+      "atlas": "C",
+      "gridIndex": 150,
       "_baseKey": "laleyendade aang",
       "seasons": [
         {
@@ -60924,8 +60924,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 2,
+      "atlas": "C",
+      "gridIndex": 151,
       "_baseKey": "la casa de papel",
       "seasons": [
         {
@@ -61511,8 +61511,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 3,
+      "atlas": "C",
+      "gridIndex": 152,
       "_baseKey": "devil may cry",
       "seasons": [
         {
@@ -61738,8 +61738,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 4,
+      "atlas": "C",
+      "gridIndex": 153,
       "_baseKey": "juego de tronos",
       "seasons": [
         {
@@ -62618,8 +62618,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 5,
+      "atlas": "C",
+      "gridIndex": 154,
       "_baseKey": "one punch man",
       "seasons": [
         {
@@ -62924,8 +62924,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 6,
+      "atlas": "C",
+      "gridIndex": 155,
       "_baseKey": "one puch man ovas",
       "seasons": [
         {
@@ -63113,8 +63113,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 7,
+      "atlas": "C",
+      "gridIndex": 156,
       "_baseKey": "la leyenda de korra",
       "seasons": [
         {
@@ -83929,8 +83929,8 @@
       "languages": [
         "language_Spanish"
       ],
-      "atlas": "E",
-      "gridIndex": 0,
+      "atlas": "C",
+      "gridIndex": 149,
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLtimoMaestroDelAire2010/master.m3u8"
       },
