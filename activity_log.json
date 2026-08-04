@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T20:58:21.240Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_318",
-    "title": "Mortal Kombat II"
-  },
-  {
     "timestamp": "2026-06-11T21:00:00.445Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3587,5 +3580,11 @@
     "target": "series_177",
     "season": 4,
     "count": 13
+  },
+  {
+    "ts": "2026-08-04T01:03:18.545Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 3396388
   }
 ]
