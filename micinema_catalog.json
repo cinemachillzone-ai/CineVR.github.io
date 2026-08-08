@@ -64551,6 +64551,171 @@
       "updatedAt": "2026-08-08T00:49:08.526Z",
       "addedAt": "2026-08-08T00:44:50.708Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_181",
+      "type": "series",
+      "title": "Kono Suba Una explosión en este maravilloso mundo",
+      "description": "",
+      "duration": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 133,
+      "_baseKey": "kono suba una explosion en este maravilloso mundo",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_5491",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E01/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_5492",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E02/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_5493",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E03/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_5494",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E04/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_5495",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E05/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_5496",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E06/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_5497",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E07/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_5498",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E08/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_5499",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E09/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_5500",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E10/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_5501",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E11/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_5502",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/KonoSuba Una explosión en este maravilloso mundo/T1/KonoSubaUnaexplosiónenestemaravillosomundoS01E12/master.m3u8",
+              "updatedAt": "2026-08-08T01:00:33.202Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-08-08T01:00:33.202Z",
+      "updatedAt": "2026-08-08T01:00:33.202Z",
+      "addedAt": "2026-08-08T01:00:33.202Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
