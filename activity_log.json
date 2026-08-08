@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-13T06:00:01.807Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_149"
-  },
-  {
     "ts": "2026-06-13T16:44:09.114Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3594,5 +3588,13 @@
     "title": "SPY×FAMILY",
     "season": 1,
     "episodes": 25
+  },
+  {
+    "ts": "2026-08-08T00:47:58.790Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_180",
+    "season": 2,
+    "count": 12
   }
 ]
