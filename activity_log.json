@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-11T21:00:20.722Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "movie_308"
-  },
-  {
     "ts": "2026-06-11T21:13:12.147Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3587,5 +3581,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_571",
     "title": "Hokum: La maldición de la bruja"
+  },
+  {
+    "ts": "2026-08-08T00:41:42.367Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_178",
+    "title": "No Game No Life Zero",
+    "season": 1,
+    "episodes": 1
   }
 ]
