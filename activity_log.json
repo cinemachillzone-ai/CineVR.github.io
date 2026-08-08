@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-14T22:00:27.800Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_321",
-    "title": "La Leyenda Del Charro Negro"
-  },
-  {
     "ts": "2026-06-14T22:22:32.796Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3592,6 +3585,14 @@
     "action": "EDIT_SERIES",
     "target": "series_178",
     "title": "No Game No Life Zero",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-08-08T01:14:53.820Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_181",
+    "title": "Kono Suba Una explosión en este maravilloso mundo",
     "eps_changed": 0
   }
 ]
