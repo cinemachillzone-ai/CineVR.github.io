@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-14T23:52:18.934Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_110",
-    "title": "Jujutsu Kaisen T2",
-    "eps_changed": 23
-  },
-  {
     "ts": "2026-06-14T23:52:39.137Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3605,6 +3597,14 @@
   },
   {
     "ts": "2026-08-08T01:32:16.739Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_184",
+    "season": 1,
+    "count": 28
+  },
+  {
+    "ts": "2026-08-08T01:32:54.171Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
     "target": "series_184",
