@@ -64397,10 +64397,158 @@
               "updatedAt": "2026-08-08T00:47:46.559Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_5478",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E01/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_5479",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E02/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_5480",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E03/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_5481",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E04/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_5482",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E05/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_5483",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E06/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_5484",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E07/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_5485",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E08/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_5486",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E09/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_5487",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E10/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e11",
+              "slotId": "ep_5488",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E11/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e12",
+              "slotId": "ep_5489",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E12/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            },
+            {
+              "id": "s03e13",
+              "slotId": "ep_5490",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SPY×FAMILY/T3/SpyFamilyS03E13/master.m3u8",
+              "updatedAt": "2026-08-08T00:49:08.526Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-08T00:44:50.708Z",
-      "updatedAt": "2026-08-08T00:47:46.559Z",
+      "updatedAt": "2026-08-08T00:49:08.526Z",
       "addedAt": "2026-08-08T00:44:50.708Z",
       "addedBy": "seanf"
     }
