@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-14T22:36:58.452Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_153"
-  },
-  {
     "ts": "2026-06-14T22:37:41.714Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3596,5 +3590,13 @@
     "title": "Konosuba",
     "season": 1,
     "episodes": 11
+  },
+  {
+    "ts": "2026-08-08T01:17:42.662Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_182",
+    "season": 2,
+    "count": 11
   }
 ]
