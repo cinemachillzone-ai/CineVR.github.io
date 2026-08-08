@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-13T16:55:04.933Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_151",
-    "title": "Historia de un Crimen: La Búsqueda",
-    "episodes": 6
-  },
-  {
     "ts": "2026-06-13T16:55:50.855Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3595,5 +3587,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_572",
     "title": "SPY x FAMILY CÓDIGO: Blanco"
+  },
+  {
+    "ts": "2026-08-08T00:53:59.852Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_573",
+    "title": "El Código Da Vinci"
   }
 ]
