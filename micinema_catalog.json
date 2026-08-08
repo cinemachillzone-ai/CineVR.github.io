@@ -84804,6 +84804,37 @@
       "updatedAt": "2026-08-05T01:30:42.826Z",
       "addedAt": "2026-08-05T01:30:42.826Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_572",
+      "type": "movie",
+      "title": "SPY x FAMILY CÓDIGO: Blanco",
+      "description": "Él es un espía. Ella es una asesina. Juntos, Loid y Yor ocultan sus dobles vidas mientras fingen ser la familia perfecta. Sin embargo, su hija adoptiva, Anya, que es telépata, conoce los emocionantes secretos de ambos sin que lo sospechen. Bajo la excusa de llevar a su familia a una escapada invernal, los intentos de Loid por avanzar en su misión en curso, Operation Strix, se complican cuando Anya se involucra por error, desencadenando acontecimientos ¡que amenazan la paz mundial!",
+      "duration": "1h 50m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2023,
+      "releaseDate": "2023-12-22",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 129,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpyXFamilyCodigoBlanco/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpyXFamilyCodigoBlanco/master.m3u8",
+      "createdAt": "2026-08-08T00:52:12.662Z",
+      "updatedAt": "2026-08-08T00:52:12.662Z",
+      "addedAt": "2026-08-08T00:52:12.662Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
