@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-14T22:41:44.979Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_322",
-    "title": "Tetris"
-  },
-  {
     "ts": "2026-06-14T23:19:21.762Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3605,5 +3598,14 @@
     "target": "series_183",
     "season": 2,
     "count": 26
+  },
+  {
+    "ts": "2026-08-08T01:29:01.203Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_184",
+    "title": "Inuyasha",
+    "season": 1,
+    "episodes": 27
   }
 ]
