@@ -65769,6 +65769,349 @@
       "updatedAt": "2026-08-08T01:21:24.959Z",
       "addedAt": "2026-08-08T01:20:26.848Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_184",
+      "type": "series",
+      "title": "Inuyasha",
+      "description": "Kagome Higurashi es una joven moderna que vive con su familia en el antiguo santuario de Higure. Sin saberlo a Kagome, ella es la reencarnación de la sacerdotisa Kikyo y posee la \"joya de cuatro almas\" (la joya de Shikon). Un mal día, Kagome localiza un antiguo pozo cerca de su casa y es transportado abruptamente a través del pozo y en un Japón feudal, habitado por demonios. Allí, se encuentra con Inuyasha, hijo de un poderoso padre demoníaco y una madre humana, que está atrapada en un árbol por una flecha encantada.",
+      "duration": "0h 24m",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2000,
+      "releaseDate": "2000-10-16",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "cast": [
+        "山口勝平",
+        "ゆきのさつき",
+        "辻谷耕史",
+        "桑島法子",
+        "成田剣",
+        "能登麻美子"
+      ],
+      "director": "",
+      "recommended": "Recomendado 86%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 136,
+      "_baseKey": "inuyasha",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_5588",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E01/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_5589",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E02/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_5590",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E03/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_5591",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E04/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_5592",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E05/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_5593",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E06/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_5594",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E07/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_5595",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E08/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_5596",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E09/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_5597",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E10/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_5598",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E11/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_5599",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E12/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e13",
+              "slotId": "ep_5600",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E13/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e14",
+              "slotId": "ep_5601",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E14/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e15",
+              "slotId": "ep_5602",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E15/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e16",
+              "slotId": "ep_5603",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E16/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e17",
+              "slotId": "ep_5604",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E17/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e18",
+              "slotId": "ep_5605",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E18/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e19",
+              "slotId": "ep_5606",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E19/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e20",
+              "slotId": "ep_5607",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E20/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e21",
+              "slotId": "ep_5608",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E21/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e22",
+              "slotId": "ep_5609",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E22/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e23",
+              "slotId": "ep_5610",
+              "title": "Capítulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E23/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e24",
+              "slotId": "ep_5611",
+              "title": "Capítulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E24/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e25",
+              "slotId": "ep_5612",
+              "title": "Capítulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E25/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e26",
+              "slotId": "ep_5613",
+              "title": "Capítulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E26/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            },
+            {
+              "id": "s01e27",
+              "slotId": "ep_5614",
+              "title": "Capítulo 27",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E27/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E27/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Inuyasha/S01/InuyashaS01E27/master.m3u8",
+              "updatedAt": "2026-08-08T01:28:48.501Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-08-08T01:28:48.501Z",
+      "updatedAt": "2026-08-08T01:28:48.501Z",
+      "addedAt": "2026-08-08T01:28:48.501Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
