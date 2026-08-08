@@ -65472,10 +65472,301 @@
               "updatedAt": "2026-08-08T01:20:26.848Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_5562",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E01/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_5563",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E02/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_5564",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E03/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_5565",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E04/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_5566",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E05/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_5567",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E06/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_5568",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E07/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_5569",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E08/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_5570",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E09/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_5571",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E10/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_5572",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E11/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_5573",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E12/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e13",
+              "slotId": "ep_5574",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E13/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_5575",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E14/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e15",
+              "slotId": "ep_5576",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E15/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e16",
+              "slotId": "ep_5577",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E16/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e17",
+              "slotId": "ep_5578",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E17/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e18",
+              "slotId": "ep_5579",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E18/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e19",
+              "slotId": "ep_5580",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E19/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e20",
+              "slotId": "ep_5581",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E20/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e21",
+              "slotId": "ep_5582",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E21/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e22",
+              "slotId": "ep_5583",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E22/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e23",
+              "slotId": "ep_5584",
+              "title": "Capítulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E23/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e24",
+              "slotId": "ep_5585",
+              "title": "Capítulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E24/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e25",
+              "slotId": "ep_5586",
+              "title": "Capítulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E25/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            },
+            {
+              "id": "s02e26",
+              "slotId": "ep_5587",
+              "title": "Capítulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Los Vengadores Los Super Héroes más poderosos de la Tierra/T2/LosVengadoresLosSuperHroesMsPoderososDeLaTierraS02E26/master.m3u8",
+              "updatedAt": "2026-08-08T01:21:24.959Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-08T01:20:26.848Z",
-      "updatedAt": "2026-08-08T01:20:26.848Z",
+      "updatedAt": "2026-08-08T01:21:24.959Z",
       "addedAt": "2026-08-08T01:20:26.848Z",
       "addedBy": "seanf"
     }
