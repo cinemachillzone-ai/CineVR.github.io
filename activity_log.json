@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-14T23:48:00.279Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_323",
-    "title": "The Secret Sex Lives of Romeo and Juliet"
-  },
-  {
     "ts": "2026-06-14T23:52:18.934Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3604,6 +3597,14 @@
   },
   {
     "ts": "2026-08-08T01:31:43.015Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_184",
+    "season": 1,
+    "count": 28
+  },
+  {
+    "ts": "2026-08-08T01:32:16.739Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
     "target": "series_184",
