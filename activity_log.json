@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T21:14:26.330Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_320",
-    "title": "Michael"
-  },
-  {
     "timestamp": "2026-06-13T06:00:01.807Z",
     "user": "Admin",
     "action": "ADD",
@@ -3592,5 +3585,14 @@
     "title": "No game no life",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-08T00:45:04.478Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_180",
+    "title": "SPY×FAMILY",
+    "season": 1,
+    "episodes": 25
   }
 ]
