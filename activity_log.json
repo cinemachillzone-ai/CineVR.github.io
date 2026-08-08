@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-13T17:03:05.280Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_152",
-    "title": "High Potential: Detective Inesperada",
-    "episodes": 13
-  },
-  {
     "ts": "2026-06-14T05:54:20.803Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3593,5 +3585,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_574",
     "title": "Juego de Tronos: La Última Guardia"
+  },
+  {
+    "ts": "2026-08-08T00:58:54.862Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_575",
+    "title": "KonoSuba: La Película. La Leyenda del Carmesí"
   }
 ]
