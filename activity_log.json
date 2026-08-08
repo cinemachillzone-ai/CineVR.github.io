@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-14T23:19:21.762Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_323",
-    "title": "The Secret Sex Lives of Romeo and Juliet"
-  },
-  {
     "ts": "2026-06-14T23:41:30.690Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3607,5 +3600,13 @@
     "title": "Inuyasha",
     "season": 1,
     "episodes": 27
+  },
+  {
+    "ts": "2026-08-08T01:31:02.244Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_184",
+    "season": 1,
+    "count": 27
   }
 ]
