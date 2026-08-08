@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-13T16:44:09.114Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_150",
-    "title": "Fukumenkei Noise",
-    "episodes": 12
-  },
-  {
     "ts": "2026-06-13T16:49:51.361Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3596,5 +3588,13 @@
     "target": "series_180",
     "season": 2,
     "count": 12
+  },
+  {
+    "ts": "2026-08-08T00:49:22.483Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_180",
+    "season": 3,
+    "count": 13
   }
 ]
