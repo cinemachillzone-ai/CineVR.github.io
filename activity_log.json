@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-13T16:55:50.855Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_151",
-    "title": "Historia de un Crimen: La Búsqueda",
-    "eps_changed": 6
-  },
-  {
     "ts": "2026-06-13T17:03:05.280Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3594,5 +3586,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_573",
     "title": "El Código Da Vinci"
+  },
+  {
+    "ts": "2026-08-08T00:57:20.978Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_574",
+    "title": "Juego de Tronos: La Última Guardia"
   }
 ]
