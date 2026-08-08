@@ -65013,10 +65013,136 @@
               "updatedAt": "2026-08-08T01:17:30.074Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_5525",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E01/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_5526",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E02/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_5527",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E03/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_5528",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E04/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_5529",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E05/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_5530",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E06/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_5531",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E07/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_5532",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E08/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_5533",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E09/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_5534",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E10/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            },
+            {
+              "id": "s03e11",
+              "slotId": "ep_5535",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Konosuba/T3/KonosubaS03E11/master.m3u8",
+              "updatedAt": "2026-08-08T01:18:04.425Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-08T01:16:46.098Z",
-      "updatedAt": "2026-08-08T01:17:30.074Z",
+      "updatedAt": "2026-08-08T01:18:04.425Z",
       "addedAt": "2026-08-08T01:16:46.098Z",
       "addedBy": "seanf"
     }
