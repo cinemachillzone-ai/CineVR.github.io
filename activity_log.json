@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-14T06:05:29.444Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_153",
-    "title": "Hazbin Hotel",
-    "eps_changed": 8
-  },
-  {
     "ts": "2026-06-14T22:00:27.800Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3593,5 +3585,13 @@
     "title": "Kono Suba Una explosión en este maravilloso mundo",
     "season": 1,
     "episodes": 12
+  },
+  {
+    "ts": "2026-08-08T01:12:04.382Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_178",
+    "title": "No Game No Life Zero",
+    "eps_changed": 0
   }
 ]
