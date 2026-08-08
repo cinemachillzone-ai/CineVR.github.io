@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-14T05:54:20.803Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_153",
-    "title": "Hazbin Hotel",
-    "episodes": 8
-  },
-  {
     "ts": "2026-06-14T06:05:29.444Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3592,5 +3584,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_575",
     "title": "KonoSuba: La Película. La Leyenda del Carmesí"
+  },
+  {
+    "ts": "2026-08-08T01:00:46.966Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_181",
+    "title": "Kono Suba Una explosión en este maravilloso mundo",
+    "season": 1,
+    "episodes": 12
   }
 ]
