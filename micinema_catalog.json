@@ -63758,6 +63758,196 @@
       "updatedAt": "2026-08-08T00:41:29.193Z",
       "addedAt": "2026-08-08T00:41:29.193Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_179",
+      "type": "series",
+      "title": "No game no life",
+      "description": "Los legendarios hermanos gamers Sora y Shiro son transportados a un mundo donde la vida se compone de una serie de juegos que ponen en riesgo la vida de la humanidad.",
+      "duration": "0h 23m",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 2014,
+      "releaseDate": "2014-04-09",
+      "genres": [
+        "Animation",
+        "Sci-Fi",
+        "Fantasy",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "cast": [
+        "松岡禎丞",
+        "茅野愛衣",
+        "Yôko Hikasa",
+        "井口裕香",
+        "田村ゆかり",
+        "能登麻美子"
+      ],
+      "director": "",
+      "recommended": "Recomendado 80%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "C",
+      "gridIndex": 159,
+      "_baseKey": "no game no life",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_5428",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E01/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_5429",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E02/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_5430",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_5431",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E04/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_5432",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E05/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_5433",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E06/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_5434",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E07/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_5435",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E08/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e09",
+              "slotId": "ep_5436",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E09/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e10",
+              "slotId": "ep_5437",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E10/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e11",
+              "slotId": "ep_5438",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E11/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e12",
+              "slotId": "ep_5439",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E12/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            },
+            {
+              "id": "s01e13",
+              "slotId": "ep_5440",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E13/master.m3u8",
+              "updatedAt": "2026-08-08T00:42:17.966Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-08-08T00:42:17.966Z",
+      "updatedAt": "2026-08-08T00:42:17.966Z",
+      "addedAt": "2026-08-08T00:42:17.966Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
