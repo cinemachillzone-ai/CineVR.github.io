@@ -64563,14 +64563,18 @@
       "id": "series_181",
       "type": "series",
       "title": "Kono Suba Una explosión en este maravilloso mundo",
-      "description": "",
+      "description": "La historia sigue a Megumin, la joven archimaga del Clan de los Demonios Carmesíes, antes de conocer a Kazuma y Aqua. Fascinada desde pequeña por la magia de explosión, Megumin se propone convertirse en una gran hechicera mientras descubre los misterios relacionados con un extraño gato negro y una amenaza que podría poner en peligro a su pueblo.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-14",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2023,
+      "releaseDate": "2023-04-05",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
       "cast": [],
       "director": "",
       "recommended": "",
@@ -64720,7 +64724,7 @@
         }
       ],
       "createdAt": "2026-08-08T01:00:33.202Z",
-      "updatedAt": "2026-08-08T01:00:33.202Z",
+      "updatedAt": "2026-08-08T01:14:40.810Z",
       "addedAt": "2026-08-08T01:00:33.202Z",
       "addedBy": "seanf"
     }
