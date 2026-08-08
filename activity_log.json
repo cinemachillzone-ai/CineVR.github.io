@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-11T21:13:12.147Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_319",
-    "title": "Más rápido, más furioso"
-  },
-  {
     "ts": "2026-06-11T21:14:26.330Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3590,5 +3583,14 @@
     "title": "No Game No Life Zero",
     "season": 1,
     "episodes": 1
+  },
+  {
+    "ts": "2026-08-08T00:42:31.463Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_179",
+    "title": "No game no life",
+    "season": 1,
+    "episodes": 13
   }
 ]
