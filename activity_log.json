@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-14T22:39:07.496Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_153"
-  },
-  {
     "ts": "2026-06-14T22:41:44.979Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3603,5 +3597,13 @@
     "title": "Los Vengadores Los Super Héroes más poderosos de la Tierra",
     "season": 1,
     "episodes": 26
+  },
+  {
+    "ts": "2026-08-08T01:21:37.645Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_183",
+    "season": 2,
+    "count": 26
   }
 ]
