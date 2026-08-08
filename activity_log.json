@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-14T23:53:51.022Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_153",
-    "title": "Hazbin Hotel",
-    "eps_changed": 7
-  },
-  {
     "ts": "2026-06-15T00:03:16.120Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3610,5 +3602,13 @@
     "target": "series_184",
     "season": 1,
     "count": 29
+  },
+  {
+    "ts": "2026-08-08T01:34:08.382Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_184",
+    "season": 1,
+    "count": 26
   }
 ]
