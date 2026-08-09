@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-05 06:35",
+  "lastUpdate": "2026-08-09 23:38",
   "patreonGlobal": false,
   "stars": [
     {
@@ -29,6 +29,10 @@
     {
       "user": "Lucesgrupo",
       "cellIndex": 6
+    },
+    {
+      "user": "CINEROSA",
+      "cellIndex": 7
     }
   ],
   "patreons": [
@@ -96,12 +100,14 @@
     },
     {
       "id": "user_007",
-      "user": "slots19",
+      "user": "CINEROSA",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "atlasIndex": 0,
       "cellIndex": 6,
-      "isStar": false
+      "isStar": true,
+      "starCellIndex": 7,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_008",
@@ -154,9 +160,9 @@
     },
     {
       "id": "user_013",
-      "user": "Slots nose",
+      "user": "Cazadora UwU",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 12,
       "isStar": false
@@ -236,36 +242,36 @@
     },
     {
       "id": "user_022",
-      "user": "Slot 22",
+      "user": "orochigamerlol",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 21,
       "isStar": false
     },
     {
       "id": "user_023",
-      "user": "Slot 23",
+      "user": "Saltimbanki",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 22,
       "isStar": false
     },
     {
       "id": "user_024",
-      "user": "Slot 24",
+      "user": "-DanteDMC-",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 23,
       "isStar": false
     },
     {
       "id": "user_025",
-      "user": "Slot 25",
+      "user": "Lexi_Cineru",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 24,
       "isStar": false
