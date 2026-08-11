@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-15T00:45:45.159Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_307",
-    "title": "Vengadores Endgame"
-  },
-  {
     "ts": "2026-06-15T00:46:28.176Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3609,6 +3602,14 @@
   },
   {
     "ts": "2026-08-11T01:30:37.589Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_186",
+    "title": "CRAFT (1979)",
+    "eps_changed": 6
+  },
+  {
+    "ts": "2026-08-11T01:44:12.519Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
     "target": "series_186",
