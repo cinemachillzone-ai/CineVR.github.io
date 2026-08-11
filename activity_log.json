@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-15T00:03:16.120Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_325",
-    "title": "Dr Stone Ryuusui"
-  },
-  {
     "ts": "2026-06-15T00:20:21.965Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3610,5 +3603,14 @@
     "target": "series_184",
     "season": 1,
     "count": 26
+  },
+  {
+    "ts": "2026-08-11T01:12:58.251Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_185",
+    "title": "Fullmetal Alchemist Brotherhood",
+    "season": 1,
+    "episodes": 64
   }
 ]
