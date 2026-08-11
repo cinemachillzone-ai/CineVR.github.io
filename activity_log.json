@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-15T01:20:39.677Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_103",
-    "title": "Vengadores: La era de Ultrón"
-  },
-  {
     "ts": "2026-06-15T01:20:53.680Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3614,5 +3607,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_578",
     "title": "Moana: Un mar de aventuras"
+  },
+  {
+    "ts": "2026-08-11T03:00:52.459Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_579",
+    "title": "Star Wars: The Mandalorian and Grogu"
   }
 ]
