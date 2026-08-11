@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-15T01:23:00.188Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_102",
-    "title": "Los Vengadores"
-  },
-  {
     "ts": "2026-06-15T01:23:47.938Z",
     "actor": "yutamir",
     "action": "TMDB_AUTOFILL",
@@ -3614,5 +3607,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_580",
     "title": "Evil Dead: En llamas"
+  },
+  {
+    "ts": "2026-08-11T03:19:51.920Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_581",
+    "title": "Reyes de las olas"
   }
 ]
