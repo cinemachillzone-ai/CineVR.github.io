@@ -68688,6 +68688,98 @@
       "updatedAt": "2026-08-11T01:12:44.845Z",
       "addedAt": "2026-08-11T01:12:44.845Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_186",
+      "type": "series",
+      "title": "CRAFT (1979)",
+      "description": "Un hombre despierta solo en un mundo desconocido y debe aprender, noche tras noche, cómo sobrevivir. Mientras explora este extraño mundo, descubre nuevos lugares, peligros y misterios que poco a poco revelan que no está simplemente perdido. La historia presenta un mundo de supervivencia, exploración y misterio inspirado en la estética de los videojuegos de construcción y supervivencia, reinterpretado como una producción cinematográfica de fantasía oscura con apariencia de una obra perdida de finales de los años 70.",
+      "year": 2026,
+      "releaseDate": "2026-06-10",
+      "rating": "TV-14",
+      "quality": "HD",
+      "section": "catalog",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 138,
+      "episodes": [
+        {
+          "id": "s01e01",
+          "slotId": "ep_5845",
+          "title": "Capítulo 1",
+          "links": {
+            "default": "https://youtu.be/zX-e9LRR_ko?si=LlfF6GPeecH6jmuS"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        },
+        {
+          "id": "s01e02",
+          "slotId": "ep_5846",
+          "title": "Capítulo 2",
+          "links": {
+            "default": "https://youtu.be/Ua2D-PM97xc?si=rh1_AKt9Eu2aftSn"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        },
+        {
+          "id": "s01e03",
+          "slotId": "ep_5847",
+          "title": "Capítulo 3",
+          "links": {
+            "default": "https://youtu.be/xtwql52UJuU?si=Or-Npkdm8CPUKDL_"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        },
+        {
+          "id": "s01e04",
+          "slotId": "ep_5848",
+          "title": "Capítulo 4",
+          "links": {
+            "default": "https://youtu.be/7MVrjJxNZkY?si=g1LJ9a2vfDYtvYrZ"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        },
+        {
+          "id": "s01e05",
+          "slotId": "ep_5849",
+          "title": "Capítulo 5",
+          "links": {
+            "default": "https://youtu.be/TbOltAdZpWA?si=EVm1G0o7X4u4Zjoq"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        },
+        {
+          "id": "s01e06",
+          "slotId": "ep_5850",
+          "title": "Capítulo 6",
+          "links": {
+            "default": "https://youtu.be/2VizrC57_AY?si=opSCV77mFI3l9ycL"
+          },
+          "master_url": "",
+          "createdAt": "2026-08-11T01:27:25.816Z"
+        }
+      ],
+      "links": {
+        "default": ""
+      },
+      "createdAt": "2026-08-11T01:27:25.817Z",
+      "updatedAt": "2026-08-11T01:27:25.817Z",
+      "addedAt": "2026-08-11T01:27:25.817Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
