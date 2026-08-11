@@ -68720,7 +68720,8 @@
             "default": "https://youtu.be/zX-e9LRR_ko?si=LlfF6GPeecH6jmuS"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.342Z"
         },
         {
           "id": "s01e02",
@@ -68730,7 +68731,8 @@
             "default": "https://youtu.be/Ua2D-PM97xc?si=rh1_AKt9Eu2aftSn"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.343Z"
         },
         {
           "id": "s01e03",
@@ -68740,7 +68742,8 @@
             "default": "https://youtu.be/xtwql52UJuU?si=Or-Npkdm8CPUKDL_"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.343Z"
         },
         {
           "id": "s01e04",
@@ -68750,7 +68753,8 @@
             "default": "https://youtu.be/7MVrjJxNZkY?si=g1LJ9a2vfDYtvYrZ"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.343Z"
         },
         {
           "id": "s01e05",
@@ -68760,7 +68764,8 @@
             "default": "https://youtu.be/TbOltAdZpWA?si=EVm1G0o7X4u4Zjoq"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.343Z"
         },
         {
           "id": "s01e06",
@@ -68770,16 +68775,22 @@
             "default": "https://youtu.be/2VizrC57_AY?si=opSCV77mFI3l9ycL"
           },
           "master_url": "",
-          "createdAt": "2026-08-11T01:27:25.816Z"
+          "createdAt": "2026-08-11T01:27:25.816Z",
+          "updatedAt": "2026-08-11T01:30:24.343Z"
         }
       ],
       "links": {
         "default": ""
       },
       "createdAt": "2026-08-11T01:27:25.817Z",
-      "updatedAt": "2026-08-11T01:27:25.817Z",
+      "updatedAt": "2026-08-11T01:30:24.343Z",
       "addedAt": "2026-08-11T01:27:25.817Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "LatentDiffusion",
+        "personajes generados mediante IA"
+      ],
+      "director": "LatentDiffusion"
     }
   ],
   "movies": [
