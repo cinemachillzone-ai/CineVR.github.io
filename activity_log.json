@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T02:04:45.178Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_329",
-    "title": "Alien: El Octavo Pasajero"
-  },
-  {
     "ts": "2026-06-16T02:05:23.914Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3604,6 +3597,13 @@
     "ts": "2026-08-13T07:27:47.687Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_585",
+    "title": "Emboscada Salvaje"
+  },
+  {
+    "ts": "2026-08-14T04:07:48.699Z",
+    "actor": "carmesi",
+    "action": "DELETE_MOVIE",
     "target": "movie_585",
     "title": "Emboscada Salvaje"
   }
