@@ -11870,7 +11870,7 @@
           "episodes": [
             {
               "id": "s01e01",
-              "title": "Película (entre el cap. 35 y el 36)",
+              "title": "Capítulo 0",
               "slotId": "ep_991",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaPeliculaEntreCap35Y36/master.m3u8",
@@ -11881,7 +11881,7 @@
             },
             {
               "id": "s01e02",
-              "title": "Memorial 1",
+              "title": "Capítulo 0",
               "slotId": "ep_992",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial01/master.m3u8",
@@ -11892,7 +11892,7 @@
             },
             {
               "id": "s01e03",
-              "title": "La sección de Kero",
+              "title": "Capítulo 0",
               "slotId": "ep_993",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaSeccionDeKero/master.m3u8",
@@ -11903,7 +11903,7 @@
             },
             {
               "id": "s01e04",
-              "title": "Memorial 3 (especial)",
+              "title": "Capítulo 0",
               "slotId": "ep_994",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial03Especial/master.m3u8",
@@ -11914,7 +11914,7 @@
             },
             {
               "id": "s01e05",
-              "title": "Memorial 2",
+              "title": "Capítulo 0",
               "slotId": "ep_995",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorMemorial02/master.m3u8",
@@ -11925,7 +11925,7 @@
             },
             {
               "id": "s01e06",
-              "title": "La carta sellada (final de la serie)",
+              "title": "Capítulo 0",
               "slotId": "ep_996",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/SakuraCardCaptor/sakuraCardCaptorLaCartaSelladaFinDeLaSerie/master.m3u8",
@@ -29464,7 +29464,7 @@
           "episodes": [
             {
               "id": "s01e01",
-              "title": "OVA",
+              "title": "Capítulo 0",
               "slotId": "ep_2451",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8",
@@ -29739,7 +29739,7 @@
             },
             {
               "id": "s01e26",
-              "title": "OVA",
+              "title": "Capítulo 25",
               "slotId": "ep_2476",
               "links": {
                 "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/kuroshitsuji/T1/KuroshitsujiS01EOVA/master.m3u8",
