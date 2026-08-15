@@ -70746,13 +70746,17 @@
       "type": "movie",
       "title": "Hijos del los hombres",
       "description": "En un futuro distópico donde la humanidad ha perdido la capacidad de reproducirse, el mundo vive en caos y desesperación. Theo Faron, un exactivista desilusionado, recibe la misión de proteger a una joven llamada Kee, quien milagrosamente está embarazada. Juntos emprenden un peligroso viaje para llevarla a un lugar seguro, mientras son perseguidos por el gobierno y grupos rebeldes.",
-      "duration": "",
+      "duration": "1h 49m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2006,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70768,20 +70772,33 @@
       "atlas": "A",
       "gridIndex": 45,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ninosDelHombre2006/master.m3u8",
-      "updatedAt": "2026-05-28T02:54:46.429Z",
-      "tokenDuration": 6555
+      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "tokenDuration": 6555,
+      "cast": [
+        "Clive Owen",
+        "Clare-Hope Ashitey",
+        "Chiwetel Ejiofor",
+        "Julianne Moore",
+        "Michael Caine",
+        "Pam Ferris"
+      ],
+      "director": "Alfonso Cuarón",
+      "recommended": "Recomendado 76%"
     },
     {
       "type": "movie",
       "title": "Good Boy",
       "description": "La historia sigue a Sigrid, una joven que conoce a un hombre rico llamado Christian a través de una app de citas. Todo parece perfecto… hasta que descubre que él vive con un hombre que se comporta literalmente como su mascota: camina en cuatro patas, come en el suelo y obedece órdenes. Lo que al inicio parece una extraña excentricidad se vuelve cada vez más perturbador, revelando una relación oscura y peligrosa.",
-      "duration": "",
+      "duration": "1h 16m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70797,7 +70814,7 @@
       "atlas": "A",
       "gridIndex": 46,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/goodBoy2022/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 4575,
       "cast": [
         "Gard Løkke",
@@ -70814,13 +70831,18 @@
       "type": "movie",
       "title": "El planeta de los simios: (R)evolución",
       "description": "La historia sigue a Will Rodman, un científico que desarrolla una cura experimental para el Alzheimer. Al probarla en simios, uno de ellos, César, adquiere una inteligencia extraordinaria. A medida que César crece y toma conciencia de la opresión de su especie, lidera una rebelión que marcará el inicio de un nuevo orden donde humanos y simios entran en conflicto.",
-      "duration": "",
+      "duration": "1h 45m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 2011,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70836,7 +70858,7 @@
       "atlas": "A",
       "gridIndex": 47,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosREvolucion2011/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 6297,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -70853,13 +70875,18 @@
       "type": "movie",
       "title": "El planeta de los simios: Confrontación",
       "description": "Años después del colapso de la civilización humana por un virus, los simios liderados por César han construido una sociedad en el bosque. Cuando un grupo de humanos sobrevivientes entra en su territorio buscando recursos, surge una frágil alianza que pronto se rompe por la desconfianza y la traición. Esto desencadena un conflicto inevitable que decidirá qué especie dominará la Tierra",
-      "duration": "",
+      "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70875,7 +70902,7 @@
       "atlas": "A",
       "gridIndex": 48,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosConfrontacion2014/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 7825,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -70893,13 +70920,17 @@
       "type": "movie",
       "title": "El planeta de los simios: La guerra",
       "description": "Tras los eventos anteriores, el conflicto entre humanos y simios alcanza su punto más crítico. César enfrenta pérdidas devastadoras y decide emprender un camino de venganza contra un implacable líder humano conocido como el Coronel. En su viaje, César lucha no solo contra sus enemigos, sino también contra su propia oscuridad, en una batalla que definirá el destino de ambas especie",
-      "duration": "",
+      "duration": "2h 20m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 2017,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "War"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70915,7 +70946,7 @@
       "atlas": "A",
       "gridIndex": 49,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimios3LaGuerra2017/master.m3u8",
-      "updatedAt": "2026-05-28T02:54:56.669Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8410,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -70933,13 +70964,17 @@
       "type": "movie",
       "title": "El planeta de los simios: Nuevo reino",
       "description": "La historia se sitúa varias generaciones después del reinado de César. Los simios ahora son la especie dominante y los humanos han quedado reducidos a un estado primitivo. Un joven simio llamado Noa emprende un viaje cuando su aldea es destruida por un líder tiránico que busca construir su propio imperio. En su camino, cuestionará todo lo que sabe sobre el pasado y tomará decisiones que definirán el futuro tanto de simios como de humanos",
-      "duration": "",
+      "duration": "2h 25m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 2024,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70955,7 +70990,7 @@
       "atlas": "A",
       "gridIndex": 50,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosNuevoReino2024/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8681,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -70972,13 +71007,16 @@
       "type": "movie",
       "title": "El resplandor",
       "description": "La historia sigue a Jack Torrance, un escritor que acepta trabajar como cuidador de invierno en el aislado hotel Overlook junto a su esposa y su hijo, Danny Torrance, quien posee habilidades psíquicas conocidas como \"el resplandor\". A medida que el invierno avanza, la soledad y la influencia sobrenatural del hotel comienzan a afectar la mente de Jack, llevándolo hacia la locura y poniendo en peligro a su familia.",
-      "duration": "",
+      "duration": "2h 24m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 1980,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -70994,7 +71032,7 @@
       "atlas": "A",
       "gridIndex": 51,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elResplandor1980/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8624,
       "cast": [
         "Jack Nicholson",
@@ -71150,13 +71188,16 @@
       "type": "movie",
       "title": "Nadie",
       "description": "La historia sigue a Hutch Mansell, un hombre aparentemente común y aburrido que lleva una vida rutinaria. Sin embargo, después de un robo en su casa, despierta un lado oculto de su pasado: resulta ser un exasesino altamente entrenado. Esto lo arrastra a un violento enfrentamiento con la mafia rusa, revelando que no es \"nadie\" como todos creían.",
-      "duration": "",
+      "duration": "1h 32m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71172,7 +71213,7 @@
       "atlas": "A",
       "gridIndex": 56,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8",
-      "updatedAt": "2026-05-28T02:55:15.475Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5501,
       "saga": "Nadie",
       "cast": [
@@ -71190,13 +71231,16 @@
       "type": "movie",
       "title": "Sin novedad en el frente",
       "description": "La historia sigue a Paul Bäumer, un joven alemán que se alista con entusiasmo en el ejército durante la Primera Guerra Mundial. Sin embargo, al llegar al frente, enfrenta la brutal realidad de la guerra: el miedo, la muerte y la pérdida de la inocencia. A través de su experiencia, la película muestra el horror y la inutilidad",
-      "duration": "",
+      "duration": "2h 28m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "War",
+        "Drama"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71212,7 +71256,7 @@
       "atlas": "A",
       "gridIndex": 57,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sinNovedadEnElFrente/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8929,
       "cast": [
         "Felix Kammerer",
@@ -71229,13 +71273,17 @@
       "type": "movie",
       "title": "Una pareja explosiva",
       "description": "Un detective de Hong Kong, Lee, viaja a Los Ángeles para ayudar a rescatar a la hija de un diplomático chino secuestrada. Allí se ve obligado a trabajar con el parlanchín policía James Carter, formando una divertida y caótica dupla.",
-      "duration": "",
+      "duration": "1h 37m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 1998,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71251,7 +71299,7 @@
       "atlas": "A",
       "gridIndex": 58,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaParejaExplosiva1998/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5870,
       "cast": [
         "Jackie Chan",
@@ -71267,13 +71315,17 @@
       "type": "movie",
       "title": "Nadie 2",
       "description": "La secuela continuará la historia de Hutch Mansell, el aparentemente tranquilo padre de familia con un pasado como asesino profesional. Tras los eventos de la primera película, Hutch intentará llevar una vida normal, pero su pasado volverá a alcanzarlo, llevándolo otra vez a un mundo de violencia y enemigos peligrosos.",
-      "duration": "",
+      "duration": "1h 29m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Thriller",
+        "Comedy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71289,7 +71341,7 @@
       "atlas": "A",
       "gridIndex": 59,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nadie22025/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5389,
       "saga": "Nadie",
       "cast": [
@@ -71307,13 +71359,17 @@
       "type": "movie",
       "title": "Contraataque",
       "description": "La historia sigue al capitán Guerrero y su escuadrón de fuerzas especiales mexicanas. Tras rescatar a unos rehenes, se convierten en objetivo de un poderoso cártel y caen en una emboscada. A partir de ahí, deben luchar por sobrevivir mientras intentan escapar y contraatacar, enfrentándose a sicarios en una batalla intensa por la vida.",
-      "duration": "",
+      "duration": "1h 25m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
       "year": 2025,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71329,7 +71385,7 @@
       "atlas": "A",
       "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/contraataque2025/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5130,
       "cast": [
         "Luis Alberti",
@@ -71346,13 +71402,17 @@
       "type": "movie",
       "title": "Corazones de acero",
       "description": "Ambientada en los últimos días de la Segunda Guerra Mundial, la película sigue a un experimentado sargento que lidera un tanque llamado \"Fury\" junto a su tripulación en territorio enemigo. Acompañados por un joven soldado sin experiencia, deberán enfrentar misiones extremadamente peligrosas mientras avanzan en la Alemania nazi, luchando por sobrevivir en condiciones brutal",
-      "duration": "",
+      "duration": "2h 08m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "War",
+        "Drama",
+        "Action"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71368,7 +71428,7 @@
       "atlas": "A",
       "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8",
-      "updatedAt": "2026-05-28T02:55:25.991Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8078,
       "cast": [
         "Brad Pitt",
@@ -71385,13 +71445,17 @@
       "type": "movie",
       "title": "El pacto",
       "description": "Durante la guerra en Afganistán, el sargento John Kinley forma equipo con un intérprete local llamado Ahmed. Tras una emboscada, Ahmed arriesga su vida para salvarlo y llevarlo a un lugar seguro. Tiempo después, al enterarse de que su amigo y su familia quedaron abandonados, Kinley regresa a la zona de guerra para cumplir su promesa y rescatarlos.",
-      "duration": "",
+      "duration": "2h 03m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2023,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "War",
+        "Action",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71407,7 +71471,7 @@
       "atlas": "A",
       "gridIndex": 62,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPacto2023/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 7384,
       "cast": [
         "Jake Gyllenhaal",
@@ -71424,13 +71488,16 @@
       "type": "movie",
       "title": "Sisu",
       "description": "Ambientada en los últimos días de la Segunda Guerra Mundial, la historia sigue a un solitario buscador de oro y exsoldado que descubre un gran tesoro en Laponia. Cuando un grupo de nazis intenta robárselo, desatan la furia de un hombre aparentemente invencible, quien hará todo lo posible por recuperar lo que es suyo, desatando una brutal venganza.\n\n Género:",
-      "duration": "",
+      "duration": "1h 23m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
       "year": 2023,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -71446,7 +71513,7 @@
       "atlas": "A",
       "gridIndex": 63,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8",
-      "updatedAt": "2026-05-28T02:55:36.820Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5482,
       "cast": [
         "Jorma Tommila",
@@ -71463,7 +71530,7 @@
       "type": "movie",
       "title": "Ted",
       "description": "La historia sigue a John Bennett, un hombre que de niño pidió el deseo de que su oso de peluche cobrara vida. Su deseo se cumple, y Ted se convierte en su mejor amigo… pero años después, ese mismo oso es un adulto irresponsable, fiestero y vulgar. La situación comienza a afectar la vida de John, especialmente su relación amorosa, obligándolo a madurar y tomar decisiones sobre su futuro.",
-      "duration": "",
+      "duration": "1h 47m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -71488,7 +71555,7 @@
       "atlas": "A",
       "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8",
-      "updatedAt": "2026-05-28T02:55:47.935Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 6736,
       "cast": [
         "Mark Wahlberg",
@@ -71505,7 +71572,7 @@
       "type": "movie",
       "title": "Together: Juntos hasta la muerte",
       "description": "Una pareja con problemas en su relación decide mudarse al campo para empezar de nuevo. Sin embargo, descubren una misteriosa cueva con una fuerza sobrenatural. Tras entrar en contacto con ella, comienzan a sufrir extrañas transformaciones físicas y emocionales que reflejan su dependencia mutua, llevando su relación a un punto perturbador y peligroso.",
-      "duration": "",
+      "duration": "1h 42m",
       "rating": "R",
       "quality": "BQ",
       "section": "catalog",
@@ -71531,7 +71598,7 @@
       "atlas": "A",
       "gridIndex": 65,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/togetherJuntosHastaLaMuerte2025/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 6097,
       "cast": [
         "Dave Franco",
@@ -71548,7 +71615,7 @@
       "type": "movie",
       "title": "Harry Potter y la piedra filosofal",
       "description": "La historia sigue a Harry Potter, un niño huérfano que descubre en su cumpleaños número 11 que es un mago. Es invitado a estudiar en Hogwarts, una escuela de magia donde aprende hechicería, hace amigos y descubre la verdad sobre la muerte de sus padres. Pronto se enfrenta a un misterio relacionado con la poderosa Piedra Filosofal y el regreso del oscuro mago Lord Voldemort.",
-      "duration": "",
+      "duration": "2h 32m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -71574,7 +71641,7 @@
       "atlas": "A",
       "gridIndex": 66,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaPiedraFilosofal/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 9531,
       "saga": "Harry Potter",
       "cast": [
@@ -71592,7 +71659,7 @@
       "type": "movie",
       "title": "Harry Potter y la cámara secreta",
       "description": "En su segundo año en Hogwarts, Harry regresa pese a una advertencia de peligro. Pronto ocurren ataques misteriosos que dejan a varios estudiantes petrificados. Junto a sus amigos, Harry investiga el secreto de la Cámara de los Secretos, una leyenda oscura vinculada al heredero de Slytherin, mientras enfrenta nuevamente la amenaza de Lord Voldemort.",
-      "duration": "",
+      "duration": "2h 41m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -71618,7 +71685,7 @@
       "atlas": "A",
       "gridIndex": 67,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HARRYPotterylacamarasecreta/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 10464,
       "saga": "Harry Potter",
       "cast": [
@@ -71636,7 +71703,7 @@
       "type": "movie",
       "title": "Harry Potter y el prisionero de Azkaban",
       "description": "En su tercer año en Hogwarts, Harry se entera de que el peligroso prisionero Sirius Black ha escapado de Azkaban y aparentemente lo está buscando. Mientras el colegio se llena de dementores para proteger a los estudiantes, Harry, junto a sus amigos, descubre la verdad detrás de la fuga y secretos ocultos sobre su pasado y el de sus padres.",
-      "duration": "",
+      "duration": "2h 22m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -71663,7 +71730,7 @@
       "atlas": "A",
       "gridIndex": 68,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElPrisioneroDeAzkaban/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8502,
       "saga": "Harry Potter",
       "cast": [
@@ -71681,7 +71748,7 @@
       "type": "movie",
       "title": "Harry Potter y el cáliz de fuego",
       "description": "En su cuarto año en Hogwarts, Harry es inesperadamente seleccionado por el Cáliz de Fuego para participar en el peligroso Torneo de los Tres Magos, una competencia entre escuelas de magia. Mientras enfrenta pruebas mortales, descubre una conspiración mucho más oscura que culmina con el regreso del temido Lord Voldemort.",
-      "duration": "",
+      "duration": "2h 37m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -71707,7 +71774,7 @@
       "atlas": "A",
       "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElCalizDeFuego/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 9425,
       "saga": "Harry Potter",
       "cast": [
@@ -71725,7 +71792,7 @@
       "type": "movie",
       "title": "Harry Potter y la Orden del Fénix",
       "description": "Harry regresa a Hogwarts, pero el Ministerio de Magia niega el regreso de Lord Voldemort y desacredita sus advertencias. Mientras la nueva profesora impone reglas estrictas, Harry forma en secreto un grupo llamado el Ejército de Dumbledore para enseñar a sus compañeros a defenderse. A medida que la amenaza crece, Harry enfrenta visiones inquietantes y una batalla crucial contra las fuerzas oscuras.",
-      "duration": "",
+      "duration": "2h 18m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -71751,7 +71818,7 @@
       "atlas": "A",
       "gridIndex": 70,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaOrdenDelFenix/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8294,
       "saga": "Harry Potter",
       "cast": [
@@ -71769,7 +71836,7 @@
       "type": "movie",
       "title": "Harry Potter y el misterio del príncipe",
       "description": "En su sexto año en Hogwarts, Harry descubre un antiguo libro de pociones que pertenecía al \"Príncipe Mestizo\", el cual contiene poderosos hechizos y secretos. Mientras tanto, el director Dumbledore prepara a Harry para enfrentar a Lord Voldemort revelándole recuerdos clave sobre su pasado. La oscuridad crece dentro y fuera de la escuela, llevando a una tragedia que cambiará todo.",
-      "duration": "",
+      "duration": "2h 33m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -71795,7 +71862,7 @@
       "atlas": "A",
       "gridIndex": 71,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElMisterioDelPrincipe/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 9211,
       "saga": "Harry Potter",
       "cast": [
@@ -71813,7 +71880,7 @@
       "type": "movie",
       "title": "Harry Potter y las reliquias de la Muerte: Parte 1",
       "description": "Harry, Ron y Hermione abandonan Hogwarts para emprender la peligrosa misión de destruir los Horrocruxes, objetos que contienen fragmentos del alma de Lord Voldemort. Mientras están en fuga, enfrentan persecuciones, desconfianza y grandes sacrificios, descubriendo poco a poco el misterio de las Reliquias de la Muerte.",
-      "duration": "",
+      "duration": "2h 26m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -71839,7 +71906,7 @@
       "atlas": "A",
       "gridIndex": 72,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8",
-      "updatedAt": "2026-05-28T02:55:57.785Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 8765,
       "saga": "Harry Potter",
       "cast": [
@@ -71857,7 +71924,7 @@
       "type": "movie",
       "title": "Harry Potter y las reliquias de la Muerte: Parte 2",
       "description": "En el desenlace final, Harry, Ron y Hermione continúan la búsqueda de los últimos Horrocruxes para derrotar definitivamente a Lord Voldemort. La batalla final se libra en Hogwarts, donde magos y criaturas luchan por el destino del mundo mágico, llevando la historia a un enfrentamiento épico entre Harry y su mayor enemigo.",
-      "duration": "",
+      "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -71883,7 +71950,7 @@
       "atlas": "A",
       "gridIndex": 73,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte2/master.m3u8",
-      "updatedAt": "2026-05-28T02:56:08.619Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 7827,
       "saga": "Harry Potter",
       "cast": [
@@ -71901,7 +71968,7 @@
       "type": "movie",
       "title": "Una voz silenciosa",
       "description": "La historia sigue a Shoya Ishida, un joven que en su infancia acosó a una compañera sorda llamada Shoko Nishimiya. Años después, consumido por la culpa y el rechazo social, busca redimirse intentando reencontrarse con ella y reparar el daño que causó. La película explora temas como el bullying, la discapacidad, la depresión y el perdón.",
-      "duration": "",
+      "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -71927,7 +71994,7 @@
       "atlas": "A",
       "gridIndex": 74,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
-      "updatedAt": "2026-05-28T02:56:19.290Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 7784,
       "cast": [
         "Miyu Irino",
@@ -71944,7 +72011,7 @@
       "type": "movie",
       "title": "The Legend of Aang: The Last Airbender (Sub Español)",
       "description": "La historia continúa años después de la serie original, mostrando a Aang ya como adulto junto a sus amigos. Enfrenta nuevas amenazas mientras intenta mantener el equilibrio entre las naciones y preservar la paz en el mundo, ahora con responsabilidades más grandes como Avatar.",
-      "duration": "",
+      "duration": "1h 39m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -71971,7 +72038,7 @@
       "atlas": "A",
       "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
-      "updatedAt": "2026-07-27T22:48:25.392Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5932,
       "cast": [
         "Eric Nam",
@@ -71981,13 +72048,14 @@
         "Steven Yeun",
         "Dionne Quan"
       ],
-      "director": "Lauren Montgomery, Steve Ahn"
+      "director": "Lauren Montgomery, Steve Ahn",
+      "recommended": "Recomendado 93%"
     },
     {
       "type": "movie",
       "title": "13 (Ruleta rusa)",
       "description": "Un joven desesperado por dinero asume la identidad de otra persona y termina involucrado en un oscuro juego clandestino donde los participantes apuestan sus vidas en una peligrosa versión de la ruleta rusa. A medida que avanza el juego, la tensión aumenta y cada ronda se vuelve más mortal, mostrando hasta dónde puede llegar la gente por dinero.",
-      "duration": "",
+      "duration": "1h 31m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -72013,7 +72081,7 @@
       "atlas": "A",
       "gridIndex": 76,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/13RuletaRusa/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5434,
       "cast": [
         "Jared Padalecki",
@@ -72030,7 +72098,7 @@
       "type": "movie",
       "title": "Los 4 Fantásticos: Primeros pasos",
       "description": "La película presenta una nueva versión del origen de los Cuatro Fantásticos. Un grupo de científicos obtiene poderes extraordinarios tras un experimento que sale mal. Mientras aprenden a controlar sus habilidades, deben enfrentarse a una amenaza que pone en peligro al mundo, obligándolos a trabajar como equipo y aceptar su nueva identidad como héroes.",
-      "duration": "",
+      "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72056,7 +72124,7 @@
       "atlas": "A",
       "gridIndex": 77,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 6876,
       "saga": "Marvel",
       "cast": [
@@ -72071,7 +72139,7 @@
       "type": "movie",
       "title": "De noche con el diablo",
       "description": "Ambientada en los años 70, la historia sigue a un presentador de televisión que, en un intento desesperado por subir el rating de su programa nocturno, realiza un especial de Halloween en vivo. Durante la transmisión, invita a una joven supuestamente poseída, lo que desata una serie de eventos sobrenaturales aterradores que salen completamente de control en directo.",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -72097,7 +72165,7 @@
       "atlas": "A",
       "gridIndex": 78,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deNocheConElDiablo2024/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 5568,
       "cast": [
         "David Dastmalchian",
@@ -72147,7 +72215,7 @@
       "type": "movie",
       "title": "El padrino",
       "description": "La historia sigue a la poderosa familia mafiosa Corleone en Nueva York. Cuando el patriarca sufre un atentado, su hijo Michael —quien inicialmente quería mantenerse alejado del crimen— se ve obligado a involucrarse en el negocio familiar, iniciando su transformación en un líder frío y calculador dentro del mundo del crimen organizad",
-      "duration": "",
+      "duration": "2h 02m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -72172,14 +72240,24 @@
       "atlas": "A",
       "gridIndex": 80,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpadrino/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 10630
+      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "tokenDuration": 10630,
+      "cast": [
+        "Toni Servillo",
+        "Elio Germano",
+        "Daniela Marra",
+        "Barbora Bobuľová",
+        "Giuseppe Tantillo",
+        "Fausto Russo Alesi"
+      ],
+      "director": "Antonio Piazza, Fabio Grassadonia",
+      "recommended": "Recomendado 61%"
     },
     {
       "type": "movie",
       "title": "Equipo demolición",
       "description": "La historia sigue a dos medio hermanos distanciados que se reencuentran tras la misteriosa muerte de su padre. Mientras investigan lo ocurrido, descubren una conspiración criminal que involucra corrupción, mafias (incluyendo la yakuza) y grandes intereses económicos. A pesar de sus diferencias, deberán trabajar juntos para sobrevivir y descubrir la verdad.",
-      "duration": "",
+      "duration": "2h 05m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72205,7 +72283,7 @@
       "atlas": "A",
       "gridIndex": 81,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EquipoDemolicion/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.850Z",
       "tokenDuration": 7457,
       "cast": [
         "Dave Bautista",
@@ -72222,7 +72300,7 @@
       "type": "movie",
       "title": "Exterminio: el templo de huesos",
       "description": "La historia continúa tras los eventos de la primera parte. El mundo no solo está dominado por infectados, sino también por humanos peligrosos. Un joven termina atrapado en una secta violenta mientras un doctor investiga posibles curas, revelando que la humanidad puede ser tan aterradora como el virus.",
-      "duration": "",
+      "duration": "1h 49m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72247,7 +72325,7 @@
       "atlas": "A",
       "gridIndex": 82,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ExterminioElTemploDeHuesos/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6561,
       "saga": "Exterminio",
       "cast": [
@@ -72265,7 +72343,7 @@
       "type": "movie",
       "title": "La cabra que cambió el juego: Goat",
       "description": "La historia sigue a un joven apasionado por el fútbol que lucha por destacar en un entorno difícil. A través de sacrificios, entrenamientos intensos y obstáculos personales, busca convertirse en el mejor (\"GOAT\": Greatest of All Time). La película mezcla drama deportivo con una historia de superación, mostrando el precio del éxito y la presión por alcanzar la grandeza.",
-      "duration": "",
+      "duration": "1h 40m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -72290,14 +72368,24 @@
       "atlas": "A",
       "gridIndex": 83,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambioElJuego/master.m3u8",
-      "updatedAt": "2026-05-28T02:56:50.999Z",
-      "tokenDuration": 5982
+      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "tokenDuration": 5982,
+      "cast": [
+        "Caleb McLaughlin",
+        "Gabrielle Union",
+        "Stephen Curry",
+        "Aaron Pierre",
+        "Nicola Coughlan",
+        "David Harbour"
+      ],
+      "director": "Tyree Dillihay",
+      "recommended": "Recomendado 81%"
     },
     {
       "type": "movie",
       "title": "Los Vengadores",
       "description": "Cuando el poderoso Loki amenaza a la Tierra con una invasión alienígena, Nick Fury reúne a un grupo de héroes extraordinarios: Iron Man, Capitán América, Thor, Hulk, Black Widow y Hawkeye. Aunque al inicio tienen conflictos entre ellos, deberán aprender a trabajar en equipo para salvar al mundo.",
-      "duration": "",
+      "duration": "2h 23m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72323,7 +72411,7 @@
       "atlas": "A",
       "gridIndex": 84,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-06-15T01:22:45.417Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 8575,
       "saga": "Marvel",
       "cast": [
@@ -72379,7 +72467,7 @@
       "type": "movie",
       "title": "Vengadores: Infinity War",
       "description": "Los Vengadores y sus aliados deben unirse para enfrentar a Thanos, un poderoso titán que busca reunir las seis Gemas del Infinito para eliminar a la mitad del universo. A lo largo de la película, los héroes luchan en distintos frentes, pero se enfrentan a una amenaza mucho mayor de lo que imaginaban.",
-      "duration": "",
+      "duration": "2h 29m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72405,7 +72493,7 @@
       "atlas": "A",
       "gridIndex": 86,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 8962,
       "saga": "Marvel",
       "cast": [
@@ -72465,7 +72553,7 @@
       "type": "movie",
       "title": "La empleada",
       "description": "La historia sigue a una joven con un pasado complicado que consigue trabajo como empleada doméstica en la lujosa casa de una familia adinerada. Lo que parece una nueva oportunidad pronto se convierte en una pesadilla cuando descubre secretos oscuros, manipulaciones y peligros dentro de la casa.",
-      "duration": "",
+      "duration": "2h 11m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72490,7 +72578,7 @@
       "atlas": "A",
       "gridIndex": 88,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaEmpleada/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 7882,
       "cast": [
         "Sydney Sweeney",
@@ -72507,7 +72595,7 @@
       "type": "movie",
       "title": "Sin piedad",
       "description": "La historia sigue a un exagente o combatiente que intenta dejar atrás su pasado violento, pero se ve obligado a regresar cuando una persona cercana es amenazada o asesinada. En busca de venganza, se enfrenta a una red criminal peligrosa, desatando una serie de enfrentamientos brutales donde no hay reglas ni compasión.",
-      "duration": "",
+      "duration": "1h 39m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72533,7 +72621,7 @@
       "atlas": "A",
       "gridIndex": 89,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinPiedad/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5968,
       "cast": [
         "Chris Pratt",
@@ -72550,7 +72638,7 @@
       "type": "movie",
       "title": "Thor",
       "description": "Thor, el poderoso dios del trueno, es desterrado de Asgard por su padre Odin debido a su arrogancia. Enviado a la Tierra sin sus poderes, deberá aprender humildad y lo que significa ser un verdadero héroe. Mientras tanto, su hermano Loki planea tomar el control de Asgard, desatando un conflicto que amenaza ambos mundos.",
-      "duration": "",
+      "duration": "1h 55m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -72576,7 +72664,7 @@
       "atlas": "A",
       "gridIndex": 90,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thor/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6891,
       "saga": "Marvel",
       "cast": [
@@ -72594,7 +72682,7 @@
       "type": "movie",
       "title": "Thunderbolts",
       "description": "Un grupo de antihéroes y personajes moralmente ambiguos es reclutado por el gobierno para llevar a cabo misiones peligrosas que los Vengadores no pueden realizar. Forzados a trabajar juntos, deberán enfrentarse a amenazas letales mientras lidian con sus propios pasados oscuros y desconfianza entre ellos.",
-      "duration": "",
+      "duration": "2h 07m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72620,7 +72708,7 @@
       "atlas": "A",
       "gridIndex": 91,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thunderbolts20251080P-Dual-Lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 7603,
       "saga": "Marvel",
       "cast": [
@@ -72638,7 +72726,7 @@
       "type": "movie",
       "title": "Venom",
       "description": "Eddie Brock, un periodista en crisis, entra en contacto con un simbionte alienígena que le otorga habilidades sobrehumanas. Aunque al principio lucha por controlarlo, ambos forman una extraña alianza para sobrevivir y enfrentarse a una amenaza mayor creada por otros simbiontes.",
-      "duration": "",
+      "duration": "1h 52m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72662,7 +72750,7 @@
       "atlas": "A",
       "gridIndex": 92,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/venom/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6729,
       "saga": "Marvel",
       "cast": [
@@ -72678,7 +72766,7 @@
       "type": "movie",
       "title": "Venom: Carnage liberado",
       "description": "Eddie Brock intenta adaptarse a su vida con el simbionte Venom dentro de él. Todo cambia cuando el asesino serial Cletus Kasady se convierte en el poderoso y violento Carnage, un simbionte aún más peligroso. Ahora, Eddie y Venom deberán trabajar juntos para detener una amenaza que supera todo lo que han enfrentado antes.",
-      "duration": "",
+      "duration": "1h 37m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72703,7 +72791,7 @@
       "atlas": "A",
       "gridIndex": 93,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Venom2/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:01.856Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5854,
       "saga": "Marvel",
       "cast": [
@@ -72719,7 +72807,7 @@
       "type": "movie",
       "title": "Black Panther: Wakanda Forever:",
       "description": "Después de la muerte de T'Challa, Wakanda atraviesa un periodo de duelo mientras sus líderes intentan proteger el reino. La llegada de Namor, gobernante de un imperio submarino, provoca un conflicto que obligará a Wakanda a luchar por su futuro y redefinir quién será su protector.",
-      "duration": "",
+      "duration": "2h 42m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -72745,7 +72833,7 @@
       "atlas": "A",
       "gridIndex": 94,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/WakandaForEver/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 9679,
       "saga": "Marvel",
       "cast": [
@@ -72763,7 +72851,7 @@
       "type": "movie",
       "title": "Transformers",
       "description": "La historia sigue a Sam Witwicky, un joven que se ve envuelto en una guerra entre dos razas de robots alienígenas: los Autobots y los Decepticons. Cuando los poderosos robots llegan a la Tierra en busca de una fuente de energía, Sam se convierte en la clave para salvar al planeta junto a los Autobots liderados por Optimus Prime.",
-      "duration": "",
+      "duration": "2h 24m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -72789,7 +72877,7 @@
       "atlas": "A",
       "gridIndex": 95,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6519,
       "saga": "Transformers",
       "cast": [
@@ -72807,7 +72895,7 @@
       "type": "movie",
       "title": "Transformers: El lado oscuro de la Luna",
       "description": "Los Autobots descubren que una nave Cybertroniana se estrelló en la Luna durante la carrera espacial. Este hallazgo guarda un secreto que podría cambiar el destino de la guerra entre Autobots y Decepticons. Mientras tanto, Sam vuelve a verse involucrado en el conflicto cuando una nueva amenaza pone en peligro a toda la humanidad.",
-      "duration": "",
+      "duration": "2h 34m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -72833,7 +72921,7 @@
       "atlas": "A",
       "gridIndex": 96,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6519,
       "saga": "Transformers",
       "cast": [
@@ -72851,7 +72939,7 @@
       "type": "movie",
       "title": "Mi novio es un zombie",
       "description": "En un mundo postapocalíptico lleno de zombis, un muerto viviente llamado \"R\" comienza a experimentar emociones después de conocer a Julie, una humana. A medida que su relación crece, R empieza a cambiar, demostrando que incluso en un mundo muerto puede surgir el amor y la esperanza.",
-      "duration": "",
+      "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -72878,7 +72966,7 @@
       "atlas": "A",
       "gridIndex": 97,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MiNovioEsUnZombie/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5866,
       "cast": [
         "Nicholas Hoult",
@@ -72895,7 +72983,7 @@
       "type": "movie",
       "title": "El muñeco de arcilla",
       "description": "Un diseñador de videojuegos de terror lleva accidentalmente a casa un misterioso muñeco de arcilla desde su trabajo. Lo que parece un simple objeto resulta estar poseído por un espíritu vengativo. A medida que ocurren fenómenos extraños, la vida del protagonista y su esposa embarazada se convierte en una pesadilla mientras el oscuro secreto del muñeco comienza a revelarse.",
-      "duration": "",
+      "duration": "1h 51m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72921,7 +73009,7 @@
       "atlas": "A",
       "gridIndex": 98,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMunecoDeArcilla1080plLat2025/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6645,
       "cast": [
         "Yo Yang",
@@ -72938,7 +73026,7 @@
       "type": "movie",
       "title": "Frankenstein",
       "description": "Un brillante pero arrogante científico, Victor Frankenstein, logra crear vida a partir de restos humanos. Sin embargo, su experimento se convierte en una tragedia cuando la criatura, rechazada por la sociedad y por su propio creador, inicia un camino de dolor, soledad y consecuencias devastadoras.",
-      "duration": "",
+      "duration": "2h 32m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -72964,7 +73052,7 @@
       "atlas": "A",
       "gridIndex": 99,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenstein2025lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 9146,
       "cast": [
         "Oscar Isaac",
@@ -72980,7 +73068,7 @@
       "type": "movie",
       "title": "Una llamada perdida",
       "description": "Un grupo de personas comienza a recibir llamadas misteriosas desde el futuro… en las que escuchan su propia muerte. Cada llamada anuncia la fecha y forma en que morirán. A medida que el patrón se repite, una joven intenta descubrir el origen de las llamadas antes de convertirse en la siguiente víctima.",
-      "duration": "",
+      "duration": "1h 27m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73005,7 +73093,7 @@
       "atlas": "A",
       "gridIndex": 100,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unallamadaperdida2008lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5206,
       "cast": [
         "Edward Burns",
@@ -73022,7 +73110,7 @@
       "type": "movie",
       "title": "Godzilla Minus One",
       "description": "Ambientada en el Japón después de la Segunda Guerra Mundial, la historia sigue a un piloto atormentado por su pasado que intenta reconstruir su vida. Sin embargo, todo empeora cuando aparece Godzilla, una criatura devastadora nacida del poder nuclear, llevando al país de la ruina total a un nivel aún peor de destrucción.",
-      "duration": "",
+      "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73049,7 +73137,7 @@
       "atlas": "A",
       "gridIndex": 101,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GodzillaMinusOne2023DVDRip-Lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 7478,
       "cast": [
         "Minami Hamabe",
@@ -73066,13 +73154,16 @@
       "type": "movie",
       "title": "Cujo",
       "description": "Cujo es un perro San Bernardo que, tras ser mordido por un murciélago infectado con rabia, se vuelve extremadamente agresivo y violento. Cuando una mujer y su hijo quedan atrapados en su coche averiado, deberán luchar por sobrevivir mientras el animal los acecha sin descanso.",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
       "year": 1983,
       "releaseDate": "2026-04-19",
-      "genres": [],
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -73088,7 +73179,7 @@
       "atlas": "A",
       "gridIndex": 102,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:17.469Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5586,
       "cast": [
         "Dee Wallace",
@@ -73105,7 +73196,7 @@
       "type": "movie",
       "title": "El teléfono negro",
       "description": "Finney, un niño tímido, es secuestrado por un asesino en serie conocido como \"El Grabber\". Encerrado en un sótano insonorizado, descubre un teléfono desconectado que misteriosamente comienza a sonar. A través de él, puede comunicarse con las víctimas anteriores del asesino, quienes intentan ayudarlo a escapar antes de que sea demasiado tarde.",
-      "duration": "",
+      "duration": "1h 43m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -73130,7 +73221,7 @@
       "atlas": "A",
       "gridIndex": 103,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elTelefonoNegro2022lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6203,
       "cast": [
         "Mason Thames",
@@ -73147,7 +73238,7 @@
       "type": "movie",
       "title": "Relatos Salvajes ",
       "description": "La película es una antología de seis historias independientes que exploran el lado más oscuro y violento del ser humano. A través de situaciones cotidianas que se salen de control, los personajes reaccionan de forma extrema, mostrando cómo la ira, la frustración y la venganza pueden llevar a consecuencias inesperadas y a veces absurdas.\n\ndedicado a akzara",
-      "duration": "",
+      "duration": "2h 02m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -73172,7 +73263,7 @@
       "atlas": "A",
       "gridIndex": 104,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RelatosSalvajes2014/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "cast": [
         "Darío Grandinetti",
         "María Marull",
@@ -73188,7 +73279,7 @@
       "type": "movie",
       "title": "La cosa",
       "description": "Un grupo de científicos en una base en la Antártida descubre a una criatura alienígena capaz de imitar perfectamente a cualquier ser vivo. A medida que la paranoia crece, nadie puede confiar en nadie, ya que cualquiera podría ser la \"cosa\". La tensión aumenta mientras intentan sobrevivir y descubrir quién sigue siendo humano.",
-      "duration": "",
+      "duration": "1h 25m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -73214,14 +73305,22 @@
       "atlas": "A",
       "gridIndex": 105,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LAcOsAdElOtRoMuNdO1982lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 6515
+      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "tokenDuration": 6515,
+      "cast": [
+        "Martín Garabal",
+        "Elena de Lara",
+        "Carla Miranda",
+        "Pablo Padrón",
+        "Paco Show"
+      ],
+      "director": "Chedey Reyes"
     },
     {
       "type": "movie",
       "title": "El amanecer de los muertos",
       "description": "Una misteriosa epidemia convierte a la población en zombis extremadamente rápidos y violentos. Un grupo de sobrevivientes se refugia en un centro comercial, intentando mantenerse a salvo mientras el mundo exterior colapsa. Sin embargo, el peligro no solo viene de los muertos, sino también de las tensiones dentro del grupo.",
-      "duration": "",
+      "duration": "1h 50m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -73247,7 +73346,7 @@
       "atlas": "A",
       "gridIndex": 106,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ELAMaNeCeRDELOsMUeRtOs2004lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5999,
       "cast": [
         "Sarah Polley",
@@ -73264,7 +73363,7 @@
       "type": "movie",
       "title": "Maleficio",
       "description": "Una mujer rompe un antiguo tabú religioso y desata una maldición sobre su familia. Años después, intenta proteger a su hija del mismo destino mientras documenta todo en video, revelando rituales, creencias prohibidas y una presencia oscura que los persigue. La película mezcla metraje tipo found footage con narrativa directa al espectador.",
-      "duration": "",
+      "duration": "1h 51m",
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
@@ -73289,7 +73388,7 @@
       "atlas": "A",
       "gridIndex": 107,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Maleficio2022Lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6688,
       "cast": [
         "Hsuan-yen Tsai",
@@ -73305,7 +73404,7 @@
       "type": "movie",
       "title": "El bebé de Rosemary",
       "description": "Rosemary y su esposo se mudan a un antiguo edificio en Nueva York. Poco después de quedar embarazada, Rosemary empieza a sospechar que sus vecinos y su propio esposo están involucrados en algo oscuro. A medida que su embarazo avanza, descubre una conspiración relacionada con un culto satánico y el destino de su bebé.",
-      "duration": "",
+      "duration": "2h 18m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -73330,7 +73429,7 @@
       "atlas": "A",
       "gridIndex": 108,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBebeDeRosemary1968lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 8223,
       "cast": [
         "Mia Farrow",
@@ -73347,7 +73446,7 @@
       "type": "movie",
       "title": "Cazadores de trolls",
       "description": "Un grupo de estudiantes de cine investiga a un misterioso cazador furtivo en Noruega, pero pronto descubren algo increíble: el hombre en realidad se dedica a cazar trolls, criaturas gigantes que existen en secreto. A través de grabaciones tipo found footage, documentan encuentros peligrosos mientras intentan sobrevivir y revelar la verdad.",
-      "duration": "",
+      "duration": "1h 44m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -73374,14 +73473,24 @@
       "atlas": "A",
       "gridIndex": 109,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CazadoresDeTrolls2010lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
-      "tokenDuration": 6208
+      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "tokenDuration": 6208,
+      "cast": [
+        "Otto Jespersen",
+        "Glenn Erland Tosterud",
+        "Johanna Mørck",
+        "Tomas Alf Larsen",
+        "Hans Morten Hansen",
+        "Urmila Berg-Domaas"
+      ],
+      "director": "André Øvredal",
+      "recommended": "Recomendado 67%"
     },
     {
       "type": "movie",
       "title": "Coraline y la puerta secreta",
       "description": "Coraline es una niña curiosa que descubre una puerta secreta en su nueva casa. Al atravesarla, encuentra un mundo alternativo aparentemente perfecto, donde todo es mejor… pero pronto se da cuenta de que ese lugar esconde algo oscuro y peligroso, especialmente su \"otra madre\", quien tiene intenciones siniestras.",
-      "duration": "",
+      "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
       "section": "catalog",
@@ -73408,7 +73517,7 @@
       "atlas": "A",
       "gridIndex": 110,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CoralineYLaPuertaSecreta2009lat/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 6037,
       "cast": [
         "Dakota Fanning",
@@ -73422,7 +73531,7 @@
       "type": "movie",
       "title": "La leyenda de la Nahuala",
       "description": "Ambientada en Puebla durante el siglo XIX, la historia sigue a Leo, un niño miedoso que debe enfrentarse a sus temores cuando una antigua leyenda cobra vida. La Nahuala, un espíritu maligno, amenaza con regresar, y Leo junto a sus amigos deberá descubrir la verdad y salvar a su hermano antes de que sea demasiado tarde.",
-      "duration": "",
+      "duration": "1h 24m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -73449,7 +73558,7 @@
       "atlas": "A",
       "gridIndex": 111,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaNahuala2007/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.851Z",
       "tokenDuration": 5061,
       "saga": "Las Leyendas",
       "cast": [
@@ -73467,7 +73576,7 @@
       "type": "movie",
       "title": "Nosferatu",
       "description": "Una joven atormentada establece una conexión oscura con un antiguo vampiro conocido como el Conde Orlok. Obsesionado con ella, el monstruo llega a su ciudad llevando consigo enfermedad, muerte y terror, desatando una historia gótica marcada por la obsesión y la tragedia.",
-      "duration": "",
+      "duration": "2h 13m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -73493,7 +73602,7 @@
       "atlas": "A",
       "gridIndex": 112,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nosferatu2024/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7955,
       "cast": [
         "Lily-Rose Depp",
@@ -73510,7 +73619,7 @@
       "type": "movie",
       "title": "Monster High: Amor monstruoso",
       "description": "En Monster High se acerca el Día de San Valentín, y Draculaura está emocionada por celebrar su aniversario número 1600 con su novio Clawd. Sin embargo, un antiguo amor aparece y complica todo, creando un triángulo amoroso lleno de drama, celos y decisiones importantes sobre el verdadero significado del amor.",
-      "duration": "",
+      "duration": "0h 45m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -73537,7 +73646,7 @@
       "atlas": "A",
       "gridIndex": 113,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MonsterHighAmorMonstruoso/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 2761,
       "cast": [
         "Laura Bailey",
@@ -73552,7 +73661,7 @@
       "type": "movie",
       "title": "El Libro de la Vida",
       "description": "Manolo, un joven dividido entre seguir las expectativas de su familia o su verdadera pasión por la música, se embarca en una aventura mágica que lo lleva a recorrer tres mundos: el de los vivos, el de los recordados y el de los olvidados. En el camino, lucha por su amor y descubre su propio destino.",
-      "duration": "",
+      "duration": "1h 35m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -73580,7 +73689,7 @@
       "atlas": "A",
       "gridIndex": 114,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibroDeLaVida/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5724,
       "cast": [
         "Diego Luna",
@@ -73597,7 +73706,7 @@
       "type": "movie",
       "title": "El Quinto Elemento",
       "description": "En un futuro lejano, un exmilitar convertido en taxista se ve envuelto en una misión crucial para salvar a la humanidad. Junto a una misteriosa mujer con habilidades extraordinarias, deberá reunir cuatro elementos esenciales para detener una fuerza cósmica que amenaza con destruir la Tierra.",
-      "duration": "",
+      "duration": "2h 06m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73624,7 +73733,7 @@
       "atlas": "A",
       "gridIndex": 115,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElQuintoElemento1997/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7596,
       "cast": [
         "Bruce Willis",
@@ -73641,7 +73750,7 @@
       "type": "movie",
       "title": "Escuadrón Suicida",
       "description": "Un grupo de peligrosos criminales encarcelados es reclutado por el gobierno para formar un equipo secreto y cumplir misiones extremadamente riesgosas a cambio de reducir sus condenas. Sin embargo, deberán aprender a trabajar juntos mientras enfrentan amenazas fuera de control… y entre ellos mismos.",
-      "duration": "",
+      "duration": "2h 03m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73668,7 +73777,7 @@
       "atlas": "A",
       "gridIndex": 116,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EscuadronSuicida2016/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 8073,
       "saga": "DC",
       "cast": [
@@ -73686,7 +73795,7 @@
       "type": "movie",
       "title": "La Leyenda de la Llorona",
       "description": "Leo San Juan y sus amigos viajan a Xochimilco, donde descubren que la famosa Llorona está secuestrando niños. Para detenerla, deberán enfrentar misterios del pasado y ayudar a liberar el alma en pena detrás de la leyenda.",
-      "duration": "",
+      "duration": "1h 15m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73713,15 +73822,25 @@
       "atlas": "A",
       "gridIndex": 117,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaLlorona2011/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 4523,
-      "saga": "Las Leyendas"
+      "saga": "Las Leyendas",
+      "cast": [
+        "Rafael Inclán",
+        "Yair Prado",
+        "Mónica del Carmen",
+        "Mayté Cordero",
+        "Rosario Zúñiga",
+        "Mercedes Hernández"
+      ],
+      "director": "Alberto Rodríguez",
+      "recommended": "Recomendado 79%"
     },
     {
       "type": "movie",
       "title": "La Leyenda de las Momias de Guanajuato",
       "description": "Leo San Juan y sus amigos llegan a Guanajuato, donde descubren que unas momias han cobrado vida y están causando terror en la ciudad. Para detenerlas, deberán enfrentarse a un oscuro secreto y salvar a los habitantes antes de que sea demasiado tarde.",
-      "duration": "",
+      "duration": "1h 24m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -73749,15 +73868,25 @@
       "atlas": "A",
       "gridIndex": 118,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLasMomiasDeGuanajuato2014/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5022,
-      "saga": "Las Leyendas"
+      "saga": "Las Leyendas",
+      "cast": [
+        "Benny Emmanuel",
+        "Mayté Cordero",
+        "Eduardo España",
+        "Rafael Inclán",
+        "Andrés Couturier",
+        "José Luis Orozco"
+      ],
+      "director": "Alberto Rodríguez",
+      "recommended": "Recomendado 81%"
     },
     {
       "type": "movie",
       "title": "La Leyenda del Chupacabras",
       "description": "Leo San Juan es encarcelado injustamente y, mientras intenta demostrar su inocencia, surge una nueva amenaza: el temido Chupacabras. Junto a sus amigos, deberá escapar y enfrentar a esta criatura para salvar a un pueblo aterrorizado.",
-      "duration": "",
+      "duration": "1h 23m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -73786,7 +73915,7 @@
       "atlas": "A",
       "gridIndex": 119,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDelChupacabras2016/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 4960,
       "saga": "Las Leyendas",
       "cast": [
@@ -73804,7 +73933,7 @@
       "type": "movie",
       "title": "Marcianos al Ataque",
       "description": "Un grupo de extravagantes alienígenas llega a la Tierra con aparentes intenciones pacíficas, pero pronto revelan su verdadera naturaleza caótica y destructiva. Mientras gobiernos y ciudadanos intentan reaccionar, el planeta se convierte en un escenario de humor absurdo y desastre total.",
-      "duration": "",
+      "duration": "1h 46m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73830,7 +73959,7 @@
       "atlas": "A",
       "gridIndex": 120,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarcianosAlAtaque1996/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6346,
       "cast": [
         "Jack Nicholson",
@@ -73846,7 +73975,7 @@
       "type": "movie",
       "title": "Planeta del Tesoro",
       "description": "Jim Hawkins, un joven rebelde, descubre un mapa que conduce a un legendario tesoro escondido en el espacio. A bordo de una nave extraordinaria, emprende un viaje lleno de peligros, traiciones y descubrimientos personales que pondrán a prueba su valentía y confianza.",
-      "duration": "",
+      "duration": "1h 36m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -73874,15 +74003,25 @@
       "atlas": "A",
       "gridIndex": 121,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PlanetaDelTesoro2002/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5724,
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Joseph Gordon-Levitt",
+        "Brian Murray",
+        "Emma Thompson",
+        "David Hyde Pierce",
+        "Martin Short",
+        "Dane A. Davis"
+      ],
+      "director": "Ron Clements, John Musker",
+      "recommended": "Recomendado 76%"
     },
     {
       "type": "movie",
       "title": "Alicia en el País de las Maravillas",
       "description": "Alicia, ahora adolescente, regresa a un mundo mágico que visitó en su infancia, aunque no lo recuerda con claridad. Allí descubre que tiene un papel importante en la lucha contra la tiránica Reina Roja, mientras se reencuentra con personajes extraños y fascinantes.",
-      "duration": "",
+      "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -73908,7 +74047,7 @@
       "atlas": "A",
       "gridIndex": 122,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPaisDeLasMaravillas2010/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6514,
       "cast": [
         "Mia Wasikowska",
@@ -73925,7 +74064,7 @@
       "type": "movie",
       "title": "Beetlejuice",
       "description": "Una pareja fallecida queda atrapada como fantasmas en su propia casa y decide asustar a los nuevos habitantes. Para lograrlo, invocan a Beetlejuice, un espíritu caótico y problemático que termina complicando todo mucho más de lo esperado.",
-      "duration": "",
+      "duration": "1h 32m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -73951,7 +74090,7 @@
       "atlas": "A",
       "gridIndex": 123,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Beetlejuice1988/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5527,
       "cast": [
         "Alec Baldwin",
@@ -74012,7 +74151,7 @@
       "type": "movie",
       "title": "El Joven Manos de Tijera",
       "description": "Edward es un joven artificial creado por un inventor que murió antes de terminarlo, dejándolo con tijeras en lugar de manos. Al ser llevado a un vecindario común, intenta adaptarse a la vida humana, pero su apariencia y naturaleza provocan tanto fascinación como rechazo.",
-      "duration": "",
+      "duration": "1h 45m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -74039,7 +74178,7 @@
       "atlas": "A",
       "gridIndex": 125,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJovenManosDeTijera1990/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6302,
       "cast": [
         "Johnny Depp",
@@ -74056,7 +74195,7 @@
       "type": "movie",
       "title": "Frankenweenie",
       "description": "Victor, un niño apasionado por la ciencia, pierde a su querido perro Sparky. Decidido a recuperarlo, utiliza sus conocimientos para traerlo de vuelta a la vida, pero sus experimentos provocan consecuencias inesperadas en su comunidad.",
-      "duration": "",
+      "duration": "1h 27m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74084,7 +74223,7 @@
       "atlas": "A",
       "gridIndex": 126,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenweenie2012/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5215,
       "saga": "Disney|Pixar",
       "cast": [
@@ -74099,7 +74238,7 @@
       "type": "movie",
       "title": "Miss Peregrine y los Niños Peculiares",
       "description": "Tras una tragedia familiar, Jake descubre un misterioso orfanato donde viven niños con habilidades extraordinarias. Bajo el cuidado de Miss Peregrine, deberá protegerlos de peligrosas criaturas mientras descubre su propio lugar en ese mundo peculiar.",
-      "duration": "",
+      "duration": "2h 07m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -74126,7 +74265,7 @@
       "atlas": "A",
       "gridIndex": 127,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MissPeregrineYLosNinosPeculiares2016/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7616,
       "cast": [
         "Eva Green",
@@ -74143,7 +74282,7 @@
       "type": "movie",
       "title": "Guerra Mundial Z",
       "description": "Una repentina y devastadora pandemia convierte a millones de personas en criaturas violentas. Gerry Lane, un exinvestigador de la ONU, recorre el mundo en busca del origen del brote y una posible solución antes de que la humanidad colapse por completo.",
-      "duration": "",
+      "duration": "1h 56m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -74170,7 +74309,7 @@
       "atlas": "A",
       "gridIndex": 128,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuerraMundialZ2013/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7384,
       "cast": [
         "Brad Pitt",
@@ -74187,7 +74326,7 @@
       "type": "movie",
       "title": "Crepúsculo: Luna Nueva",
       "description": "Después de un peligroso incidente, Edward decide alejarse de Bella para protegerla, dejándola devastada. En su intento por seguir adelante, Bella se acerca más a Jacob, descubriendo secretos que cambiarán todo mientras fuerzas oscuras se aproximan.",
-      "duration": "",
+      "duration": "2h 11m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74213,15 +74352,25 @@
       "atlas": "A",
       "gridIndex": 129,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoLunaNueva2009/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7838,
-      "saga": "Crepúsculo"
+      "saga": "Crepúsculo",
+      "cast": [
+        "Kristen Stewart",
+        "Robert Pattinson",
+        "Taylor Lautner",
+        "Dakota Fanning",
+        "Michael Sheen",
+        "Ashley Greene"
+      ],
+      "director": "Chris Weitz",
+      "recommended": "Recomendado 60%"
     },
     {
       "type": "movie",
       "title": "Crepúsculo: Eclipse",
       "description": "Bella se encuentra en medio de una peligrosa amenaza cuando una serie de asesinatos sacude la ciudad. Mientras tanto, debe tomar una decisión entre Edward y Jacob, lo que complica aún más la creciente tensión entre vampiros y hombres lobo.",
-      "duration": "",
+      "duration": "2h 04m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -74248,15 +74397,25 @@
       "atlas": "A",
       "gridIndex": 130,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoEclipse2010/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6014,
-      "saga": "Crepúsculo"
+      "saga": "Crepúsculo",
+      "cast": [
+        "Kristen Stewart",
+        "Robert Pattinson",
+        "Taylor Lautner",
+        "Bryce Dallas Howard",
+        "Dakota Fanning",
+        "Billy Burke"
+      ],
+      "director": "David Slade",
+      "recommended": "Recomendado 62%"
     },
     {
       "type": "movie",
       "title": "Crepúsculo: Amanecer – Parte 1",
       "description": "Bella y Edward finalmente se casan y comienzan su nueva vida juntos. Sin embargo, un inesperado embarazo trae consecuencias peligrosas tanto para Bella como para quienes la rodean, desatando tensiones entre vampiros y hombres lobo.",
-      "duration": "",
+      "duration": "1h 57m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74282,15 +74441,25 @@
       "atlas": "A",
       "gridIndex": 131,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte12011/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7838,
-      "saga": "Crepúsculo"
+      "saga": "Crepúsculo",
+      "cast": [
+        "Kristen Stewart",
+        "Robert Pattinson",
+        "Taylor Lautner",
+        "Billy Burke",
+        "Peter Facinelli",
+        "Michael Sheen"
+      ],
+      "director": "Bill Condon",
+      "recommended": "Recomendado 62%"
     },
     {
       "type": "movie",
       "title": "Crepúsculo: Amanecer – Parte 2",
       "description": "Bella despierta transformada en vampiro y comienza su nueva vida junto a Edward y su hija. Sin embargo, una amenaza poderosa se cierne cuando los Volturi sospechan de un peligro que podría romper las reglas del mundo vampírico, llevando a un enfrentamiento decisivo.",
-      "duration": "",
+      "duration": "1h 55m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74317,15 +74486,25 @@
       "atlas": "A",
       "gridIndex": 132,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte22012/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6913,
-      "saga": "Crepúsculo"
+      "saga": "Crepúsculo",
+      "cast": [
+        "Kristen Stewart",
+        "Robert Pattinson",
+        "Taylor Lautner",
+        "Peter Facinelli",
+        "Elizabeth Reaser",
+        "Ashley Greene"
+      ],
+      "director": "Bill Condon",
+      "recommended": "Recomendado 65%"
     },
     {
       "type": "movie",
       "title": "El Bueno, el Malo y el Feo",
       "description": "En medio de la Guerra Civil estadounidense, tres hombres con intereses distintos —un cazarrecompensas, un forajido y un mercenario— compiten y colaboran para encontrar un tesoro escondido. Su viaje está lleno de traiciones, alianzas inesperadas y duelos memorables.",
-      "duration": "",
+      "duration": "2h 41m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -74351,7 +74530,7 @@
       "atlas": "A",
       "gridIndex": 133,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBuenoElMaloYElFeo1966/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 10723,
       "cast": [
         "Clint Eastwood",
@@ -74367,7 +74546,7 @@
       "type": "movie",
       "title": "Sweeney Todd: El Barbero Demoníaco de la Calle Fleet",
       "description": "Benjamin Barker regresa a Londres bajo una nueva identidad: Sweeney Todd, un barbero marcado por un pasado trágico. Buscando venganza contra quienes destruyeron su vida, inicia un oscuro plan que lo lleva a cometer actos cada vez más extremos, con la ayuda de una peculiar aliada.",
-      "duration": "",
+      "duration": "1h 56m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -74394,7 +74573,7 @@
       "atlas": "A",
       "gridIndex": 134,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:27.705Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6982,
       "cast": [
         "Johnny Depp",
@@ -74411,7 +74590,7 @@
       "type": "movie",
       "title": "La Terminal",
       "description": "Viktor Navorski llega a Nueva York, pero debido a un conflicto político en su país, queda atrapado en el aeropuerto sin poder entrar a Estados Unidos ni regresar a casa. Mientras espera una solución, aprende a adaptarse a la vida dentro de la terminal y forma inesperadas amistades.",
-      "duration": "",
+      "duration": "2h 09m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74437,7 +74616,7 @@
       "atlas": "A",
       "gridIndex": 135,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laterminal/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7775,
       "cast": [
         "Tom Hanks",
@@ -74454,7 +74633,7 @@
       "type": "movie",
       "title": "El Zorro y el Sabueso",
       "description": "Tod, un zorro huérfano, y Copper, un cachorro de sabueso, desarrollan una amistad sincera durante su infancia. Sin embargo, al crecer, sus naturalezas opuestas y las expectativas de sus dueños los obligan a enfrentarse a una realidad que pone a prueba su vínculo.",
-      "duration": "",
+      "duration": "1h 30m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -74481,7 +74660,7 @@
       "atlas": "A",
       "gridIndex": 136,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elzorroyelsabueso/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 4973,
       "saga": "Disney|Pixar",
       "cast": [
@@ -74499,7 +74678,7 @@
       "type": "movie",
       "title": "La Hermanastra Fea",
       "description": "Una reinterpretación oscura del clásico cuento de Cenicienta, contada desde la perspectiva de una de las hermanastras. La historia explora sus inseguridades, rivalidades y el deseo de encajar en un mundo obsesionado con la belleza.",
-      "duration": "",
+      "duration": "1h 49m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -74525,7 +74704,7 @@
       "atlas": "A",
       "gridIndex": 137,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lahermanastrafea/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 6553,
       "cast": [
         "Lea Myren",
@@ -74542,7 +74721,7 @@
       "type": "movie",
       "title": "El Laberinto del Fauno",
       "description": "En la España de la posguerra, Ofelia, una niña con gran imaginación, descubre un misterioso laberinto donde un fauno le revela que podría ser una princesa perdida. Para demostrarlo, deberá cumplir peligrosas pruebas mientras enfrenta la dura realidad del mundo que la rodea.",
-      "duration": "",
+      "duration": "1h 58m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -74569,7 +74748,7 @@
       "atlas": "A",
       "gridIndex": 138,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLaberintoDelFauno/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 7132,
       "cast": [
         "Ivana Baquero",
@@ -74585,7 +74764,7 @@
       "type": "movie",
       "title": "Hotel Transylvania 2",
       "description": "Drácula está emocionado por su nieto Dennis, pero comienza a preocuparse al ver que no muestra señales de ser un monstruo. Mientras los padres del niño están fuera, Drácula y sus amigos intentan sacar su \"lado monstruoso\" con divertidos y caóticos resultados.",
-      "duration": "",
+      "duration": "1h 29m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -74612,7 +74791,7 @@
       "atlas": "A",
       "gridIndex": 139,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5383,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -74630,7 +74809,7 @@
       "type": "movie",
       "title": "Hotel Transylvania 3: Monstruos de Vacaciones",
       "description": "Drácula decide tomar unas vacaciones junto a su familia y amigos en un lujoso crucero para monstruos. Todo parece perfecto hasta que conoce a la misteriosa capitana del barco y se enamora, sin saber que ella guarda un secreto que podría poner a todos en peligro.",
-      "duration": "",
+      "duration": "1h 37m",
       "rating": "G",
       "quality": "LQ",
       "section": "catalog",
@@ -74658,7 +74837,7 @@
       "atlas": "A",
       "gridIndex": 140,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania3/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5844,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -74676,7 +74855,7 @@
       "type": "movie",
       "title": "Hotel Transylvania: Transformanía",
       "description": "Un experimento del profesor Van Helsing sale mal y convierte a Drácula y sus amigos en humanos, mientras que Johnny se transforma en monstruo. Ahora deberán viajar juntos para revertir el hechizo antes de que los cambios se vuelvan permanentes.",
-      "duration": "",
+      "duration": "1h 27m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -74704,7 +74883,7 @@
       "atlas": "A",
       "gridIndex": 141,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:37.563Z",
+      "updatedAt": "2026-08-15T03:47:31.852Z",
       "tokenDuration": 5252,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -74722,7 +74901,7 @@
       "type": "movie",
       "title": "Tu Nombre",
       "description": "Mitsuha, una chica de un pueblo rural, y Taki, un joven de Tokio, comienzan a intercambiar cuerpos de forma misteriosa. A medida que intentan entender lo que sucede, desarrollan una conexión profunda que trasciende el tiempo y la distancia.",
-      "duration": "",
+      "duration": "1h 47m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -74750,7 +74929,7 @@
       "atlas": "A",
       "gridIndex": 142,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:47.642Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6396,
       "cast": [
         "Ryûnosuke Kamiki",
@@ -74767,7 +74946,7 @@
       "type": "movie",
       "title": "Look Back",
       "description": "La historia sigue a Fujino, una estudiante talentosa en dibujo, y Kyomoto, una chica solitaria con un estilo artístico excepcional. A través de su pasión por el manga, sus vidas se entrelazan en una relación marcada por la admiración, la rivalidad y el crecimiento personal.",
-      "duration": "",
+      "duration": "1h 02m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -74792,7 +74971,7 @@
       "atlas": "A",
       "gridIndex": 143,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LookBack/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 3500,
       "cast": [
         "Yumi Kawai",
@@ -74809,7 +74988,7 @@
       "type": "movie",
       "title": "Resident Evil",
       "description": "Alice despierta sin memoria en una mansión secreta donde una corporación ha liberado accidentalmente un virus mortal. Junto a un equipo militar, deberá adentrarse en una instalación subterránea para contener la amenaza, enfrentándose a criaturas infectadas y peligros desconocidos.",
-      "duration": "",
+      "duration": "1h 41m",
       "rating": "R",
       "quality": "None",
       "section": "catalog",
@@ -74836,7 +75015,7 @@
       "atlas": "A",
       "gridIndex": 144,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil1/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6031,
       "saga": "Resident Evil",
       "cast": [
@@ -74854,7 +75033,7 @@
       "type": "movie",
       "title": "Resident Evil 2: Apocalipsis",
       "description": "El virus se ha extendido fuera del laboratorio y ha invadido la ciudad de Raccoon City. Alice, ahora con nuevas habilidades, se une a otros sobrevivientes para escapar mientras enfrentan hordas de infectados y una criatura imparable creada por la corporación.",
-      "duration": "",
+      "duration": "1h 34m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -74881,7 +75060,7 @@
       "atlas": "A",
       "gridIndex": 145,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5629,
       "saga": "Resident Evil",
       "cast": [
@@ -74899,7 +75078,7 @@
       "type": "movie",
       "title": "Resident Evil 3: Extinción",
       "description": "El mundo ha sido devastado por el virus, convirtiéndose en un desierto lleno de infectados. Alice continúa su viaje junto a otros sobrevivientes en busca de un lugar seguro, mientras enfrenta nuevas amenazas y descubre más sobre los experimentos de la corporación responsable.",
-      "duration": "",
+      "duration": "1h 35m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -74926,7 +75105,7 @@
       "atlas": "A",
       "gridIndex": 146,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil3/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5646,
       "saga": "Resident Evil",
       "cast": [
@@ -74944,7 +75123,7 @@
       "type": "movie",
       "title": "Mad Max: Salvajes de Autopista",
       "description": "En un futuro cercano donde la sociedad comienza a colapsar, Max Rockatansky es un policía que patrulla carreteras dominadas por bandas violentas. Tras una tragedia personal, su vida cambia por completo, llevándolo por un camino de venganza en un mundo cada vez más caótico.",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -74970,7 +75149,7 @@
       "atlas": "A",
       "gridIndex": 147,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMaxSalvajesDeAutopista/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5587,
       "saga": "Mad Max",
       "cast": [
@@ -74988,7 +75167,7 @@
       "type": "movie",
       "title": "Mad Max 2",
       "description": "En un mundo postapocalíptico dominado por la escasez de combustible, Max se cruza con una comunidad que intenta sobrevivir protegiendo su gasolina de una violenta banda. A regañadientes, decide ayudarlos, enfrentándose a peligrosas persecuciones y brutales enemigos.",
-      "duration": "",
+      "duration": "1h 34m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -75014,7 +75193,7 @@
       "atlas": "A",
       "gridIndex": 148,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5691,
       "saga": "Mad Max",
       "cast": [
@@ -75032,7 +75211,7 @@
       "type": "movie",
       "title": "Mad Max 3: Más Allá de la Cúpula del Trueno",
       "description": "Max llega a Bartertown, una ciudad controlada por una poderosa líder, donde se ve obligado a participar en combates dentro de la temida \"Cúpula del Trueno\". Tras escapar, se une a un grupo de jóvenes que buscan reconstruir la civilización en un mundo devastado.",
-      "duration": "",
+      "duration": "1h 47m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75058,7 +75237,7 @@
       "atlas": "A",
       "gridIndex": 149,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax3MasAllaDeLaCupulaDelTrueno/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6419,
       "saga": "Mad Max",
       "cast": [
@@ -75076,7 +75255,7 @@
       "type": "movie",
       "title": "Free Guy: Tomando el Control",
       "description": "Guy es un cajero de banco que descubre que en realidad es un personaje dentro de un videojuego de mundo abierto. Al volverse consciente de su situación, decide cambiar su destino y convertirse en el héroe de su propia historia.",
-      "duration": "",
+      "duration": "1h 55m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75103,7 +75282,7 @@
       "atlas": "A",
       "gridIndex": 150,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FreeGuyTomandoElControl/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6899,
       "cast": [
         "Ryan Reynolds",
@@ -75119,7 +75298,7 @@
       "type": "movie",
       "title": "El extraño mundo de jack",
       "description": "Jack Skellington, el aburrido Rey de la Ciudad de Halloween, descubre la Ciudad de la Navidad y queda tan fascinado que decide secuestrar a Santa Claus para organizar la festividad él mismo. Sin embargo, su visión macabra de los regalos aterroriza al mundo humano, lo que obliga a Jack a salvar a Santa de las garras del malvado Oogie Boogie para arreglar el desastre. Al final, Jack comprende que su verdadera identidad es ser el maestro de los sustos y encuentra el amor en la inteligente Sally",
-      "duration": "",
+      "duration": "1h 19m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75149,7 +75328,7 @@
       "atlas": "A",
       "gridIndex": 151,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElExtranoMundoDeJack/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 4597,
       "saga": "Disney|Pixar",
       "cast": [
@@ -75164,7 +75343,7 @@
       "type": "movie",
       "title": "Intensamente",
       "description": "La historia sigue a Riley, una niña de 11 años cuya vida da un vuelco cuando se muda con su familia a San Francisco. En su mente, las emociones —Alegría, Tristeza, Temor, Desagrado y Furia— intentan guiarla a través de este difícil cambio, pero un accidente provoca que Alegría y Tristeza sean expulsadas del Cuartel General, perdiéndose en los rincones de su memoria. Mientras ambas luchan por regresar para salvar la estabilidad emocional de Riley, Alegría comprende que todas las emociones, incluso la tristeza, son esenciales para el crecimiento y el bienestar de la niña.",
-      "duration": "",
+      "duration": "1h 34m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75193,15 +75372,25 @@
       "atlas": "A",
       "gridIndex": 152,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IntensaMente/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5689,
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Amy Poehler",
+        "Phyllis Smith",
+        "Richard Kind",
+        "Bill Hader",
+        "Lewis Black",
+        "Mindy Kaling"
+      ],
+      "director": "Pete Docter",
+      "recommended": "Recomendado 79%"
     },
     {
       "type": "movie",
       "title": "Megamente",
       "description": "Megamente es una ingeniosa comedia animada que le da la vuelta al género de superhéroes al centrarse en un villano azul y cabezón que, tras derrotar finalmente a su némesis Metro Man, cae en una profunda depresión al perder su propósito de vida. Para remediar su aburrimiento, decide crear un nuevo héroe llamado Titán, pero el plan fracasa cuando este prefiere usar sus poderes para el mal, obligando a Megamente a asumir, por primera vez, el papel de salvador de Metro Ciudad. A través de este viaje, la película explora de forma divertida si nuestro destino está predeterminado o si realmente tenemos la libertad de elegir quiénes queremos ser.",
-      "duration": "",
+      "duration": "1h 36m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75231,7 +75420,7 @@
       "atlas": "A",
       "gridIndex": 153,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Megamente/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5735,
       "saga": "DreamWorks",
       "cast": [
@@ -75249,7 +75438,7 @@
       "type": "movie",
       "title": "Lluvia de Hamburguesas",
       "description": "Flint Lockwood, un joven inventor, crea una máquina que convierte el agua en comida. Su invento parece ser la solución perfecta para su pueblo… hasta que comienza a salirse de control y provoca tormentas de alimentos gigantes.",
-      "duration": "",
+      "duration": "1h 30m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75276,7 +75465,7 @@
       "atlas": "A",
       "gridIndex": 154,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5394,
       "saga": "Lluvia de Hamburguesas",
       "cast": [
@@ -75294,7 +75483,7 @@
       "type": "movie",
       "title": "Michael",
       "description": "La película narra la vida de Michael Jackson, desde sus inicios como niño prodigio en los The Jackson 5 hasta convertirse en una de las mayores estrellas del pop. Explora su talento, fama, desafíos personales y legado musical.",
-      "duration": "",
+      "duration": "2h 08m",
       "rating": "PG-13",
       "quality": "BQ",
       "section": "catalog",
@@ -75318,7 +75507,7 @@
       "atlas": "A",
       "gridIndex": 155,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 7624,
       "cast": [
         "Jaafar Jackson",
@@ -75335,7 +75524,7 @@
       "type": "movie",
       "title": "Volver al Futuro",
       "description": "Marty McFly, un adolescente común, viaja accidentalmente al pasado en una máquina del tiempo creada por el excéntrico Doc Brown. Allí, deberá asegurarse de que sus padres se enamoren para no alterar su propia existencia, mientras busca la forma de regresar al presente.",
-      "duration": "",
+      "duration": "1h 57m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75361,7 +75550,7 @@
       "atlas": "A",
       "gridIndex": 156,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6966,
       "saga": "Volver al Futuro",
       "cast": [
@@ -75379,7 +75568,7 @@
       "type": "movie",
       "title": "Nimona ",
       "description": "En un mundo futurista con estética medieval, un caballero es acusado injustamente de un crimen y decide aliarse con Nimona, una joven rebelde con la habilidad de transformarse en cualquier criatura. Juntos intentan limpiar su nombre mientras desafían las reglas del sistema.",
-      "duration": "",
+      "duration": "1h 41m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75408,7 +75597,7 @@
       "atlas": "A",
       "gridIndex": 157,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nimona/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6166,
       "cast": [
         "Chloë Grace Moretz",
@@ -75425,7 +75614,7 @@
       "type": "movie",
       "title": "Nosotros los Nobles",
       "description": "Un empresario millonario decide darle una lección a sus hijos malcriados fingiendo que han perdido toda su fortuna. Obligados a trabajar por primera vez en sus vidas, los jóvenes deberán enfrentarse a la realidad y aprender el verdadero valor del dinero.",
-      "duration": "",
+      "duration": "1h 30m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -75450,7 +75639,7 @@
       "atlas": "A",
       "gridIndex": 158,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NosotrosLosNobles/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 6490,
       "cast": [
         "Gonzalo Vega",
@@ -75467,7 +75656,7 @@
       "type": "movie",
       "title": "Shrek",
       "description": "Shrek, un ogro solitario que disfruta su tranquilidad en el pantano, ve su hogar invadido por criaturas de cuentos. Para recuperarlo, hace un trato con un lord y emprende una misión para rescatar a una princesa, descubriendo en el camino el valor de la amistad y el amor verdadero.",
-      "duration": "",
+      "duration": "1h 30m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75495,7 +75684,7 @@
       "atlas": "A",
       "gridIndex": 159,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5405,
       "saga": "DreamWorks",
       "cast": [
@@ -75511,7 +75700,7 @@
       "type": "movie",
       "title": "Shrek 2",
       "description": "Shrek y Fiona viajan al reino de Muy Muy Lejano para conocer a los padres de ella, quienes no esperan que su hija se haya casado con un ogro. Mientras intentan encajar, enfrentarán intrigas, magia y un plan para separarlos.",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75540,7 +75729,7 @@
       "atlas": "B",
       "gridIndex": 0,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5543,
       "saga": "DreamWorks",
       "cast": [
@@ -75558,7 +75747,7 @@
       "type": "movie",
       "title": "Shrek Tercero",
       "description": "Cuando el rey de Muy Muy Lejano enferma, Shrek se convierte en el heredero al trono… algo que no desea. Para evitarlo, emprende un viaje en busca de otro posible sucesor, mientras Fiona y sus amigas enfrentan nuevos desafíos en el reino.",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -75586,7 +75775,7 @@
       "atlas": "B",
       "gridIndex": 1,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek3/master.m3u8",
-      "updatedAt": "2026-05-28T02:57:57.394Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5563,
       "saga": "DreamWorks",
       "cast": [
@@ -75604,7 +75793,7 @@
       "type": "movie",
       "title": "Shrek Felices Para Siempre",
       "description": "Cansado de su vida rutinaria, Shrek hace un trato con Rumpelstiltskin que lo lleva a una realidad alternativa donde nunca nació. En este mundo oscuro, deberá encontrar la forma de recuperar su vida y el amor de Fiona antes de que sea demasiado tarde.",
-      "duration": "",
+      "duration": "1h 34m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75632,7 +75821,7 @@
       "atlas": "B",
       "gridIndex": 2,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShrekParaSiempre/master.m3u8",
-      "updatedAt": "2026-05-28T02:58:06.784Z",
+      "updatedAt": "2026-08-15T03:47:31.853Z",
       "tokenDuration": 5594,
       "saga": "DreamWorks",
       "cast": [
@@ -75650,7 +75839,7 @@
       "type": "movie",
       "title": "Cómo Entrenar a tu Dragón",
       "description": "Hipo, un joven vikingo que no encaja en su aldea, captura a un temido dragón… pero en lugar de matarlo, forma una inesperada amistad con él. Juntos cambiarán la forma en que humanos y dragones se ven entre sí.",
-      "duration": "",
+      "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -75678,7 +75867,7 @@
       "atlas": "B",
       "gridIndex": 3,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5872,
       "saga": "DreamWorks",
       "cast": [
@@ -75696,7 +75885,7 @@
       "type": "movie",
       "title": "Cómo Entrenar a tu Dragón 2",
       "description": "Cinco años después, Hipo y Chimuelo exploran nuevos territorios mientras mantienen la paz entre humanos y dragones. Sin embargo, descubren una amenaza que pone en peligro todo lo que han construido, obligando a Hipo a asumir un papel más grande.",
-      "duration": "",
+      "duration": "1h 42m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75724,7 +75913,7 @@
       "atlas": "B",
       "gridIndex": 4,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6116,
       "saga": "DreamWorks",
       "cast": [
@@ -75742,13 +75931,17 @@
       "type": "movie",
       "title": "Cómo Entrenar a tu Dragón 3",
       "description": "Hipo, ahora líder de su pueblo, busca un lugar seguro donde humanos y dragones puedan vivir en paz. Mientras tanto, Chimuelo conoce a una misteriosa dragona, y una nueva amenaza obliga a ambos a tomar decisiones que cambiarán su destino para siempre.",
-      "duration": "",
+      "duration": "1h 44m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
       "year": 2019,
       "releaseDate": "2026-05-03",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -75764,7 +75957,7 @@
       "atlas": "B",
       "gridIndex": 5,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon3/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6247,
       "saga": "DreamWorks",
       "cast": [
@@ -75782,7 +75975,7 @@
       "type": "movie",
       "title": "El Camino hacia El Dorado",
       "description": "Tulio y Miguel, dos estafadores con gran suerte, encuentran un mapa que los lleva a la legendaria ciudad de El Dorado. Al llegar, son confundidos con dioses por los habitantes, lo que los mete en una serie de aventuras llenas de humor, peligros y decisiones importantes.",
-      "duration": "",
+      "duration": "1h 29m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -75809,7 +76002,7 @@
       "atlas": "B",
       "gridIndex": 6,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElcaminohaciaElDorado/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5366,
       "saga": "DreamWorks",
       "cast": [
@@ -75827,7 +76020,7 @@
       "type": "movie",
       "title": "Scary Movie",
       "description": "Un grupo de adolescentes se ve envuelto en una serie de situaciones absurdas y peligrosas tras un misterioso accidente. Mientras intentan sobrevivir, la historia parodia múltiples películas de terror populares con humor exagerado y situaciones ridículas.",
-      "duration": "",
+      "duration": "1h 28m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -75852,7 +76045,7 @@
       "atlas": "B",
       "gridIndex": 7,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5339,
       "saga": "Scary Movie",
       "cast": [
@@ -75870,7 +76063,7 @@
       "type": "movie",
       "title": "Scary Movie 2",
       "description": "Un grupo de estudiantes es invitado a pasar un fin de semana en una mansión embrujada como parte de un experimento, pero pronto se enfrentan a fenómenos paranormales… todo con situaciones absurdas y humor exagerado que parodian películas de terror.",
-      "duration": "",
+      "duration": "1h 23m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -75895,7 +76088,7 @@
       "atlas": "B",
       "gridIndex": 8,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 4977,
       "saga": "Scary Movie",
       "cast": [
@@ -75913,7 +76106,7 @@
       "type": "movie",
       "title": "Memorias de un Caracol ",
       "description": "La historia sigue a Grace, una mujer solitaria que reflexiona sobre su vida marcada por pérdidas, obsesiones y momentos extraños. A través de recuerdos íntimos y oscuros, explora su identidad y las conexiones humanas de una manera única.",
-      "duration": "",
+      "duration": "1h 34m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -75939,7 +76132,7 @@
       "atlas": "B",
       "gridIndex": 9,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MemoriasDeUnCaracol/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5686,
       "cast": [
         "Jacki Weaver",
@@ -75956,7 +76149,7 @@
       "type": "movie",
       "title": "Bean: El Nombre del Desastre",
       "description": "Mr. Bean, un hombre torpe y peculiar, es enviado a Estados Unidos para supervisar una valiosa obra de arte en un museo. Sin embargo, su presencia provoca una serie de desastres cómicos que complican todo a su alrededor.",
-      "duration": "",
+      "duration": "1h 30m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -75981,7 +76174,7 @@
       "atlas": "B",
       "gridIndex": 10,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BeanElNombreDelDesastre/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5358,
       "saga": "Mr. Bean",
       "cast": [
@@ -75999,7 +76192,7 @@
       "type": "movie",
       "title": "Las Vacaciones de Mr. Bean",
       "description": "Mr. Bean gana un viaje a la Riviera francesa y se embarca en unas vacaciones que rápidamente se convierten en una serie de situaciones caóticas y divertidas. En el camino, se cruza con distintos personajes y provoca accidentes inesperados mientras intenta llegar a su destino.",
-      "duration": "",
+      "duration": "1h 50m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -76025,7 +76218,7 @@
       "atlas": "B",
       "gridIndex": 11,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasVacacionesDeMrBean/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5375,
       "saga": "Mr. Bean",
       "cast": [
@@ -76043,7 +76236,7 @@
       "type": "movie",
       "title": "El Origen de los Guardianes",
       "description": "Cuando un espíritu maligno amenaza con llenar de miedo el mundo, los Guardianes —como Santa Claus, el Hada de los Dientes y el Conejo de Pascua— reclutan a Jack Frost, un joven con poderes de hielo, para ayudar a proteger la esperanza y la imaginación de los niños.",
-      "duration": "",
+      "duration": "1h 37m",
       "rating": "PG",
       "quality": "HD",
       "section": "catalog",
@@ -76071,7 +76264,7 @@
       "atlas": "B",
       "gridIndex": 12,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElOrigenDeLosGuardianes/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 5831,
       "saga": "DreamWorks",
       "cast": [
@@ -76089,7 +76282,7 @@
       "type": "movie",
       "title": "BTS: El Regreso",
       "description": "Tras completar su servicio militar, los integrantes de BTS se reúnen en Los Ángeles para crear su nuevo álbum Arirang. El documental muestra su proceso creativo, dudas, conflictos y crecimiento personal mientras intentan redefinir su identidad como grupo en esta nueva etapa",
-      "duration": "",
+      "duration": "1h 33m",
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
@@ -76113,14 +76306,24 @@
       "atlas": "B",
       "gridIndex": 13,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BtsElRegreso/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
-      "tokenDuration": 5616
+      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "tokenDuration": 5616,
+      "cast": [
+        "래퍼",
+        "진",
+        "슈가",
+        "제이홉",
+        "지민",
+        "뷔"
+      ],
+      "director": "Bao Nguyen",
+      "recommended": "Recomendado 85%"
     },
     {
       "type": "movie",
       "title": "Apocalypse Now",
       "description": "Durante la Guerra de Vietnam, el capitán Willard recibe la misión de encontrar y eliminar al coronel Kurtz, un militar que se ha apartado del ejército y gobierna su propio territorio en la selva. A medida que avanza el viaje, la misión se convierte en una exploración oscura sobre la guerra y la locura humana.",
-      "duration": "",
+      "duration": "2h 27m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76145,7 +76348,7 @@
       "atlas": "B",
       "gridIndex": 14,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
-      "updatedAt": "2026-05-28T02:58:17.087Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 11764,
       "cast": [
         "Martin Sheen",
@@ -76162,13 +76365,16 @@
       "type": "movie",
       "title": "Dulce y Amargo",
       "description": "Una pareja comienza una relación llena de amor y emoción, pero con el tiempo las responsabilidades, el trabajo y la distancia empiezan a afectar su conexión. Ambos deberán enfrentar los cambios de la vida adulta y decidir qué significa realmente amar a alguien.",
-      "duration": "",
+      "duration": "1h 41m",
       "rating": "TV-14",
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
       "releaseDate": "2026-05-08",
-      "genres": [],
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -76184,7 +76390,7 @@
       "atlas": "B",
       "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DulceYAmargo/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6149,
       "cast": [
         "Jang Ki-yong",
@@ -76201,7 +76407,7 @@
       "type": "movie",
       "title": "Ojo por Ojo",
       "description": "Karen McCann, una madre devastada por una tragedia familiar, pierde la fe en el sistema judicial cuando el responsable queda libre. Consumida por el dolor y la impotencia, comienza a considerar hacer justicia por su propia cuenta",
-      "duration": "",
+      "duration": "1h 42m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76227,7 +76433,7 @@
       "atlas": "B",
       "gridIndex": 16,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/OjoPorOjo/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6100,
       "cast": [
         "Sally Field",
@@ -76244,7 +76450,7 @@
       "type": "movie",
       "title": "Chainsaw Man: La Película – Arco de Reze",
       "description": "Después de un encuentro inesperado bajo la lluvia, Denji conoce a Reze, una chica amable y misteriosa que rápidamente cambia su vida. Mientras intenta disfrutar una vida más normal, nuevas amenazas aparecen y lo arrastran a uno de los conflictos más peligrosos y emocionales de la historia de Chainsaw Man.",
-      "duration": "",
+      "duration": "1h 40m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76272,7 +76478,7 @@
       "atlas": "B",
       "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
-      "updatedAt": "2026-05-27T18:46:48.687Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6016,
       "cast": [
         "Kikunosuke Toya",
@@ -76289,7 +76495,7 @@
       "type": "movie",
       "title": "Demon Slayer: Castillo Infinito",
       "description": "Tanjiro y los cazadores de demonios son arrastrados al misterioso Castillo Infinito, la fortaleza de Muzan Kibutsuji. Allí comienza una batalla decisiva contra las lunas superiores, donde cada enfrentamiento pone en riesgo el destino de la humanidad y de los propios protagonistas.",
-      "duration": "",
+      "duration": "2h 35m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76316,7 +76522,7 @@
       "atlas": "B",
       "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
-      "updatedAt": "2026-05-28T02:58:28.347Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 9302,
       "saga": "Kimetsu no Yaiba",
       "cast": [
@@ -76332,7 +76538,7 @@
       "type": "movie",
       "title": "La Singular Vida de Ibelin",
       "description": "El documental cuenta la vida de Mats Steen, un joven noruego con una enfermedad degenerativa que pasó gran parte de su vida conectado a videojuegos en línea. Tras su fallecimiento, su familia descubre el enorme impacto que tuvo en las vidas de muchas personas dentro del mundo virtual.",
-      "duration": "",
+      "duration": "1h 43m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -76356,16 +76562,24 @@
       "atlas": "B",
       "gridIndex": 19,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaSingularVidaDeIbelin/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6225,
       "director": "Benjamin Ree",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "cast": [
+        "Mats Steen",
+        "Robert Steen",
+        "Trude Steen",
+        "Mia Steen",
+        "Lisette Roovers",
+        "Kai Simon Fredriksen"
+      ]
     },
     {
       "type": "movie",
       "title": "Criaturas Luminosas",
       "description": "Tova, una viuda que trabaja en un pequeño acuario, desarrolla una inesperada amistad con Marcellus, un pulpo gigante extremadamente inteligente. Mientras conviven, ambos ayudan a un joven perdido a enfrentar secretos del pasado y encontrar nuevas oportunidades en la",
-      "duration": "",
+      "duration": "1h 54m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76391,7 +76605,7 @@
       "atlas": "B",
       "gridIndex": 20,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CriaturasLuminosas/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6840,
       "cast": [
         "Sally Field",
@@ -76408,7 +76622,7 @@
       "type": "movie",
       "title": "La Niña de la Foto",
       "description": "Un misterioso caso comienza cuando una joven mujer aparece gravemente herida y muere poco después. A medida que avanza la investigación, salen a la luz secretos impactantes sobre su verdadera identidad, su pasado y la peligrosa persona que controló su vida durante años.",
-      "duration": "",
+      "duration": "1h 41m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76433,16 +76647,24 @@
       "atlas": "B",
       "gridIndex": 21,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaNinaDeLaFoto/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6155,
       "director": "Skye Borgman",
-      "recommended": "Recomendado 73%"
+      "recommended": "Recomendado 73%",
+      "cast": [
+        "Franklin Delano Floyd",
+        "Joe Fitzpatrick",
+        "Karen Parsley",
+        "Dr. Charles Engles",
+        "Merle Bean",
+        "Ernest Bean"
+      ]
     },
     {
       "type": "movie",
       "title": "96 Minutos",
       "description": "La película sigue las vidas de cuatro adolescentes cuyas decisiones los llevan a una situación violenta y desesperada. A través de diferentes perspectivas y en tiempo casi real, se muestra cómo una serie de eventos termina en un secuestro de auto que cambia sus vidas para siempre.",
-      "duration": "",
+      "duration": "1h 36m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76468,7 +76690,7 @@
       "atlas": "B",
       "gridIndex": 22,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/96Minutos/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 7180,
       "cast": [
         "Brittany Snow",
@@ -76485,7 +76707,7 @@
       "type": "movie",
       "title": "Intercambiados",
       "description": "Una pequeña criatura del bosque y un majestuoso pájaro intercambian cuerpos mágicamente. Obligados a vivir en la piel de su enemigo natural, ambos deberán aprender a cooperar para sobrevivir a una aventura llena de peligros, humor y descubrimientos inesperados.",
-      "duration": "",
+      "duration": "1h 42m",
       "rating": "G",
       "quality": "HD",
       "section": "catalog",
@@ -76513,7 +76735,7 @@
       "atlas": "B",
       "gridIndex": 23,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Intercambiados/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6106,
       "cast": [
         "Michael B. Jordan",
@@ -76529,7 +76751,7 @@
       "type": "movie",
       "title": "Proyecto Fin del Mundo",
       "description": "Ryland Grace, un profesor de ciencias convertido en astronauta, despierta solo en una nave espacial a años luz de la Tierra sin recordar quién es ni cuál es su misión. Poco a poco descubre que debe encontrar una forma de salvar al Sol y evitar la extinción de la humanidad.",
-      "duration": "",
+      "duration": "2h 36m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76555,7 +76777,7 @@
       "atlas": "B",
       "gridIndex": 24,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ProyectoFinDelMundo/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 9383,
       "cast": [
         "Ryan Gosling",
@@ -76572,7 +76794,7 @@
       "type": "movie",
       "title": "Sangre Asesina",
       "description": "Lhan, una joven con un tipo de sangre extremadamente raro, vive huyendo de un despiadado cazador que asesinó a sus padres. Tras ser rescatada por una organización de asesinos en Tailandia, crece rodeada de peligros y secretos, mientras desarrolla una relación con uno de los guardaespaldas encargados de protegerla. Cuando su pasado vuelve a alcanzarla, deberá luchar por su libertad y su vida",
-      "duration": "",
+      "duration": "2h 08m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76599,7 +76821,7 @@
       "atlas": "B",
       "gridIndex": 25,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SangreAsesina/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 7730,
       "cast": [
         "Pimchanok Luevisadpaibul",
@@ -76616,7 +76838,7 @@
       "type": "movie",
       "title": "El Chico y la Garza",
       "description": "Después de perder a su madre durante la guerra, Mahito se muda al campo junto a su padre. Allí conoce a una misteriosa garza parlante que lo guía hacia un mundo fantástico lleno de criaturas extrañas, secretos y desafíos que cambiarán su v",
-      "duration": "",
+      "duration": "2h 04m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -76643,7 +76865,7 @@
       "atlas": "B",
       "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElChicoYLaGarza/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 7437,
       "saga": "Studio Ghibli",
       "cast": [
@@ -76661,7 +76883,7 @@
       "type": "movie",
       "title": "Kill Bill: Volumen 1",
       "description": "Una exasesina conocida como \"La Novia\" despierta de un coma después de años y comienza una violenta misión de venganza contra las personas que intentaron matarla el día de su boda. Su camino la lleva a enfrentamientos brutales con antiguos compañeros asesinos.",
-      "duration": "",
+      "duration": "1h 51m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76687,7 +76909,7 @@
       "atlas": "B",
       "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KillBillVol1/master.m3u8",
-      "updatedAt": "2026-05-28T02:58:39.090Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6656,
       "cast": [
         "Uma Thurman",
@@ -76704,7 +76926,7 @@
       "type": "movie",
       "title": "Peaky Blinders: El Hombre Inmortal",
       "description": "Tommy Shelby regresa años después de los eventos de la serie original, en plena Segunda Guerra Mundial. Mientras intenta dejar atrás su pasado, una nueva conspiración relacionada con los nazis y amenazas contra su familia lo obligan a volver al mundo criminal de Birmingham para una última batalla.",
-      "duration": "",
+      "duration": "1h 52m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76731,7 +76953,7 @@
       "atlas": "B",
       "gridIndex": 28,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeakyBlindersElHombreInmortal/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6844,
       "cast": [
         "Cillian Murphy",
@@ -76747,7 +76969,7 @@
       "type": "movie",
       "title": "Perfect Blue",
       "description": "Mima, una cantante pop que decide convertirse en actriz, comienza a perder el control de la realidad mientras enfrenta acoso, presión mediática y una serie de eventos perturbadores. Poco a poco, la línea entre su verdadera identidad y sus personajes se vuelve cada vez más confusa.",
-      "duration": "",
+      "duration": "1h 21m",
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
@@ -76774,7 +76996,7 @@
       "atlas": "B",
       "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PerfectBlue/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 4904,
       "cast": [
         "Junko Iwao",
@@ -76791,7 +77013,7 @@
       "type": "movie",
       "title": "Taxi Driver",
       "description": "Travis Bickle, un veterano de guerra solitario e insomne, trabaja como taxista nocturno en Nueva York. Mientras recorre las calles llenas de violencia y decadencia, su aislamiento y frustración comienzan a llevarlo hacia una peligrosa obsesión con \"limpiar\" la ciudad.",
-      "duration": "",
+      "duration": "1h 54m",
       "rating": "R",
       "quality": "None",
       "section": "catalog",
@@ -76817,7 +77039,7 @@
       "atlas": "B",
       "gridIndex": 30,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TaxiDriver/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6828,
       "cast": [
         "Robert De Niro",
@@ -76834,7 +77056,7 @@
       "type": "movie",
       "title": "The Punisher: La Última Muerte",
       "description": "Frank Castle intenta dejar atrás su vida de violencia y encontrar un propósito más allá de la venganza. Sin embargo, una nueva amenaza criminal lo obliga a volver a convertirse en The Punisher, enfrentándose nuevamente a un mundo lleno de brutalidad y corrupción",
-      "duration": "",
+      "duration": "0h 48m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76860,14 +77082,24 @@
       "atlas": "B",
       "gridIndex": 31,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThePunisherLaUltimaMuerte/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
-      "tokenDuration": 2884
+      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "tokenDuration": 2884,
+      "cast": [
+        "Jon Bernthal",
+        "Deborah Ann Woll",
+        "Jason R. Moore",
+        "Judith Light",
+        "Kelli Barrett",
+        "Andre Royo"
+      ],
+      "director": "Reinaldo Marcus Green",
+      "recommended": "Recomendado 83%"
     },
     {
       "type": "movie",
       "title": "Tropa de Élite",
       "description": "El capitán Nascimento, líder de una unidad policial de élite en Río de Janeiro, busca a alguien que pueda reemplazarlo mientras combate el crimen organizado y la corrupción. La presión del trabajo y la violencia extrema comienzan a afectar su vida personal y mental.",
-      "duration": "",
+      "duration": "1h 55m",
       "rating": "R",
       "quality": "HD",
       "section": "catalog",
@@ -76894,7 +77126,7 @@
       "atlas": "B",
       "gridIndex": 32,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.232Z",
+      "updatedAt": "2026-08-15T03:47:31.854Z",
       "tokenDuration": 6928,
       "cast": [
         "Wagner Moura",
@@ -76985,10 +77217,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cadaverdelanovia/master.m3u8",
       "createdAt": "2026-05-31T23:05:56.874Z",
-      "updatedAt": "2026-05-31T23:05:56.874Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 4630,
       "addedAt": "2026-05-14T12:52:26.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Johnny Depp",
+        "Helena Bonham Carter",
+        "Emily Watson",
+        "Tracey Ullman",
+        "Paul Whitehouse",
+        "Joanna Lumley"
+      ],
+      "director": "Mike Johnson, Tim Burton",
+      "recommended": "Recomendado 76%"
     },
     {
       "id": "movie_196",
@@ -77041,7 +77283,7 @@
       "title": "El Imperio del Sol",
       "description": "Durante la invasión japonesa de China en la Segunda Guerra Mundial, un niño británico llamado Jim es separado de sus padres y termina en un campo de internamiento. Allí deberá aprender a sobrevivir mientras presencia los horrores y cambios que provoca la guerra",
       "duration": "2h 33min",
-      "rating": "",
+      "rating": "PG",
       "quality": "HD",
       "section": "catalog",
       "year": 1987,
@@ -77062,7 +77304,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElImperioDelSol/master.m3u8",
       "createdAt": "2026-06-01T01:04:45.889Z",
-      "updatedAt": "2026-06-01T06:00:04.919Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 9166,
       "addedAt": "2026-05-15T06:24:59.000Z",
       "addedBy": "Sistema",
@@ -77277,12 +77519,18 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IAmVanessaGuillen/master.m3u8",
       "createdAt": "2026-06-01T02:22:27.297Z",
-      "updatedAt": "2026-06-01T06:00:04.920Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 5765,
       "addedAt": "2026-05-16T11:39:16.000Z",
       "addedBy": "Sistema",
       "director": "Christy Wegener",
-      "recommended": "Recomendado 63%"
+      "recommended": "Recomendado 63%",
+      "cast": [
+        "Vanessa Guillén",
+        "Jackie Speier",
+        "Jack Reed",
+        "Joni Ernst"
+      ]
     },
     {
       "id": "movie_203",
@@ -77373,8 +77621,8 @@
       "type": "movie",
       "title": "Robot Salvaje",
       "description": "La trama sigue a la unidad ROZZUM 7134, cariñosamente apodada \"Roz\", un robot inteligente de servicio que naufraga en una isla deshabitada por humanos. Para sobrevivir al entorno hostil, Roz debe aprender a comunicarse y adaptarse a la fauna local. Su vida cambia por completo cuando adopta accidentalmente a un pequeño ganso huérfano llamado Brillo, viéndose obligada a romper su programación original para aprender el verdadero significado de la maternidad y el instinto.",
-      "duration": "",
-      "rating": "",
+      "duration": "1h 41m",
+      "rating": "PG",
       "quality": "HD",
       "section": "catalog",
       "year": 2024,
@@ -77396,7 +77644,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Robot.Salvaje.2024.1080p-Lat/master.m3u8",
       "createdAt": "2026-06-09T08:46:38.264Z",
-      "updatedAt": "2026-06-09T22:04:42.673Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 6101,
       "addedAt": "2026-06-04T11:45:59.000Z",
       "addedBy": "Sistema",
@@ -77461,7 +77709,7 @@
       "title": "Múnich",
       "description": "Tras el asesinato de atletas israelíes durante los Juegos Olímpicos de Múnich de 1972, un agente del Mossad recibe la misión secreta de localizar y eliminar a los responsables. A medida que avanza la operación, comienza a cuestionar el costo moral y humano de la venganza.",
       "duration": "2 horas 44 minutos",
-      "rating": "",
+      "rating": "R",
       "quality": "HD",
       "section": "catalog",
       "year": 2005,
@@ -77482,7 +77730,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Munich/master.m3u8",
       "createdAt": "2026-06-01T14:23:57.637Z",
-      "updatedAt": "2026-06-01T18:00:04.944Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 9888,
       "addedAt": "2026-05-17T16:53:33.000Z",
       "addedBy": "Sistema",
@@ -77524,12 +77772,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NumeroDesconocidoUnEscandaloDeCiberacosoEscolar/master.m3u8",
       "createdAt": "2026-06-01T14:27:44.661Z",
-      "updatedAt": "2026-06-01T18:00:04.944Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 5692,
       "addedAt": "2026-05-17T22:44:24.000Z",
       "addedBy": "Sistema",
       "director": "Skye Borgman",
-      "recommended": "Recomendado 67%"
+      "recommended": "Recomendado 67%",
+      "cast": [
+        "Lauryn Licari",
+        "Owen McKenny",
+        "Sophie Weber",
+        "Macy Johnston",
+        "Shawn Licari",
+        "Kendra Licari"
+      ]
     },
     {
       "id": "movie_209",
@@ -77748,7 +78004,7 @@
       "title": "Cabezas Huecas",
       "description": "Tres músicos de una banda de rock llamada The Lone Rangers están desesperados por conseguir que una estación de radio reproduzca su demo. Cuando sus intentos fracasan, terminan tomando la emisora como rehén, provocando una situación caótica y muy divertida que atrae la atención de todo el país.",
       "duration": "1 hora 32 minutos",
-      "rating": "",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 1994,
@@ -77768,7 +78024,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CabezasHuecas/master.m3u8",
       "createdAt": "2026-06-01T15:04:39.489Z",
-      "updatedAt": "2026-06-01T18:00:04.945Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 5534,
       "addedAt": "2026-05-19T15:40:23.000Z",
       "addedBy": "Sistema",
@@ -77938,10 +78194,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MagiaExtrana/master.m3u8",
       "createdAt": "2026-06-01T15:28:45.393Z",
-      "updatedAt": "2026-06-01T18:00:04.945Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 5978,
       "addedAt": "2026-05-20T15:03:48.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Alan Cumming",
+        "Evan Rachel Wood",
+        "Sam Palladio",
+        "Elijah Kelley",
+        "Meredith Anne Bull",
+        "Kristin Chenoweth"
+      ],
+      "director": "Gary Rydstrom",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_219",
@@ -78865,10 +79131,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TBB/master.m3u8",
       "createdAt": "2026-06-05T12:52:20.952Z",
-      "updatedAt": "2026-06-05T12:52:20.952Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 6834,
       "addedAt": "2026-05-26T23:06:03.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Heidi Lawson",
+        "Angela Forrest",
+        "Clock DaVigga",
+        "Thomas Clarke",
+        "Lisa C. Clarke",
+        "Preston Campbell"
+      ],
+      "director": "Angela Forrest"
     },
     {
       "id": "movie_241",
@@ -79175,11 +79450,21 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo2/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.156Z",
-      "updatedAt": "2026-06-05T12:52:23.156Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 6486,
       "addedAt": "2026-05-28T21:52:53.000Z",
       "addedBy": "Sistema",
-      "saga": "Volver al Futuro"
+      "saga": "Volver al Futuro",
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson",
+        "Thomas F. Wilson",
+        "Elisabeth Shue",
+        "James Tolkan"
+      ],
+      "director": "Robert Zemeckis",
+      "recommended": "Recomendado 78%"
     },
     {
       "id": "movie_249",
@@ -79209,11 +79494,21 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo3/master.m3u8",
       "createdAt": "2026-06-05T12:52:23.363Z",
-      "updatedAt": "2026-06-05T12:52:23.363Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 7105,
       "addedAt": "2026-05-29T03:43:45.000Z",
       "addedBy": "Sistema",
-      "saga": "Volver al Futuro"
+      "saga": "Volver al Futuro",
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Mary Steenburgen",
+        "Thomas F. Wilson",
+        "Lea Thompson",
+        "Elisabeth Shue"
+      ],
+      "director": "Robert Zemeckis",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_250",
@@ -79283,10 +79578,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/theTrumanShowHistoriaDeUnaVida1998/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.158Z",
-      "updatedAt": "2026-06-05T12:52:24.158Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 6177,
       "addedAt": "2026-05-29T15:25:27.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Noah Emmerich",
+        "Natascha McElhone",
+        "Holland Taylor",
+        "Ed Harris"
+      ],
+      "director": "Peter Weir",
+      "recommended": "Recomendado 82%"
     },
     {
       "id": "movie_252",
@@ -79318,10 +79623,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/AoNoExorcistMovie/master.m3u8",
       "createdAt": "2026-06-05T12:52:24.378Z",
-      "updatedAt": "2026-06-05T12:52:24.378Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 5328,
       "addedAt": "2026-05-29T21:16:19.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "福山潤",
+        "花澤香菜",
+        "中井和哉",
+        "遊佐浩二",
+        "梶裕貴",
+        "喜多村英梨"
+      ],
+      "director": "高橋敦史",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_253",
@@ -79478,10 +79793,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/HotarubiNoMoriE/master.m3u8",
       "createdAt": "2026-06-05T12:55:35.746Z",
-      "updatedAt": "2026-06-05T12:55:35.746Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "tokenDuration": 2700,
       "addedAt": "2026-05-30T20:39:44.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "沢田泉",
+        "田谷隼",
+        "佐倉綾音",
+        "内山昂輝",
+        "辻親八",
+        "山本兼平"
+      ],
+      "director": "大森貴弘",
+      "recommended": "Recomendado 83%"
     },
     {
       "id": "movie_257",
@@ -80335,9 +80660,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Evangelion3010ThriceUponATime/master.m3u8",
       "createdAt": "2026-06-11T20:44:40.171Z",
-      "updatedAt": "2026-06-11T20:44:40.171Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "addedAt": "2026-06-06T16:23:41.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "緒方恵美",
+        "宮村優子",
+        "坂本真綾",
+        "林原めぐみ",
+        "三石琴乃",
+        "山口由里子"
+      ],
+      "director": "鶴巻和哉, 前田真宏, 中山勝一, 庵野秀明",
+      "recommended": "Recomendado 82%"
     },
     {
       "id": "movie_277",
@@ -81497,9 +81832,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MilkySubwayTheGalacticLimitedExpressLaPelicula/master.m3u8",
       "createdAt": "2026-06-16T04:19:14.785Z",
-      "updatedAt": "2026-06-16T04:19:14.785Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "addedAt": "2026-06-15T05:03:37.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "寺澤百花",
+        "永瀬アンナ",
+        "小松未可子",
+        "金元寿子",
+        "小市眞琴",
+        "内山昂輝"
+      ],
+      "director": "亀山陽平",
+      "recommended": "Recomendado 88%"
     },
     {
       "id": "movie_305",
@@ -81733,9 +82078,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaCiudadDelPecado/master.m3u8",
       "createdAt": "2026-06-16T04:25:59.171Z",
-      "updatedAt": "2026-06-16T04:25:59.171Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "addedAt": "2026-06-16T16:08:45.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Bruce Willis",
+        "Jessica Alba",
+        "Clive Owen",
+        "Mickey Rourke",
+        "Rutger Hauer",
+        "Benicio del Toro"
+      ],
+      "director": "Robert Rodriguez, Frank Miller",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_311",
@@ -81765,9 +82120,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronSky2012/master.m3u8",
       "createdAt": "2026-06-16T04:28:13.238Z",
-      "updatedAt": "2026-06-16T04:28:13.238Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "addedAt": "2026-06-16T21:59:36.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Julia Dietze",
+        "Christopher Kirby",
+        "Götz Otto",
+        "Udo Kier",
+        "Peta Sergeant",
+        "Stephanie Paul"
+      ],
+      "director": "Timo Vuorensola",
+      "recommended": "Recomendado 57%"
     },
     {
       "id": "movie_312",
@@ -81873,9 +82238,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnPasoAdelante2006/master.m3u8",
       "createdAt": "2026-06-16T04:37:10.209Z",
-      "updatedAt": "2026-06-16T04:37:10.209Z",
+      "updatedAt": "2026-08-15T03:47:31.855Z",
       "addedAt": "2026-06-17T21:23:01.000Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Kathryn McCormick",
+        "Ryan Guzman",
+        "Misha Gabriel",
+        "Stephen 'tWitch' Boss",
+        "Cleopatra Coleman",
+        "Peter Gallagher"
+      ],
+      "director": "Scott Speer",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_315",
@@ -81904,11 +82279,14 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShinyFlakesElCibernarcoAdolescente/master.m3u8",
       "createdAt": "2026-06-16T04:41:03.111Z",
-      "updatedAt": "2026-06-16T04:41:03.111Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-18T09:04:44.000Z",
       "addedBy": "Sistema",
       "director": "Eva Müller, Michael Schmitt",
-      "recommended": "Recomendado 73%"
+      "recommended": "Recomendado 73%",
+      "cast": [
+        "Maximilian Schmidt"
+      ]
     },
     {
       "id": "movie_316",
@@ -82200,7 +82578,7 @@
       "id": "movie_323",
       "type": "movie",
       "title": "Max Steel: Bio Crisis",
-      "description": "",
+      "description": "Max tiene que investigar una selva contaminada y viaja desde el espacio exterior hasta el centro de la Tierra en su búsqueda por desentrañar este misterio.",
       "duration": "0h 52m",
       "rating": "PG",
       "quality": "HD",
@@ -82223,7 +82601,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelBioCrisis2008/master.m3u8",
       "createdAt": "2026-06-23T07:54:13.729Z",
-      "updatedAt": "2026-06-23T07:54:13.729Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-20T07:53:35.000Z",
       "addedBy": "Sistema",
       "saga": "Max Steel",
@@ -82411,7 +82789,7 @@
       "id": "movie_328",
       "type": "movie",
       "title": "Max Steel vs The Toxic Legion",
-      "description": "",
+      "description": "¡Por primera vez, Max Steel se enfrentará a sus tres mayores enemigos: Elementor, Extroyer y Toxzon! ¡Troy Winter está vivo! Troy, el mayor rival de Max Steel en el circuito de deportes extremos, se ha transformado en el malvado Extroyer, adquiriendo la capacidad de transformarse. Troy ha regresado en forma humana y no recuerda nada de su pasado malvado. ¿Podrá Max confiar en él? ¿Se convertirá Troy en un títere de Toxzon para crear una tormenta tóxica que arrasará con todo el planeta?",
       "duration": "0h 49m",
       "rating": "PG-13",
       "quality": "HD",
@@ -82437,7 +82815,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelVsLaLegionToxica2010/master.m3u8",
       "createdAt": "2026-06-23T08:01:28.959Z",
-      "updatedAt": "2026-06-23T08:01:28.959Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-20T07:59:35.000Z",
       "addedBy": "Sistema",
       "saga": "Max Steel",
@@ -82455,7 +82833,7 @@
       "id": "movie_329",
       "type": "movie",
       "title": "Max Steel: Makino's Revenge",
-      "description": "",
+      "description": "Cuando las hazañas heroicas de Max Steel aparecen en televisión, su fama crece... al igual que su ego. Max desobedece las órdenes de Ferrus y cae en la trampa de un nuevo y peligroso enemigo: Makino. Mitad hombre y mitad máquina, Makino es superpoderoso y arrogante. Lo único que supera el ego de Makino es su odio hacia Max Steel. Usando su habilidad para controlar máquinas, Makino hace que la humanidad se vuelva en contra de Max.  A medida que el poder de Makino aumenta, al equipo de Max Steel le resulta difícil derrotarlo y todo se desmorona: Cytro se queda sin energía, Berto es secuestrado y N-Tek se ve obligada a cerrar sus puertas. Esta vez, Max tiene que arreglarlo por su cuenta...",
       "duration": "0h 50m",
       "rating": "PG-13",
       "quality": "HD",
@@ -82479,7 +82857,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelLaVenganzaDeMakino2011/master.m3u8",
       "createdAt": "2026-06-23T08:01:51.250Z",
-      "updatedAt": "2026-06-23T08:01:51.250Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-20T08:00:35.000Z",
       "addedBy": "Sistema",
       "saga": "Max Steel",
@@ -82534,7 +82912,7 @@
       "id": "movie_331",
       "type": "movie",
       "title": "Max Steel Vs The Mutant Menace",
-      "description": "",
+      "description": "Tras ser reconstruido, Cytro se convierte en el compañero de misión de Max, pero ahora ambos están bajo las órdenes directas de Forge Ferrous, un nuevo comandante de campo de N-Tek que sustituye a Jefferson. Este nuevo jefe es un fanático del control con una actitud agresiva y de «todo por el equipo» que contrasta con el espíritu libre de Max, lo que provoca varios conflictos entre ellos. En respuesta a una llamada de emergencia, Max y Cytro son enviados a un laboratorio subterráneo en la Antártida, que también sirve como prisión para un agente inestable de N-Tek que sufre algún tipo de mutación debido a una fuerte exposición a la contaminación química.",
       "duration": "0h 47m",
       "rating": "PG-13",
       "quality": "HD",
@@ -82559,7 +82937,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelVsLaAmenazaMutante2009/master.m3u8",
       "createdAt": "2026-06-23T08:02:55.022Z",
-      "updatedAt": "2026-06-23T08:02:55.022Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-20T08:02:35.000Z",
       "addedBy": "Sistema",
       "saga": "Max Steel",
@@ -82601,10 +82979,18 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/maxSteelPeligroDeExtincion2004/master.m3u8",
       "createdAt": "2026-06-23T08:03:35.666Z",
-      "updatedAt": "2026-06-23T08:03:35.666Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-20T08:03:35.000Z",
       "addedBy": "Sistema",
-      "saga": "Max Steel"
+      "saga": "Max Steel",
+      "cast": [
+        "Christian Campbell",
+        "Alessandro Juliani",
+        "Kathleen Barr",
+        "Scott McNeil"
+      ],
+      "director": "Sean Frewer",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_333",
@@ -83609,10 +83995,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/zombies4elorigendelosvampiros2025/master.m3u8",
       "createdAt": "2026-06-30T19:10:02.228Z",
-      "updatedAt": "2026-06-30T19:10:02.228Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-06-30T19:10:02.228Z",
       "addedBy": "Sistema",
-      "saga": "Z-O-M-B-I-E-S"
+      "saga": "Z-O-M-B-I-E-S",
+      "cast": [
+        "Meg Donnelly",
+        "Milo Manheim",
+        "Freya Skye",
+        "Malachi Barton",
+        "Kylee Russell",
+        "Chandler Kinney"
+      ],
+      "director": "Paul Hoen",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_358",
@@ -83680,9 +84076,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheBorderlands2013/master.m3u8",
       "createdAt": "2026-07-01T21:06:54.411Z",
-      "updatedAt": "2026-07-01T21:06:54.411Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-01T21:06:54.411Z",
-      "addedBy": "Sistema"
+      "addedBy": "Sistema",
+      "cast": [
+        "Gordon Kennedy",
+        "Aidan McArdle",
+        "Robin Hill",
+        "Luke Neal",
+        "Patrick Godfrey",
+        "Marcus Cunningham"
+      ],
+      "director": "Elliot Goldner",
+      "recommended": "Recomendado 55%"
     },
     {
       "id": "movie_360",
@@ -83791,9 +84197,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elEstiloDeLaSerpienteYLaGrullaDeShaolin1978/master.m3u8",
       "createdAt": "2026-07-07T00:08:11.946Z",
-      "updatedAt": "2026-07-07T00:46:34.129Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-07T00:08:11.946Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Jackie Chan",
+        "苗可秀",
+        "김정란",
+        "Lee Yeong-Guk",
+        "Lau Nga-Ying",
+        "苗天"
+      ],
+      "director": "Chen Chi-Hwa",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_363",
@@ -83821,9 +84237,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/bestiassinpatria2015/master.m3u8",
       "createdAt": "2026-07-07T00:09:08.468Z",
-      "updatedAt": "2026-07-07T00:09:08.468Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-07T00:09:08.468Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Abraham Attah",
+        "Idris Elba",
+        "Emmanuel Nii Adom Quaye",
+        "Opeyemi Fagbohungbe",
+        "Emmanuel Affadzi",
+        "Richard Pepple"
+      ],
+      "director": "Cary Joji Fukunaga",
+      "recommended": "Recomendado 76%"
     },
     {
       "id": "movie_364",
@@ -84369,9 +84795,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/simpsley2026/master.m3u8",
       "createdAt": "2026-07-07T00:34:56.663Z",
-      "updatedAt": "2026-07-07T00:36:08.477Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-07T00:34:56.663Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer"
+      ],
+      "director": "Debbie Bruce Mahan",
+      "recommended": "Recomendado 78%"
     },
     {
       "id": "movie_378",
@@ -84876,10 +85312,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/StarWarsEpisodeVI/master.m3u8",
       "createdAt": "2026-07-16T06:00:42.212Z",
-      "updatedAt": "2026-07-16T06:36:37.953Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-16T06:00:42.212Z",
       "addedBy": "carmesi",
-      "saga": "Star Wars"
+      "saga": "Star Wars",
+      "cast": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Billy Dee Williams",
+        "Anthony Daniels",
+        "Peter Mayhew"
+      ],
+      "director": "Richard Marquand",
+      "recommended": "Recomendado 79%"
     },
     {
       "id": "movie_391",
@@ -85073,9 +85519,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLtimoMaestroDelAire2010/master.m3u8",
       "createdAt": "2026-08-03T05:13:18.573Z",
-      "updatedAt": "2026-08-03T05:13:18.573Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-08-03T05:13:18.573Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Noah Ringer",
+        "Dev Patel",
+        "Nicola Peltz",
+        "Jackson Rathbone",
+        "Shaun Toub",
+        "Aasif Mandvi"
+      ],
+      "director": "M. Night Shyamalan",
+      "recommended": "Recomendado 46%"
     },
     {
       "id": "movie_396",
@@ -85102,9 +85558,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/hokumlamaldiciondelabruja2026/master.m3u8",
       "createdAt": "2026-08-05T01:30:42.826Z",
-      "updatedAt": "2026-08-05T01:30:42.826Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-08-05T01:30:42.826Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Michael Patric",
+        "Will O'Connell"
+      ],
+      "director": "Damian McCarthy",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_397",
@@ -85381,10 +85847,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elincreblehulk2008/master.m3u8",
       "createdAt": "2026-07-28T01:20:08.537Z",
-      "updatedAt": "2026-07-30T08:48:37.329Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-28T01:20:08.537Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Edward Norton",
+        "Liv Tyler",
+        "Tim Roth",
+        "William Hurt",
+        "Tim Blake Nelson",
+        "Ty Burrell"
+      ],
+      "director": "Louis Leterrier",
+      "recommended": "Recomendado 63%"
     },
     {
       "id": "movie_404",
@@ -85413,10 +85889,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Capitnamricaelprimervengador2011/master.m3u8",
       "createdAt": "2026-07-28T01:21:33.937Z",
-      "updatedAt": "2026-07-30T08:47:10.279Z",
+      "updatedAt": "2026-08-15T03:47:31.856Z",
       "addedAt": "2026-07-28T01:21:33.937Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Chris Evans",
+        "Hayley Atwell",
+        "Sebastian Stan",
+        "Tommy Lee Jones",
+        "Hugo Weaving",
+        "Dominic Cooper"
+      ],
+      "director": "Joe Johnston",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_405",
@@ -85445,7 +85931,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Avataraangelultimomaestrodelaire2026/master.m3u8",
       "createdAt": "2026-07-28T01:22:51.340Z",
-      "updatedAt": "2026-07-28T02:39:57.799Z",
+      "updatedAt": "2026-08-15T03:47:31.857Z",
       "addedAt": "2026-07-28T01:22:51.340Z",
       "addedBy": "seanf",
       "recommended": "Recomendado 92%",
@@ -85457,7 +85943,8 @@
         "Dionne Quan",
         "Steven Yeun",
         "Dave Bautista"
-      ]
+      ],
+      "director": "M. Night Shyamalan"
     },
     {
       "id": "movie_406",
@@ -85526,10 +86013,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Scarymovieterrorificamenteincorrecta2026/master.m3u8",
       "createdAt": "2026-07-28T01:40:44.855Z",
-      "updatedAt": "2026-07-28T02:51:23.422Z",
+      "updatedAt": "2026-08-15T03:47:31.857Z",
       "addedAt": "2026-07-28T01:40:44.855Z",
       "addedBy": "seanf",
-      "saga": "Scary Movie"
+      "saga": "Scary Movie",
+      "cast": [
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris",
+        "Regina Hall",
+        "Olivia Rose Keegan",
+        "Cameron Scott Roberts"
+      ],
+      "director": "Michael Tiddes",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_408",
@@ -85558,10 +86055,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronManDeMarvelStudios/master.m3u8",
       "createdAt": "2026-07-28T01:42:31.380Z",
-      "updatedAt": "2026-07-28T01:42:31.380Z",
+      "updatedAt": "2026-08-15T03:47:31.857Z",
       "addedAt": "2026-07-28T01:42:31.380Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Robert Downey Jr.",
+        "Terrence Howard",
+        "Jeff Bridges",
+        "Gwyneth Paltrow",
+        "Leslie Bibb",
+        "Shaun Toub"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_409",
