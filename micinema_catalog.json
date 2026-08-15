@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 628,
+    "catalogCount": 629,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -85354,7 +85354,7 @@
       "duration": "1h 18m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2000,
       "releaseDate": "2000-12-15",
       "genres": [
@@ -85398,7 +85398,7 @@
       "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-05-17",
       "genres": [
@@ -85440,7 +85440,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2009,
       "releaseDate": "2009-07-18",
       "genres": [
@@ -91509,6 +91509,48 @@
       ],
       "director": "Jared Hess",
       "recommended": "Recomendado 62%"
+    },
+    {
+      "id": "movie_586",
+      "type": "movie",
+      "title": "Tinker Bell",
+      "description": "Tinker Bell, nacida en el mundo fantástico del reino de las Hadas, descubre que su talento es “tintinear”. Cuando las hadas se preparan para traer la primavera al mundo Tinker Bell piensa que su talento no es igual de útil, especial o importante que el del resto, y por eso no puede ir a Tierra firme. Por ello, Tinker Bell suplica a sus amigas Rosetta, Silvermist, Fawn e Iridessa que le enseñen sus talentos y así poder acompañarlas en sus viajes. Sin embargo, sus intentos por adquirir los talentos de sus amigas llegan incluso a poner en peligro la llegada de la primavera.",
+      "duration": "1h 17m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Mae Whitman",
+        "Kristin Chenoweth",
+        "Raven-Symoné",
+        "Lucy Liu",
+        "America Ferrera",
+        "Jane Horrocks"
+      ],
+      "director": "Bradley Raymond",
+      "recommended": "Recomendado 69%",
+      "year": 2008,
+      "releaseDate": "2008-09-11",
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 148,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBell/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBell/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBell/master.m3u8",
+      "createdAt": "2026-08-15T05:57:09.766Z",
+      "updatedAt": "2026-08-15T05:57:09.766Z",
+      "addedAt": "2026-08-15T05:57:09.766Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
