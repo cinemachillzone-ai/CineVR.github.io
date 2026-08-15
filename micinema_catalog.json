@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 473,
+    "catalogCount": 628,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
