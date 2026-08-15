@@ -4173,7 +4173,6 @@
         "Adventure"
       ],
       "languages": [
-        "language_Japanese",
         "language_Spanish"
       ],
       "enabled": true,
@@ -69567,7 +69566,6 @@
         "Drama"
       ],
       "languages": [
-        "language_English",
         "language_Spanish"
       ],
       "links": {
@@ -85324,8 +85322,8 @@
         "Horror"
       ],
       "languages": [
-        "language_Spanish",
-        "language_English"
+        "language_English",
+        "language_Spanish"
       ],
       "atlas": "D",
       "gridIndex": 5,
