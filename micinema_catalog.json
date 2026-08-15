@@ -29543,7 +29543,18 @@
       ],
       "atlas": "C",
       "gridIndex": 125,
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Nicolas Cage",
+        "Lamorne Morris",
+        "Li Jun Li",
+        "Karen Rodriguez",
+        "Abraham Popoola",
+        "Jack Huston"
+      ],
+      "director": "Oren Uziel",
+      "recommended": "Recomendado 84%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -30005,7 +30016,9 @@
         "Monica Rial"
       ],
       "director": "Ian Sinclair, Naokatsu Tsuda",
-      "recommended": "Recomendado 76%"
+      "recommended": "Recomendado 76%",
+      "duration": "0h 24m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -30588,7 +30601,18 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 127
+      "gridIndex": 127,
+      "cast": [
+        "Dylan Minnette",
+        "Grace Saif",
+        "Christian Navarro",
+        "Alisha Boe",
+        "Brandon Flynn",
+        "Justin Prentice"
+      ],
+      "director": "Brian Yorkey, Jay Asher",
+      "recommended": "Recomendado 75%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -30706,7 +30730,17 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 128
+      "gridIndex": 128,
+      "cast": [
+        "심규혁",
+        "Han Shin",
+        "류승곤",
+        "정재헌",
+        "남도형",
+        "황창영"
+      ],
+      "recommended": "Recomendado 83%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -31152,7 +31186,9 @@
         "Ryô Naitô"
       ],
       "director": "Tetsurō Araki, Kei Tsunematsu",
-      "recommended": "Recomendado 89%"
+      "recommended": "Recomendado 89%",
+      "duration": "0h 22m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -31738,7 +31774,9 @@
         "Karin Takahashi"
       ],
       "director": "Shin'ya Iino, Jerry Jewell",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "duration": "0h 24m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -32086,7 +32124,7 @@
       "type": "series",
       "title": "Dance With Devils",
       "description": "La vida de Ritsuka cambia al ser acorralada por demonios y vampiros que buscan el \"Grimorio Prohibido\".",
-      "duration": "",
+      "duration": "0h 23m",
       "rating": "PG-13",
       "quality": "None",
       "section": "catalog",
@@ -32255,7 +32293,8 @@
         "Wataru Hatano"
       ],
       "director": "Ai Yoshimura",
-      "recommended": "Recomendado 57%"
+      "recommended": "Recomendado 57%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -32427,13 +32466,15 @@
         "Ayahi Takagaki"
       ],
       "director": "Hideya Takahashi, Akira Mano",
-      "recommended": "Recomendado 62%"
+      "recommended": "Recomendado 62%",
+      "duration": "0h 24m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
       "title": "Historia de un crimen: La búsqueda",
       "description": "La serie está inspirada en el caso real de la desaparición de Paulette Gebara Farah, una niña mexicana de 4 años cuyo caso conmocionó a todo México. A medida que avanza la investigación, salen a la luz errores, contradicciones y la intensa presión mediática que rodeó la búsqueda, mostrando cómo el caso se convirtió en un fenómeno nacional.",
-      "rating": "",
+      "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 2020,
@@ -32534,7 +32575,9 @@
         "Antonio Arochi"
       ],
       "director": "Catalina Aguilar Mastretta, Santiago Limón",
-      "recommended": "Recomendado 57%"
+      "recommended": "Recomendado 57%",
+      "duration": "0h 42m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -32996,13 +33039,15 @@
         "Lee Bong-joon"
       ],
       "director": "Hong Jong-chan",
-      "recommended": "Recomendado 85%"
+      "recommended": "Recomendado 85%",
+      "duration": "1h 10m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
       "title": "ef: A Tale of Melodies",
       "description": "Esta es la secuela directa de ef: A Tale of Memories. La historia profundiza en el pasado de Yuko Amamiya y Himura Yuu, revelando los eventos trágicos que marcaron sus vidas. Al mismo tiempo, continúa explorando las relaciones entre los personajes principales, mostrando cómo el amor, la pérdida y los recuerdos pueden sanar… o destruir.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
@@ -33157,13 +33202,14 @@
         "Mai Gotô"
       ],
       "director": "Shin Ônuma",
-      "recommended": "Recomendado 75%"
+      "recommended": "Recomendado 75%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
       "title": "ef: A Tale of Memories",
       "description": "La historia sigue varias historias de amor interconectadas entre jóvenes que cargan con heridas emocionales, recuerdos dolorosos y sueños difíciles de alcanzar. Hiro, un dibujante de manga, conoce a la misteriosa Miyako en Nochebuena, mientras Renji entabla una relación con Chihiro, una chica que sufre una condición que afecta gravemente su memoria. Poco a poco, todas las historias se entrelazan en un drama emocional muy profundo.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
@@ -33331,7 +33377,8 @@
         "Motoki Takagi"
       ],
       "director": "Shin Ônuma, Shûji Miyazaki",
-      "recommended": "Recomendado 74%"
+      "recommended": "Recomendado 74%",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -33506,7 +33553,9 @@
         "Phil LaMarr",
         "Debra Wilson"
       ],
-      "recommended": "Recomendado 72%"
+      "recommended": "Recomendado 72%",
+      "director": "Owen Dennis",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -33592,7 +33641,17 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 143
+      "gridIndex": 143,
+      "cast": [
+        "Paula Luchsinger",
+        "Gonzalo Valenzuela",
+        "Carolina Sagredo",
+        "Consuelo Carreño",
+        "Arón Hernández"
+      ],
+      "director": "Pepa San Martín, Juan Ignacio Sabatini",
+      "duration": "0h 30m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -33879,7 +33938,9 @@
         "Wataru Takagi"
       ],
       "director": "Yūichirō Hayashi, Nobuyoshi Arai",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "duration": "0h 24m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -34438,7 +34499,9 @@
         "Noriko Ohara"
       ],
       "director": "Isao Takahata",
-      "recommended": "Recomendado 75%"
+      "recommended": "Recomendado 75%",
+      "duration": "0h 25m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "type": "series",
@@ -35627,7 +35690,8 @@
       ],
       "director": "Tetsuo Imazawa, Hiroshi Shidara",
       "recommended": "Recomendado 80%",
-      "updatedAt": "2026-07-25T00:37:12.876Z"
+      "updatedAt": "2026-08-15T03:48:43.844Z",
+      "duration": "0h 25m"
     },
     {
       "type": "series",
@@ -35786,7 +35850,18 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 147
+      "gridIndex": 147,
+      "cast": [
+        "水瀬いのり",
+        "内山昂輝",
+        "花江夏樹",
+        "Ai Kakuma",
+        "大西沙織",
+        "飛田展男"
+      ],
+      "recommended": "Recomendado 81%",
+      "duration": "0h 24m",
+      "updatedAt": "2026-08-15T03:48:43.844Z"
     },
     {
       "id": "series_075",
