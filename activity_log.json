@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:03:04.214Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_336",
-    "title": "Juego de gemelas"
-  },
-  {
     "ts": "2026-06-16T04:05:36.412Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3600,5 +3593,11 @@
     "actor": "yutamir",
     "action": "TMDB_AUTOFILL_BATCH",
     "count": 156
+  },
+  {
+    "ts": "2026-08-15T03:48:56.966Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL_BATCH",
+    "count": 18
   }
 ]
