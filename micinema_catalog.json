@@ -53,13 +53,19 @@
       "type": "series",
       "title": "Jujutsu Kaisen",
       "description": "Yuji Itadori, un estudiante con habilidades físicas extraordinarias, se ve envuelto en el mundo de las maldiciones tras ingerir un objeto maldito. Para sobrevivir, se une a una escuela de hechicería donde aprende a combatir espíritus malignos mientras enfrenta peligros cada vez mayores.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -741,7 +747,8 @@
         "Yuma Uchida"
       ],
       "director": "Shouta Goshozono, Sunghoo Park",
-      "recommended": "Recomendado 85%"
+      "recommended": "Recomendado 85%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -2723,7 +2730,7 @@
       "type": "series",
       "title": "Los Jovenes Titanes",
       "description": "Introduce al equipo: Robin, Starfire, Raven, Beast Boy y Cyborg. La temporada se centra principalmente en la amenaza de Slade, quien manipula a Robin psicológicamente. Predomina el enfoque de equipo y el inicio de sus dinámicas.",
-      "duration": "",
+      "duration": "0h 11m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -3496,7 +3503,8 @@
         "Greg Cipes"
       ],
       "director": "Michael Chang, Alex Soto",
-      "recommended": "Recomendado 79%"
+      "recommended": "Recomendado 79%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -4210,13 +4218,21 @@
       ],
       "atlas": "C",
       "gridIndex": 80,
-      "saga": "Kimetsu no Yaiba"
+      "saga": "Kimetsu no Yaiba",
+      "cast": [
+        "花江夏樹",
+        "鬼頭明里",
+        "下野紘",
+        "松岡禎丞"
+      ],
+      "recommended": "Recomendado 86%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Kick Buttowski",
       "description": "Introduce a Kick, un niño obsesionado con convertirse en el mejor doble de riesgo del mundo. Vive en un suburbio aburrido, pero convierte cualquier situación cotidiana en una acrobacia extrema. Su mejor amigo, Gunther, lo acompaña en sus locuras. Se establecen sus conflictos con su hermano Brad y su rival Kendall.",
-      "duration": "",
+      "duration": "0h 22m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -4828,13 +4844,14 @@
         "Brian Stepanek"
       ],
       "director": "Christian Larocque, Chris Savino",
-      "recommended": "Recomendado 68%"
+      "recommended": "Recomendado 68%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Jimmy Neutron",
       "description": "Introduce a Jimmy Neutron, un niño genio que crea inventos avanzados que casi siempre salen mal. Vive en Retroville junto a sus amigos Carl y Sheen.\nLos episodios giran en torno a experimentos fallidos que provocan caos, desde invasiones alienígenas hasta problemas domésticos.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -5526,13 +5543,14 @@
         "Rob Paulsen"
       ],
       "director": "Keith Alcorn, Mike Gasaway",
-      "recommended": "Recomendado 67%"
+      "recommended": "Recomendado 67%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Beastars",
       "description": "La historia se desarrolla en un mundo de animales antropomórficos donde herbívoros y carnívoros conviven bajo tensión social constante.\n\nEl protagonista, Legoshi, es un lobo gris tímido que lucha contra sus instintos depredadores mientras se enamora de una coneja llamada Haru.\n\nTodo comienza con el asesinato de un alumno herbívoro, lo que desencadena conflictos sociales, psicológicos y políticos dentro de la academia.",
-      "duration": "",
+      "duration": "0h 23m",
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
@@ -5838,13 +5856,14 @@
         "Sayaka Senbongi"
       ],
       "director": "Shin'ichi Matsumi, Yasuhiro Geshi",
-      "recommended": "Recomendado 76%"
+      "recommended": "Recomendado 76%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Violet Evergarden",
       "description": "La historia sigue a Violet Evergarden, una exsoldado que, tras la guerra, trabaja escribiendo cartas para otras personas mientras intenta comprender sus propios sentimientos. A lo largo de la película, Violet continúa su búsqueda por entender el significado de las palabras \"te amo\", mientras enfrenta su pasado y la posible despedida definitiva de alguien muy importante en su vida.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -6034,19 +6053,25 @@
         "Reba Buhr"
       ],
       "director": "Haruka Fujita, Taichi Ishidate",
-      "recommended": "Recomendado 84%"
+      "recommended": "Recomendado 84%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Vigilante",
       "description": "La historia sigue a Kim Ji-yong, un estudiante ejemplar de academia policial que, en secreto, lleva una doble vida como \"Vigilante\". Por las noches, castiga criminales que han recibido condenas leves y que, según él, no han pagado realmente por sus crímenes. Su accionar genera polémica y atrae la atención de la policía, los medios y poderosos aliados y enemigos, desatando una lucha moral entre justicia y venganza.",
-      "duration": "",
+      "duration": "0h 45m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
       "year": 2023,
       "releaseDate": "2026-04-09",
-      "genres": [],
+      "genres": [
+        "Crime",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -6160,7 +6185,8 @@
         "Isabel Gravitt"
       ],
       "director": "Paris Barclay, Jennifer Lynch",
-      "recommended": "Recomendado 65%"
+      "recommended": "Recomendado 65%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -6909,7 +6935,7 @@
       "type": "series",
       "title": "Hora De Aventura",
       "description": "Viven en la Tierra de Ooo, un mundo postapocalíptico lleno de criaturas extrañas, magia y ruinas de una civilización antigua.",
-      "duration": "",
+      "duration": "0h 11m",
       "rating": "TV-PG",
       "quality": "HD",
       "section": "catalog",
@@ -9605,7 +9631,8 @@
         "Jeremy Shada"
       ],
       "director": "Bong Hee Han, Larry Leichliter",
-      "recommended": "Recomendado 87%"
+      "recommended": "Recomendado 87%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -11243,13 +11270,19 @@
       "type": "series",
       "title": "Goblin Slayer",
       "description": "La historia sigue a un aventurero conocido solo como \"Goblin Slayer\", cuya vida gira exclusivamente en exterminar goblins.\nTodo comienza cuando una joven sacerdotisa se une a un grupo novato que es brutalmente atacado por goblins, y él aparece para salvarla.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -11418,7 +11451,8 @@
         "Yuka Iguchi"
       ],
       "director": "Takaharu Ozaki, Misato Takada",
-      "recommended": "Recomendado 73%"
+      "recommended": "Recomendado 73%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -11430,7 +11464,11 @@
       "section": "catalog",
       "year": 2018,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -11686,7 +11724,8 @@
         "Mekia Cox"
       ],
       "director": "Bill Roe, Tori Garrett",
-      "recommended": "Recomendado 80%"
+      "recommended": "Recomendado 80%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -11698,7 +11737,14 @@
       "section": "catalog",
       "year": 2022,
       "releaseDate": "2026-04-10",
-      "genres": [],
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy",
+        "Crime"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -11834,13 +11880,14 @@
         "Aoi Yûki"
       ],
       "director": "Hiroyuki Imaishi, Kai Ikarashi",
-      "recommended": "Recomendado 83%"
+      "recommended": "Recomendado 83%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Sakura Card Captor",
       "description": "La historia se centra en Sakura Kinomoto, una pequeña niña que descubre sus extraños poderes mágicos después de haber liberado accidentalmente un conjunto de cartas que se encontraban dentro de un libro. Tras esto Sakura con la ayuda de sus amigos se ve obligada a recolectar y cuidar las cartas Clow para evitar que ocurra una catástrofe en el mundo.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "PG-13",
       "quality": "None",
       "section": "catalog",
@@ -12707,7 +12754,17 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 92
+      "gridIndex": 92,
+      "cast": [
+        "丹下桜",
+        "岩男潤子",
+        "くまいもとこ",
+        "Aya Hisakawa",
+        "篠原恵美",
+        "Hideyuki Tanaka"
+      ],
+      "recommended": "Recomendado 86%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -12798,7 +12855,7 @@
       "type": "series",
       "title": "Great Teacher Onizuka",
       "description": "La historia sigue a Eikichi Onizuka, un exdelincuente y exlíder de una pandilla de motociclistas que decide convertirse en maestro. Aunque al principio sus motivos no son los mejores, termina enseñando en una escuela problemática donde sus alumnos odian a los profesores. Con métodos poco convencionales, Onizuka ayuda a sus estudiantes a enfrentar problemas como el bullying, la depresión y conflictos personales, ganándose poco a poco su respeto",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
@@ -13304,13 +13361,14 @@
         "Wataru Takagi"
       ],
       "director": "Noriyuki Abe, Akihiro Enomoto",
-      "recommended": "Recomendado 85%"
+      "recommended": "Recomendado 85%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Un Show Mas",
       "description": "La primera temporada introduce a Mordecai y Rigby, dos trabajadores perezosos de un parque que constantemente evitan sus responsabilidades. Lo que empieza como problemas simples (como limpiar o cortar el césped) rápidamente escala a situaciones completamente absurdas, incluyendo viajes en el tiempo, entidades sobrenaturales y objetos cotidianos que cobran vida. Esta temporada establece el tono característico de la serie: comenzar con algo mundano y terminar en caos total.",
-      "duration": "",
+      "duration": "0h 11m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -15752,13 +15810,14 @@
         "William Salyers"
       ],
       "director": "John Davis Infantino, Sean Szeles",
-      "recommended": "Recomendado 86%"
+      "recommended": "Recomendado 86%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Power Rangers S.P.D.",
       "description": "A diferencia de otras temporadas más ligeras, S.P.D. tiene un tono más serio y estructurado. Se enfoca en temas como:\n\nResponsabilidad\nTrabajo en equipo\nJusticia vs moralidad\nCrecimiento personal\n\nEl ambiente futurista, junto con tecnología avanzada y presencia alienígena constante, le da una identidad muy marcada dentro de Power Rangers.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "PG-13",
       "quality": "LQ",
       "section": "catalog",
@@ -16039,13 +16098,14 @@
         "Matt Sadowski"
       ],
       "director": "John Laing, Paul Grinder",
-      "recommended": "Recomendado 69%"
+      "recommended": "Recomendado 69%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Anohana: The Flower We Saw That Day",
       "description": "La historia sigue a Jinta Yadomi, un joven que vive aislado tras la muerte de su amiga de la infancia Menma. Un día, el espíritu de Menma aparece ante él pidiéndole que cumpla un deseo pendiente. Para lograrlo, Jinta reúne nuevamente a su antiguo grupo de amigos, enfrentando juntos su pasado, culpas y emociones no resueltas.",
-      "duration": "",
+      "duration": "0h 23m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -16202,13 +16262,14 @@
         "Takayuki Kondô"
       ],
       "director": "Tatsuyuki Nagai, Patrick Seitz",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Ano Natsu de Matteru",
       "description": "La historia sigue a Kaito Kirishima, un estudiante que ama grabar videos. Durante un verano, conoce a una misteriosa chica llamada Ichika Takatsuki, quien esconde un secreto fuera de este mundo. Junto a sus amigos, deciden filmar una película, pero en el proceso surgen romances, emociones y revelaciones que harán de ese verano algo inolvidable.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -16387,7 +16448,8 @@
         "Kaori Ishihara"
       ],
       "director": "Tatsuyuki Nagai, Katsushi Sakurabi",
-      "recommended": "Recomendado 70%"
+      "recommended": "Recomendado 70%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -16533,7 +16595,7 @@
       "type": "series",
       "title": "La casa de los dibujos",
       "description": "La serie es una parodia de los reality shows donde varios personajes animados de distintos estilos (tipo caricaturas clásicas, anime, superhéroes, etc.) viven juntos en una misma casa. A través de situaciones absurdas, humor negro y sátira, se burlan de estereotipos, la cultura pop y otros programas de televisión.",
-      "duration": "",
+      "duration": "0h 30m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
@@ -16971,13 +17033,14 @@
         "Abbey McBride"
       ],
       "director": "Peter Avanzino, Dwayne Carey-Hill",
-      "recommended": "Recomendado 71%"
+      "recommended": "Recomendado 71%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Chainsaw Man",
       "description": "La historia sigue a Denji, un joven pobre que trabaja como cazador de demonios para pagar las deudas de su difunto padre. Su única compañía es Pochita, un demonio con forma de motosierra. Tras una traición que le cuesta la vida, Denji se fusiona con Pochita y renace como \"Chainsaw Man\". A partir de entonces, es reclutado por el gobierno y se une a una organización de cazadores de demonios, enfrentando peligros cada vez mayores mientras busca una vida mejor.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "TV-MA",
       "quality": "LQ",
       "section": "catalog",
@@ -17145,13 +17208,14 @@
         "Reagan Murdock"
       ],
       "director": "Ryû Nakayama, Masato Nakazono",
-      "recommended": "Recomendado 83%"
+      "recommended": "Recomendado 83%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "KND: Los chicos del barrio",
       "description": "La serie sigue a un grupo secreto de niños agentes conocidos como KND (Kids Next Door), que luchan contra la tiranía de los adultos y adolescentes. Desde su base en una casa del árbol llena de tecnología improvisada, enfrentan villanos absurdos como padres, maestros y niñeras, defendiendo los derechos de los niños en misiones llenas de acción y humor.",
-      "duration": "",
+      "duration": "0h 11m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -18042,7 +18106,8 @@
         "Dee Bradley Baker"
       ],
       "director": "Tom Warburton",
-      "recommended": "Recomendado 72%"
+      "recommended": "Recomendado 72%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -20417,7 +20482,7 @@
       "type": "series",
       "title": "Danny Phantom",
       "description": "La historia sigue a Danny Fenton, un adolescente que accidentalmente obtiene poderes fantasmales tras un experimento fallido en el laboratorio de sus padres. Desde entonces, se convierte en Danny Phantom, un héroe que protege su ciudad de fantasmas y otras amenazas sobrenaturales, mientras intenta llevar una vida normal como estudiante.",
-      "duration": "",
+      "duration": "0h 22m",
       "rating": "PG",
       "quality": "LQ",
       "section": "catalog",
@@ -20999,13 +21064,14 @@
         "Grey DeLisle"
       ],
       "director": "Butch Hartman, Wincat Alcala",
-      "recommended": "Recomendado 72%"
+      "recommended": "Recomendado 72%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Más allá del jardín",
       "description": "La historia sigue a dos hermanos, Wirt y Greg, que se pierden en un misterioso bosque llamado \"Lo Desconocido\". En su intento por regresar a casa, encuentran criaturas extrañas, personajes enigmáticos y peligros ocultos. A lo largo de su viaje, deberán enfrentar sus miedos y descubrir la verdad sobre el lugar en el que están.",
-      "duration": "",
+      "duration": "0h 12m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -21150,7 +21216,8 @@
         "Christopher Lloyd"
       ],
       "director": "Nate Cash",
-      "recommended": "Recomendado 87%"
+      "recommended": "Recomendado 87%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -21162,7 +21229,10 @@
       "section": "catalog",
       "year": 1997,
       "releaseDate": "2026-04-14",
-      "genres": [],
+      "genres": [
+        "Comedy",
+        "Animation"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -21921,13 +21991,14 @@
         "John Worth Lynn Jr."
       ],
       "director": "Karen Disher, Guy Moore",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Drama Total",
       "description": "La temporada reúne a un grupo de adolescentes en una isla para competir en un reality show lleno de desafíos extremos y absurdos. Cada episodio presenta pruebas físicas y mentales, donde los participantes deben colaborar (o traicionarse) para evitar ser eliminados. A medida que avanza el juego, surgen alianzas, rivalidades y mucho drama entre los concursantes.",
-      "duration": "",
+      "duration": "0h 22m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -23561,13 +23632,24 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 107
+      "gridIndex": 107,
+      "cast": [
+        "Christian Potenza",
+        "Clé Bennett",
+        "Scott McCord",
+        "Megan Fahlenbock",
+        "Rachel Wilson",
+        "Drew Nelson"
+      ],
+      "director": "Jennifer Pertsch, Tom McGillis",
+      "recommended": "Recomendado 75%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Goblin",
       "description": "La historia sigue a Kim Shin, un guerrero convertido en un ser inmortal (goblin) como castigo. Después de siglos viviendo, busca a la única persona que puede liberarlo de su maldición: su \"novia destinada\". Cuando conoce a Ji Eun-tak, una joven que puede ver espíritus, sus vidas se entrelazan en una historia llena de amor, destino y tragedia, mientras también se desarrolla la historia de un ángel de la muerte.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -23789,13 +23871,14 @@
         "Yook Sung-jae"
       ],
       "director": "Lee Eung-bok",
-      "recommended": "Recomendado 85%"
+      "recommended": "Recomendado 85%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Ed, Edd y Eddy",
       "description": "La serie sigue a tres amigos —Ed, Edd (Doble D) y Eddy— que viven en un vecindario y siempre están ideando planes para ganar dinero y comprar dulces (especialmente paletas gigantes). Sin embargo, sus estafas casi siempre salen mal, provocando situaciones cómicas y problemas con los demás niños del barrio.",
-      "duration": "",
+      "duration": "0h 11m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -25296,13 +25379,14 @@
         "Kathleen Barr"
       ],
       "director": "Danny Antonucci, Scott Underwood",
-      "recommended": "Recomendado 74%"
+      "recommended": "Recomendado 74%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Gravity Falls",
       "description": "La historia sigue a los gemelos Dipper y Mabel Pines, quienes pasan el verano con su tío Stan en el misterioso pueblo de Gravity Falls. Allí descubren un diario lleno de secretos sobrenaturales y comienzan a investigar fenómenos extraños como criaturas misteriosas, anomalías y conspiraciones. A lo largo de la temporada, intentan descubrir los secretos ocultos del pueblo.",
-      "duration": "",
+      "duration": "0h 22m",
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
@@ -25780,7 +25864,8 @@
         "Alex Hirsch"
       ],
       "director": "Joe Pitt, John Aoshima",
-      "recommended": "Recomendado 89%"
+      "recommended": "Recomendado 89%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -26897,7 +26982,7 @@
       "type": "series",
       "title": "Saigo ni Hitotsu Dake Onegai Shite mo Yoroshii Deshou ka",
       "description": "Durante un elegante baile, Scarlet, una noble, es humillada cuando su prometido cancela su compromiso y la acusa falsamente de ser una villana. Tras años soportando abusos, decide no aguantar más y pide \"un último favor\": golpearlo. Así comienza su historia de venganza contra quienes la traicionaron.",
-      "duration": "",
+      "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -27067,13 +27152,23 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 113
+      "gridIndex": 113,
+      "cast": [
+        "瀬戸麻沙美",
+        "加藤渉",
+        "石毛翔弥",
+        "富田美憂",
+        "浦和希",
+        "坂泰斗"
+      ],
+      "recommended": "Recomendado 76%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
       "title": "Ranma ½",
       "description": "Ranma Saotome es un joven artista marcial que, tras caer en una fuente maldita durante un viaje de entrenamiento en China, adquiere una peculiar maldición: al contacto con agua fría se transforma en chica, y con agua caliente vuelve a ser chico. Mientras intenta llevar una vida \"normal\", se ve envuelto en situaciones caóticas, peleas y enredos románticos, especialmente con su prometida Akane.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -27776,7 +27871,8 @@
         "Megumi Hayashibara"
       ],
       "director": "Junji Nishimura, Takeshi Mori",
-      "recommended": "Recomendado 81%"
+      "recommended": "Recomendado 81%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -28298,7 +28394,7 @@
       "type": "series",
       "title": "Elfen Lied",
       "description": "Lucy, una joven con habilidades telequinéticas mortales, escapa de un laboratorio donde era objeto de experimentos. Tras perder la memoria, desarrolla una segunda personalidad más inocente, mientras es perseguida por quienes quieren capturarla de nuevo.",
-      "duration": "",
+      "duration": "0h 25m",
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
@@ -28478,7 +28574,8 @@
         "Kira Vincent-Davis"
       ],
       "director": "Mamoru Kanbe, Kôbun Shizuno",
-      "recommended": "Recomendado 78%"
+      "recommended": "Recomendado 78%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -28608,7 +28705,18 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 120
+      "gridIndex": 120,
+      "cast": [
+        "Ellen Pompeo",
+        "Chandra Wilson",
+        "James Pickens Jr.",
+        "Caterina Scorsone",
+        "Camilla Luddington",
+        "Kevin McKidd"
+      ],
+      "director": "Shonda Rhimes",
+      "recommended": "Recomendado 82%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -28819,7 +28927,7 @@
       "type": "series",
       "title": "Dr. House",
       "description": "El Dr. Gregory House, un médico brillante pero antisocial, lidera un equipo especializado en diagnosticar enfermedades extrañas y casos casi imposibles. Mientras resuelve misterios médicos complejos, su actitud sarcástica y métodos poco convencionales generan constantes conflictos.",
-      "duration": "",
+      "duration": "0h 44m",
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
@@ -29096,7 +29204,8 @@
         "Bobbin Bergstrom"
       ],
       "director": "Greg Yaitanes, Deran Sarafian",
-      "recommended": "Recomendado 87%"
+      "recommended": "Recomendado 87%",
+      "updatedAt": "2026-08-15T03:48:19.904Z"
     },
     {
       "type": "series",
@@ -86097,10 +86206,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan22010/master.m3u8",
       "createdAt": "2026-07-28T01:43:47.764Z",
-      "updatedAt": "2026-07-30T08:35:53.343Z",
+      "updatedAt": "2026-08-15T03:48:19.894Z",
       "addedAt": "2026-07-28T01:43:47.764Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle",
+        "Scarlett Johansson",
+        "Sam Rockwell",
+        "Mickey Rourke"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_410",
@@ -86129,9 +86248,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/28AosDespusElTemploDeHuesos/master.m3u8",
       "createdAt": "2026-07-28T01:45:38.099Z",
-      "updatedAt": "2026-07-28T01:45:38.099Z",
+      "updatedAt": "2026-08-15T03:48:19.894Z",
       "addedAt": "2026-07-28T01:45:38.099Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Ralph Fiennes",
+        "Jack O'Connell",
+        "Alfie Williams",
+        "Erin Kellyman",
+        "Chi Lewis-Parry",
+        "Emma Laird"
+      ],
+      "director": "Nia DaCosta",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_411",
@@ -86162,9 +86291,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon1MewtwoContraataca/master.m3u8",
       "createdAt": "2026-07-28T01:51:14.277Z",
-      "updatedAt": "2026-07-28T01:51:14.277Z",
+      "updatedAt": "2026-08-15T03:48:19.894Z",
       "addedAt": "2026-07-28T01:51:14.277Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "飯塚雅弓",
+        "こおろぎさとみ",
+        "うえだゆうじ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_412",
@@ -86195,9 +86334,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon2ElPoderDeUno/master.m3u8",
       "createdAt": "2026-07-28T01:54:29.464Z",
-      "updatedAt": "2026-07-28T01:54:29.464Z",
+      "updatedAt": "2026-08-15T03:48:19.894Z",
       "addedAt": "2026-07-28T01:54:29.464Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "飯塚雅弓",
+        "こおろぎさとみ",
+        "Tomokazu Seki",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_413",
@@ -86228,9 +86377,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon3ElHechizoDeLosUnown/master.m3u8",
       "createdAt": "2026-07-28T01:56:30.590Z",
-      "updatedAt": "2026-07-28T01:56:30.590Z",
+      "updatedAt": "2026-08-15T03:48:19.894Z",
       "addedAt": "2026-07-28T01:56:30.590Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "飯塚雅弓",
+        "林原めぐみ",
+        "Miki Shin'ichirou"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_414",
@@ -86261,9 +86420,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon18HoopaYUnDueloHistorico/master.m3u8",
       "createdAt": "2026-07-28T01:58:36.328Z",
-      "updatedAt": "2026-07-28T01:58:36.328Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T01:58:36.328Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "牧口真幸",
+        "梶裕貴",
+        "伊瀬茉莉也",
+        "佐藤恵"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 68%"
     },
     {
       "id": "movie_415",
@@ -86295,9 +86464,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon17DianceYLaCrisalidaDeLaDestruccion/master.m3u8",
       "createdAt": "2026-07-28T01:59:54.927Z",
-      "updatedAt": "2026-07-28T01:59:54.927Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T01:59:54.927Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "牧口真幸",
+        "梶裕貴",
+        "伊瀬茉莉也",
+        "佐藤恵"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_416",
@@ -86328,9 +86507,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon22MewtwoContraatacaevolucin/master.m3u8",
       "createdAt": "2026-07-28T02:01:15.529Z",
-      "updatedAt": "2026-07-28T02:01:15.529Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T02:01:15.529Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "飯塚雅弓",
+        "こおろぎさとみ",
+        "うえだゆうじ",
+        "林原めぐみ"
+      ],
+      "director": "Motonori Sakakibara, 湯山邦彦",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_417",
@@ -86360,9 +86549,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon21ElPoderDeTodos/master.m3u8",
       "createdAt": "2026-07-28T02:03:16.632Z",
-      "updatedAt": "2026-07-28T02:03:16.632Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T02:03:16.632Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "林原めぐみ",
+        "Miki Shin'ichirou",
+        "犬山イヌコ",
+        "石塚運昇"
+      ],
+      "director": "矢嶋哲生",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_418",
@@ -86424,9 +86623,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/28AosDespus/master.m3u8",
       "createdAt": "2026-07-28T02:42:32.122Z",
-      "updatedAt": "2026-07-28T02:42:32.122Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T02:42:32.122Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Aaron Taylor-Johnson",
+        "Alfie Williams",
+        "Ralph Fiennes",
+        "Jodie Comer",
+        "Jack O'Connell",
+        "Chi Lewis-Parry"
+      ],
+      "director": "Danny Boyle",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_420",
@@ -86455,9 +86664,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Amosdeluniverso2026/master.m3u8",
       "createdAt": "2026-07-28T02:59:28.084Z",
-      "updatedAt": "2026-07-28T02:59:28.084Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T02:59:28.084Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Nicholas Galitzine",
+        "Camila Mendes",
+        "Idris Elba",
+        "Jared Leto",
+        "Alison Brie",
+        "Jóhannes Haukur Jóhannesson"
+      ],
+      "director": "Travis Knight",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_421",
@@ -86486,9 +86705,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/itCapituloDos2019/master.m3u8",
       "createdAt": "2026-07-28T03:31:02.107Z",
-      "updatedAt": "2026-07-28T03:31:02.107Z",
+      "updatedAt": "2026-08-15T03:48:19.895Z",
       "addedAt": "2026-07-28T03:31:02.107Z",
-      "addedBy": "carmesi"
+      "addedBy": "carmesi",
+      "cast": [
+        "Jessica Chastain",
+        "James McAvoy",
+        "Bill Hader",
+        "Isaiah Mustafa",
+        "Jay Ryan",
+        "James Ransone"
+      ],
+      "director": "Andy Muschietti",
+      "recommended": "Recomendado 68%"
     },
     {
       "id": "movie_422",
@@ -86518,9 +86747,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon20YoTeElijo/master.m3u8",
       "createdAt": "2026-07-29T05:17:38.527Z",
-      "updatedAt": "2026-07-29T05:17:38.527Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:17:38.527Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "林原めぐみ",
+        "Miki Shin'ichirou",
+        "犬山イヌコ",
+        "石塚運昇"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_423",
@@ -86550,9 +86789,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon23LosSecretosDeLaSelva/master.m3u8",
       "createdAt": "2026-07-29T05:19:34.317Z",
-      "updatedAt": "2026-07-29T05:19:34.317Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:19:34.317Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "上白石萌歌",
+        "林原めぐみ",
+        "Miki Shin'ichirou",
+        "犬山イヌコ"
+      ],
+      "director": "矢嶋哲生",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_424",
@@ -86582,9 +86831,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon11GiratinaYElDefensorCielos/master.m3u8",
       "createdAt": "2026-07-29T05:21:01.711Z",
-      "updatedAt": "2026-07-29T05:21:01.711Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:21:01.711Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "豊口めぐみ",
+        "林原めぐみ",
+        "Miki Shin'ichirou"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 68%"
     },
     {
       "id": "movie_425",
@@ -86615,9 +86874,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon14VictiniYReshiramEspaolLatino/master.m3u8",
       "createdAt": "2026-07-29T05:22:19.292Z",
-      "updatedAt": "2026-07-29T05:22:19.292Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:22:19.292Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "悠木碧",
+        "津田美波",
+        "宮野真守",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_426",
@@ -86648,9 +86917,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon4PokmonXSiempreCelebiLaVozDelBosque/master.m3u8",
       "createdAt": "2026-07-29T05:24:08.307Z",
-      "updatedAt": "2026-07-29T05:24:08.307Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:24:08.307Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "石塚運昇",
+        "飯塚雅弓",
+        "うえだゆうじ",
+        "Tomokazu Seki"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_427",
@@ -86680,9 +86959,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon16GenesectYElDespertarDeUnaLeyenda/master.m3u8",
       "createdAt": "2026-07-29T05:26:07.285Z",
-      "updatedAt": "2026-07-29T05:26:07.285Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:26:07.285Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "悠木碧",
+        "津田美波",
+        "宮野真守",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 64%"
     },
     {
       "id": "movie_428",
@@ -86713,9 +87002,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon14VictiniYZekromEspaolLatino/master.m3u8",
       "createdAt": "2026-07-29T05:27:21.357Z",
-      "updatedAt": "2026-07-29T05:27:21.357Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:27:21.357Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "悠木碧",
+        "津田美波",
+        "宮野真守",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_429",
@@ -86745,9 +87044,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon13ZoroarkElMaestroDeLasIlusiones/master.m3u8",
       "createdAt": "2026-07-29T05:28:31.864Z",
-      "updatedAt": "2026-07-29T05:28:31.864Z",
+      "updatedAt": "2026-08-15T03:48:19.896Z",
       "addedAt": "2026-07-29T05:28:31.864Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "豊口めぐみ",
+        "小桜エツコ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_430",
@@ -86811,9 +87120,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon12ArseusYLaJoyaDeLaVida/master.m3u8",
       "createdAt": "2026-07-29T05:30:55.686Z",
-      "updatedAt": "2026-07-29T05:30:55.686Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:30:55.686Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "豊口めぐみ",
+        "小桜エツコ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_432",
@@ -86845,9 +87164,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon9ElRanger/master.m3u8",
       "createdAt": "2026-07-29T05:34:48.001Z",
-      "updatedAt": "2026-07-29T05:34:48.001Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:34:48.001Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "KAORI",
+        "山田ふしぎ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_433",
@@ -86879,9 +87208,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon8MewYElHeroeMkv/master.m3u8",
       "createdAt": "2026-07-29T05:36:27.691Z",
-      "updatedAt": "2026-07-29T05:36:27.691Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:36:27.691Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "KAORI",
+        "山田ふしぎ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_434",
@@ -86913,9 +87252,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon10ElDesafioDeDarkrai/master.m3u8",
       "createdAt": "2026-07-29T05:37:43.619Z",
-      "updatedAt": "2026-07-29T05:37:43.619Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:37:43.619Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "うえだゆうじ",
+        "豊口めぐみ",
+        "林原めぐみ",
+        "秋山竜次"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_435",
@@ -86945,9 +87294,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon7DestinoDeoxys/master.m3u8",
       "createdAt": "2026-07-29T05:39:01.864Z",
-      "updatedAt": "2026-07-29T05:39:01.864Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:39:01.864Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "KAORI",
+        "うえだゆうじ",
+        "山田ふしぎ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_436",
@@ -86979,9 +87338,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon6JirachiYLosDeseos/master.m3u8",
       "createdAt": "2026-07-29T05:40:17.244Z",
-      "updatedAt": "2026-07-29T05:40:17.244Z",
+      "updatedAt": "2026-08-15T03:48:19.897Z",
       "addedAt": "2026-07-29T05:40:17.244Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "うえだゆうじ",
+        "KAORI",
+        "山田ふしぎ",
+        "大谷育江",
+        "鈴木富子"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_437",
@@ -87012,9 +87381,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokemon5LatiosYLatias/master.m3u8",
       "createdAt": "2026-07-29T05:41:31.585Z",
-      "updatedAt": "2026-07-29T05:41:31.585Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T05:41:31.585Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "松本梨香",
+        "大谷育江",
+        "飯塚雅弓",
+        "うえだゆうじ",
+        "こおろぎさとみ",
+        "林原めぐみ"
+      ],
+      "director": "湯山邦彦",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_438",
@@ -87043,10 +87422,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/IronMandeMarveStudios/master.m3u8",
       "createdAt": "2026-07-29T05:43:21.644Z",
-      "updatedAt": "2026-07-30T08:45:30.251Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T05:43:21.644Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Robert Downey Jr.",
+        "Terrence Howard",
+        "Jeff Bridges",
+        "Gwyneth Paltrow",
+        "Leslie Bibb",
+        "Shaun Toub"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_439",
@@ -87075,9 +87464,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Pokmon221detectivepikachuhdliveactionhd/master.m3u8",
       "createdAt": "2026-07-29T05:45:08.466Z",
-      "updatedAt": "2026-07-29T05:45:08.466Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T05:45:08.466Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Ryan Reynolds",
+        "Justice Smith",
+        "Kathryn Newton",
+        "Bill Nighy",
+        "渡辺謙",
+        "Chris Geere"
+      ],
+      "director": "Rob Letterman",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_440",
@@ -87106,10 +87505,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Capitnamricacivilwar2016/master.m3u8",
       "createdAt": "2026-07-29T20:40:49.350Z",
-      "updatedAt": "2026-07-30T08:44:44.238Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T20:40:49.350Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson",
+        "Sebastian Stan",
+        "Anthony Mackie",
+        "Don Cheadle"
+      ],
+      "director": "Joe Russo, Anthony Russo",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_441",
@@ -87138,10 +87547,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Guardianesdelagalaxiavol22017/master.m3u8",
       "createdAt": "2026-07-29T20:41:29.209Z",
-      "updatedAt": "2026-07-30T08:42:45.876Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T20:41:29.209Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista",
+        "Vin Diesel",
+        "Bradley Cooper",
+        "Kurt Russell"
+      ],
+      "director": "James Gunn",
+      "recommended": "Recomendado 76%"
     },
     {
       "id": "movie_442",
@@ -87170,10 +87589,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Panteranegra2018/master.m3u8",
       "createdAt": "2026-07-29T20:42:07.667Z",
-      "updatedAt": "2026-07-30T08:43:53.633Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T20:42:07.667Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman",
+        "Daniel Kaluuya"
+      ],
+      "director": "Ryan Coogler",
+      "recommended": "Recomendado 74%"
     },
     {
       "id": "movie_443",
@@ -87202,10 +87631,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Capitnamricayelsoldadodelinvierno2014/master.m3u8",
       "createdAt": "2026-07-29T20:43:14.108Z",
-      "updatedAt": "2026-07-30T08:41:57.105Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T20:43:14.108Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Chris Evans",
+        "Samuel L. Jackson",
+        "Scarlett Johansson",
+        "Robert Redford",
+        "Sebastian Stan",
+        "Anthony Mackie"
+      ],
+      "director": "Joe Russo, Anthony Russo",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_444",
@@ -87234,10 +87673,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IronMan32013/master.m3u8",
       "createdAt": "2026-07-29T21:53:33.502Z",
-      "updatedAt": "2026-07-30T08:40:59.353Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-29T21:53:33.502Z",
       "addedBy": "seanf",
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "cast": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Don Cheadle",
+        "Guy Pearce",
+        "Rebecca Hall",
+        "Jon Favreau"
+      ],
+      "director": "Shane Black",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_445",
@@ -87265,10 +87714,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/101DlmatasLiveAction1996/master.m3u8",
       "createdAt": "2026-07-31T03:49:06.688Z",
-      "updatedAt": "2026-07-31T03:49:06.688Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-31T03:49:06.688Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Glenn Close",
+        "Jeff Daniels",
+        "Joely Richardson",
+        "Joan Plowright",
+        "Hugh Laurie",
+        "Mark Williams"
+      ],
+      "director": "Stephen Herek",
+      "recommended": "Recomendado 59%"
     },
     {
       "id": "movie_446",
@@ -87296,10 +87755,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/102DlmatasLiveAction2000/master.m3u8",
       "createdAt": "2026-07-31T03:49:52.430Z",
-      "updatedAt": "2026-07-31T03:49:52.430Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-31T03:49:52.430Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Glenn Close",
+        "Gérard Depardieu",
+        "Ioan Gruffudd",
+        "Alice Evans",
+        "Tim McInnerny",
+        "Eric Idle"
+      ],
+      "director": "Kevin Lima",
+      "recommended": "Recomendado 55%"
     },
     {
       "id": "movie_447",
@@ -87329,10 +87798,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/101DlmatasLaNocheDeLasNaricesFras1961/master.m3u8",
       "createdAt": "2026-07-31T03:50:48.440Z",
-      "updatedAt": "2026-07-31T03:50:48.440Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-31T03:50:48.440Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Rod Taylor",
+        "J. Pat O'Malley",
+        "Betty Lou Gerson",
+        "Martha Wentworth",
+        "Ben Wright",
+        "Cate Bauer"
+      ],
+      "director": "Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_448",
@@ -87361,10 +87840,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dumbo2019/master.m3u8",
       "createdAt": "2026-07-31T03:51:30.887Z",
-      "updatedAt": "2026-07-31T03:51:30.887Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-31T03:51:30.887Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Colin Farrell",
+        "Michael Keaton",
+        "Danny DeVito",
+        "Eva Green",
+        "Nico Parker",
+        "Finley Hobbins"
+      ],
+      "director": "Tim Burton",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_449",
@@ -87392,10 +87881,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BlancaNieves2025/master.m3u8",
       "createdAt": "2026-07-31T03:52:14.426Z",
-      "updatedAt": "2026-07-31T03:52:14.426Z",
+      "updatedAt": "2026-08-15T03:48:19.898Z",
       "addedAt": "2026-07-31T03:52:14.426Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Rachel Zegler",
+        "Gal Gadot",
+        "Andrew Burnap",
+        "Andrew Barth Feldman",
+        "Jeremy Swift",
+        "Martin Klebba"
+      ],
+      "director": "Marc Webb",
+      "recommended": "Recomendado 43%"
     },
     {
       "id": "movie_450",
@@ -87424,10 +87923,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BlancanievesYLosSienteEnanos1937/master.m3u8",
       "createdAt": "2026-07-31T03:53:11.386Z",
-      "updatedAt": "2026-07-31T03:53:11.386Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:53:11.386Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Adriana Caselotti",
+        "Lucille La Verne",
+        "Harry Stockwell",
+        "Roy Atwell",
+        "Pinto Colvig",
+        "Otis Harlan"
+      ],
+      "director": "David Hand, Ben Sharpsteen, William Cottrell, Larry Morey, Perce Pearce, Wilfred Jackson",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_451",
@@ -87456,10 +87965,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaATravsDelEspejo2016/master.m3u8",
       "createdAt": "2026-07-31T03:54:19.319Z",
-      "updatedAt": "2026-07-31T03:54:19.319Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:54:19.319Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Mia Wasikowska",
+        "Johnny Depp",
+        "Anne Hathaway",
+        "Helena Bonham Carter",
+        "Sacha Baron Cohen",
+        "Matt Lucas"
+      ],
+      "director": "James Bobin",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_452",
@@ -87489,10 +88008,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPasDeLasMaravillas1951/master.m3u8",
       "createdAt": "2026-07-31T03:55:27.888Z",
-      "updatedAt": "2026-07-31T03:55:27.888Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:55:27.888Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Kathryn Beaumont",
+        "Ed Wynn",
+        "Richard Haydn",
+        "Sterling Holloway",
+        "Jerry Colonna",
+        "Verna Felton"
+      ],
+      "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_453",
@@ -87521,10 +88050,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaCenicienta1950/master.m3u8",
       "createdAt": "2026-07-31T03:56:24.788Z",
-      "updatedAt": "2026-07-31T03:56:24.788Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:56:24.788Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Ilene Woods",
+        "Eleanor Audley",
+        "Verna Felton",
+        "Claire Du Brey",
+        "Rhoda Williams",
+        "James MacDonald"
+      ],
+      "director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_454",
@@ -87554,9 +88093,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElfantasticoSr.Zorro2009/master.m3u8",
       "createdAt": "2026-07-31T03:58:29.240Z",
-      "updatedAt": "2026-07-31T03:58:29.240Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:58:29.240Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "George Clooney",
+        "Meryl Streep",
+        "Jason Schwartzman",
+        "Eric Chase Anderson",
+        "Wallace Wolodarsky",
+        "Willem Dafoe"
+      ],
+      "director": "Wes Anderson",
+      "recommended": "Recomendado 78%"
     },
     {
       "id": "movie_455",
@@ -87586,10 +88135,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EnredadosPorSiempre/master.m3u8",
       "createdAt": "2026-07-31T03:59:41.705Z",
-      "updatedAt": "2026-07-31T03:59:41.705Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T03:59:41.705Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Mandy Moore",
+        "Zachary Levi",
+        "Alan Dale",
+        "Paul F. Tompkins",
+        "Kari Wahlgren",
+        "Mark Allan Stewart"
+      ],
+      "director": "Nathan Greno, Byron Howard",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_456",
@@ -87618,10 +88177,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJorobadoDeNotreDame2/master.m3u8",
       "createdAt": "2026-07-31T04:00:48.425Z",
-      "updatedAt": "2026-07-31T04:00:48.425Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:00:48.425Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Tom Hulce",
+        "Jennifer Love Hewitt",
+        "Jason Alexander",
+        "Paul Kandel",
+        "Charles Kimbrough",
+        "Michael McKean"
+      ],
+      "director": "Bradley Raymond",
+      "recommended": "Recomendado 54%"
     },
     {
       "id": "movie_457",
@@ -87650,10 +88219,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiarioDeLaPrincesa2/master.m3u8",
       "createdAt": "2026-07-31T04:01:53.859Z",
-      "updatedAt": "2026-07-31T04:01:53.859Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:01:53.859Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Héctor Elizondo",
+        "John Rhys-Davies",
+        "Heather Matarazzo",
+        "Chris Pine"
+      ],
+      "director": "Garry Marshall",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_458",
@@ -87683,10 +88262,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElZorroYElSabueso2/master.m3u8",
       "createdAt": "2026-07-31T04:03:10.155Z",
-      "updatedAt": "2026-07-31T04:03:10.155Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:03:10.155Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Reba McEntire",
+        "Patrick Swayze",
+        "Jonah Bobo",
+        "Harrison Fahn",
+        "Jeff Foxworthy",
+        "Vicki Lawrence"
+      ],
+      "director": "Jim Kammerud",
+      "recommended": "Recomendado 60%"
     },
     {
       "id": "movie_459",
@@ -87715,10 +88304,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJorobadoDeNotreDame/master.m3u8",
       "createdAt": "2026-07-31T04:04:03.539Z",
-      "updatedAt": "2026-08-02T04:17:38.355Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:04:03.539Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Tom Hulce",
+        "Demi Moore",
+        "Kevin Kline",
+        "Tony Jay",
+        "Charles Kimbrough",
+        "Mary Wickes"
+      ],
+      "director": "Gary Trousdale, Kirk Wise",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_460",
@@ -87749,10 +88348,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Hrcules/master.m3u8",
       "createdAt": "2026-07-31T04:04:42.638Z",
-      "updatedAt": "2026-07-31T04:04:42.638Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:04:42.638Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Tate Donovan",
+        "Josh Keaton",
+        "Roger Bart",
+        "Danny DeVito",
+        "James Woods",
+        "Susan Egan"
+      ],
+      "director": "Ron Clements, John Musker",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_461",
@@ -87780,10 +88389,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElViajeIncreble/master.m3u8",
       "createdAt": "2026-07-31T04:05:55.084Z",
-      "updatedAt": "2026-07-31T04:05:55.084Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:05:55.084Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Émile Genest",
+        "John Drainie",
+        "Sandra Scott",
+        "Jan Rubeš",
+        "Tommy Tweed",
+        "Syme Jago"
+      ],
+      "director": "Fletcher Markle",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_462",
@@ -87812,10 +88431,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Enredados/master.m3u8",
       "createdAt": "2026-07-31T04:06:53.442Z",
-      "updatedAt": "2026-07-31T04:06:53.442Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:06:53.442Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Mandy Moore",
+        "Zachary Levi",
+        "Donna Murphy",
+        "Ron Perlman",
+        "M.C. Gainey",
+        "Jeffrey Tambor"
+      ],
+      "director": "Nathan Greno, Byron Howard",
+      "recommended": "Recomendado 76%"
     },
     {
       "id": "movie_463",
@@ -87845,10 +88474,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosAristogatos/master.m3u8",
       "createdAt": "2026-07-31T04:10:21.406Z",
-      "updatedAt": "2026-07-31T04:10:21.406Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:10:21.406Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Phil Harris",
+        "Eva Gabor",
+        "Sterling Holloway",
+        "Scatman Crothers",
+        "Paul Winchell",
+        "Lord Tim Hudson"
+      ],
+      "director": "Wolfgang Reitherman",
+      "recommended": "Recomendado 73%"
     },
     {
       "id": "movie_464",
@@ -87878,10 +88517,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/QueridaEncogALosNios/master.m3u8",
       "createdAt": "2026-07-31T04:11:36.031Z",
-      "updatedAt": "2026-07-31T04:11:36.031Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:11:36.031Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Rick Moranis",
+        "Matt Frewer",
+        "Marcia Strassman",
+        "Kristine Sutherland",
+        "Thomas Wilson Brown",
+        "Jared Rushton"
+      ],
+      "director": "Joe Johnston",
+      "recommended": "Recomendado 63%"
     },
     {
       "id": "movie_465",
@@ -87911,10 +88560,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosIncrebles/master.m3u8",
       "createdAt": "2026-07-31T04:12:31.572Z",
-      "updatedAt": "2026-07-31T04:12:31.572Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:12:31.572Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Spencer Fox",
+        "Jason Lee",
+        "Samuel L. Jackson"
+      ],
+      "director": "Brad Bird",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_466",
@@ -87944,10 +88603,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LosIncrebles2/master.m3u8",
       "createdAt": "2026-07-31T04:13:17.594Z",
-      "updatedAt": "2026-07-31T04:13:17.594Z",
+      "updatedAt": "2026-08-15T03:48:19.899Z",
       "addedAt": "2026-07-31T04:13:17.594Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Huck Milner",
+        "Catherine Keener",
+        "Eli Fucile"
+      ],
+      "director": "Brad Bird",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_467",
@@ -87978,10 +88647,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PatoaventurasLaPelculaElTesoroDeLaLmparaPerdida/master.m3u8",
       "createdAt": "2026-07-31T04:14:28.836Z",
-      "updatedAt": "2026-07-31T04:14:28.836Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:14:28.836Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Alan Young",
+        "Terence McGovern",
+        "Russi Taylor",
+        "Richard Libertini",
+        "Christopher Lloyd",
+        "June Foray"
+      ],
+      "director": "Bob Hathcock",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_468",
@@ -88010,10 +88689,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Tron/master.m3u8",
       "createdAt": "2026-07-31T04:15:32.432Z",
-      "updatedAt": "2026-07-31T04:15:32.432Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:15:32.432Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner",
+        "Cindy Morgan",
+        "Barnard Hughes",
+        "Dan Shor"
+      ],
+      "director": "Steven Lisberger",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_469",
@@ -88042,10 +88731,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RobinHood/master.m3u8",
       "createdAt": "2026-07-31T04:16:40.044Z",
-      "updatedAt": "2026-07-31T04:16:40.044Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:16:40.044Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Brian Bedford",
+        "Phil Harris",
+        "Andy Devine",
+        "Monica Evans",
+        "Peter Ustinov",
+        "Terry-Thomas"
+      ],
+      "director": "Wolfgang Reitherman",
+      "recommended": "Recomendado 73%"
     },
     {
       "id": "movie_470",
@@ -88074,10 +88773,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Bambi1942/master.m3u8",
       "createdAt": "2026-07-31T04:17:18.893Z",
-      "updatedAt": "2026-07-31T04:17:18.893Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:17:18.893Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Donnie Dunagan",
+        "Peter Behn",
+        "Stan Alexander",
+        "Cammie King",
+        "Will Wright",
+        "Hardie Albright"
+      ],
+      "director": "David Hand",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_471",
@@ -88106,10 +88815,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MaryPoppins/master.m3u8",
       "createdAt": "2026-07-31T04:18:29.932Z",
-      "updatedAt": "2026-07-31T04:18:29.932Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:18:29.932Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Julie Andrews",
+        "Dick Van Dyke",
+        "David Tomlinson",
+        "Glynis Johns",
+        "Hermione Baddeley",
+        "Karen Dotrice"
+      ],
+      "director": "Robert Stevenson",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_472",
@@ -88139,10 +88858,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BichosUnaAventuraEnMiniatura/master.m3u8",
       "createdAt": "2026-07-31T04:19:30.272Z",
-      "updatedAt": "2026-07-31T04:25:45.188Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:19:30.272Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Dave Foley",
+        "Kevin Spacey",
+        "Julia Louis-Dreyfus",
+        "Hayden Panettiere",
+        "Phyllis Diller",
+        "Richard Kind"
+      ],
+      "director": "John Lasseter",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_473",
@@ -88170,10 +88899,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cars1UnaAventuraSobreRuedas/master.m3u8",
       "createdAt": "2026-07-31T04:21:10.604Z",
-      "updatedAt": "2026-07-31T04:24:37.779Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:21:10.604Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Owen Wilson",
+        "Paul Newman",
+        "Bonnie Hunt",
+        "Larry the Cable Guy",
+        "Cheech Marin",
+        "Tony Shalhoub"
+      ],
+      "director": "John Lasseter",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_474",
@@ -88202,10 +88941,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cars3/master.m3u8",
       "createdAt": "2026-07-31T04:25:18.451Z",
-      "updatedAt": "2026-07-31T04:25:18.451Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:25:18.451Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Owen Wilson",
+        "Cristela Alonzo",
+        "Chris Cooper",
+        "Nathan Fillion",
+        "Larry the Cable Guy",
+        "Armie Hammer"
+      ],
+      "director": "Brian Fee",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_475",
@@ -88233,10 +88982,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dumbo1941/master.m3u8",
       "createdAt": "2026-07-31T04:26:10.014Z",
-      "updatedAt": "2026-07-31T04:26:10.014Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:26:10.014Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Edward Brophy",
+        "Margaret Wright",
+        "Verna Felton",
+        "Sarah Selby",
+        "Noreen Gammill",
+        "Dorothy Scott"
+      ],
+      "director": "Ben Sharpsteen, Bill Roberts, Samuel Armstrong, Wilfred Jackson, Jack Kinney, Norman Ferguson",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_476",
@@ -88266,10 +89025,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cars2UnaNuevaAventuraSobreRuedas/master.m3u8",
       "createdAt": "2026-07-31T04:27:12.456Z",
-      "updatedAt": "2026-07-31T04:27:12.456Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:27:12.456Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Larry the Cable Guy",
+        "Owen Wilson",
+        "Michael Caine",
+        "Emily Mortimer",
+        "Suzy Eddie Izzard",
+        "John Turturro"
+      ],
+      "director": "John Lasseter",
+      "recommended": "Recomendado 62%"
     },
     {
       "id": "movie_477",
@@ -88297,10 +89066,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElDiarioDeLaPrincesa/master.m3u8",
       "createdAt": "2026-07-31T04:28:58.388Z",
-      "updatedAt": "2026-07-31T04:28:58.388Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:28:58.388Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Heather Matarazzo",
+        "Caroline Goodall",
+        "Héctor Elizondo",
+        "Robert Schwartzman"
+      ],
+      "director": "Garry Marshall",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_478",
@@ -88329,10 +89108,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CupidoMotorizado/master.m3u8",
       "createdAt": "2026-07-31T04:30:00.059Z",
-      "updatedAt": "2026-07-31T04:30:00.059Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-07-31T04:30:00.059Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Dean Jones",
+        "Michele Lee",
+        "David Tomlinson",
+        "Buddy Hackett",
+        "Joe Flynn",
+        "Benson Fong"
+      ],
+      "director": "Robert Stevenson",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_479",
@@ -88362,10 +89151,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/101Dalmatas2UnaNuevaAventuraEnLondres/master.m3u8",
       "createdAt": "2026-08-01T21:48:31.241Z",
-      "updatedAt": "2026-08-01T21:48:31.241Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-08-01T21:48:31.241Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Barry Bostwick",
+        "Jason Alexander",
+        "Martin Short",
+        "Bobby Lockwood",
+        "Susanne Blakeslee",
+        "Samuel West"
+      ],
+      "director": "Jim Kammerud, Brian Smith",
+      "recommended": "Recomendado 60%"
     },
     {
       "id": "movie_480",
@@ -88394,10 +89193,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Labellaylabestia/master.m3u8",
       "createdAt": "2026-08-01T21:49:58.308Z",
-      "updatedAt": "2026-08-01T21:49:58.308Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-08-01T21:49:58.308Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Richard White",
+        "Jerry Orbach",
+        "David Ogden Stiers",
+        "Angela Lansbury"
+      ],
+      "director": "Gary Trousdale, Kirk Wise",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_481",
@@ -88428,10 +89237,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frozen2/master.m3u8",
       "createdAt": "2026-08-01T21:59:52.505Z",
-      "updatedAt": "2026-08-01T21:59:52.505Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-08-01T21:59:52.505Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Josh Gad",
+        "Evan Rachel Wood",
+        "Jonathan Groff",
+        "Sterling K. Brown"
+      ],
+      "director": "Jennifer Lee, Chris Buck",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_482",
@@ -88461,10 +89280,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElReyLeonLiveAction/master.m3u8",
       "createdAt": "2026-08-01T22:06:42.549Z",
-      "updatedAt": "2026-08-01T22:06:42.549Z",
+      "updatedAt": "2026-08-15T03:48:19.900Z",
       "addedAt": "2026-08-01T22:06:42.549Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Chiwetel Ejiofor",
+        "John Oliver",
+        "Donald Glover",
+        "James Earl Jones",
+        "John Kani",
+        "Alfre Woodard"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_483",
@@ -88494,10 +89323,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frozenunaaventuracongelada/master.m3u8",
       "createdAt": "2026-08-01T22:07:48.962Z",
-      "updatedAt": "2026-08-01T22:07:48.962Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:07:48.962Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Jonathan Groff",
+        "Josh Gad",
+        "Santino Fontana",
+        "Alan Tudyk"
+      ],
+      "director": "Jennifer Lee, Chris Buck",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_484",
@@ -88526,10 +89365,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Georgedelaselva2liveaction/master.m3u8",
       "createdAt": "2026-08-01T22:08:41.164Z",
-      "updatedAt": "2026-08-01T22:08:41.164Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:08:41.164Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Christopher Showerman",
+        "Julie Benz",
+        "Angus T. Jones",
+        "Thomas Haden Church",
+        "Christina Pickles",
+        "John Cleese"
+      ],
+      "director": "David Grossman",
+      "recommended": "Recomendado 45%"
     },
     {
       "id": "movie_485",
@@ -88558,10 +89407,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Georgedelaselvaliveaction/master.m3u8",
       "createdAt": "2026-08-01T22:11:50.149Z",
-      "updatedAt": "2026-08-01T22:11:50.149Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:11:50.149Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Brendan Fraser",
+        "Leslie Mann",
+        "Thomas Haden Church",
+        "John Cleese",
+        "Richard Roundtree",
+        "Abraham Benrubi"
+      ],
+      "director": "Sam Weisman",
+      "recommended": "Recomendado 57%"
     },
     {
       "id": "movie_486",
@@ -88590,10 +89449,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaBellaYLaBestiaElMundoMagicoDeBella/master.m3u8",
       "createdAt": "2026-08-01T22:13:12.516Z",
-      "updatedAt": "2026-08-01T22:13:12.516Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:13:12.516Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Robby Benson",
+        "Paige O'Hara",
+        "David Ogden Stiers",
+        "Jerry Orbach",
+        "Anne Rogers",
+        "Gregory Grudt"
+      ],
+      "director": "Cullen Blaine, Dale Case, Bob Kline",
+      "recommended": "Recomendado 62%"
     },
     {
       "id": "movie_487",
@@ -88622,10 +89491,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AladdinLiveAction/master.m3u8",
       "createdAt": "2026-08-01T22:14:11.143Z",
-      "updatedAt": "2026-08-01T22:14:11.143Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:14:11.143Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Will Smith",
+        "Mena Massoud",
+        "Naomi Scott",
+        "Marwan Kenzari",
+        "Navid Negahban",
+        "Nasim Pedrad"
+      ],
+      "director": "Guy Ritchie",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_488",
@@ -88655,10 +89534,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElReyLeon2ElReinoDeSimba/master.m3u8",
       "createdAt": "2026-08-01T22:15:24.724Z",
-      "updatedAt": "2026-08-01T22:15:24.724Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:15:24.724Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Matthew Broderick",
+        "Neve Campbell",
+        "Jason Marsden",
+        "Nathan Lane",
+        "Ernie Sabella",
+        "Andy Dick"
+      ],
+      "director": "Darrell Rooney",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_489",
@@ -88687,10 +89576,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElReyLeon/master.m3u8",
       "createdAt": "2026-08-01T22:16:45.717Z",
-      "updatedAt": "2026-08-01T22:16:45.717Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:16:45.717Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Matthew Broderick",
+        "Moira Kelly",
+        "Jeremy Irons",
+        "Nathan Lane",
+        "Ernie Sabella",
+        "James Earl Jones"
+      ],
+      "director": "Roger Allers, Rob Minkoff",
+      "recommended": "Recomendado 83%"
     },
     {
       "id": "movie_490",
@@ -88720,10 +89619,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElReyLeon3HakunaMatata/master.m3u8",
       "createdAt": "2026-08-01T22:17:53.257Z",
-      "updatedAt": "2026-08-01T22:17:53.257Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:17:53.257Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Nathan Lane",
+        "Ernie Sabella",
+        "Julie Kavner",
+        "Jerry Stiller",
+        "Matthew Broderick",
+        "Robert Guillaume"
+      ],
+      "director": "Bradley Raymond",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_491",
@@ -88752,10 +89661,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselvaliveaction/master.m3u8",
       "createdAt": "2026-08-01T22:19:07.705Z",
-      "updatedAt": "2026-08-01T22:19:07.705Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:19:07.705Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Neel Sethi",
+        "Bill Murray",
+        "Ben Kingsley",
+        "Idris Elba",
+        "Scarlett Johansson",
+        "Christopher Walken"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_492",
@@ -88784,10 +89703,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva2/master.m3u8",
       "createdAt": "2026-08-01T22:20:00.821Z",
-      "updatedAt": "2026-08-01T22:23:30.257Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:20:00.821Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Haley Joel Osment",
+        "John Goodman",
+        "Mae Whitman",
+        "Connor Funk",
+        "Bob Joles",
+        "Tony Jay"
+      ],
+      "director": "Steve Trenbirth",
+      "recommended": "Recomendado 59%"
     },
     {
       "id": "movie_493",
@@ -88816,10 +89745,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Ellibrodelaselva/master.m3u8",
       "createdAt": "2026-08-01T22:24:37.124Z",
-      "updatedAt": "2026-08-01T22:24:37.124Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:24:37.124Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Bruce Reitherman",
+        "Phil Harris",
+        "Sebastian Cabot",
+        "George Sanders",
+        "Sterling Holloway",
+        "Louis Prima"
+      ],
+      "director": "Wolfgang Reitherman",
+      "recommended": "Recomendado 73%"
     },
     {
       "id": "movie_494",
@@ -88848,10 +89787,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cenicienta3ungiroeneltiempo/master.m3u8",
       "createdAt": "2026-08-01T22:25:47.787Z",
-      "updatedAt": "2026-08-01T22:25:47.787Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:25:47.787Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Jennifer Hale",
+        "Christopher Daniel Barnes",
+        "Susanne Blakeslee",
+        "Tress MacNeille",
+        "Russi Taylor",
+        "Andre Stojka"
+      ],
+      "director": "Frank Nissen",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_495",
@@ -88879,10 +89828,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unachihuahuadebeverlyhills3vivalafiesta/master.m3u8",
       "createdAt": "2026-08-01T22:28:08.432Z",
-      "updatedAt": "2026-08-01T22:28:08.432Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:28:08.432Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "George López",
+        "Frances Fisher",
+        "Jake Busey",
+        "Emily Osment",
+        "Odette Annable",
+        "Madison Pettis"
+      ],
+      "director": "Lev L. Spiro",
+      "recommended": "Recomendado 63%"
     },
     {
       "id": "movie_496",
@@ -88911,10 +89870,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Buscandoanemo/master.m3u8",
       "createdAt": "2026-08-01T22:29:03.141Z",
-      "updatedAt": "2026-08-01T22:29:03.141Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:29:03.141Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Albert Brooks",
+        "Ellen DeGeneres",
+        "Alexander Gould",
+        "Willem Dafoe",
+        "Geoffrey Rush",
+        "Brad Garrett"
+      ],
+      "director": "Andrew Stanton",
+      "recommended": "Recomendado 78%"
     },
     {
       "id": "movie_497",
@@ -88943,10 +89912,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Buscandoadory/master.m3u8",
       "createdAt": "2026-08-01T22:29:49.209Z",
-      "updatedAt": "2026-08-01T22:29:49.209Z",
+      "updatedAt": "2026-08-15T03:48:19.901Z",
       "addedAt": "2026-08-01T22:29:49.209Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Ellen DeGeneres",
+        "Albert Brooks",
+        "Ed O'Neill",
+        "Hayden Rolence",
+        "Diane Keaton",
+        "Eugene Levy"
+      ],
+      "director": "Andrew Stanton",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_498",
@@ -88977,10 +89956,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Bernardoybiancaencangurolandia/master.m3u8",
       "createdAt": "2026-08-01T22:32:19.190Z",
-      "updatedAt": "2026-08-01T22:32:19.190Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:32:19.190Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Bob Newhart",
+        "Eva Gabor",
+        "John Candy",
+        "Tristan Rogers",
+        "Adam Ryen",
+        "George C. Scott"
+      ],
+      "director": "Hendel Butoy, Mike Gabriel",
+      "recommended": "Recomendado 66%"
     },
     {
       "id": "movie_499",
@@ -89010,10 +89999,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Bernardoybianca/master.m3u8",
       "createdAt": "2026-08-01T22:34:07.115Z",
-      "updatedAt": "2026-08-01T22:34:07.115Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:34:07.115Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Bob Newhart",
+        "Eva Gabor",
+        "Geraldine Page",
+        "Joe Flynn",
+        "Jeanette Nolan",
+        "Pat Buttram"
+      ],
+      "director": "Wolfgang Reitherman, John Lounsbery, Art Stevens",
+      "recommended": "Recomendado 68%"
     },
     {
       "id": "movie_500",
@@ -89042,10 +90041,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AladdinYLos40Ladrones/master.m3u8",
       "createdAt": "2026-08-01T22:35:04.797Z",
-      "updatedAt": "2026-08-01T22:35:04.797Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:35:04.797Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Scott Weinger",
+        "Brad Kane",
+        "Robin Williams",
+        "Linda Larkin",
+        "Liz Callaway",
+        "John Rhys-Davies"
+      ],
+      "director": "Tad Stones",
+      "recommended": "Recomendado 63%"
     },
     {
       "id": "movie_501",
@@ -89075,10 +90084,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aladdin/master.m3u8",
       "createdAt": "2026-08-01T22:37:27.513Z",
-      "updatedAt": "2026-08-01T22:37:27.513Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:37:27.513Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Scott Weinger",
+        "Robin Williams",
+        "Linda Larkin",
+        "Jonathan Freeman",
+        "Gilbert Gottfried",
+        "Douglas Seale"
+      ],
+      "director": "John Musker, Ron Clements",
+      "recommended": "Recomendado 77%"
     },
     {
       "id": "movie_502",
@@ -89107,10 +90126,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AladdinElRegresoDeYafar/master.m3u8",
       "createdAt": "2026-08-01T22:38:36.910Z",
-      "updatedAt": "2026-08-01T22:38:36.910Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:38:36.910Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Scott Weinger",
+        "Linda Larkin",
+        "Jonathan Freeman",
+        "Gilbert Gottfried",
+        "Dan Castellaneta",
+        "Frank Welker"
+      ],
+      "director": "Toby Shelton, Alan Zaslove, Tad Stones",
+      "recommended": "Recomendado 62%"
     },
     {
       "id": "movie_503",
@@ -89139,10 +90168,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Tarzan/master.m3u8",
       "createdAt": "2026-08-01T22:42:01.214Z",
-      "updatedAt": "2026-08-01T22:42:01.214Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:42:01.214Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Tony Goldwyn",
+        "Minnie Driver",
+        "Glenn Close",
+        "Alex D. Linz",
+        "Rosie O'Donnell",
+        "Brian Blessed"
+      ],
+      "director": "Chris Buck, Kevin Lima",
+      "recommended": "Recomendado 74%"
     },
     {
       "id": "movie_504",
@@ -89171,10 +90210,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unachihuahuadebeverlyhills/master.m3u8",
       "createdAt": "2026-08-01T22:42:57.066Z",
-      "updatedAt": "2026-08-01T22:42:57.066Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:42:57.066Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Drew Barrymore",
+        "Piper Perabo",
+        "Andy Garcia",
+        "George López",
+        "Paul Rodríguez",
+        "Plácido Domingo"
+      ],
+      "director": "Raja Gosnell",
+      "recommended": "Recomendado 54%"
     },
     {
       "id": "movie_505",
@@ -89202,10 +90251,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unachihuahuadebeverlyhills2/master.m3u8",
       "createdAt": "2026-08-01T22:43:28.450Z",
-      "updatedAt": "2026-08-01T22:43:28.450Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:43:28.450Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Odette Annable",
+        "George López",
+        "Zachary Gordon",
+        "Christine Lakin",
+        "Miguel Ferrer",
+        "Madison Pettis"
+      ],
+      "director": "Alex Zamm",
+      "recommended": "Recomendado 59%"
     },
     {
       "id": "movie_506",
@@ -89234,10 +90293,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MulanLiveAction/master.m3u8",
       "createdAt": "2026-08-01T22:44:37.050Z",
-      "updatedAt": "2026-08-01T22:44:37.050Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:44:37.050Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "刘亦菲",
+        "甄子丹",
+        "巩俐",
+        "李连杰",
+        "Jason Scott Lee",
+        "Yoson An"
+      ],
+      "director": "Niki Caro",
+      "recommended": "Recomendado 68%"
     },
     {
       "id": "movie_507",
@@ -89266,10 +90335,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Tarzan2/master.m3u8",
       "createdAt": "2026-08-01T22:45:29.940Z",
-      "updatedAt": "2026-08-01T22:45:29.940Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:45:29.940Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Harrison Chad",
+        "George Carlin",
+        "Brad Garrett",
+        "Ron Perlman",
+        "Estelle Harris",
+        "Glenn Close"
+      ],
+      "director": "Brian Smith",
+      "recommended": "Recomendado 61%"
     },
     {
       "id": "movie_508",
@@ -89298,10 +90377,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lasirenitaliveaction/master.m3u8",
       "createdAt": "2026-08-01T22:46:37.508Z",
-      "updatedAt": "2026-08-01T22:46:37.508Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:46:37.508Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Halle Bailey",
+        "Jonah Hauer-King",
+        "Melissa McCarthy",
+        "Javier Bardem",
+        "Noma Dumezweni",
+        "Art Malik"
+      ],
+      "director": "Rob Marshall",
+      "recommended": "Recomendado 63%"
     },
     {
       "id": "movie_509",
@@ -89330,10 +90419,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Pocahontas/master.m3u8",
       "createdAt": "2026-08-01T22:48:17.915Z",
-      "updatedAt": "2026-08-01T22:48:17.915Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:48:17.915Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Irene Bedard",
+        "Mel Gibson",
+        "David Ogden Stiers",
+        "John Kassir",
+        "Christian Bale",
+        "Judy Kuhn"
+      ],
+      "director": "Mike Gabriel, Eric Goldberg",
+      "recommended": "Recomendado 69%"
     },
     {
       "id": "movie_510",
@@ -89362,10 +90461,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Pocahontas2encuentrodedosmundos/master.m3u8",
       "createdAt": "2026-08-01T22:49:14.297Z",
-      "updatedAt": "2026-08-01T22:49:14.297Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:49:14.297Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Irene Bedard",
+        "Billy Zane",
+        "Jim Cummings",
+        "David Ogden Stiers",
+        "Linda Hunt",
+        "Judy Kuhn"
+      ],
+      "director": "Tom Ellery, Bradley Raymond",
+      "recommended": "Recomendado 56%"
     },
     {
       "id": "movie_511",
@@ -89395,10 +90504,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lasirenita2regresoalmar/master.m3u8",
       "createdAt": "2026-08-01T22:50:35.714Z",
-      "updatedAt": "2026-08-01T22:50:35.714Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:50:35.714Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Jodi Benson",
+        "Samuel E. Wright",
+        "Tara Strong",
+        "Pat Carroll",
+        "Buddy Hackett",
+        "Kenneth Mars"
+      ],
+      "director": "Jim Kammerud",
+      "recommended": "Recomendado 64%"
     },
     {
       "id": "movie_512",
@@ -89428,10 +90547,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeterPanElRegresoAlPaisDeNuncaJamas/master.m3u8",
       "createdAt": "2026-08-01T22:51:29.944Z",
-      "updatedAt": "2026-08-01T22:51:29.944Z",
+      "updatedAt": "2026-08-15T03:48:19.902Z",
       "addedAt": "2026-08-01T22:51:29.944Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Harriet Owen",
+        "Blayne Weaver",
+        "Jeff Bennett",
+        "Kath Soucie",
+        "Corey Burton",
+        "Andrew McDonough"
+      ],
+      "director": "Robin Budd",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_513",
@@ -89461,10 +90590,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Mulan2/master.m3u8",
       "createdAt": "2026-08-01T22:52:21.887Z",
-      "updatedAt": "2026-08-01T22:52:21.887Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:52:21.887Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Ming-Na Wen",
+        "BD Wong",
+        "Mark Moseley",
+        "Lucy Liu",
+        "Harvey Fierstein",
+        "Sandra Oh"
+      ],
+      "director": "Darrell Rooney, Lynne Southerland",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_514",
@@ -89493,10 +90632,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaCenicienta2UnSuenoHechoRealidad/master.m3u8",
       "createdAt": "2026-08-01T22:53:21.422Z",
-      "updatedAt": "2026-08-01T22:53:21.422Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:53:21.422Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Jennifer Hale",
+        "Rob Paulsen",
+        "Corey Burton",
+        "Andre Stojka",
+        "Russi Taylor",
+        "Susanne Blakeslee"
+      ],
+      "director": "John Kafka",
+      "recommended": "Recomendado 61%"
     },
     {
       "id": "movie_515",
@@ -89526,10 +90675,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Monstersinc/master.m3u8",
       "createdAt": "2026-08-01T22:55:08.937Z",
-      "updatedAt": "2026-08-01T22:55:08.937Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:55:08.937Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "John Goodman",
+        "Billy Crystal",
+        "Mary Gibbs",
+        "Steve Buscemi",
+        "James Coburn",
+        "Jennifer Tilly"
+      ],
+      "director": "Pete Docter",
+      "recommended": "Recomendado 79%"
     },
     {
       "id": "movie_516",
@@ -89558,10 +90717,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Mulan/master.m3u8",
       "createdAt": "2026-08-01T22:56:10.921Z",
-      "updatedAt": "2026-08-01T22:56:10.921Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:56:10.921Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Ming-Na Wen",
+        "Eddie Murphy",
+        "BD Wong",
+        "Miguel Ferrer",
+        "Harvey Fierstein",
+        "Freda Foh Shen"
+      ],
+      "director": "Tony Bancroft, Barry Cook",
+      "recommended": "Recomendado 79%"
     },
     {
       "id": "movie_517",
@@ -89589,10 +90758,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Labellaylabestialiveaction/master.m3u8",
       "createdAt": "2026-08-01T22:57:17.503Z",
-      "updatedAt": "2026-08-01T22:57:17.503Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:57:17.503Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans",
+        "Kevin Kline",
+        "Emma Thompson",
+        "Ewan McGregor"
+      ],
+      "director": "Bill Condon",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_518",
@@ -89622,10 +90801,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Monstersuniversity/master.m3u8",
       "createdAt": "2026-08-01T22:58:24.320Z",
-      "updatedAt": "2026-08-01T22:58:24.320Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:58:24.320Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Billy Crystal",
+        "John Goodman",
+        "Steve Buscemi",
+        "Helen Mirren",
+        "Peter Sohn",
+        "Joel Murray"
+      ],
+      "director": "Dan Scanlon",
+      "recommended": "Recomendado 71%"
     },
     {
       "id": "movie_519",
@@ -89654,10 +90843,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lasirenita/master.m3u8",
       "createdAt": "2026-08-01T22:59:22.436Z",
-      "updatedAt": "2026-08-01T22:59:22.436Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T22:59:22.436Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Jodi Benson",
+        "Samuel E. Wright",
+        "Pat Carroll",
+        "Christopher Daniel Barnes",
+        "Kenneth Mars",
+        "Buddy Hackett"
+      ],
+      "director": "John Musker, Ron Clements",
+      "recommended": "Recomendado 74%"
     },
     {
       "id": "movie_520",
@@ -89686,10 +90885,20 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Labellaylabestiaunanavidadencantada/master.m3u8",
       "createdAt": "2026-08-01T23:00:18.929Z",
-      "updatedAt": "2026-08-02T04:07:06.248Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-01T23:00:18.929Z",
       "addedBy": "seanf",
-      "saga": "Disney|Pixar"
+      "saga": "Disney|Pixar",
+      "cast": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Jerry Orbach",
+        "David Ogden Stiers",
+        "Bernadette Peters",
+        "Tim Curry"
+      ],
+      "director": "Andy Knight",
+      "recommended": "Recomendado 62%"
     },
     {
       "id": "movie_521",
@@ -89719,9 +90928,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SpyXFamilyCodigoBlanco/master.m3u8",
       "createdAt": "2026-08-08T00:52:12.662Z",
-      "updatedAt": "2026-08-08T00:52:12.662Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-08T00:52:12.662Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "江口拓也",
+        "種﨑敦美",
+        "早見沙織",
+        "松田健一郎",
+        "中村倫也",
+        "賀来賢人"
+      ],
+      "director": "片桐崇",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_522",
@@ -89749,9 +90968,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CodigoDavinci/master.m3u8",
       "createdAt": "2026-08-08T00:53:46.934Z",
-      "updatedAt": "2026-08-08T00:53:46.934Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-08T00:53:46.934Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Tom Hanks",
+        "Audrey Tautou",
+        "Ian McKellen",
+        "Jean Reno",
+        "Paul Bettany",
+        "Alfred Molina"
+      ],
+      "director": "Ron Howard",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_523",
@@ -89778,9 +91007,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/JuegoDeTronosLaLtimaGuardiaSubEspaol2019/master.m3u8",
       "createdAt": "2026-08-08T00:57:07.486Z",
-      "updatedAt": "2026-08-08T00:57:07.486Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-08T00:57:07.486Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Lena Headey",
+        "Emilia Clarke",
+        "Kit Harington",
+        "Nikolaj Coster-Waldau",
+        "Peter Dinklage",
+        "Sophie Turner"
+      ],
+      "director": "Jeanie Finlay",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_524",
@@ -89809,9 +91048,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KonoSubaLeyendaDeCarmes/master.m3u8",
       "createdAt": "2026-08-08T00:58:41.579Z",
-      "updatedAt": "2026-08-08T00:58:41.579Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-08T00:58:41.579Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "福島潤",
+        "高橋李依",
+        "雨宮天",
+        "茅野愛衣",
+        "Yui Horie",
+        "豊崎愛生"
+      ],
+      "director": "金崎貴臣",
+      "recommended": "Recomendado 80%"
     },
     {
       "id": "movie_525",
@@ -89842,9 +91091,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Moana22024/master.m3u8",
       "createdAt": "2026-08-11T02:34:56.743Z",
-      "updatedAt": "2026-08-11T02:34:56.743Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-11T02:34:56.743Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Auliʻi Cravalho",
+        "Dwayne Johnson",
+        "Hualālai Chung",
+        "Rose Matafeo",
+        "David Fane",
+        "Awhimai Fraser"
+      ],
+      "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
+      "recommended": "Recomendado 70%"
     },
     {
       "id": "movie_526",
@@ -89874,9 +91133,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laheroinadelmono2026/master.m3u8",
       "createdAt": "2026-08-11T02:36:25.227Z",
-      "updatedAt": "2026-08-11T02:36:25.227Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-11T02:36:25.227Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "サーヤ",
+        "小林星蘭",
+        "内山昂輝",
+        "新谷真弓",
+        "壤晴彦",
+        "細谷佳正"
+      ],
+      "director": "五十嵐祐貴",
+      "recommended": "Recomendado 72%"
     },
     {
       "id": "movie_527",
@@ -89906,9 +91175,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Moanaunmardeaventuras2016/master.m3u8",
       "createdAt": "2026-08-11T02:59:10.877Z",
-      "updatedAt": "2026-08-11T02:59:10.877Z",
+      "updatedAt": "2026-08-15T03:48:19.903Z",
       "addedAt": "2026-08-11T02:59:10.877Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Auliʻi Cravalho",
+        "Dwayne Johnson",
+        "Rachel House",
+        "Temuera Morrison",
+        "Jemaine Clement",
+        "Nicole Scherzinger"
+      ],
+      "director": "Ron Clements, John Musker",
+      "recommended": "Recomendado 76%"
     },
     {
       "id": "movie_528",
@@ -89937,9 +91216,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Starwarsthemandalorianandgrogu2026/master.m3u8",
       "createdAt": "2026-08-11T03:00:39.027Z",
-      "updatedAt": "2026-08-11T03:00:39.027Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T03:00:39.027Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum"
+      ],
+      "director": "Jon Favreau",
+      "recommended": "Recomendado 75%"
     },
     {
       "id": "movie_529",
@@ -89966,9 +91255,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Evildeadenllamas2026/master.m3u8",
       "createdAt": "2026-08-11T03:18:10.552Z",
-      "updatedAt": "2026-08-11T03:18:10.552Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T03:18:10.552Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Souheila Yacoub",
+        "Tandi Wright",
+        "Hunter Doohan",
+        "Luciane Buchanan",
+        "Erroll Shand",
+        "Maude Davey"
+      ],
+      "director": "Sébastien Vaniček",
+      "recommended": "Recomendado 79%"
     },
     {
       "id": "movie_530",
@@ -89997,9 +91296,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Reyesdelasolas2007/master.m3u8",
       "createdAt": "2026-08-11T03:19:38.758Z",
-      "updatedAt": "2026-08-11T03:19:38.758Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T03:19:38.758Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Shia LaBeouf",
+        "Jeff Bridges",
+        "Zooey Deschanel",
+        "Jon Heder",
+        "James Woods",
+        "Diedrich Bader"
+      ],
+      "director": "Ash Brannon, Chris Buck",
+      "recommended": "Recomendado 65%"
     },
     {
       "id": "movie_531",
@@ -90028,9 +91337,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HogarALaDeriva2022/master.m3u8",
       "createdAt": "2026-08-11T03:20:45.554Z",
-      "updatedAt": "2026-08-11T03:20:45.554Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T03:20:45.554Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "田村睦心",
+        "瀬戸麻沙美",
+        "村瀬歩",
+        "山下大輝",
+        "小林由美子",
+        "水瀬いのり"
+      ],
+      "director": "石田祐康",
+      "recommended": "Recomendado 74%"
     },
     {
       "id": "movie_532",
@@ -90060,9 +91379,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Primitivewar2025/master.m3u8",
       "createdAt": "2026-08-11T04:53:39.028Z",
-      "updatedAt": "2026-08-11T04:53:39.028Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T04:53:39.028Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Jeremy Piven",
+        "Tricia Helfer",
+        "Ryan Kwanten",
+        "Nick Wechsler",
+        "Anthony Ingruber",
+        "Aaron Glenane"
+      ],
+      "director": "Luke Sparke",
+      "recommended": "Recomendado 67%"
     },
     {
       "id": "movie_533",
@@ -90092,9 +91421,19 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unapelculademinecraft2025/master.m3u8",
       "createdAt": "2026-08-11T04:55:04.313Z",
-      "updatedAt": "2026-08-11T04:55:04.313Z",
+      "updatedAt": "2026-08-15T03:48:19.904Z",
       "addedAt": "2026-08-11T04:55:04.313Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "cast": [
+        "Jason Momoa",
+        "Jack Black",
+        "Sebastian Eugene Hansen",
+        "Emma Myers",
+        "Danielle Brooks",
+        "Jennifer Coolidge"
+      ],
+      "director": "Jared Hess",
+      "recommended": "Recomendado 62%"
     }
   ],
   "sagas": [
