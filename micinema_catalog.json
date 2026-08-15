@@ -12717,7 +12717,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "LQ",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-11",
       "genres": [
@@ -26770,7 +26770,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -29213,7 +29213,7 @@
       "description": "Sigue a Ben Reilly, un investigador privado veterano en el Nueva York de los años 30. Tras dejar atrás su pasado como el único superhéroe de la ciudad, se ve obligado a volver a usar la máscara al verse envuelto en una red de mafiosos, monstruos y una femme fatale.",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-18",
       "genres": [
@@ -29322,7 +29322,7 @@
       "description": "Sigue a Ben Reilly, un investigador privado veterano en el Nueva York de los años 30. Tras dejar atrás su pasado como el único superhéroe de la ciudad, se ve obligado a volver a usar la máscara al verse envuelto en una red de mafiosos, monstruos y una femme fatale.",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-17",
       "genres": [
@@ -35688,7 +35688,7 @@
       "duration": "",
       "rating": "",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 0,
       "releaseDate": "",
       "genres": [],
@@ -35809,7 +35809,7 @@
       "duration": "",
       "rating": "",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2005,
       "releaseDate": "2005-02-21",
       "genres": [
@@ -36452,7 +36452,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-05-02",
       "genres": [
@@ -37043,7 +37043,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-04-03",
       "genres": [
@@ -37263,7 +37263,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-04-17",
       "genres": [
@@ -38147,7 +38147,7 @@
       "duration": "0h 24m",
       "rating": "TV-PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2015,
       "releaseDate": "2015-10-05",
       "genres": [
@@ -38458,7 +38458,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2015,
       "releaseDate": "2015-12-24",
       "genres": [
@@ -38638,7 +38638,7 @@
       "duration": "0h 23m",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2012,
       "releaseDate": "2012-04-14",
       "genres": [
@@ -39271,7 +39271,7 @@
       "duration": "1h 46min",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-06-15",
       "genres": [
@@ -39322,7 +39322,7 @@
       "duration": "0h 23m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2014,
       "releaseDate": "2014-04-09",
       "genres": [
@@ -39512,7 +39512,7 @@
       "duration": "",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1997,
       "releaseDate": "1997-04-01",
       "genres": [
@@ -54531,8 +54531,7 @@
       "createdAt": "2026-07-24T10:59:54.563Z",
       "updatedAt": "2026-07-24T11:13:00.561Z",
       "addedAt": "2026-07-24T10:59:54.563Z",
-      "addedBy": "carmesi",
-      "episodes": []
+      "addedBy": "carmesi"
     },
     {
       "id": "series_086",
@@ -54542,7 +54541,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1989,
       "releaseDate": "1989-12-17",
       "genres": [
@@ -63396,7 +63395,7 @@
       "duration": "0h 02m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2022,
       "releaseDate": "2022-04-04",
       "genres": [
@@ -63552,7 +63551,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-07-07",
       "genres": [
@@ -63964,7 +63963,7 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2022,
       "releaseDate": "2022-04-09",
       "genres": [
@@ -64567,7 +64566,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2023,
       "releaseDate": "2023-04-05",
       "genres": [
@@ -64736,7 +64735,7 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-01-14",
       "genres": [
@@ -65154,7 +65153,7 @@
       "duration": "0h 22m",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2010,
       "releaseDate": "2010-10-20",
       "genres": [
@@ -65778,7 +65777,7 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2000,
       "releaseDate": "2000-10-16",
       "genres": [
@@ -67977,7 +67976,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2009,
       "releaseDate": "2009-04-05",
       "genres": [
@@ -68728,7 +68727,7 @@
       "releaseDate": "2026-06-10",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "genres": [
         "Adventure",
         "Fantasy",
@@ -70079,7 +70078,7 @@
       "duration": "1h 49m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-02-27",
       "genres": [
@@ -70122,7 +70121,7 @@
       "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-11-26",
       "genres": [
@@ -70296,7 +70295,7 @@
       "duration": "1h 39m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-01-23",
       "genres": [
@@ -70331,7 +70330,7 @@
       "duration": "1h 49m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-06-20",
       "genres": [
@@ -70367,7 +70366,7 @@
       "duration": "2h 00m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-02-11",
       "genres": [
@@ -71950,7 +71949,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-14",
       "genres": [
@@ -72185,7 +72184,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -72228,7 +72227,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -72271,7 +72270,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -72513,7 +72512,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -72901,7 +72900,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-04-17",
       "genres": [
@@ -76371,7 +76370,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-12",
       "genres": [
@@ -76491,7 +76490,7 @@
       "duration": "",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-12",
       "genres": [
@@ -76535,7 +76534,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-12",
       "genres": [
@@ -76578,7 +76577,7 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-12",
       "genres": [
@@ -76710,7 +76709,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-14",
       "genres": [
@@ -76840,7 +76839,7 @@
       "duration": "",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-14",
       "genres": [
@@ -80692,7 +80691,7 @@
       "duration": "1h 50m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-05-06",
       "genres": [
@@ -82128,7 +82127,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2026,
       "releaseDate": "2026-06-20",
       "genres": [
@@ -84737,7 +84736,7 @@
       "duration": "1h 18m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2000,
       "releaseDate": "2000-12-15",
       "genres": [
@@ -84781,7 +84780,7 @@
       "duration": "1h 48m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-05-17",
       "genres": [
@@ -84823,7 +84822,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2009,
       "releaseDate": "2009-07-18",
       "genres": [
@@ -84860,7 +84859,7 @@
       "duration": "2h 30m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-12-13",
       "genres": [
@@ -84892,7 +84891,7 @@
       "duration": "2h 30m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-12-13",
       "genres": [
@@ -84933,7 +84932,7 @@
       "duration": "2h 21m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-12-18",
       "genres": [
@@ -84974,7 +84973,7 @@
       "duration": "2h 02m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2005,
       "releaseDate": "2005-09-16",
       "genres": [
@@ -85015,7 +85014,7 @@
       "duration": "1h 48m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1999,
       "releaseDate": "1999-06-30",
       "genres": [
@@ -85057,7 +85056,7 @@
       "duration": "1h 43m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2010,
       "releaseDate": "2010-06-30",
       "genres": [
@@ -85088,7 +85087,7 @@
       "duration": "1h 48m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-04-29",
       "genres": [
@@ -85117,7 +85116,7 @@
       "duration": "1h 39m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1964,
       "releaseDate": "1964-09-12",
       "genres": [
@@ -85156,7 +85155,7 @@
       "duration": "1h 50m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-09-28",
       "genres": [
@@ -85196,7 +85195,7 @@
       "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1996,
       "releaseDate": "1996-04-11",
       "genres": [
@@ -85236,7 +85235,7 @@
       "duration": "1h 54m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2014,
       "releaseDate": "2014-09-18",
       "genres": [
@@ -85318,7 +85317,7 @@
       "duration": "1h 50m",
       "rating": "",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "",
       "genres": [
@@ -85365,7 +85364,7 @@
       "duration": "1h 53m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2008,
       "releaseDate": "2008-06-12",
       "genres": [
@@ -85397,7 +85396,7 @@
       "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-07-22",
       "genres": [
@@ -85512,7 +85511,7 @@
       "duration": "1h 36m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-06-03",
       "genres": [
@@ -85542,7 +85541,7 @@
       "duration": "2h 06m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2008,
       "releaseDate": "2008-04-30",
       "genres": [
@@ -85574,7 +85573,7 @@
       "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2010,
       "releaseDate": "2010-04-28",
       "genres": [
@@ -85606,7 +85605,7 @@
       "duration": "1h 49m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-01-14",
       "genres": [
@@ -85637,7 +85636,7 @@
       "duration": "1h 25m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-07-18",
       "genres": [
@@ -85670,7 +85669,7 @@
       "duration": "1h 24m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1999,
       "releaseDate": "1999-07-17",
       "genres": [
@@ -85703,7 +85702,7 @@
       "duration": "1h 32m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2000,
       "releaseDate": "2000-07-08",
       "genres": [
@@ -85736,7 +85735,7 @@
       "duration": "1h 13m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2015,
       "releaseDate": "2015-07-18",
       "genres": [
@@ -85769,7 +85768,7 @@
       "duration": "1h 16m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2014,
       "releaseDate": "2014-07-19",
       "genres": [
@@ -85803,7 +85802,7 @@
       "duration": "1h 38m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-07-12",
       "genres": [
@@ -85836,7 +85835,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2018,
       "releaseDate": "2018-07-13",
       "genres": [
@@ -85868,7 +85867,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-07-16",
       "genres": [
@@ -85901,7 +85900,7 @@
       "duration": "1h 55m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-06-18",
       "genres": [
@@ -85932,7 +85931,7 @@
       "duration": "2h 21m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-06-03",
       "genres": [
@@ -85963,7 +85962,7 @@
       "duration": "2h 49m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-09-04",
       "genres": [
@@ -85994,7 +85993,7 @@
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-07-15",
       "genres": [
@@ -86026,7 +86025,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2020,
       "releaseDate": "2020-12-25",
       "genres": [
@@ -86058,7 +86057,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2008,
       "releaseDate": "2008-07-19",
       "genres": [
@@ -86090,7 +86089,7 @@
       "duration": "1h 28m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-07-16",
       "genres": [
@@ -86123,7 +86122,7 @@
       "duration": "1h 20m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2001,
       "releaseDate": "2001-07-07",
       "genres": [
@@ -86156,7 +86155,7 @@
       "duration": "1h 36m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2013,
       "releaseDate": "2013-07-13",
       "genres": [
@@ -86188,7 +86187,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-07-16",
       "genres": [
@@ -86221,7 +86220,7 @@
       "duration": "1h 36m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2010,
       "releaseDate": "2010-07-10",
       "genres": [
@@ -86253,7 +86252,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2012,
       "releaseDate": "2012-07-13",
       "genres": [
@@ -86287,7 +86286,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2009,
       "releaseDate": "2009-07-18",
       "genres": [
@@ -86319,7 +86318,7 @@
       "duration": "1h 45m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2006,
       "releaseDate": "2006-07-15",
       "genres": [
@@ -86353,7 +86352,7 @@
       "duration": "1h 43m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2005,
       "releaseDate": "2005-07-16",
       "genres": [
@@ -86387,7 +86386,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2007,
       "releaseDate": "2007-07-14",
       "genres": [
@@ -86421,7 +86420,7 @@
       "duration": "1h 38m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2004,
       "releaseDate": "2004-07-22",
       "genres": [
@@ -86453,7 +86452,7 @@
       "duration": "1h 21m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2003,
       "releaseDate": "2003-07-19",
       "genres": [
@@ -86487,7 +86486,7 @@
       "duration": "1h 20m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2002,
       "releaseDate": "2002-07-13",
       "genres": [
@@ -86520,7 +86519,7 @@
       "duration": "2h 06m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2008,
       "releaseDate": "2008-04-30",
       "genres": [
@@ -86552,7 +86551,7 @@
       "duration": "1h 45m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-05-03",
       "genres": [
@@ -86583,7 +86582,7 @@
       "duration": "2h 27m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-04-27",
       "genres": [
@@ -86615,7 +86614,7 @@
       "duration": "2h 16m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-04-25",
       "genres": [
@@ -86647,7 +86646,7 @@
       "duration": "2h 14m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2018,
       "releaseDate": "2018-02-13",
       "genres": [
@@ -86679,7 +86678,7 @@
       "duration": "2h 16m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2014,
       "releaseDate": "2014-03-20",
       "genres": [
@@ -86711,7 +86710,7 @@
       "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2013,
       "releaseDate": "2013-04-18",
       "genres": [
@@ -86743,7 +86742,7 @@
       "duration": "1h 43m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1996,
       "releaseDate": "1996-11-27",
       "genres": [
@@ -86774,7 +86773,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2000,
       "releaseDate": "2000-10-07",
       "genres": [
@@ -86805,7 +86804,7 @@
       "duration": "1h 19m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1961,
       "releaseDate": "1961-01-25",
       "genres": [
@@ -86838,7 +86837,7 @@
       "duration": "2h 10m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-03-27",
       "genres": [
@@ -86870,7 +86869,7 @@
       "duration": "1h 49m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-03-19",
       "genres": [
@@ -86901,7 +86900,7 @@
       "duration": "1h 23m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1938,
       "releaseDate": "1938-01-22",
       "genres": [
@@ -86933,7 +86932,7 @@
       "duration": "1h 53m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-05-25",
       "genres": [
@@ -86965,7 +86964,7 @@
       "duration": "1h 15m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1951,
       "releaseDate": "1951-08-09",
       "genres": [
@@ -86998,7 +86997,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1950,
       "releaseDate": "1950-02-22",
       "genres": [
@@ -87030,7 +87029,7 @@
       "duration": "1h 27m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2009,
       "releaseDate": "2009-10-14",
       "genres": [
@@ -87062,7 +87061,7 @@
       "duration": "0h 06m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2012,
       "releaseDate": "2012-01-13",
       "genres": [
@@ -87095,7 +87094,7 @@
       "duration": "1h 08m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2002,
       "releaseDate": "2002-02-06",
       "genres": [
@@ -87127,7 +87126,7 @@
       "duration": "1h 55m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2004,
       "releaseDate": "2004-08-06",
       "genres": [
@@ -87159,7 +87158,7 @@
       "duration": "1h 09m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2006,
       "releaseDate": "2006-11-09",
       "genres": [
@@ -87192,7 +87191,7 @@
       "duration": "1h 31m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1996,
       "releaseDate": "1996-06-21",
       "genres": [
@@ -87224,7 +87223,7 @@
       "duration": "1h 33m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1997,
       "releaseDate": "1997-06-13",
       "genres": [
@@ -87258,7 +87257,7 @@
       "duration": "1h 20m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1963,
       "releaseDate": "1963-11-20",
       "genres": [
@@ -87289,7 +87288,7 @@
       "duration": "1h 40m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2010,
       "releaseDate": "2010-11-24",
       "genres": [
@@ -87321,7 +87320,7 @@
       "duration": "1h 18m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1970,
       "releaseDate": "1970-12-24",
       "genres": [
@@ -87354,7 +87353,7 @@
       "duration": "1h 33m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1989,
       "releaseDate": "1989-06-23",
       "genres": [
@@ -87387,7 +87386,7 @@
       "duration": "1h 55m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2004,
       "releaseDate": "2004-10-27",
       "genres": [
@@ -87420,7 +87419,7 @@
       "duration": "1h 58m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2018,
       "releaseDate": "2018-06-14",
       "genres": [
@@ -87453,7 +87452,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1990,
       "releaseDate": "1990-08-03",
       "genres": [
@@ -87487,7 +87486,7 @@
       "duration": "1h 36m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1982,
       "releaseDate": "1982-07-09",
       "genres": [
@@ -87519,7 +87518,7 @@
       "duration": "1h 23m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1973,
       "releaseDate": "1973-11-08",
       "genres": [
@@ -87551,7 +87550,7 @@
       "duration": "1h 10m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1942,
       "releaseDate": "1942-08-14",
       "genres": [
@@ -87583,7 +87582,7 @@
       "duration": "2h 19m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1964,
       "releaseDate": "1964-12-17",
       "genres": [
@@ -87615,7 +87614,7 @@
       "duration": "1h 36m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-11-25",
       "genres": [
@@ -87648,7 +87647,7 @@
       "duration": "1 hora 57 minutos",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2006,
       "releaseDate": "2006-06-09",
       "genres": [
@@ -87679,7 +87678,7 @@
       "duration": "1h 49m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-06-15",
       "genres": [
@@ -87711,7 +87710,7 @@
       "duration": "1h 04m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1941,
       "releaseDate": "1941-10-31",
       "genres": [
@@ -87742,7 +87741,7 @@
       "duration": "1h 46m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-06-11",
       "genres": [
@@ -87775,7 +87774,7 @@
       "duration": "1h 54m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2001,
       "releaseDate": "2001-08-03",
       "genres": [
@@ -87806,7 +87805,7 @@
       "duration": "1h 48m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1968,
       "releaseDate": "1968-12-23",
       "genres": [
@@ -87838,7 +87837,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2003,
       "releaseDate": "2003-03-02",
       "genres": [
@@ -87871,7 +87870,7 @@
       "duration": "1h 31m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1991,
       "releaseDate": "1991-10-22",
       "genres": [
@@ -87903,7 +87902,7 @@
       "duration": "1h 43m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-11-20",
       "genres": [
@@ -87937,7 +87936,7 @@
       "duration": "1h 58m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-07-12",
       "genres": [
@@ -87970,7 +87969,7 @@
       "duration": "1h 42m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2013,
       "releaseDate": "2013-11-20",
       "genres": [
@@ -88003,7 +88002,7 @@
       "duration": "1h 27m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2003,
       "releaseDate": "2003-08-18",
       "genres": [
@@ -88035,7 +88034,7 @@
       "duration": "1h 32m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1997,
       "releaseDate": "1997-07-15",
       "genres": [
@@ -88067,7 +88066,7 @@
       "duration": "1h 09m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-02-16",
       "genres": [
@@ -88099,7 +88098,7 @@
       "duration": "2h 08m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-05-22",
       "genres": [
@@ -88131,7 +88130,7 @@
       "duration": "1h 21m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-10-24",
       "genres": [
@@ -88164,7 +88163,7 @@
       "duration": "1h 25m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1994,
       "releaseDate": "1994-06-15",
       "genres": [
@@ -88196,7 +88195,7 @@
       "duration": "1h 17m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2004,
       "releaseDate": "2004-10-28",
       "genres": [
@@ -88229,7 +88228,7 @@
       "duration": "1h 46m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-04-07",
       "genres": [
@@ -88261,7 +88260,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2003,
       "releaseDate": "2003-02-07",
       "genres": [
@@ -88293,7 +88292,7 @@
       "duration": "1h 18m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1967,
       "releaseDate": "1967-10-18",
       "genres": [
@@ -88325,7 +88324,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2007,
       "releaseDate": "2007-02-06",
       "genres": [
@@ -88357,7 +88356,7 @@
       "duration": "1h 29m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2012,
       "releaseDate": "2012-09-03",
       "genres": [
@@ -88388,7 +88387,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2003,
       "releaseDate": "2003-05-30",
       "genres": [
@@ -88420,7 +88419,7 @@
       "duration": "1h 37m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-06-16",
       "genres": [
@@ -88452,7 +88451,7 @@
       "duration": "1h 17m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1990,
       "releaseDate": "1990-11-16",
       "genres": [
@@ -88486,7 +88485,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1977,
       "releaseDate": "1977-06-22",
       "genres": [
@@ -88519,7 +88518,7 @@
       "duration": "1h 21m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1996,
       "releaseDate": "1996-05-20",
       "genres": [
@@ -88551,7 +88550,7 @@
       "duration": "1h 27m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1992,
       "releaseDate": "1992-11-25",
       "genres": [
@@ -88584,7 +88583,7 @@
       "duration": "1h 09m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1994,
       "releaseDate": "1994-12-15",
       "genres": [
@@ -88616,7 +88615,7 @@
       "duration": "1h 28m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1999,
       "releaseDate": "1999-06-17",
       "genres": [
@@ -88648,7 +88647,7 @@
       "duration": "1h 31m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2008,
       "releaseDate": "2008-10-03",
       "genres": [
@@ -88680,7 +88679,7 @@
       "duration": "1h 24m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2011,
       "releaseDate": "2011-02-01",
       "genres": [
@@ -88711,7 +88710,7 @@
       "duration": "2h 00m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2020,
       "releaseDate": "2020-09-04",
       "genres": [
@@ -88743,7 +88742,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2005,
       "releaseDate": "2005-06-13",
       "genres": [
@@ -88775,7 +88774,7 @@
       "duration": "2h 15m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2023,
       "releaseDate": "2023-05-18",
       "genres": [
@@ -88807,7 +88806,7 @@
       "duration": "1h 21m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1995,
       "releaseDate": "1995-06-16",
       "genres": [
@@ -88839,7 +88838,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-08-04",
       "genres": [
@@ -88871,7 +88870,7 @@
       "duration": "1h 15m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2000,
       "releaseDate": "2000-01-23",
       "genres": [
@@ -88904,7 +88903,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2002,
       "releaseDate": "2002-02-14",
       "genres": [
@@ -88937,7 +88936,7 @@
       "duration": "1h 19m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2004,
       "releaseDate": "2004-11-03",
       "genres": [
@@ -88970,7 +88969,7 @@
       "duration": "1h 14m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2002,
       "releaseDate": "2002-02-23",
       "genres": [
@@ -89002,7 +89001,7 @@
       "duration": "1h 32m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2001,
       "releaseDate": "2001-11-01",
       "genres": [
@@ -89035,7 +89034,7 @@
       "duration": "1h 28m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1998,
       "releaseDate": "1998-06-18",
       "genres": [
@@ -89067,7 +89066,7 @@
       "duration": "2h 09m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2017,
       "releaseDate": "2017-03-16",
       "genres": [
@@ -89098,7 +89097,7 @@
       "duration": "1h 36m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2013,
       "releaseDate": "2013-06-19",
       "genres": [
@@ -89131,7 +89130,7 @@
       "duration": "1h 22m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1989,
       "releaseDate": "1989-11-17",
       "genres": [
@@ -89163,7 +89162,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 1997,
       "releaseDate": "1997-11-11",
       "genres": [
@@ -89195,7 +89194,7 @@
       "duration": "1h 50m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2023,
       "releaseDate": "2023-12-22",
       "genres": [
@@ -89227,7 +89226,7 @@
       "duration": "2h 29m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2006,
       "releaseDate": "2006-05-17",
       "genres": [
@@ -89257,7 +89256,7 @@
       "duration": "1h 55m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-05-26",
       "genres": [
@@ -89286,7 +89285,7 @@
       "duration": "1h 29m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2019,
       "releaseDate": "2019-08-30",
       "genres": [
@@ -89317,7 +89316,7 @@
       "duration": "1h 40m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2024,
       "releaseDate": "2024-11-21",
       "genres": [
@@ -89350,7 +89349,7 @@
       "duration": "1h 52m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-08-07",
       "genres": [
@@ -89382,7 +89381,7 @@
       "duration": "1h 47m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2016,
       "releaseDate": "2016-10-13",
       "genres": [
@@ -89414,7 +89413,7 @@
       "duration": "2h 12m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-05-20",
       "genres": [
@@ -89445,7 +89444,7 @@
       "duration": "2h 00m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2026,
       "releaseDate": "2026-07-07",
       "genres": [
@@ -89474,7 +89473,7 @@
       "duration": "1h 25m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2007,
       "releaseDate": "2007-06-08",
       "genres": [
@@ -89505,7 +89504,7 @@
       "duration": "2h 00m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2022,
       "releaseDate": "2022-09-09",
       "genres": [
@@ -89536,7 +89535,7 @@
       "duration": "2h 15m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-08-21",
       "genres": [
@@ -89568,7 +89567,7 @@
       "duration": "1h 41m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "recently_added",
       "year": 2025,
       "releaseDate": "2025-03-31",
       "genres": [
