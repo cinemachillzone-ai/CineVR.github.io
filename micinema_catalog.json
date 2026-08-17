@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 635,
+    "catalogCount": 636,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91876,6 +91876,46 @@
       "createdAt": "2026-08-17T16:48:29.481Z",
       "updatedAt": "2026-08-17T16:48:29.481Z",
       "addedAt": "2026-08-17T16:48:29.481Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_594",
+      "type": "movie",
+      "title": "Barbie y la magia del pegaso",
+      "description": "Barbie aprende a volar en su primer cuento de hadas y princesas con argumento original. La princesa Annika (Barbie) emprende una fabulosa aventura al trabar amistad con Brietta, un espléndido caballo alado que la lleva al hermosísimo Reino de las Nubes. Annika tiene solo 3 días para romper el conjuro de Wenlock, un brujo malvado que ha convertido en piedra a su familia. En su empeño por derrotar a Wenlok, Annika conoce a nuevos amigos y juntos viajan a bosques prohibidos, patinan en cavernas heladas y vuelan sobre las nubes intentando construir una varita mágica de luz.",
+      "duration": "1h 25m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Kathleen Barr",
+        "Lalainia Lindbjerg",
+        "Colin Murdock",
+        "Mark Hildreth",
+        "Brian Drummond"
+      ],
+      "director": "Greg Richardson",
+      "recommended": "Recomendado 72%",
+      "year": 2005,
+      "releaseDate": "2005-10-04",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 155,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLaMagiaDePegaso2005/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLaMagiaDePegaso2005/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLaMagiaDePegaso2005/master.m3u8",
+      "createdAt": "2026-08-17T16:52:00.485Z",
+      "updatedAt": "2026-08-17T16:52:00.485Z",
+      "addedAt": "2026-08-17T16:52:00.485Z",
       "addedBy": "seanf"
     }
   ],
