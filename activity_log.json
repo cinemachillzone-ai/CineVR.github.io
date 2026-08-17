@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:15:39.700Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_342",
-    "title": "Huérfanos de Brooklyn"
-  },
-  {
     "ts": "2026-06-16T04:18:15.566Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3600,6 +3593,14 @@
     "action": "EDIT_SERIES",
     "target": "series_068",
     "title": "Gameoverse",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-08-17T13:47:52.525Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_075",
+    "title": "Avatar La leyenda de Aang Live Action",
     "eps_changed": 0
   }
 ]
