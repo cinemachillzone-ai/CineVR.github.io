@@ -9,6 +9,16 @@
       "id": "cmsxucl6g",
       "code": "ij2",
       "creada": "2026-08-17T23:04:35.129Z"
+    },
+    {
+      "nombre": "Grupo VRC",
+      "kind": "group",
+      "target": "ABCD.1234",
+      "slot": 1,
+      "seconds": 90,
+      "id": "cmsxuclw6",
+      "code": null,
+      "creada": "2026-08-17T23:04:36.054Z"
     }
   ],
   "atlasVersion": 1,
