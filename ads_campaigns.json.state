@@ -29,6 +29,16 @@
       "id": "cmsxucmk3",
       "code": "4vy",
       "creada": "2026-08-17T23:04:36.916Z"
+    },
+    {
+      "nombre": "Fuera de franja",
+      "kind": "web",
+      "target": "https://fuera.com",
+      "slot": 3,
+      "franja": "02:00-04:00",
+      "id": "cmsxucn6w",
+      "code": "5jj",
+      "creada": "2026-08-17T23:04:37.736Z"
     }
   ],
   "atlasVersion": 1,
