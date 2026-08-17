@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:31:55.009Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_353",
-    "title": "Show Girls"
-  },
-  {
     "ts": "2026-06-16T04:33:13.365Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_596",
     "title": "Barbie y las 12 princesas bailarinas"
+  },
+  {
+    "ts": "2026-08-17T17:01:55.364Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_597",
+    "title": "Barbie: Fairytopia"
   }
 ]
