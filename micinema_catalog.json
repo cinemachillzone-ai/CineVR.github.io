@@ -35912,17 +35912,32 @@
       "id": "series_075",
       "type": "series",
       "title": "Avatar La leyenda de Aang Live Action",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "En un mundo dividido en cuatro naciones vinculadas a los elementos agua, tierra, fuego y aire, Aang descubre que es el nuevo Avatar, el único capaz de dominar los cuatro elementos y mantener el equilibrio del mundo. Después de despertar tras permanecer congelado durante un siglo, descubre que la Nación del Fuego ha iniciado una guerra y que los Maestros Aire han sido exterminados. Junto a Katara y Sokka, Aang emprende un viaje para dominar los elementos y enfrentarse a la amenaza de la Nación del Fuego.",
+      "duration": "46min",
+      "rating": "TV-PG",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "year": 2024,
+      "releaseDate": "2024-02-22",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "cast": [
+        "Gordon Cormier",
+        "Kiawentiio",
+        "Ian Ousley",
+        "Dallas Liu",
+        "Paul Sun-Hyung Lee",
+        "Ken Leung",
+        "Daniel Dae Kim",
+        "Elizabeth Yu"
+      ],
+      "director": "Michael Goi, Roseanne Liang y Jabbar Raisani",
+      "recommended": "Recomendado 70%",
       "languages": [
         "language_Spanish"
       ],
@@ -36025,9 +36040,10 @@
         }
       ],
       "createdAt": "2026-08-02T06:51:05.530Z",
-      "updatedAt": "2026-08-02T06:51:05.530Z",
+      "updatedAt": "2026-08-17T13:47:37.937Z",
       "addedAt": "2026-08-02T06:51:05.530Z",
-      "addedBy": "carmesi"
+      "addedBy": "carmesi",
+      "saga": "Avatar Studios"
     },
     {
       "id": "series_076",
