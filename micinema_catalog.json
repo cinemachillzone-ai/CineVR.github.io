@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 656,
+    "catalogCount": 657,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92732,6 +92732,36 @@
       "createdAt": "2026-08-17T17:56:27.994Z",
       "updatedAt": "2026-08-17T17:56:27.994Z",
       "addedAt": "2026-08-17T17:56:27.994Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_616",
+      "type": "movie",
+      "title": "Tinker Bell La Hada Pastelera",
+      "description": "",
+      "duration": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "year": 2013,
+      "releaseDate": "",
+      "genres": [],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 16,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellLaHadaPastelera2026/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellLaHadaPastelera2026/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellLaHadaPastelera2026/master.m3u8",
+      "createdAt": "2026-08-17T17:59:09.983Z",
+      "updatedAt": "2026-08-17T17:59:09.983Z",
+      "addedAt": "2026-08-17T17:59:09.983Z",
       "addedBy": "seanf"
     }
   ],
