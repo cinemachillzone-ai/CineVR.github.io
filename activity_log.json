@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:28:25.757Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_351",
-    "title": "Llegamos en son de paz"
-  },
-  {
     "ts": "2026-06-16T04:29:33.711Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_594",
     "title": "Barbie y la magia del pegaso"
+  },
+  {
+    "ts": "2026-08-17T16:54:57.298Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_595",
+    "title": "Barbie: Escuadrón secreto"
   }
 ]
