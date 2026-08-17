@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 636,
+    "catalogCount": 637,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91916,6 +91916,47 @@
       "createdAt": "2026-08-17T16:52:00.485Z",
       "updatedAt": "2026-08-17T16:52:00.485Z",
       "addedAt": "2026-08-17T16:52:00.485Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_595",
+      "type": "movie",
+      "title": "Barbie: Escuadrón secreto",
+      "description": "Barbie y sus mejores amigas Teresa y Renee son unas gimnastas que ponen entusiasmo en cada uno de sus entrenamientos, pero no siempre las cosas les resultan bien. Sin embargo en esta película, la gimnasia se habrá de combinar con una emocionante ¡aventura llena de acción! Cuando menos lo esperan, Barbie, Teresa y Renee, se ven envueltas en una peligrosa red de espionaje que habrá de necesitar de las habilidades de gimnasia de las chicas. En ese momento, Barbie, Teresa y Renee se convierten en agentes secretos encubiertos de esta agencia ultra secreta de espionaje y además deberán ponerse a prueba como excelentes gimnastas.",
+      "duration": "1h 15m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Erica Lindbeck",
+        "Stephanie Sheh",
+        "Jenny Pellicer",
+        "Alyssya Swales",
+        "Elizabeth Irving",
+        "Brian Dobson"
+      ],
+      "director": "Conrad Helten",
+      "recommended": "Recomendado 70%",
+      "year": 2016,
+      "releaseDate": "2016-01-15",
+      "genres": [
+        "Action",
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 156,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuadrnSecreto2016/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuadrnSecreto2016/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuadrnSecreto2016/master.m3u8",
+      "createdAt": "2026-08-17T16:54:42.752Z",
+      "updatedAt": "2026-08-17T16:54:42.752Z",
+      "addedAt": "2026-08-17T16:54:42.752Z",
       "addedBy": "seanf"
     }
   ],
