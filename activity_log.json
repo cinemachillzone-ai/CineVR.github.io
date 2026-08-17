@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:23:57.873Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_349",
-    "title": "Una aventura extraordinaria"
-  },
-  {
     "ts": "2026-06-16T04:26:11.437Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_592",
     "title": "Tinker Bell y el Secreto de las Hadas"
+  },
+  {
+    "ts": "2026-08-17T16:48:42.851Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_593",
+    "title": "Barbie: Aventura de princesas"
   }
 ]
