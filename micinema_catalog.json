@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 650,
+    "catalogCount": 651,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92489,6 +92489,46 @@
       "createdAt": "2026-08-17T17:33:54.343Z",
       "updatedAt": "2026-08-17T17:33:54.343Z",
       "addedAt": "2026-08-17T17:33:54.343Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_609",
+      "type": "movie",
+      "title": "Barbie y las tres mosqueteras",
+      "description": "Barbie interpreta a Corrine, una hermosa joven que deja su casa en París, una chica decidida a cumplir su ambición de convertirse en un mosquetero. A lo largo del camino conoce a otras tres niñas Vevecca, Alamina y Renée, que comparten el mismo sueño y cuando descubren un complot para perjudicar al Príncipe Louis, se dan cuenta que deben usar sus habilidades para salvar al Reino.",
+      "duration": "1h 21m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Tim Curry",
+        "Kira Tozer",
+        "Willow Johnson",
+        "Dorla Bell",
+        "Nicole Oliver"
+      ],
+      "director": "William Lau",
+      "recommended": "Recomendado 73%",
+      "year": 2009,
+      "releaseDate": "2009-09-15",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 10,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLasTresMosqueteras2009/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLasTresMosqueteras2009/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLasTresMosqueteras2009/master.m3u8",
+      "createdAt": "2026-08-17T17:34:39.818Z",
+      "updatedAt": "2026-08-17T17:34:39.818Z",
+      "addedAt": "2026-08-17T17:34:39.818Z",
       "addedBy": "seanf"
     }
   ],
