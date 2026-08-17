@@ -19,6 +19,16 @@
       "id": "cmsxuclw6",
       "code": null,
       "creada": "2026-08-17T23:04:36.054Z"
+    },
+    {
+      "nombre": "En franja",
+      "kind": "web",
+      "target": "https://enfranja.com",
+      "slot": 2,
+      "franja": "23:00-01:00",
+      "id": "cmsxucmk3",
+      "code": "4vy",
+      "creada": "2026-08-17T23:04:36.916Z"
     }
   ],
   "atlasVersion": 1,
