@@ -92738,16 +92738,24 @@
       "id": "movie_616",
       "type": "movie",
       "title": "Tinker Bell La Hada Pastelera",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "Tink reta a Gelata, la mejor hada repostera de la Vaguada de las Hadas, a un concurso de cocina para preparar el pastel definitivo para la fiesta de la Reina Clarion. Con ayuda de sus amigas, Tink deberá usar su ingenio de hada artesana para demostrar que la creatividad puede competir con la repostería profesional.",
+      "duration": "6min",
+      "rating": "G",
       "quality": "HD",
       "section": "recently_added",
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "Mae Whitman",
+        "Lucy Liu",
+        "Raven-Symoné",
+        "Megan Hilty",
+        "Pamela Adlon",
+        "Giada De Laurentiis",
+        "Jeff Corwin"
+      ],
+      "director": "Elliot M. Bour",
+      "recommended": "Recomendado 75%",
       "year": 2013,
-      "releaseDate": "",
+      "releaseDate": "2013-10-20",
       "genres": [],
       "languages": [
         "language_Spanish"
@@ -92760,7 +92768,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellLaHadaPastelera2026/master.m3u8",
       "createdAt": "2026-08-17T17:59:09.983Z",
-      "updatedAt": "2026-08-17T17:59:09.983Z",
+      "updatedAt": "2026-08-17T18:02:48.076Z",
       "addedAt": "2026-08-17T17:59:09.983Z",
       "addedBy": "seanf"
     }
