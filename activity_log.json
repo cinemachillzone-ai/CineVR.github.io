@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:21:15.732Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_346",
-    "title": "Misión de rescate 2"
-  },
-  {
     "ts": "2026-06-16T04:21:47.417Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_589",
     "title": "Tinker Bell: Hadas y Piratas"
+  },
+  {
+    "ts": "2026-08-17T16:35:24.965Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_590",
+    "title": "Barbie: Rapunzel"
   }
 ]
