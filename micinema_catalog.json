@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 652,
+    "catalogCount": 653,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92569,6 +92569,46 @@
       "createdAt": "2026-08-17T17:37:43.416Z",
       "updatedAt": "2026-08-17T17:37:43.416Z",
       "addedAt": "2026-08-17T17:37:43.416Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_612",
+      "type": "movie",
+      "title": "Barbie: La Princesa de la Isla",
+      "description": "Tras naufragar en una isla de niña, Rosella (Barbie) crece aprendiendo a hablar y cantar con una familia de adorables animales: el panda rojo Sagi, el pavo real Azul y la elefantita Tika. Pero cuando el Príncipe Antonio descubre su paraíso tropical, la curiosidad por descubrir su pasado llevará a Rosella a viajar con el príncipe a su castillo. Mientras ella y sus amigos los animales exploran la civilización, descubrirán un malvado plan para ¡apoderarse del reino! Con su reconfortante final, Barbie la Princesa de los Animales, te enseñará que cuando el amor te guía, los milagros están más cerca de lo que puedas imaginar -información de la distribuidora-.",
+      "duration": "1h 25m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Melissa Lyons",
+        "Alessandro Juliani",
+        "Christopher Gaze",
+        "Steve Marvel",
+        "Susan Roman"
+      ],
+      "director": "Greg Richardson",
+      "recommended": "Recomendado 73%",
+      "year": 2007,
+      "releaseDate": "2007-09-17",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 12,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieComoLaPrincesaDeLaIsla2007/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieComoLaPrincesaDeLaIsla2007/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieComoLaPrincesaDeLaIsla2007/master.m3u8",
+      "createdAt": "2026-08-17T17:38:10.899Z",
+      "updatedAt": "2026-08-17T17:38:10.899Z",
+      "addedAt": "2026-08-17T17:38:10.899Z",
       "addedBy": "seanf"
     }
   ],
