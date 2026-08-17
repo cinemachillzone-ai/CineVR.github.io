@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 647,
+    "catalogCount": 648,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92369,6 +92369,46 @@
       "createdAt": "2026-08-17T17:26:53.753Z",
       "updatedAt": "2026-08-17T17:26:53.753Z",
       "addedAt": "2026-08-17T17:26:53.753Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_606",
+      "type": "movie",
+      "title": "Barbie Skipper Y La Gran Aventura Como Niñera",
+      "description": "Cuando su negocio de canguros sufre un revés, Skipper acepta un trabajo en el parque acuático... donde sus dotes para cuidar niños pronto le resultan muy útiles.",
+      "duration": "1h 02m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kirsten Day",
+        "America Young",
+        "Zaela Rae",
+        "Alex Cazares",
+        "Julyza Commodore",
+        "Bill Rogers"
+      ],
+      "director": "Steve Daye",
+      "recommended": "Recomendado 67%",
+      "year": 2023,
+      "releaseDate": "2023-03-03",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 7,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieSkipperYLaGranAventuraComoNiera2023/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieSkipperYLaGranAventuraComoNiera2023/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieSkipperYLaGranAventuraComoNiera2023/master.m3u8",
+      "createdAt": "2026-08-17T17:29:50.938Z",
+      "updatedAt": "2026-08-17T17:29:50.938Z",
+      "addedAt": "2026-08-17T17:29:50.938Z",
       "addedBy": "seanf"
     }
   ],
