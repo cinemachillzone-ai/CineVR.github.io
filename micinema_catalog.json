@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 642,
+    "catalogCount": 643,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92166,6 +92166,46 @@
       "createdAt": "2026-08-17T17:11:09.559Z",
       "updatedAt": "2026-08-17T17:11:09.559Z",
       "addedAt": "2026-08-17T17:11:09.559Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_601",
+      "type": "movie",
+      "title": "Barbie: Poder de Sirena",
+      "description": "Barbie y sus amigas en una nueva historia bajo el agua donde descubrirán que el verdadero poder proviene del interior.",
+      "duration": "1h 04m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "America Young",
+        "Tatiana Varria",
+        "Kirsten Day",
+        "Cassandra Lee Morris",
+        "Natalie Lashkari",
+        "Melanie Minichino"
+      ],
+      "director": "Ron Myrick",
+      "recommended": "Recomendado 64%",
+      "year": 2022,
+      "releaseDate": "2022-10-14",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 2,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbiePoderDeSirena2022/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbiePoderDeSirena2022/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbiePoderDeSirena2022/master.m3u8",
+      "createdAt": "2026-08-17T17:16:16.626Z",
+      "updatedAt": "2026-08-17T17:16:16.626Z",
+      "addedAt": "2026-08-17T17:16:16.626Z",
       "addedBy": "seanf"
     }
   ],
