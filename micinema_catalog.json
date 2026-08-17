@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 643,
+    "catalogCount": 644,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92206,6 +92206,47 @@
       "createdAt": "2026-08-17T17:16:16.626Z",
       "updatedAt": "2026-08-17T17:16:16.626Z",
       "addedAt": "2026-08-17T17:16:16.626Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_602",
+      "type": "movie",
+      "title": "Barbie: La Princesa y la plebeya",
+      "description": "La mítica muñeca Barbie cobra vida en esta moderna versión del cuento de Mark Twain \"El Príncipe y el Mendigo\" sobre un error de identidad y el poder de la amistad. Con la voz de Gisela como Barbie cantando siete temas originales llega la primera película musical de Barbie interpretando además un doble papel.",
+      "duration": "1h 26m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Melissa Lyons",
+        "Julie Stevens",
+        "Mark Hildreth",
+        "Mark Luna",
+        "Alessandro Juliani"
+      ],
+      "director": "William Lau",
+      "recommended": "Recomendado 75%",
+      "year": 2004,
+      "releaseDate": "2004-09-28",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 3,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLaPrincesaYLaPlebeya2004/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLaPrincesaYLaPlebeya2004/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLaPrincesaYLaPlebeya2004/master.m3u8",
+      "createdAt": "2026-08-17T17:18:42.079Z",
+      "updatedAt": "2026-08-17T17:18:42.079Z",
+      "addedAt": "2026-08-17T17:18:42.079Z",
       "addedBy": "seanf"
     }
   ],
