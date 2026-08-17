@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:13:50.719Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_340",
-    "title": "Horizonte profundo"
-  },
-  {
     "ts": "2026-06-16T04:15:09.270Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3599,5 +3592,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_587",
     "title": "Encanto"
+  },
+  {
+    "ts": "2026-08-17T13:38:50.087Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_058",
+    "title": "Blak Jack",
+    "eps_changed": 0
   }
 ]
