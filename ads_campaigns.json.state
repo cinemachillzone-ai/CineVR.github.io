@@ -1,16 +1,5 @@
 {
-  "campanas": [
-    {
-      "nombre": "Ya terminada",
-      "kind": "web",
-      "target": "https://vieja.com",
-      "slot": 4,
-      "hasta": "2026-01-01T00:00:00Z",
-      "id": "cmsxucoot",
-      "code": "4pz",
-      "creada": "2026-08-17T23:04:39.677Z"
-    }
-  ],
+  "campanas": [],
   "atlasVersion": 1,
   "grid": {
     "cols": 4,
