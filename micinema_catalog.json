@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 651,
+    "catalogCount": 652,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92529,6 +92529,46 @@
       "createdAt": "2026-08-17T17:34:39.818Z",
       "updatedAt": "2026-08-17T17:34:39.818Z",
       "addedAt": "2026-08-17T17:34:39.818Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_611",
+      "type": "movie",
+      "title": "Barbie en El Cascanueces",
+      "description": "Barbie y su hermana Kelly practican difíciles pasos de ballet para una importante presentación; sin embargo cuando la pequeña siente que no puede ejecutar correctamente los pasos de baile y quiere darse por vencida, Barbie le cuenta a Kelly una historia llena de la magia de la Navidad.",
+      "duration": "1h 17m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Kirby Morrow",
+        "Tim Curry",
+        "Peter Kelamis",
+        "Christopher Gaze",
+        "Ian James Corlett"
+      ],
+      "director": "Owen Hurley",
+      "recommended": "Recomendado 69%",
+      "year": 2001,
+      "releaseDate": "2001-09-30",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 11,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnElCascanueces2001/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnElCascanueces2001/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnElCascanueces2001/master.m3u8",
+      "createdAt": "2026-08-17T17:37:43.416Z",
+      "updatedAt": "2026-08-17T17:37:43.416Z",
+      "addedAt": "2026-08-17T17:37:43.416Z",
       "addedBy": "seanf"
     }
   ],
