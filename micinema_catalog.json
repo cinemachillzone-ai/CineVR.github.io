@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 634,
+    "catalogCount": 635,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91835,6 +91835,47 @@
       "createdAt": "2026-08-17T16:45:38.630Z",
       "updatedAt": "2026-08-17T16:45:38.630Z",
       "addedAt": "2026-08-17T16:45:38.630Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_593",
+      "type": "movie",
+      "title": "Barbie: Aventura de princesas",
+      "description": "Canta con Barbie en la nueva película musical Barbie Princess Adventure. La aventura comienza cuando Barbie y sus amigas viajan al país de Floravia para conocer a la princesa Amelia, que se parece mucho a Barbie. La princesa Amelia está nerviosa por convertirse en reina, por lo que se le ocurre un plan para cambiar de lugar con Barbie. Su secreto está a salvo hasta que un príncipe rival descubre la verdad. Depende de Barbie y sus amigos detener al príncipe y rescatar a la princesa a tiempo para su coronación. Con el apoyo de sus amigos, Barbie ayuda a la princesa Amelia a descubrir el poder de encontrar su propia voz. Llena de muchas canciones divertidas y nuevos amigos, esta emocionante celebración musical muestra que lo mejor que puedes ser eres tú mismo.",
+      "duration": "1h 12m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "America Young",
+        "Erica Lindbeck",
+        "Stephanie Sheh",
+        "Emma Adele Galvin",
+        "Ritesh Rajan",
+        "Desirae Whitfield"
+      ],
+      "director": "Conrad Helten",
+      "recommended": "Recomendado 69%",
+      "year": 2020,
+      "releaseDate": "2020-09-01",
+      "genres": [
+        "Animation",
+        "Music",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 154,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDePrincesas2020/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDePrincesas2020/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDePrincesas2020/master.m3u8",
+      "createdAt": "2026-08-17T16:48:29.481Z",
+      "updatedAt": "2026-08-17T16:48:29.481Z",
+      "addedAt": "2026-08-17T16:48:29.481Z",
       "addedBy": "seanf"
     }
   ],
