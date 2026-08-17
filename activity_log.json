@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:37:22.295Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_355",
-    "title": "Un paso adelante 4D"
-  },
-  {
     "ts": "2026-06-16T04:39:16.983Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_598",
     "title": "Barbie: La princesa de las perlas"
+  },
+  {
+    "ts": "2026-08-17T17:18:55.360Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_602",
+    "title": "Barbie: La Princesa y la plebeya"
   }
 ]
