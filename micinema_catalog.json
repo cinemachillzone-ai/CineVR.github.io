@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 633,
+    "catalogCount": 634,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91793,6 +91793,48 @@
       "createdAt": "2026-08-17T16:43:56.183Z",
       "updatedAt": "2026-08-17T16:43:56.183Z",
       "addedAt": "2026-08-17T16:43:56.183Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_592",
+      "type": "movie",
+      "title": "Tinker Bell y el Secreto de las Hadas",
+      "description": "Tinkerbell vaga en los bosques de Invierno prohibidos y encuentra la Vincapervinca. Juntos aprenden el secreto de sus alas y tratan de unir a las hadas calientes y las hadas de invierno para ayudar al Hueco del Duendecillo.",
+      "duration": "1h 32m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Mae Whitman",
+        "Lucy Hale",
+        "Timothy Dalton",
+        "Jeff Bennett",
+        "Lucy Liu",
+        "Raven-Symoné"
+      ],
+      "director": "Peggy Holmes",
+      "recommended": "Recomendado 73%",
+      "year": 2012,
+      "releaseDate": "2012-08-17",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 153,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElSecretoDeLasHadas/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElSecretoDeLasHadas/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElSecretoDeLasHadas/master.m3u8",
+      "createdAt": "2026-08-17T16:45:38.630Z",
+      "updatedAt": "2026-08-17T16:45:38.630Z",
+      "addedAt": "2026-08-17T16:45:38.630Z",
       "addedBy": "seanf"
     }
   ],
