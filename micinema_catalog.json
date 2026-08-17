@@ -6,9 +6,9 @@
     "columns": 16,
     "rows": 10,
     "cellCount": 160,
-    "atlasCount": 4,
+    "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 640,
+    "catalogCount": 641,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -28,6 +28,10 @@
     {
       "key": "D",
       "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
     }
   ],
   "heroAtlases": [
@@ -46,6 +50,10 @@
     {
       "key": "D",
       "url": "D.png"
+    },
+    {
+      "key": "E",
+      "url": "E.png"
     }
   ],
   "series": [
@@ -92077,6 +92085,47 @@
       "createdAt": "2026-08-17T17:05:38.007Z",
       "updatedAt": "2026-08-17T17:05:38.007Z",
       "addedAt": "2026-08-17T17:05:38.007Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_599",
+      "type": "movie",
+      "title": "Barbie en un mundo de videojuegos",
+      "description": "Barbie entra de forma mágica en su videojuego favorito transformada en una divertida patinadora. En el juego conoce a Cutie, una amable nube que se convierte en su amiga, y Bella, la princesa patinadora. Juntas, descubren a un travieso emoji que está tratando de hacerse con el control del juego. A medida que pasa los niveles, Barbie deberá confiar en sus increíbles habilidades para salvar a su equipo y vencer al emoji.",
+      "duration": "1h 12m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Erica Lindbeck",
+        "Sienna Bohn",
+        "Shannon Chan-Kent",
+        "Michael Dobson",
+        "Alyssya Swales",
+        "Rebekah Asselstine"
+      ],
+      "director": "Ezekiel Norton, Conrad Helten",
+      "recommended": "Recomendado 68%",
+      "year": 2017,
+      "releaseDate": "2017-02-01",
+      "genres": [
+        "Animation",
+        "Family",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 0,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnUnMundoDeVideojuegos2017/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnUnMundoDeVideojuegos2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnUnMundoDeVideojuegos2017/master.m3u8",
+      "createdAt": "2026-08-17T17:07:27.875Z",
+      "updatedAt": "2026-08-17T17:07:27.875Z",
+      "addedAt": "2026-08-17T17:07:27.875Z",
       "addedBy": "seanf"
     }
   ],
