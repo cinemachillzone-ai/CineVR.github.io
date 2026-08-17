@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 654,
+    "catalogCount": 655,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92650,6 +92650,46 @@
       "createdAt": "2026-08-17T17:40:03.683Z",
       "updatedAt": "2026-08-17T17:40:03.683Z",
       "addedAt": "2026-08-17T17:40:03.683Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_614",
+      "type": "movie",
+      "title": "Barbie: Una navidad perfecta",
+      "description": "Los planes de vacaciones de Navidad de Barbie y sus hermanas, Skippe, Stae y Chelsea se convierten en una aventura inesperada. Después de que su avión a Nueva York es desviado a causa de una tormenta de nieve, las chicas se encuentran lejos de su destino y de sus sueños para las vacaciones. Acaban en una remota posada en el diminuto pueblo de Tannebaum, pero las hermanas pronto descubren nuevos amigos y experiencias mágicas. Para agradecer a todo el mundo su calurosa bienvenida, utilizan sus talentos musicales y hacen una función para el pueblo entero.",
+      "duration": "1h 14m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Diana Kaarina",
+        "Jennifer Waris",
+        "Rachel Drance",
+        "Nevada Brandt",
+        "Lauren Lavoie",
+        "Danielle Bessler"
+      ],
+      "director": "Mark Baldo",
+      "recommended": "Recomendado 67%",
+      "year": 2011,
+      "releaseDate": "2011-11-03",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 14,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieUnaNavidadPerfecta2011/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieUnaNavidadPerfecta2011/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieUnaNavidadPerfecta2011/master.m3u8",
+      "createdAt": "2026-08-17T17:42:36.935Z",
+      "updatedAt": "2026-08-17T17:42:36.935Z",
+      "addedAt": "2026-08-17T17:42:36.935Z",
       "addedBy": "seanf"
     }
   ],
