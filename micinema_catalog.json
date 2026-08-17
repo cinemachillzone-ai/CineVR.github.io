@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 632,
+    "catalogCount": 633,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91751,6 +91751,48 @@
       "createdAt": "2026-08-17T16:35:10.281Z",
       "updatedAt": "2026-08-17T16:35:10.281Z",
       "addedAt": "2026-08-17T16:35:10.281Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_591",
+      "type": "movie",
+      "title": "Tinker Bell y el tesoro perdido",
+      "description": "Llega el otoño, y Tinker Bell es encargada en la búsqueda de un gran tesoro que puede rejuvenecer a Árbol de Polvillo de Hadas. Pero cuando su amigo Terence se ofrece a ayudarla, Tinker Bell se niega con mal temperamento y hasta la terquedad, destrozando su amistad con Terence. Para poner las cosas, de nuevo, en su sitio, deberá embarcarse en un viaje extremo al Norte de Nunca Jamás... Y durante el camino, ella descubrirá un tesoro aún mayor. Segunda de las cuatro películas de DisneyToon Studios basadas en el personaje de Tinker Bell, procedente de la película Peter Pan. Las cuatro se lanzarán directas a DVD, una cada año.",
+      "duration": "1h 21m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Mae Whitman",
+        "Jesse McCartney",
+        "Jane Horrocks",
+        "Lucy Liu",
+        "Raven-Symoné",
+        "Kristin Chenoweth"
+      ],
+      "director": "Klay Hall",
+      "recommended": "Recomendado 68%",
+      "year": 2009,
+      "releaseDate": "2009-09-03",
+      "genres": [
+        "Animation",
+        "Family",
+        "Adventure",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 152,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElTesoroPerdido/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElTesoroPerdido/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYElTesoroPerdido/master.m3u8",
+      "createdAt": "2026-08-17T16:43:56.183Z",
+      "updatedAt": "2026-08-17T16:43:56.183Z",
+      "addedAt": "2026-08-17T16:43:56.183Z",
       "addedBy": "seanf"
     }
   ],
