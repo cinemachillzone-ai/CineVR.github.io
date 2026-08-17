@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 644,
+    "catalogCount": 645,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92247,6 +92247,47 @@
       "createdAt": "2026-08-17T17:18:42.079Z",
       "updatedAt": "2026-08-17T17:18:42.079Z",
       "addedAt": "2026-08-17T17:18:42.079Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_603",
+      "type": "movie",
+      "title": "Barbie y sus Hermanas en una aventura de perritos",
+      "description": "Barbie y sus hermanas, Skipper, Stacie y Chelsea, junto con sus adorables cachorros encuentran un misterioso mapa en el ático de su abuela cuando vuelven a su  pueblo natal de Willows.  Inicialmente piensan que se trata de un viejo tesoro perdido enterrado en alguna parte de la ciudad. Con sus amigos cachorros, las cuatro chicas se dan inicio a una aventura de busca del tesoro y en el camino descubren que el más grande tesoro es el amor y cariño que se tienen como hermanas.",
+      "duration": "1h 16m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Kazumi Evans",
+        "Claire Maggie Corlett",
+        "Alyssya Swales",
+        "Chelsea Miller",
+        "Taylor Dianne Robinson"
+      ],
+      "director": "Andrew Tan",
+      "recommended": "Recomendado 71%",
+      "year": 2015,
+      "releaseDate": "2015-10-07",
+      "genres": [
+        "Family",
+        "Animation",
+        "Adventure"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 4,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePerritos2015/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePerritos2015/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePerritos2015/master.m3u8",
+      "createdAt": "2026-08-17T17:20:54.127Z",
+      "updatedAt": "2026-08-17T17:20:54.127Z",
+      "addedAt": "2026-08-17T17:20:54.127Z",
       "addedBy": "seanf"
     }
   ],
