@@ -1,16 +1,6 @@
 {
   "campanas": [
     {
-      "nombre": "Grupo VRC",
-      "kind": "group",
-      "target": "ABCD.1234",
-      "slot": 1,
-      "seconds": 90,
-      "id": "cmsxuclw6",
-      "code": null,
-      "creada": "2026-08-17T23:04:36.054Z"
-    },
-    {
       "nombre": "En franja",
       "kind": "web",
       "target": "https://enfranja.com",
