@@ -1,16 +1,6 @@
 {
   "campanas": [
     {
-      "nombre": "Fuera de franja",
-      "kind": "web",
-      "target": "https://fuera.com",
-      "slot": 3,
-      "franja": "02:00-04:00",
-      "id": "cmsxucn6w",
-      "code": "5jj",
-      "creada": "2026-08-17T23:04:37.736Z"
-    },
-    {
       "nombre": "Ya terminada",
       "kind": "web",
       "target": "https://vieja.com",
