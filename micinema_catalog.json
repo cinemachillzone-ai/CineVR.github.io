@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 653,
+    "catalogCount": 654,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92609,6 +92609,47 @@
       "createdAt": "2026-08-17T17:38:10.899Z",
       "updatedAt": "2026-08-17T17:38:10.899Z",
       "addedAt": "2026-08-17T17:38:10.899Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_613",
+      "type": "movie",
+      "title": "Barbie: Escuela de Princesas",
+      "description": "Barbie hace el papel de Bleer una chica normal que esta invitada a formar parte de una escuela muy prestigiada: la Escuela de princesas. Bleer tendrá que aprender a ser una princesa para poder graduarse. Con la ayuda de sus amigas y un poco de magia, Bleer aprenderá a que, una princesa no sólo tiene que ser hermosa, sino que tiene que tener: actitud, valor y mucha confianza! Y que la verdadera princesa se lleva en el corazón.",
+      "duration": "1h 20m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Diana Kaarina",
+        "Morwenna Banks",
+        "Nicole Oliver",
+        "Brittney Wilson",
+        "Ali Liebert",
+        "Shannon Chan-Kent"
+      ],
+      "director": "Ezekiel Norton",
+      "recommended": "Recomendado 75%",
+      "year": 2011,
+      "releaseDate": "2011-08-11",
+      "genres": [
+        "Family",
+        "Animation",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 13,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuelaDePrincesas2011/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuelaDePrincesas2011/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEscuelaDePrincesas2011/master.m3u8",
+      "createdAt": "2026-08-17T17:40:03.683Z",
+      "updatedAt": "2026-08-17T17:40:03.683Z",
+      "addedAt": "2026-08-17T17:40:03.683Z",
       "addedBy": "seanf"
     }
   ],
