@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 637,
+    "catalogCount": 638,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91957,6 +91957,46 @@
       "createdAt": "2026-08-17T16:54:42.752Z",
       "updatedAt": "2026-08-17T16:54:42.752Z",
       "addedAt": "2026-08-17T16:54:42.752Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_596",
+      "type": "movie",
+      "title": "Barbie y las 12 princesas bailarinas",
+      "description": "Barbie, en el papel de bella Princesa Genevieve, y a sus 11 hermanas y princesas bailarinas y descubren la entrada secreta a un mundo mágico.",
+      "duration": "1h 23m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Catherine O'Hara",
+        "Christopher Gaze",
+        "Nicole Oliver",
+        "Jennifer Copping",
+        "Lalainia Lindbjerg"
+      ],
+      "director": "Greg Richardson",
+      "recommended": "Recomendado 76%",
+      "year": 2006,
+      "releaseDate": "2006-09-19",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 157,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLas12PrincesasBailarinas2006/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLas12PrincesasBailarinas2006/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieEnLas12PrincesasBailarinas2006/master.m3u8",
+      "createdAt": "2026-08-17T17:00:03.973Z",
+      "updatedAt": "2026-08-17T17:00:03.973Z",
+      "addedAt": "2026-08-17T17:00:03.973Z",
       "addedBy": "seanf"
     }
   ],
