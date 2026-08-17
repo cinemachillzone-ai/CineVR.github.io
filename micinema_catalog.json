@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 639,
+    "catalogCount": 640,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92037,6 +92037,46 @@
       "createdAt": "2026-08-17T17:01:42.020Z",
       "updatedAt": "2026-08-17T17:01:42.020Z",
       "addedAt": "2026-08-17T17:01:42.020Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_598",
+      "type": "movie",
+      "title": "Barbie: La princesa de las perlas",
+      "description": "Barbie es Lumina, una sirena que sueña con convertirse en princesa. Desde siempre ha tenido un poder mágico con el que puede hacer que las perlas bailen y brillen. Lumina y su mejor amigo Kuda, una caballito de mar rosa, inician una aventura en un majestuoso reino marino. Allí utiliza sus poderes para ayudar a que sus amigos se preparen para el Baile Real. Entonces Lumina descubre que sus perlas mágicas son la clave para conocer su verdadero destino y para salvar al reino.",
+      "duration": "1h 13m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Katie Crown",
+        "Mark Oliver",
+        "Rebecca Shoichet",
+        "Trish Pattendon",
+        "John Novak"
+      ],
+      "director": "Ezekiel Norton",
+      "recommended": "Recomendado 70%",
+      "year": 2014,
+      "releaseDate": "2014-02-15",
+      "genres": [
+        "Family",
+        "Animation"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 159,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieLaPrincesaDeLasPerlas2014/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieLaPrincesaDeLasPerlas2014/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieLaPrincesaDeLasPerlas2014/master.m3u8",
+      "createdAt": "2026-08-17T17:05:38.007Z",
+      "updatedAt": "2026-08-17T17:05:38.007Z",
+      "addedAt": "2026-08-17T17:05:38.007Z",
       "addedBy": "seanf"
     }
   ],
