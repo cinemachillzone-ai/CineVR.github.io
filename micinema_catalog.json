@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 4,
     "itemsPerAtlas": 160,
-    "catalogCount": 629,
+    "catalogCount": 630,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -91630,6 +91630,47 @@
       "createdAt": "2026-08-17T13:03:44.370Z",
       "updatedAt": "2026-08-17T13:03:44.370Z",
       "addedAt": "2026-08-17T13:03:44.370Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_588",
+      "type": "movie",
+      "title": "Tinker Bell y La Bestia de Nunca Jamas",
+      "description": "Un antiguo mito de una criatura de gran destruccion despierta la curiosidad de Tinker Bell y su buen amiga Fawn, una hada animal que no tiene miedo de romper las reglas para ayudar a un animal en necesidad. Pero esta criatura no es bienvenida en Pixie Hollow - y las hadas scout están decididas a capturar a la bestia misteriosa, que temen destruirá su hogar. Fawn debe convencer a sus amigas hadas de arriesgarlo todo para rescatar a La Bestia de Nunca Jamas.",
+      "duration": "1h 17m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Ginnifer Goodwin",
+        "Mae Whitman",
+        "Rosario Dawson",
+        "Lucy Liu",
+        "Raven-Symoné",
+        "Megan Hilty"
+      ],
+      "director": "Steve Loter",
+      "recommended": "Recomendado 74%",
+      "year": 2014,
+      "releaseDate": "2014-12-12",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "D",
+      "gridIndex": 149,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYLaBestiaDeNuncaJams/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYLaBestiaDeNuncaJams/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TinkerBellYLaBestiaDeNuncaJams/master.m3u8",
+      "createdAt": "2026-08-17T16:31:13.893Z",
+      "updatedAt": "2026-08-17T16:31:13.893Z",
+      "addedAt": "2026-08-17T16:31:13.893Z",
       "addedBy": "seanf"
     }
   ],
