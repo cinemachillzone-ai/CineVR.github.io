@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:22:53.224Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_348",
-    "title": "Sólo un sueño"
-  },
-  {
     "ts": "2026-06-16T04:23:57.873Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_591",
     "title": "Tinker Bell y el tesoro perdido"
+  },
+  {
+    "ts": "2026-08-17T16:45:51.688Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_592",
+    "title": "Tinker Bell y el Secreto de las Hadas"
   }
 ]
