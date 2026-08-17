@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 645,
+    "catalogCount": 646,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92288,6 +92288,46 @@
       "createdAt": "2026-08-17T17:20:54.127Z",
       "updatedAt": "2026-08-17T17:20:54.127Z",
       "addedAt": "2026-08-17T17:20:54.127Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_604",
+      "type": "movie",
+      "title": "Barbie Y Sus Hermanas En Una Historia De Ponis",
+      "description": "Barbie y sus hermanas se disponen a vivir una aventura en los majestuosos Alpes suizos, y están entusiasmadas de pasar el verano en una escuela de equitación llena de diversiones. Barbie está deseando encontrar un caballo nuevo que llevarse de regreso a Malibu. Stacie está también muy contenta por demostrar que es una estupenda amazona. Todo lo que Chelsea quiere hacer es pasear en los caballos más grandes, y Skipper bueno, digamos que está más interesada en escribir sobre cuanto ve a su alrededor que en vivirlo. Las vacaciones de las hermanas tienen un comienzo un tanto complicado, pero cuando Barbie descubre en el bosque a un misterioso caballo salvaje, su viaje se convierte en algo auténticamente mágico.",
+      "duration": "1h 12m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Kelly Sheridan",
+        "Kazumi Evans",
+        "Claire Margaret Corlett",
+        "Ashlyn Drummond",
+        "Alex Kelly",
+        "Tabitha St. Germain"
+      ],
+      "director": "Kyran Kelly",
+      "recommended": "Recomendado 70%",
+      "year": 2013,
+      "releaseDate": "2013-10-07",
+      "genres": [
+        "Animation",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 5,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePonis2013/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePonis2013/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYSusHermanasEnUnaAventuraDePonis2013/master.m3u8",
+      "createdAt": "2026-08-17T17:25:12.878Z",
+      "updatedAt": "2026-08-17T17:25:12.878Z",
+      "addedAt": "2026-08-17T17:25:12.878Z",
       "addedBy": "seanf"
     }
   ],
