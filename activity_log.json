@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:15:09.270Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_341",
-    "title": "It (Eso)"
-  },
-  {
     "ts": "2026-06-16T04:15:39.700Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3599,6 +3592,14 @@
     "action": "EDIT_SERIES",
     "target": "series_058",
     "title": "Blak Jack",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-08-17T13:42:25.814Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_068",
+    "title": "Gameoverse",
     "eps_changed": 0
   }
 ]
