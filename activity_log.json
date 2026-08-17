@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T04:26:11.437Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_350",
-    "title": "Sin City: La Ciudad del Pecado"
-  },
-  {
     "ts": "2026-06-16T04:28:25.757Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_593",
     "title": "Barbie: Aventura de princesas"
+  },
+  {
+    "ts": "2026-08-17T16:52:13.523Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_594",
+    "title": "Barbie y la magia del pegaso"
   }
 ]
