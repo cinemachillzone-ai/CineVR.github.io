@@ -1,16 +1,6 @@
 {
   "campanas": [
     {
-      "nombre": "Sin restricciones",
-      "kind": "web",
-      "target": "https://ejemplo.com",
-      "slot": 0,
-      "seconds": 120,
-      "id": "cmsxucl6g",
-      "code": "ij2",
-      "creada": "2026-08-17T23:04:35.129Z"
-    },
-    {
       "nombre": "Grupo VRC",
       "kind": "group",
       "target": "ABCD.1234",
