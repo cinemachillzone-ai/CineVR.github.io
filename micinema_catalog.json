@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 655,
+    "catalogCount": 656,
     "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
   },
   "imageMode": "atlas_registry_only",
@@ -92690,6 +92690,48 @@
       "createdAt": "2026-08-17T17:42:36.935Z",
       "updatedAt": "2026-08-17T17:42:36.935Z",
       "addedAt": "2026-08-17T17:42:36.935Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_615",
+      "type": "movie",
+      "title": "Barbie y los delfines mágicos",
+      "description": "Barbie y sus hermanas se embarcan en otra emocionante aventura mundial para visitar a su amigo Ken en su pasantía de verano en un hermoso y exótico arrecife de coral.",
+      "duration": "1h 03m",
+      "rating": "G",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Erica Lindbeck",
+        "Shannon Chan-Kent",
+        "Kazumi Evans",
+        "Claire Margaret Corlett",
+        "Alyssya Swales",
+        "Adrian Petriw"
+      ],
+      "director": "Conrad Helten, Michael Douglas",
+      "recommended": "Recomendado 66%",
+      "year": 2017,
+      "releaseDate": "2017-09-20",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 15,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLosDelfinesMgicos2017/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLosDelfinesMgicos2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieYLosDelfinesMgicos2017/master.m3u8",
+      "createdAt": "2026-08-17T17:56:27.994Z",
+      "updatedAt": "2026-08-17T17:56:27.994Z",
+      "addedAt": "2026-08-17T17:56:27.994Z",
       "addedBy": "seanf"
     }
   ],
