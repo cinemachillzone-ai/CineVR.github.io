@@ -31781,13 +31781,18 @@
     {
       "type": "series",
       "title": "Blak Jack",
-      "description": "",
-      "rating": "",
+      "description": "Black Jack es un brillante cirujano sin licencia que trabaja al margen de la medicina convencional y acepta casos que otros médicos consideran imposibles. Acompañado por su pequeña asistente Pinoko, utiliza sus extraordinarias habilidades quirúrgicas para salvar vidas mientras se enfrenta a enfermedades extrañas, situaciones peligrosas, dilemas morales y pacientes con historias complicadas. A lo largo de la serie también se explora el pasado de Black Jack y las experiencias que lo llevaron a convertirse en uno de los cirujanos más extraordinarios del mundo.",
+      "rating": "TV-14",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2004,
+      "releaseDate": "2004-10-11",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -31989,7 +31994,27 @@
         }
       ],
       "atlas": "C",
-      "gridIndex": 131
+      "gridIndex": 131,
+      "cast": [
+        "Akio Otsuka",
+        "Yuko Mizutani",
+        "Yuko Sato",
+        "Ryoko Ono",
+        "Kosei Tomita",
+        "Akiko Kawase",
+        "Makoto Ishii",
+        "Osamu Sakai",
+        "Hideyuki Hori",
+        "Kenji Utsumi",
+        "Tamio Oki",
+        "Nachi Nozawa",
+        "Kazuki Yao",
+        "Atsuko Tanaka"
+      ],
+      "director": "Makoto Tezuka / Satoshi Kuwabara",
+      "duration": "22",
+      "recommended": "Recomendado 70%",
+      "updatedAt": "2026-08-17T13:38:34.476Z"
     },
     {
       "type": "series",
