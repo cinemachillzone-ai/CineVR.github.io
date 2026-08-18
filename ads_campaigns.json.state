@@ -10,6 +10,16 @@
       "id": "cmsz61e87",
       "code": "xsr",
       "creada": "2026-08-18T21:19:34.471Z"
+    },
+    {
+      "nombre": "Pausa horizontal",
+      "familia": "pausa",
+      "kind": "web",
+      "target": "https://pausa.com",
+      "slot": 3,
+      "id": "cmsz61f01",
+      "code": "icj",
+      "creada": "2026-08-18T21:19:35.473Z"
     }
   ],
   "atlasVersion": 1,
