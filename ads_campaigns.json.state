@@ -1,5 +1,19 @@
 {
-  "campanas": [],
+  "campanas": [
+    {
+      "nombre": "PRUEBA corte 0 (web)",
+      "kind": "web",
+      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "slot": 0,
+      "familia": "corte",
+      "atlas": 0,
+      "cell": 0,
+      "seconds": 30,
+      "id": "cmsz8tw7q",
+      "code": "vmg",
+      "creada": "2026-08-18T22:37:43.383Z"
+    }
+  ],
   "atlasVersion": 1,
   "grid": {
     "cols": 4,
