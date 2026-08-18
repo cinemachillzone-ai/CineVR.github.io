@@ -12,6 +12,19 @@
       "id": "cmsz8tw7q",
       "code": "vmg",
       "creada": "2026-08-18T22:37:43.383Z"
+    },
+    {
+      "nombre": "PRUEBA corte 1 (group)",
+      "kind": "group",
+      "target": "TEST.0000",
+      "slot": 1,
+      "familia": "corte",
+      "atlas": 0,
+      "cell": 1,
+      "seconds": 30,
+      "id": "cmsz8tx92",
+      "code": null,
+      "creada": "2026-08-18T22:37:44.726Z"
     }
   ],
   "atlasVersion": 1,
