@@ -1,0 +1,10 @@
+{
+  "ttl": 600,
+  "atlasVersion": 1,
+  "grid": {
+    "cols": 4,
+    "rows": 2
+  },
+  "slots": [],
+  "pause": []
+}
