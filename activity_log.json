@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:25:44.144Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_361",
-    "title": "El regreso del Jedi"
-  },
-  {
     "ts": "2026-06-16T21:28:30.426Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3598,6 +3591,12 @@
   },
   {
     "ts": "2026-08-18T21:17:13.144Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 3722350
+  },
+  {
+    "ts": "2026-08-18T21:17:48.500Z",
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 3722350
