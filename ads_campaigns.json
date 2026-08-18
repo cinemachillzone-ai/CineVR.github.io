@@ -1,4 +1,29 @@
 {
-  "actualizado": "2026-08-18T21:19:55.329Z",
-  "campanas": []
+  "actualizado": "2026-08-18T22:39:02.071Z",
+  "campanas": [
+    {
+      "code": "vmg",
+      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "nombre": "PRUEBA corte 0 (web)",
+      "slot": 0
+    },
+    {
+      "code": "qxx",
+      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "nombre": "PRUEBA corte 2 (web)",
+      "slot": 2
+    },
+    {
+      "code": "uvr",
+      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "nombre": "PRUEBA pausa 0 (web)",
+      "slot": 0
+    },
+    {
+      "code": "e44",
+      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "nombre": "PRUEBA pausa 2 (web)",
+      "slot": 2
+    }
+  ]
 }
