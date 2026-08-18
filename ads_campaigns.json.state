@@ -1,5 +1,17 @@
 {
-  "campanas": [],
+  "campanas": [
+    {
+      "nombre": "Corte vertical",
+      "familia": "corte",
+      "kind": "web",
+      "target": "https://corte.com",
+      "slot": 3,
+      "seconds": 120,
+      "id": "cmsz61e87",
+      "code": "xsr",
+      "creada": "2026-08-18T21:19:34.471Z"
+    }
+  ],
   "atlasVersion": 1,
   "grid": {
     "cols": 4,
