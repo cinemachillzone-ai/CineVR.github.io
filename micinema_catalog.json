@@ -9,7 +9,7 @@
     "atlasCount": 5,
     "itemsPerAtlas": 160,
     "catalogCount": 657,
-    "notes": "Yuta regenero + Claude reparo mojibake/atlas/metadata 2026-07-20"
+    "notes": "Publicacion atomica activa desde 2026-08-18 (RFD 0091 3.1): catalogo + los dos JSON del mundo en UN commit"
   },
   "imageMode": "atlas_registry_only",
   "posterAtlases": [
