@@ -48,6 +48,16 @@
       "id": "cmsz8tysh",
       "code": "uvr",
       "creada": "2026-08-18T22:37:46.721Z"
+    },
+    {
+      "nombre": "PRUEBA pausa 1 (group)",
+      "kind": "group",
+      "target": "TEST.0000",
+      "slot": 1,
+      "familia": "pausa",
+      "id": "cmsz8tzjx",
+      "code": null,
+      "creada": "2026-08-18T22:37:47.709Z"
     }
   ],
   "atlasVersion": 1,
