@@ -20,6 +20,16 @@
       "id": "cmsz61f01",
       "code": "icj",
       "creada": "2026-08-18T21:19:35.473Z"
+    },
+    {
+      "nombre": "Pausa grupo",
+      "familia": "pausa",
+      "kind": "group",
+      "target": "WXYZ.5678",
+      "slot": 7,
+      "id": "cmsz61fp7",
+      "code": null,
+      "creada": "2026-08-18T21:19:36.379Z"
     }
   ],
   "atlasVersion": 1,
