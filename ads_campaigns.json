@@ -1,28 +1,28 @@
 {
-  "actualizado": "2026-08-18T22:39:02.071Z",
-  "campanas": [
+  "actualizado": "2026-08-19T09:20:00.000Z",
+  "campaigns": [
     {
       "code": "vmg",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
-      "nombre": "PRUEBA corte 0 (web)",
+      "target": "https://www.patreon.com/c/CineVR",
+      "nombre": "CineVR Patreon — corte 0 (web)",
       "slot": 0
     },
     {
       "code": "qxx",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
-      "nombre": "PRUEBA corte 2 (web)",
+      "target": "https://www.patreon.com/c/CineVR",
+      "nombre": "CineVR Patreon — corte 2 (web)",
       "slot": 2
     },
     {
       "code": "uvr",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
-      "nombre": "PRUEBA pausa 0 (web)",
+      "target": "https://www.patreon.com/c/CineVR",
+      "nombre": "CineVR Patreon — pausa 0 (web)",
       "slot": 0
     },
     {
       "code": "e44",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
-      "nombre": "PRUEBA pausa 2 (web)",
+      "target": "https://www.patreon.com/c/CineVR",
+      "nombre": "CineVR Patreon — pausa 2 (web)",
       "slot": 2
     }
   ]

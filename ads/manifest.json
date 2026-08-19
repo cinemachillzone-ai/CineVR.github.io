@@ -19,7 +19,7 @@
       "atlas": 0,
       "cell": 1,
       "kind": "group",
-      "link": "TEST.0000",
+      "link": "CINEVR.6703",
       "seconds": 30
     },
     {
@@ -40,7 +40,7 @@
     {
       "slot": 1,
       "kind": "group",
-      "link": "TEST.0000"
+      "link": "CINEVR.6703"
     },
     {
       "slot": 2,
