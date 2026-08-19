@@ -1,6 +1,6 @@
 {
   "ttl": 600,
-  "atlasVersion": 2,
+  "atlasVersion": 3,
   "grid": {
     "cols": 4,
     "rows": 2
