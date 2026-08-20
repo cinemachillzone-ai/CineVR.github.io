@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 658,
+    "catalogCount": 659,
     "notes": "Publicacion atomica activa desde 2026-08-18 (RFD 0091 3.1): catalogo + los dos JSON del mundo en UN commit"
   },
   "imageMode": "atlas_registry_only",
@@ -92815,6 +92815,47 @@
       "createdAt": "2026-08-20T00:06:41.487Z",
       "updatedAt": "2026-08-20T00:06:41.487Z",
       "addedAt": "2026-08-20T00:06:41.487Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_618",
+      "type": "movie",
+      "title": "Una película de huevos",
+      "description": "Un pequeño huevo llamado Toto decide que quiere cumplir su propósito en la vida y convertirse en un pollo en lugar de morir en una sartén; por lo que comienza una búsqueda para regresar a las granjas junto con su nuevo amigo, el ruidoso huevo Willy y una loca raya de tocino. Los tres amigos enfrentarán muchos obstáculos en su búsqueda.",
+      "duration": "1h 30m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Bruno Bichir",
+        "Carlos Espejel",
+        "Angélica Vale",
+        "Rodolfo Riva Palacio Alatriste",
+        "Gabriel Riva Palacio Alatriste",
+        "Humberto Vélez"
+      ],
+      "director": "Gabriel Riva Palacio Alatriste, Rodolfo Riva Palacio Alatriste",
+      "recommended": "Recomendado 79%",
+      "year": 2006,
+      "releaseDate": "2006-04-21",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 18,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnaPeliculaDeHuevos2006/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnaPeliculaDeHuevos2006/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/UnaPeliculaDeHuevos2006/master.m3u8",
+      "createdAt": "2026-08-20T00:08:43.309Z",
+      "updatedAt": "2026-08-20T00:08:43.309Z",
+      "addedAt": "2026-08-20T00:08:43.309Z",
       "addedBy": "seanf"
     }
   ],
