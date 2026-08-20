@@ -40,14 +40,17 @@
       "creada": "2026-08-18T22:37:45.725Z"
     },
     {
-      "nombre": "PRUEBA pausa 0 (web)",
+      "nombre": "CineVR - Patreon",
       "kind": "web",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "target": "https://www.patreon.com/c/CineVR",
       "slot": 0,
       "familia": "pausa",
       "id": "cmsz8tysh",
       "code": "uvr",
-      "creada": "2026-08-18T22:37:46.721Z"
+      "creada": "2026-08-18T22:37:46.721Z",
+      "atlas": 0,
+      "cell": 0,
+      "seconds": 30
     },
     {
       "nombre": "PRUEBA pausa 1 (group)",
