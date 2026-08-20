@@ -156,6 +156,99 @@ def cmd_build(args):
     return 0
 
 
+# --------------------------------------------------------------------------
+# Set JPEG 15x11 — el que lee hoy el prefab del mundo (contentAtlasColumns 15,
+# contentAtlasRows 11). Mismo `atlas` + `gridIndex` del JSON que el set PNG: solo
+# cambia la rejilla en la que se colocan. 15*11 = 165 huecos y el JSON reparte 160
+# por hoja, asi que sobran 5 celdas al final de cada una.
+# --------------------------------------------------------------------------
+JPEG_COLS, JPEG_ROWS = 15, 11
+JPEG_PC = (2040, 2024)          # celda 136 x 184
+JPEG_QUEST = (1020, 1012)       # celda  68 x  92
+JPEG_QUALITY = 92               # 4:4:4, sin submuestreo de croma
+
+
+def jpeg_cell_box(index, sheet_size):
+    cw = sheet_size[0] // JPEG_COLS
+    chh = sheet_size[1] // JPEG_ROWS
+    col, row = index % JPEG_COLS, index // JPEG_COLS
+    return (col * cw, row * chh, (col + 1) * cw, (row + 1) * chh)
+
+
+def cmd_jpegset(args):
+    cat = load_catalog()
+    by_sheet = {}
+    for item in cat["movies"]:
+        by_sheet.setdefault(item["atlas"], []).append(item)
+
+    for key, items in sorted(by_sheet.items()):
+        for suffix, size in ((".jpg", JPEG_PC), ("Quest.jpg", JPEG_QUEST)):
+            sheet = Image.new("RGB", size, (0, 0, 0))
+            puestos = 0
+            for item in items:
+                src = os.path.join(ROOT, "Backup", item["id"] + ".png")
+                if not os.path.exists(src):
+                    print("   sin hero, celda vacia:", item["id"])
+                    continue
+                if item["gridIndex"] >= JPEG_COLS * JPEG_ROWS:
+                    print("   gridIndex fuera de la rejilla 15x11:", item["id"], item["gridIndex"])
+                    continue
+                x0, y0, x1, y1 = jpeg_cell_box(item["gridIndex"], size)
+                with Image.open(src) as poster:
+                    sheet.paste(fit_cell(poster.convert("RGB"), (x1 - x0, y1 - y0)), (x0, y0))
+                puestos += 1
+            out = os.path.join(ROOT, key + suffix)
+            if not args.dry_run:
+                sheet.save(out, "JPEG", quality=JPEG_QUALITY, subsampling=0, optimize=True)
+            print("%-14s %d/%d celdas  %s" % (key + suffix, puestos, len(items),
+                                              "(dry-run)" if args.dry_run else "escrito"))
+
+    # AtlasSaga: el arte ya esta bien en PNG y su rejilla 8x8 no cambia entre sets;
+    # solo hace falta la copia .jpg porque es la extension que pide el registry.
+    for src_name, out_name, side in (("AtlasSaga.png", "AtlasSaga.jpg", 2048),
+                                     ("AtlasSaga.png", "AtlasSagaQuest.jpg", 1024),
+                                     ("AtlasSaga2.png", "AtlasSaga2.jpg", 2048),
+                                     ("AtlasSaga2.png", "AtlasSaga2Quest.jpg", 1024)):
+        src = os.path.join(ROOT, src_name)
+        if not os.path.exists(src):
+            print("no existe, se salta:", src_name)
+            continue
+        with Image.open(src) as im:
+            im = im.convert("RGB")
+            if im.size[0] != side:
+                im = im.resize((side, side), Image.LANCZOS)
+            if not args.dry_run:
+                im.save(os.path.join(ROOT, out_name), "JPEG",
+                        quality=JPEG_QUALITY, subsampling=0, optimize=True)
+        print("%-14s desde %s  %s" % (out_name, src_name,
+                                      "(dry-run)" if args.dry_run else "escrito"))
+    return 0
+
+
+def cmd_jpegverify(_args):
+    """Comprueba el set JPEG con su propia rejilla: celda declarada == celda con arte."""
+    cat = load_catalog()
+    sheets, faltan = {}, []
+    for item in cat["movies"]:
+        key, idx = item["atlas"], item["gridIndex"]
+        if key not in sheets:
+            path = os.path.join(ROOT, key + ".jpg")
+            sheets[key] = Image.open(path).convert("RGB") if os.path.exists(path) else None
+            if sheets[key] is None:
+                print("FALTA LA HOJA:", key + ".jpg")
+        if sheets[key] is None:
+            continue
+        x0, y0, x1, y1 = jpeg_cell_box(idx, sheets[key].size)
+        st = ImageStat.Stat(sheets[key].crop((x0 + 6, y0 + 6, x1 - 6, y1 - 6)))
+        if max(st.stddev) < 8:
+            faltan.append((key, idx, item["id"], item["title"]))
+    print("set JPEG 15x11 — celdas declaradas y vacias: %d de %d"
+          % (len(faltan), len(cat["movies"])))
+    for f in faltan:
+        print("   %s[%3d] %-12s %s" % (f[0], f[1], f[2], f[3][:48]))
+    return 1 if faltan else 0
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -173,6 +266,13 @@ def main():
     p.add_argument("sources", help="carpeta con {id}.png")
     p.add_argument("--dry-run", action="store_true")
     p.set_defaults(fn=cmd_build)
+
+    p = sub.add_parser("jpegset", help="regenera el set JPEG 15x11 desde Backup/{id}.png")
+    p.add_argument("--dry-run", action="store_true")
+    p.set_defaults(fn=cmd_jpegset)
+
+    sub.add_parser("jpegverify", help="verifica el set JPEG con rejilla 15x11") \
+        .set_defaults(fn=cmd_jpegverify)
 
     args = ap.parse_args()
     sys.exit(args.fn(args))
