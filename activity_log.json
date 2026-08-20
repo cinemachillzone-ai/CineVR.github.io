@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:55:29.665Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_153",
-    "title": "Hazbin Hotel",
-    "eps_changed": 9
-  },
-  {
     "timestamp": "2026-06-16T22:11:22.632Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3600,5 +3592,13 @@
     "target": "series_187",
     "season": 2,
     "count": 13
+  },
+  {
+    "ts": "2026-08-20T23:51:04.283Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_187",
+    "season": 3,
+    "count": 14
   }
 ]
