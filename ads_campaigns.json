@@ -1,29 +1,33 @@
 {
-  "actualizado": "2026-08-19T09:20:00.000Z",
+  "actualizado": "2026-08-20T13:30:00.000Z",
   "campaigns": [
     {
       "code": "vmg",
       "target": "https://www.patreon.com/c/CineVR",
       "nombre": "CineVR Patreon — corte 0 (web)",
-      "slot": 0
+      "slot": 0,
+      "family": "corte"
     },
     {
       "code": "qxx",
       "target": "https://www.patreon.com/c/CineVR",
       "nombre": "CineVR Patreon — corte 2 (web)",
-      "slot": 2
+      "slot": 2,
+      "family": "corte"
     },
     {
       "code": "uvr",
       "target": "https://www.patreon.com/c/CineVR",
       "nombre": "CineVR Patreon — pausa 0 (web)",
-      "slot": 0
+      "slot": 0,
+      "family": "pausa"
     },
     {
       "code": "e44",
       "target": "https://www.patreon.com/c/CineVR",
       "nombre": "CineVR Patreon — pausa 2 (web)",
-      "slot": 2
+      "slot": 2,
+      "family": "pausa"
     }
   ]
 }
