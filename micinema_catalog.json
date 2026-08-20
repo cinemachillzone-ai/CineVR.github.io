@@ -8,7 +8,7 @@
     "cellCount": 160,
     "atlasCount": 5,
     "itemsPerAtlas": 160,
-    "catalogCount": 659,
+    "catalogCount": 660,
     "notes": "Publicacion atomica activa desde 2026-08-18 (RFD 0091 3.1): catalogo + los dos JSON del mundo en UN commit"
   },
   "imageMode": "atlas_registry_only",
@@ -92856,6 +92856,46 @@
       "createdAt": "2026-08-20T00:08:43.309Z",
       "updatedAt": "2026-08-20T00:08:43.309Z",
       "addedAt": "2026-08-20T00:08:43.309Z",
+      "addedBy": "seanf"
+    },
+    {
+      "id": "movie_619",
+      "type": "movie",
+      "title": "A él no le gustas tanto",
+      "description": "Ambientada en Baltimore. Historias cruzadas sobre el amor y el comportamiento humano: una mujer se siente confusa en una sociedad más obsesionada por la tecnología que por el contacto humano, otra mujer se ve atrapada en un rutinario matrimonio, un hombre intenta conquistar a una mujer que tiene un amante, una joven vive obsesionada intentando propiciar encuentros accidentales con el hombre de sus sueños.",
+      "duration": "2h 09m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "recently_added",
+      "cast": [
+        "Ginnifer Goodwin",
+        "Justin Long",
+        "Jennifer Aniston",
+        "Ben Affleck",
+        "Jennifer Connelly",
+        "Bradley Cooper"
+      ],
+      "director": "Ken Kwapis",
+      "recommended": "Recomendado 66%",
+      "year": 2009,
+      "releaseDate": "2009-02-06",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "E",
+      "gridIndex": 19,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aelnolegustastanto2009/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aelnolegustastanto2009/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Aelnolegustastanto2009/master.m3u8",
+      "createdAt": "2026-08-20T00:09:40.688Z",
+      "updatedAt": "2026-08-20T00:09:40.688Z",
+      "addedAt": "2026-08-20T00:09:40.688Z",
       "addedBy": "seanf"
     }
   ],
