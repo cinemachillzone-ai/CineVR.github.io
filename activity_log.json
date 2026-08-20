@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:30:42.038Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_364",
-    "title": "Star Wars: El despertar de la fuerza"
-  },
-  {
     "ts": "2026-06-16T21:42:10.433Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3599,5 +3592,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_617",
     "title": "Viaje Censurado"
+  },
+  {
+    "ts": "2026-08-20T00:08:55.725Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_618",
+    "title": "Una película de huevos"
   }
 ]
