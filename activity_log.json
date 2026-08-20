@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:48:04.517Z",
-    "actor": "seanf",
-    "action": "ADD_EPISODE",
-    "target": "ep_2800",
-    "series": "series_153",
-    "title": "Capítulo 8"
-  },
-  {
     "ts": "2026-06-16T21:52:24.082Z",
     "actor": "seanf",
     "action": "ADD_EPISODE",
@@ -3599,5 +3591,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_619",
     "title": "A él no le gustas tanto"
+  },
+  {
+    "ts": "2026-08-20T23:41:30.245Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_187",
+    "title": "Coraje, El Perro Cobarde",
+    "season": 1,
+    "episodes": 13
   }
 ]
