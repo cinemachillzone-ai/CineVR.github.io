@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:42:10.433Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_341",
-    "title": "It (Eso) 1990"
-  },
-  {
     "ts": "2026-06-16T21:48:04.517Z",
     "actor": "seanf",
     "action": "ADD_EPISODE",
@@ -3599,5 +3592,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_618",
     "title": "Una película de huevos"
+  },
+  {
+    "ts": "2026-08-20T00:09:54.706Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_619",
+    "title": "A él no le gustas tanto"
   }
 ]
