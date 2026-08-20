@@ -27,9 +27,9 @@
       "creada": "2026-08-18T22:37:44.726Z"
     },
     {
-      "nombre": "PRUEBA corte 2 (web)",
+      "nombre": "CineVR - Patreon",
       "kind": "web",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "target": "https://www.patreon.com/c/CineVR",
       "slot": 2,
       "familia": "corte",
       "atlas": 0,
