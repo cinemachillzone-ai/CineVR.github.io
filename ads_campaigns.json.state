@@ -1,9 +1,9 @@
 {
   "campanas": [
     {
-      "nombre": "PRUEBA corte 0 (web)",
+      "nombre": "CineVR - Patreon",
       "kind": "web",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "target": "https://www.patreon.com/c/CineVR",
       "slot": 0,
       "familia": "corte",
       "atlas": 0,
