@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-16T21:52:24.082Z",
-    "actor": "seanf",
-    "action": "ADD_EPISODE",
-    "target": "ep_2801",
-    "series": "series_153",
-    "title": "Capítulo 9"
-  },
-  {
     "ts": "2026-06-16T21:55:29.665Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3600,5 +3592,13 @@
     "title": "Coraje, El Perro Cobarde",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-20T23:45:00.282Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_187",
+    "season": 2,
+    "count": 13
   }
 ]
