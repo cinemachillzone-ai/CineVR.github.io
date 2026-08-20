@@ -66,14 +66,17 @@
       "seconds": 30
     },
     {
-      "nombre": "PRUEBA pausa 2 (web)",
+      "nombre": "CineVR - Patreon",
       "kind": "web",
-      "target": "https://cinemachillzone-ai.github.io/CineVR.github.io/",
+      "target": "https://www.patreon.com/c/CineVR",
       "slot": 2,
       "familia": "pausa",
       "id": "cmsz8u08x",
       "code": "e44",
-      "creada": "2026-08-18T22:37:48.615Z"
+      "creada": "2026-08-18T22:37:48.615Z",
+      "atlas": 0,
+      "cell": 2,
+      "seconds": 30
     }
   ],
   "atlasVersion": 5,
