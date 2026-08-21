@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T22:15:54.763Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_153"
-  },
-  {
     "ts": "2026-06-16T22:16:00.323Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3602,5 +3596,12 @@
     "target": "series_187",
     "season": 4,
     "count": 11
+  },
+  {
+    "ts": "2026-08-21T00:24:43.622Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_620",
+    "title": "Apocalypto"
   }
 ]
