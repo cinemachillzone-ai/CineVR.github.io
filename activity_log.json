@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-18T04:05:07.114Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-18T06:52:43.319Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3599,5 +3593,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_645",
     "title": "Barbie y la puerta secreta"
+  },
+  {
+    "ts": "2026-08-21T08:31:10.119Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_646",
+    "title": "Barbie: Súper Princesa"
   }
 ]
