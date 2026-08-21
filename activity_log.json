@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:02:18.027Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2806",
-    "series": "series_154",
-    "title": "Capítulo 5"
-  },
-  {
     "ts": "2026-06-17T23:02:44.501Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3602,5 +3594,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_627",
     "title": "Gurren Lagann: Las luces en el cielo son estrellas"
+  },
+  {
+    "ts": "2026-08-21T00:40:21.474Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_628",
+    "title": "Gurren Lagann the Movie: Childhood's End"
   }
 ]
