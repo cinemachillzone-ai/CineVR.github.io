@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-16T22:16:00.323Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_153",
-    "title": "Hazbin Hotel",
-    "eps_changed": 9
-  },
-  {
     "ts": "2026-06-17T12:30:20.793Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3603,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_620",
     "title": "Apocalypto"
+  },
+  {
+    "ts": "2026-08-21T00:26:31.767Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_621",
+    "title": "El Pianista"
   }
 ]
