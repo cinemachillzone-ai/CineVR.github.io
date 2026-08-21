@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T22:34:01.235Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2805",
-    "series": "series_154",
-    "title": "Capítulo 4"
-  },
-  {
     "ts": "2026-06-17T22:34:42.958Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3604,5 +3596,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_625",
     "title": "Marea roja"
+  },
+  {
+    "ts": "2026-08-21T00:35:19.114Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_626",
+    "title": "De la nada: ¡Scooby-Doo! Conoce a Coraje, el Perro Cobarde"
   }
 ]
