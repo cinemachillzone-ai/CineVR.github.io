@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-17T22:30:29.246Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-17T22:32:57.855Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3602,5 +3596,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_623",
     "title": "La princesa y el sapo"
+  },
+  {
+    "ts": "2026-08-21T00:31:51.003Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_624",
+    "title": "Reyes de las olas"
   }
 ]
