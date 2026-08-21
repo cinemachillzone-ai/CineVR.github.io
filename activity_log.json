@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:40:47.853Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2814",
-    "series": "series_154",
-    "title": "Capítulo 13"
-  },
-  {
     "ts": "2026-06-17T23:41:18.329Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3594,5 +3586,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_635",
     "title": "Barbie y las Zapatillas Mágicas"
+  },
+  {
+    "ts": "2026-08-21T04:09:06.045Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_636",
+    "title": "Barbie: Epic Road Trip"
   }
 ]
