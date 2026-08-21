@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-16T22:11:22.632Z",
-    "user": "Admin",
-    "action": "EDIT",
-    "targetId": "series_153"
-  },
-  {
     "timestamp": "2026-06-16T22:15:54.763Z",
     "user": "Admin",
     "action": "EDIT",
@@ -3600,5 +3594,13 @@
     "target": "series_187",
     "season": 3,
     "count": 14
+  },
+  {
+    "ts": "2026-08-21T00:18:57.394Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_187",
+    "season": 4,
+    "count": 11
   }
 ]
