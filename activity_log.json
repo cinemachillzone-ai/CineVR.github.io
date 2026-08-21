@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:02:44.501Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2807",
-    "series": "series_154",
-    "title": "Capítulo 6"
-  },
-  {
     "ts": "2026-06-17T23:06:46.897Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3601,5 +3593,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_628",
     "title": "Gurren Lagann the Movie: Childhood's End"
+  },
+  {
+    "ts": "2026-08-21T01:37:49.146Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_629",
+    "title": "Otra película de huevos y un pollo"
   }
 ]
