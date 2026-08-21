@@ -94752,12 +94752,12 @@
       "atlas": "A",
       "gridIndex": 1,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDelEspacio2016/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieSperPrincesa2015/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDelEspacio2016/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieAventuraDelEspacio2016/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieSperPrincesa2015/master.m3u8",
       "createdAt": "2026-08-21T08:30:28.224Z",
-      "updatedAt": "2026-08-21T08:30:28.224Z",
+      "updatedAt": "2026-08-21T08:35:27.100Z",
       "addedAt": "2026-08-21T08:30:28.224Z",
       "addedBy": "seanf"
     },
