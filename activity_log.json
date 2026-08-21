@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:41:18.329Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2815",
-    "series": "series_154",
-    "title": "Capítulo 14"
-  },
-  {
     "ts": "2026-06-17T23:42:01.074Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3593,5 +3585,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_636",
     "title": "Barbie: Epic Road Trip"
+  },
+  {
+    "ts": "2026-08-21T04:11:19.107Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_637",
+    "title": "Barbie: Moda Mágica en París"
   }
 ]
