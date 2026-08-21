@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-18T06:54:00.045Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "timestamp": "2026-06-20T07:51:35.744Z",
     "user": "Admin",
     "action": "ADD",
@@ -3601,5 +3595,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_647",
     "title": "Barbie Fairytopia: Mermaidia"
+  },
+  {
+    "ts": "2026-08-21T08:35:58.651Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_646",
+    "title": "Barbie: Súper Princesa"
   }
 ]
