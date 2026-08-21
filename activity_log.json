@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-18T02:16:40.781Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-18T02:19:02.410Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3595,5 +3589,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_641",
     "title": "Barbie: El Secreto de las Hadas"
+  },
+  {
+    "ts": "2026-08-21T08:24:16.537Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_642",
+    "title": "Barbie en una Aventura de Sirenas"
   }
 ]
