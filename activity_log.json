@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:06:46.897Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2808",
-    "series": "series_154",
-    "title": "Capítulo 7"
-  },
-  {
     "ts": "2026-06-17T23:38:26.994Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3600,5 +3592,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_629",
     "title": "Otra película de huevos y un pollo"
+  },
+  {
+    "ts": "2026-08-21T03:49:39.105Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_630",
+    "title": "Minions & Monstruos"
   }
 ]
