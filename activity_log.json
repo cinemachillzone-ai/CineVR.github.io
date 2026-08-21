@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-17T22:32:57.855Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-17T22:34:01.235Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3603,5 +3597,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_624",
     "title": "Reyes de las olas"
+  },
+  {
+    "ts": "2026-08-21T00:32:50.556Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_625",
+    "title": "Marea roja"
   }
 ]
