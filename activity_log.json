@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:39:20.262Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2811",
-    "series": "series_154",
-    "title": "Capítulo 10"
-  },
-  {
     "ts": "2026-06-17T23:39:46.955Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3597,5 +3589,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_632",
     "title": "Barbie Campamento de Princesas"
+  },
+  {
+    "ts": "2026-08-21T03:58:22.370Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_633",
+    "title": "Tinker Bell: Hadas al Rescate"
   }
 ]
