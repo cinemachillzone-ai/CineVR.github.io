@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-18T00:50:23.334Z",
-    "actor": "yutamir",
-    "action": "INJECT_SERIES",
-    "target": "series_154",
-    "title": "Kaoru Hana Rin Saku T1"
-  },
-  {
     "ts": "2026-06-18T00:52:04.301Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3593,5 +3586,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_638",
     "title": "Barbie: Pulgarcita"
+  },
+  {
+    "ts": "2026-08-21T08:18:51.797Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_639",
+    "title": "Los diarios de Barbie"
   }
 ]
