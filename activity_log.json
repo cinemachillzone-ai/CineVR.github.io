@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-18T00:19:20.380Z",
-    "actor": "yutamir",
-    "action": "DELETE_SERIES",
-    "target": "series_154",
-    "title": "Kaoru Hana Rin Saku T1"
-  },
-  {
     "ts": "2026-06-18T00:50:23.334Z",
     "actor": "yutamir",
     "action": "INJECT_SERIES",
@@ -3593,5 +3586,12 @@
     "target": "series_188",
     "title": "IT Bienvenido A Derry",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-08-21T08:17:01.264Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_638",
+    "title": "Barbie: Pulgarcita"
   }
 ]
