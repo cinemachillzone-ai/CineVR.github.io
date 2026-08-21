@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-18T02:15:33.592Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-18T02:16:40.781Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3594,5 +3588,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_640",
     "title": "Barbie and Stacie to the Rescue"
+  },
+  {
+    "ts": "2026-08-21T08:21:43.590Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_641",
+    "title": "Barbie: El Secreto de las Hadas"
   }
 ]
