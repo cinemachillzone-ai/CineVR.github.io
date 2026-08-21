@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-20T07:51:35.744Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "movie_365"
-  },
-  {
     "ts": "2026-06-23T07:54:03.908Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3602,5 +3596,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_646",
     "title": "Barbie: Súper Princesa"
+  },
+  {
+    "ts": "2026-08-21T08:38:30.728Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_648",
+    "title": "Barbie en una aventura espacial"
   }
 ]
