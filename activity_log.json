@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:42:47.192Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2817",
-    "series": "series_154",
-    "title": "Capítulo 16"
-  },
-  {
     "ts": "2026-06-18T00:19:20.380Z",
     "actor": "yutamir",
     "action": "DELETE_SERIES",
@@ -3593,5 +3585,13 @@
     "title": "IT Bienvenido A Derry",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-08-21T07:12:36.903Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_188",
+    "title": "IT Bienvenido A Derry",
+    "eps_changed": 0
   }
 ]
