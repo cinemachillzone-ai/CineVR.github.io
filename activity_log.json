@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:42:01.074Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2816",
-    "series": "series_154",
-    "title": "Capítulo 15"
-  },
-  {
     "ts": "2026-06-17T23:42:47.192Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3592,5 +3584,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_637",
     "title": "Barbie: Moda Mágica en París"
+  },
+  {
+    "ts": "2026-08-21T06:58:33.516Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_188",
+    "title": "IT Bienvenido A Derry",
+    "season": 1,
+    "episodes": 8
   }
 ]
