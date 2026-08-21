@@ -69710,17 +69710,30 @@
       "id": "series_188",
       "type": "series",
       "title": "IT Bienvenido A Derry",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "Ambientada décadas antes de los acontecimientos de IT (2017), la serie explora los orígenes del terror que azota Derry, Maine. Un grupo de jóvenes comienza a descubrir una serie de acontecimientos extraños y desapariciones que parecen estar relacionados con una presencia sobrenatural que ha aterrorizado al pueblo durante generaciones.",
+      "duration": "50min",
+      "rating": "TV-MA",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "year": 2025,
+      "releaseDate": "2025-10-25",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Horror"
+      ],
+      "cast": [
+        "Jovan Adepo",
+        "Chris Chalk",
+        "Taylour Paige",
+        "James Remar",
+        "Stephen Rider",
+        "Amanda Christine",
+        "Mikkal Bates",
+        "Bill Skarsgård"
+      ],
+      "director": "Andy Muschietti, Barbara Muschietti, Jason Fuchs",
+      "recommended": "Recomendado 82%",
       "languages": [
         "language_Spanish"
       ],
@@ -69823,9 +69836,10 @@
         }
       ],
       "createdAt": "2026-08-21T06:57:48.850Z",
-      "updatedAt": "2026-08-21T06:57:48.850Z",
+      "updatedAt": "2026-08-21T07:12:04.906Z",
       "addedAt": "2026-08-21T06:57:48.850Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "saga": "It"
     }
   ],
   "movies": [
