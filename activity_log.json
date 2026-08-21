@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-17T23:38:26.994Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2809",
-    "series": "series_154",
-    "title": "Capítulo 8"
-  },
-  {
     "ts": "2026-06-17T23:38:51.995Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3599,5 +3591,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_630",
     "title": "Minions & Monstruos"
+  },
+  {
+    "ts": "2026-08-21T03:53:31.976Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_631",
+    "title": "Barbie: Mariposa y sus amigas las hadas"
   }
 ]
