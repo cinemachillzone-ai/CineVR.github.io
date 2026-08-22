@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T07:55:06.187Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_368",
-    "title": "La La Land: Una historia de amor"
-  },
-  {
     "ts": "2026-06-23T07:56:39.644Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3601,5 +3594,22 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 3882274
+  },
+  {
+    "ts": "2026-08-22T21:59:37.036Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_189",
+    "title": "El Mentalista",
+    "fields": [
+      "description",
+      "rating",
+      "year",
+      "releaseDate",
+      "genres",
+      "cast",
+      "director",
+      "recommended"
+    ]
   }
 ]
