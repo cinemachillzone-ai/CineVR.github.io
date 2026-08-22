@@ -69844,14 +69844,18 @@
     {
       "type": "series",
       "title": "El Mentalista",
-      "description": "",
+      "description": "Patrick Jane es un hombre que trabaja como médium televisivo hasta que sufre un duro golpe cuando su mujer e hija son asesinadas. A partir de entonces, decide usar sus habilidades para ayudar a resolver casos de asesinato, trabajando como detective en el Departamento de Investigación de Crímenes de California. El agente Jane será capaz de ver aquello que los demás no pueden y sus poderes de observación y deducción le darán excelentes resultados.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-14",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
+      "year": 2008,
+      "releaseDate": "2008-09-23",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -69861,9 +69865,16 @@
       "id": "series_189",
       "atlas": "A",
       "gridIndex": 0,
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "Simon Baker",
+        "Robin Tunney",
+        "Tim Kang",
+        "Rockmond Dunbar",
+        "Joe Adler",
+        "Josie Loren"
+      ],
+      "director": "Bruno Heller",
+      "recommended": "Recomendado 84%",
       "seasons": [
         {
           "number": 1,
@@ -71552,7 +71563,7 @@
         }
       ],
       "createdAt": "2026-08-22T21:55:54.830Z",
-      "updatedAt": "2026-08-22T21:55:54.830Z"
+      "updatedAt": "2026-08-22T21:59:02.712Z"
     }
   ],
   "movies": [
