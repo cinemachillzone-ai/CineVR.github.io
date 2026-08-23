@@ -69782,10 +69782,10 @@
               "slotId": "ep_5905",
               "title": "Capítulo 4",
               "links": {
-                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/ITBienvenidoADerry/T1/ItBienvenidoADerryS01E04/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/ITBienvenidoADerry/T1/ItBienvenidoADerryS01E04.25/master.m3u8",
                 "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/ITBienvenidoADerry/T1/ItBienvenidoADerryS01E04/master.m3u8"
               },
-              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/ITBienvenidoADerry/T1/ItBienvenidoADerryS01E04/master.m3u8",
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/ITBienvenidoADerry/T1/ItBienvenidoADerryS01E04.25/master.m3u8",
               "updatedAt": "2026-08-21T06:57:48.850Z"
             },
             {
@@ -69836,7 +69836,7 @@
         }
       ],
       "createdAt": "2026-08-21T06:57:48.850Z",
-      "updatedAt": "2026-08-21T07:12:04.906Z",
+      "updatedAt": "2026-08-23T06:33:18.529Z",
       "addedAt": "2026-08-21T06:57:48.850Z",
       "addedBy": "seanf",
       "saga": "It"
