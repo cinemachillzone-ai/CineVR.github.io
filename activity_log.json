@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T07:56:39.644Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_369",
-    "title": "Divergente"
-  },
-  {
     "ts": "2026-06-23T07:58:17.793Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3611,5 +3604,13 @@
       "director",
       "recommended"
     ]
+  },
+  {
+    "ts": "2026-08-23T06:33:49.637Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_188",
+    "title": "IT Bienvenido A Derry",
+    "eps_changed": 0
   }
 ]
