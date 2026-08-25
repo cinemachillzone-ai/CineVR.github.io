@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:02:03.513Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_374",
-    "title": "Max Steel: Makino's Revenge"
-  },
-  {
     "ts": "2026-06-23T08:02:42.534Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3612,5 +3605,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_651",
     "title": "Barbie en el lago de los cisnes"
+  },
+  {
+    "ts": "2026-08-25T01:31:00.690Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_070",
+    "season": 2,
+    "count": 5
   }
 ]
