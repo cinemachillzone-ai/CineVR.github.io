@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:03:48.190Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_377",
-    "title": "Max Steel: En peligro de extinción"
-  },
-  {
     "ts": "2026-06-23T08:05:04.014Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3615,5 +3608,12 @@
     "action": "DELETE_SERIES",
     "target": "series_190",
     "title": "south park"
+  },
+  {
+    "ts": "2026-08-25T01:41:32.265Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_652",
+    "title": "Jackass: La última y nos vamos"
   }
 ]
