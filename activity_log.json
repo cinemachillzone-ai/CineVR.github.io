@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:31:30.830Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_380",
-    "title": "Muy parecido al amor"
-  },
-  {
     "ts": "2026-06-23T08:32:57.114Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3620,5 +3613,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_655",
     "title": "Iron Lung: Océano de sangre"
+  },
+  {
+    "ts": "2026-08-25T09:44:21.302Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_656",
+    "title": "Sonic: La película"
   }
 ]
