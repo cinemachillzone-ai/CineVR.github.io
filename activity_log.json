@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:33:24.926Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_382",
-    "title": "Descendientes: el ascenso de Red"
-  },
-  {
     "ts": "2026-06-23T12:35:56.357Z",
     "actor": "yutamir",
     "action": "INJECT_SERIES",
@@ -3620,5 +3613,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_657",
     "title": "Sonic 2: La película"
+  },
+  {
+    "ts": "2026-08-25T10:34:58.312Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_658",
+    "title": "Sonic 3: La película"
   }
 ]
