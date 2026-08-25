@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:02:42.534Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_375",
-    "title": "Max Steel vs El Oscuro Enemigo"
-  },
-  {
     "ts": "2026-06-23T08:03:07.765Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3613,5 +3606,14 @@
     "target": "series_070",
     "season": 2,
     "count": 5
+  },
+  {
+    "ts": "2026-08-25T01:32:22.183Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_190",
+    "title": "south park",
+    "season": 1,
+    "episodes": 10
   }
 ]
