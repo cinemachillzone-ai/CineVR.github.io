@@ -33691,6 +33691,66 @@
               "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T1/poemas01e06/master.m3u8"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_6060",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e01/master.m3u8",
+              "updatedAt": "2026-08-25T01:30:21.552Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_6061",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e02/master.m3u8",
+              "updatedAt": "2026-08-25T01:30:21.552Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_6062",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e03/master.m3u8",
+              "updatedAt": "2026-08-25T01:30:21.552Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_6063",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e04/master.m3u8",
+              "updatedAt": "2026-08-25T01:30:21.552Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_6064",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Poemas/T2/poemaS02e05/master.m3u8",
+              "updatedAt": "2026-08-25T01:30:21.552Z"
+            }
+          ]
         }
       ],
       "atlas": "B",
@@ -33704,7 +33764,8 @@
       ],
       "director": "Pepa San Martín, Juan Ignacio Sabatini",
       "duration": "0h 30m",
-      "updatedAt": "2026-08-15T03:48:43.844Z"
+      "updatedAt": "2026-08-25T01:30:21.552Z",
+      "_baseKey": "poemas"
     },
     {
       "type": "series",
