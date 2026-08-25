@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T08:08:12.416Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_378",
-    "title": "Max Steel: La Alianza Monstruosa"
-  },
-  {
     "ts": "2026-06-23T08:09:45.117Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3615,5 +3608,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_653",
     "title": "Tinker Bell: Los Juegos en la Tierra de las Hadas"
+  },
+  {
+    "ts": "2026-08-25T01:47:50.716Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_191",
+    "title": "Starwar clone wars",
+    "season": 1,
+    "episodes": 22
   }
 ]
