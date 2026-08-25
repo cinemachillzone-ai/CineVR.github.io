@@ -71629,18 +71629,34 @@
     {
       "id": "series_191",
       "type": "series",
-      "title": "Starwar clone wars",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "title": "Star Wars: The Clone Wars",
+      "description": "Durante las Guerras Clon, la República Galáctica y los Separatistas se enfrentan en numerosos conflictos por toda la galaxia. El joven Anakin Skywalker recibe como aprendiz a Ahsoka Tano, mientras ambos luchan junto al ejército de clones bajo el mando de Obi-Wan Kenobi y otros Jedi. A través de distintas batallas y misiones, la serie muestra los acontecimientos que ocurrieron entre Star Wars: Episodio II — El ataque de los clones y Star Wars: Episodio III — La venganza de los Sith.",
+      "duration": "22mins",
+      "rating": "TV-PG",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "year": 2008,
+      "releaseDate": "2008-10-03",
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Animation",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "cast": [
+        "Matt Lanter",
+        "Ashley Eckstein",
+        "James Arnold Taylor",
+        "Dee Bradley Baker",
+        "Tom Kane",
+        "Matthew Wood",
+        "Catherine Taber",
+        "Corey Burton"
+      ],
+      "director": "Dave Filoni",
+      "recommended": "Recomendado 85%",
       "languages": [
         "language_Spanish"
       ],
@@ -71897,9 +71913,10 @@
         }
       ],
       "createdAt": "2026-08-25T01:47:04.315Z",
-      "updatedAt": "2026-08-25T01:47:04.315Z",
+      "updatedAt": "2026-08-25T02:01:51.268Z",
       "addedAt": "2026-08-25T01:47:04.315Z",
-      "addedBy": "seanf"
+      "addedBy": "seanf",
+      "saga": "Star Wars"
     }
   ],
   "movies": [
