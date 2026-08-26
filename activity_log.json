@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-23T12:40:42.857Z",
-    "actor": "yutamir",
-    "action": "ADD_EPISODE",
-    "target": "ep_2804",
-    "series": "series_154",
-    "title": "Capítulo 3"
-  },
-  {
     "ts": "2026-06-23T12:43:14.049Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3621,5 +3613,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_659",
     "title": "Django sin Cadenas"
+  },
+  {
+    "ts": "2026-08-26T12:45:18.061Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_660",
+    "title": "El poder del talismán"
   }
 ]
