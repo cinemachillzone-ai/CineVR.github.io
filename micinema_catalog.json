@@ -97355,17 +97355,19 @@
         "Western"
       ],
       "languages": [
+        "language_English",
         "language_Spanish"
       ],
       "atlas": "A",
       "gridIndex": 0,
       "links": {
         "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
-        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8"
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
+        "language_English": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8"
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
       "createdAt": "2026-08-26T12:31:45.730Z",
-      "updatedAt": "2026-08-26T12:31:45.730Z",
+      "updatedAt": "2026-08-26T12:37:37.305Z",
       "addedAt": "2026-08-26T12:31:45.730Z",
       "addedBy": "seanf"
     }
