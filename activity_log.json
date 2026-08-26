@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T12:35:56.357Z",
-    "actor": "yutamir",
-    "action": "INJECT_SERIES",
-    "target": "series_154",
-    "title": "asi Aprenderas T1"
-  },
-  {
     "ts": "2026-06-23T12:37:10.204Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3620,5 +3613,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_658",
     "title": "Sonic 3: La película"
+  },
+  {
+    "ts": "2026-08-26T12:32:30.013Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_659",
+    "title": "Django sin Cadenas"
   }
 ]
