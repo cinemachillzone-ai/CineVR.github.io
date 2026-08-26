@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:03:38.651Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-23T13:04:09.523Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3622,5 +3616,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_663",
     "title": "Siren Head"
+  },
+  {
+    "ts": "2026-08-26T12:51:51.352Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_664",
+    "title": "Masacre en Nueva York"
   }
 ]
