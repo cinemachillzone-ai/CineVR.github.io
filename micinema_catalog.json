@@ -97361,13 +97361,13 @@
       "atlas": "A",
       "gridIndex": 5,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoUnchained2012/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
         "language_English": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoSinCadenas2012/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DjangoUnchained2012/master.m3u8",
       "createdAt": "2026-08-26T12:31:45.730Z",
-      "updatedAt": "2026-08-26T12:37:37.305Z",
+      "updatedAt": "2026-08-26T14:19:32.824Z",
       "addedAt": "2026-08-26T12:31:45.730Z",
       "addedBy": "seanf"
     },
