@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T12:37:10.204Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-23T12:40:42.857Z",
     "actor": "yutamir",
     "action": "ADD_EPISODE",
@@ -3618,6 +3612,13 @@
     "ts": "2026-08-26T12:32:30.013Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_659",
+    "title": "Django sin Cadenas"
+  },
+  {
+    "ts": "2026-08-26T12:38:14.911Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
     "target": "movie_659",
     "title": "Django sin Cadenas"
   }
