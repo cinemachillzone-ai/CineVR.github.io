@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T12:43:14.049Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-23T12:58:45.580Z",
     "actor": "yutamir",
     "action": "DELETE_EPISODE",
@@ -3620,5 +3614,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_660",
     "title": "El poder del talismán"
+  },
+  {
+    "ts": "2026-08-26T12:47:13.470Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_661",
+    "title": "Rango"
   }
 ]
