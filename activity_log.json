@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:05:20.977Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-23T13:06:36.087Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3625,5 +3619,14 @@
     "action": "EDIT_MOVIE",
     "target": "movie_659",
     "title": "Django sin Cadenas"
+  },
+  {
+    "ts": "2026-08-26T20:03:12.833Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_192",
+    "title": "south park",
+    "season": 1,
+    "episodes": 13
   }
 ]
