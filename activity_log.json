@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T19:23:39.343Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_384",
-    "title": "Z-O-M-B-I-E-S 3"
-  },
-  {
     "ts": "2026-06-23T19:24:18.669Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3634,5 +3627,13 @@
     "target": "series_192",
     "season": 5,
     "count": 14
+  },
+  {
+    "ts": "2026-08-28T20:36:01.061Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 6,
+    "count": 17
   }
 ]
