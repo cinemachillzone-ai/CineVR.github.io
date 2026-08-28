@@ -75439,10 +75439,37 @@
               "updatedAt": "2026-08-28T22:25:08.537Z"
             }
           ]
+        },
+        {
+          "number": 24,
+          "episodes": [
+            {
+              "id": "s24e01",
+              "slotId": "ep_6404",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:27:38.142Z"
+            },
+            {
+              "id": "s24e02",
+              "slotId": "ep_6405",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T24/SouthParkS24E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:27:38.142Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:25:08.537Z",
+      "updatedAt": "2026-08-28T22:27:38.142Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
