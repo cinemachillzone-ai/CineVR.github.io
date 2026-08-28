@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:01:39.775Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_390",
-    "title": "Bee Movie: La historia de una abeja"
-  },
-  {
     "ts": "2026-06-30T19:02:11.763Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3645,6 +3638,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 18,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:16:22.682Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 19,
     "count": 10
   }
 ]
