@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:06:36.087Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
     "ts": "2026-06-23T13:09:48.601Z",
     "actor": "yutamir",
     "action": "INJECT_MOVIE",
@@ -3628,5 +3622,13 @@
     "title": "south park",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-28T20:23:45.590Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 2,
+    "count": 18
   }
 ]
