@@ -75537,10 +75537,81 @@
               "updatedAt": "2026-08-28T22:29:02.408Z"
             }
           ]
+        },
+        {
+          "number": 26,
+          "episodes": [
+            {
+              "id": "s26e01",
+              "slotId": "ep_6412",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            },
+            {
+              "id": "s26e02",
+              "slotId": "ep_6413",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            },
+            {
+              "id": "s26e03",
+              "slotId": "ep_6414",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E03/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            },
+            {
+              "id": "s26e04",
+              "slotId": "ep_6415",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E04/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            },
+            {
+              "id": "s26e05",
+              "slotId": "ep_6416",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E05/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            },
+            {
+              "id": "s26e06",
+              "slotId": "ep_6417",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T26/SouthParkS26E06/master.m3u8",
+              "updatedAt": "2026-08-28T22:31:12.511Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:29:02.408Z",
+      "updatedAt": "2026-08-28T22:31:12.511Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
