@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:06:28.707Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_397",
-    "title": "La caza"
-  },
-  {
     "ts": "2026-06-30T19:07:05.536Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3652,6 +3645,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 25,
+    "count": 6
+  },
+  {
+    "ts": "2026-08-28T22:31:42.259Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 26,
     "count": 6
   }
 ]
