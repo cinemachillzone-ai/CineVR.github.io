@@ -72682,10 +72682,169 @@
               "updatedAt": "2026-08-28T20:26:20.853Z"
             }
           ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "s05e01",
+              "slotId": "ep_6162",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E01/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e02",
+              "slotId": "ep_6163",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E02/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e03",
+              "slotId": "ep_6164",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E03/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e04",
+              "slotId": "ep_6165",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E04/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e05",
+              "slotId": "ep_6166",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E05/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e06",
+              "slotId": "ep_6167",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E06/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e07",
+              "slotId": "ep_6168",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E07/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e08",
+              "slotId": "ep_6169",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E08/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e09",
+              "slotId": "ep_6170",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E09/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e10",
+              "slotId": "ep_6171",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E10/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e11",
+              "slotId": "ep_6172",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E11/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e12",
+              "slotId": "ep_6173",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E12/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e13",
+              "slotId": "ep_6174",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E13/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            },
+            {
+              "id": "s05e14",
+              "slotId": "ep_6175",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T5/SouthParkS05E14/master.m3u8",
+              "updatedAt": "2026-08-28T20:33:23.083Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T20:26:20.853Z",
+      "updatedAt": "2026-08-28T20:33:23.083Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
