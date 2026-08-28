@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-29T09:14:46.338Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_047",
-    "title": "The Rookie",
-    "eps_changed": 21
-  },
-  {
     "ts": "2026-06-30T19:00:37.062Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3643,6 +3635,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 15,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:09:26.392Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 16,
     "count": 14
   }
 ]
