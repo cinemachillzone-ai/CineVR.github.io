@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-06-24T04:23:26.614Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_156"
-  },
-  {
     "ts": "2026-06-24T04:39:37.891Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3639,6 +3633,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 10,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T21:57:14.942Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 11,
     "count": 14
   }
 ]
