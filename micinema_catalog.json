@@ -75324,10 +75324,125 @@
               "updatedAt": "2026-08-28T22:23:30.699Z"
             }
           ]
+        },
+        {
+          "number": 23,
+          "episodes": [
+            {
+              "id": "s23e01",
+              "slotId": "ep_6394",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e02",
+              "slotId": "ep_6395",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e03",
+              "slotId": "ep_6396",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E03/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e04",
+              "slotId": "ep_6397",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E04/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e05",
+              "slotId": "ep_6398",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E05/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e06",
+              "slotId": "ep_6399",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E06/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e07",
+              "slotId": "ep_6400",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E07/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e08",
+              "slotId": "ep_6401",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E08/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e09",
+              "slotId": "ep_6402",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E09/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            },
+            {
+              "id": "s23e10",
+              "slotId": "ep_6403",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T23/SouthParkS23E10/master.m3u8",
+              "updatedAt": "2026-08-28T22:25:08.537Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:23:30.699Z",
+      "updatedAt": "2026-08-28T22:25:08.537Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
