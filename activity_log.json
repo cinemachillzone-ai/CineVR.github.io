@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-06-24T04:41:44.079Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_156",
-    "title": "ef: A Tale of Memories",
-    "eps_changed": 12
-  },
-  {
     "ts": "2026-06-29T02:59:05.846Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3641,6 +3633,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 12,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:03:13.419Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 13,
     "count": 14
   }
 ]
