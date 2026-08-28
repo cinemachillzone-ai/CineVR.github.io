@@ -74979,10 +74979,125 @@
               "updatedAt": "2026-08-28T22:15:52.365Z"
             }
           ]
+        },
+        {
+          "number": 20,
+          "episodes": [
+            {
+              "id": "s20e01",
+              "slotId": "ep_6364",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e02",
+              "slotId": "ep_6365",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e03",
+              "slotId": "ep_6366",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E03/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e04",
+              "slotId": "ep_6367",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E04/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e05",
+              "slotId": "ep_6368",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E05/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e06",
+              "slotId": "ep_6369",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E06/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e07",
+              "slotId": "ep_6370",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E07/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e08",
+              "slotId": "ep_6371",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E08/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e09",
+              "slotId": "ep_6372",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E09/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            },
+            {
+              "id": "s20e10",
+              "slotId": "ep_6373",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T20/SouthParkS20E10/master.m3u8",
+              "updatedAt": "2026-08-28T22:18:47.866Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:15:52.365Z",
+      "updatedAt": "2026-08-28T22:18:47.866Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
