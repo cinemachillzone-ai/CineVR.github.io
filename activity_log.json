@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:05:42.725Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_395",
-    "title": "Maridos en acción"
-  },
-  {
     "ts": "2026-06-30T19:06:07.443Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3651,5 +3644,13 @@
     "target": "series_192",
     "season": 23,
     "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:28:12.249Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 24,
+    "count": 2
   }
 ]
