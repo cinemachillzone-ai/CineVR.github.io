@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-29T02:59:05.846Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_157",
-    "title": "Gameoverse T1"
-  },
-  {
     "ts": "2026-06-29T03:01:21.746Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3641,6 +3634,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 13,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:05:31.332Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 14,
     "count": 14
   }
 ]
