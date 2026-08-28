@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T19:24:18.669Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_385",
-    "title": "El Juez"
-  },
-  {
     "ts": "2026-06-23T19:24:56.102Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3635,5 +3628,13 @@
     "target": "series_192",
     "season": 6,
     "count": 17
+  },
+  {
+    "ts": "2026-08-28T20:37:54.681Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 7,
+    "count": 15
   }
 ]
