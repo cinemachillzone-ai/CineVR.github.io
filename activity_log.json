@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:04:40.193Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_393",
-    "title": "Cercana Obsesión"
-  },
-  {
     "ts": "2026-06-30T19:05:20.400Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3648,6 +3641,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 21,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:24:04.780Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 22,
     "count": 10
   }
 ]
