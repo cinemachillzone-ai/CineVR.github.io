@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:02:11.763Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_391",
-    "title": "Espíritus ocultos: En compañía del miedo"
-  },
-  {
     "ts": "2026-06-30T19:04:16.568Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3646,6 +3639,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 19,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:19:20.504Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 20,
     "count": 10
   }
 ]
