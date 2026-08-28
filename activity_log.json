@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T19:25:31.110Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_387",
-    "title": "Exit 8"
-  },
-  {
     "timestamp": "2026-06-24T04:18:48.536Z",
     "user": "Admin",
     "action": "ADD",
@@ -3636,6 +3629,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 8,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T20:46:12.313Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 9,
     "count": 14
   }
 ]
