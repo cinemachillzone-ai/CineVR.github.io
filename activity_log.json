@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:05:20.400Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_394",
-    "title": "Operación monumento"
-  },
-  {
     "ts": "2026-06-30T19:05:42.725Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3649,6 +3642,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 22,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:25:39.687Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 23,
     "count": 10
   }
 ]
