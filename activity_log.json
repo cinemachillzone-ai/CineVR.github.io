@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:09:48.601Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_383",
-    "title": "Drácula"
-  },
-  {
     "ts": "2026-06-23T13:49:27.532Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODE",
@@ -3630,5 +3623,13 @@
     "target": "series_192",
     "season": 2,
     "count": 18
+  },
+  {
+    "ts": "2026-08-28T20:25:17.458Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 3,
+    "count": 17
   }
 ]
