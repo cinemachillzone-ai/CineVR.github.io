@@ -75094,10 +75094,125 @@
               "updatedAt": "2026-08-28T22:18:47.866Z"
             }
           ]
+        },
+        {
+          "number": 21,
+          "episodes": [
+            {
+              "id": "s21e01",
+              "slotId": "ep_6374",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e02",
+              "slotId": "ep_6375",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e03",
+              "slotId": "ep_6376",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E03/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e04",
+              "slotId": "ep_6377",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E04/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e05",
+              "slotId": "ep_6378",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E05/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e06",
+              "slotId": "ep_6379",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E06/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e07",
+              "slotId": "ep_6380",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E07/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e08",
+              "slotId": "ep_6381",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E08/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e09",
+              "slotId": "ep_6382",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E09/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            },
+            {
+              "id": "s21e10",
+              "slotId": "ep_6383",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T21/SouthParkS21E10/master.m3u8",
+              "updatedAt": "2026-08-28T22:21:28.782Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:18:47.866Z",
+      "updatedAt": "2026-08-28T22:21:28.782Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
