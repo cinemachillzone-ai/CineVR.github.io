@@ -63708,7 +63708,7 @@
       "duration": "0h 02m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2022,
       "releaseDate": "2022-04-04",
       "genres": [
@@ -72095,10 +72095,213 @@
               "updatedAt": "2026-08-26T20:02:21.168Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_6110",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E01/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_6111",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E02/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_6112",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E03/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_6113",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E04/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_6114",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E05/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_6115",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E06/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_6116",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E07/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_6117",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E08/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_6118",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E09/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_6119",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E10/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_6120",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E11/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_6121",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E12/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e13",
+              "slotId": "ep_6122",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E13/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_6123",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E14/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e15",
+              "slotId": "ep_6124",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E15/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e16",
+              "slotId": "ep_6125",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E16/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e17",
+              "slotId": "ep_6126",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E17/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            },
+            {
+              "id": "s02e18",
+              "slotId": "ep_6127",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T2/SouthParkS02E18/master.m3u8",
+              "updatedAt": "2026-08-28T20:23:09.561Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-26T20:02:21.168Z",
+      "updatedAt": "2026-08-28T20:23:09.561Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
@@ -89117,7 +89320,7 @@
       "duration": "1h 53m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2008,
       "releaseDate": "2008-06-12",
       "genres": [
@@ -89159,7 +89362,7 @@
       "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2011,
       "releaseDate": "2011-07-22",
       "genres": [
@@ -89325,7 +89528,7 @@
       "duration": "2h 06m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2008,
       "releaseDate": "2008-04-30",
       "genres": [
@@ -89367,7 +89570,7 @@
       "duration": "2h 05m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2010,
       "releaseDate": "2010-04-28",
       "genres": [
@@ -89450,7 +89653,7 @@
       "duration": "1h 25m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1998,
       "releaseDate": "1998-07-18",
       "genres": [
@@ -89493,7 +89696,7 @@
       "duration": "1h 24m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1999,
       "releaseDate": "1999-07-17",
       "genres": [
@@ -89536,7 +89739,7 @@
       "duration": "1h 32m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2000,
       "releaseDate": "2000-07-08",
       "genres": [
@@ -89579,7 +89782,7 @@
       "duration": "1h 13m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2015,
       "releaseDate": "2015-07-18",
       "genres": [
@@ -89622,7 +89825,7 @@
       "duration": "1h 16m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2014,
       "releaseDate": "2014-07-19",
       "genres": [
@@ -89666,7 +89869,7 @@
       "duration": "1h 38m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2019,
       "releaseDate": "2019-07-12",
       "genres": [
@@ -89709,7 +89912,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2018,
       "releaseDate": "2018-07-13",
       "genres": [
@@ -89751,7 +89954,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2016,
       "releaseDate": "2016-07-16",
       "genres": [
@@ -89784,7 +89987,7 @@
       "duration": "1h 55m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-06-18",
       "genres": [
@@ -89866,7 +90069,7 @@
       "duration": "2h 49m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2019,
       "releaseDate": "2019-09-04",
       "genres": [
@@ -89907,7 +90110,7 @@
       "duration": "1h 38m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2017,
       "releaseDate": "2017-07-15",
       "genres": [
@@ -89949,7 +90152,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2020,
       "releaseDate": "2020-12-25",
       "genres": [
@@ -89991,7 +90194,7 @@
       "duration": "1h 40m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2008,
       "releaseDate": "2008-07-19",
       "genres": [
@@ -90033,7 +90236,7 @@
       "duration": "1h 28m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2011,
       "releaseDate": "2011-07-16",
       "genres": [
@@ -90076,7 +90279,7 @@
       "duration": "1h 20m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2001,
       "releaseDate": "2001-07-07",
       "genres": [
@@ -90119,7 +90322,7 @@
       "duration": "1h 36m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2013,
       "releaseDate": "2013-07-13",
       "genres": [
@@ -90161,7 +90364,7 @@
       "duration": "1h 37m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2011,
       "releaseDate": "2011-07-16",
       "genres": [
@@ -90204,7 +90407,7 @@
       "duration": "1h 36m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2010,
       "releaseDate": "2010-07-10",
       "genres": [
@@ -90246,7 +90449,7 @@
       "duration": "1h 12m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2012,
       "releaseDate": "2012-07-13",
       "genres": [
@@ -90280,7 +90483,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2009,
       "releaseDate": "2009-07-18",
       "genres": [
@@ -90322,7 +90525,7 @@
       "duration": "1h 45m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2006,
       "releaseDate": "2006-07-15",
       "genres": [
@@ -90366,7 +90569,7 @@
       "duration": "1h 43m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2005,
       "releaseDate": "2005-07-16",
       "genres": [
@@ -90410,7 +90613,7 @@
       "duration": "1h 35m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2007,
       "releaseDate": "2007-07-14",
       "genres": [
@@ -90454,7 +90657,7 @@
       "duration": "1h 38m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2004,
       "releaseDate": "2004-07-22",
       "genres": [
@@ -90496,7 +90699,7 @@
       "duration": "1h 21m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2003,
       "releaseDate": "2003-07-19",
       "genres": [
@@ -90540,7 +90743,7 @@
       "duration": "1h 20m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2002,
       "releaseDate": "2002-07-13",
       "genres": [
@@ -90583,7 +90786,7 @@
       "duration": "2h 06m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2008,
       "releaseDate": "2008-04-30",
       "genres": [
@@ -90625,7 +90828,7 @@
       "duration": "1h 45m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2019,
       "releaseDate": "2019-05-03",
       "genres": [
