@@ -75209,10 +75209,125 @@
               "updatedAt": "2026-08-28T22:21:28.782Z"
             }
           ]
+        },
+        {
+          "number": 22,
+          "episodes": [
+            {
+              "id": "s22e01",
+              "slotId": "ep_6384",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E01/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e02",
+              "slotId": "ep_6385",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E02/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e03",
+              "slotId": "ep_6386",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E03/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e04",
+              "slotId": "ep_6387",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E04/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e05",
+              "slotId": "ep_6388",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E05/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e06",
+              "slotId": "ep_6389",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E06/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e07",
+              "slotId": "ep_6390",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E07/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e08",
+              "slotId": "ep_6391",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E08/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e09",
+              "slotId": "ep_6392",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E09/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            },
+            {
+              "id": "s22e10",
+              "slotId": "ep_6393",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T22/SouthParkS22E10/master.m3u8",
+              "updatedAt": "2026-08-28T22:23:30.699Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T22:21:28.782Z",
+      "updatedAt": "2026-08-28T22:23:30.699Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
