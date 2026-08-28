@@ -72490,10 +72490,202 @@
               "updatedAt": "2026-08-28T20:24:46.271Z"
             }
           ]
+        },
+        {
+          "number": 4,
+          "episodes": [
+            {
+              "id": "s04e01",
+              "slotId": "ep_6145",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E01/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e02",
+              "slotId": "ep_6146",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E02/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e03",
+              "slotId": "ep_6147",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E03/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e04",
+              "slotId": "ep_6148",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E04/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e05",
+              "slotId": "ep_6149",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E05/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e06",
+              "slotId": "ep_6150",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E06/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e07",
+              "slotId": "ep_6151",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E07/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e08",
+              "slotId": "ep_6152",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E08/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e09",
+              "slotId": "ep_6153",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E09/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e10",
+              "slotId": "ep_6154",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E10/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e11",
+              "slotId": "ep_6155",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E11/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e12",
+              "slotId": "ep_6156",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E12/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e13",
+              "slotId": "ep_6157",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E13/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e14",
+              "slotId": "ep_6158",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E14/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e15",
+              "slotId": "ep_6159",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E15/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e16",
+              "slotId": "ep_6160",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E16/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            },
+            {
+              "id": "s04e17",
+              "slotId": "ep_6161",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/south park/T4/SouthParkS04E17/master.m3u8",
+              "updatedAt": "2026-08-28T20:26:20.853Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-26T20:02:21.168Z",
-      "updatedAt": "2026-08-28T20:24:46.271Z",
+      "updatedAt": "2026-08-28T20:26:20.853Z",
       "addedAt": "2026-08-26T20:02:21.168Z",
       "addedBy": "seanf"
     }
