@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:49:27.532Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_153"
-  },
-  {
     "ts": "2026-06-23T13:56:50.533Z",
     "actor": "yutamir",
     "action": "DELETE_EPISODE",
@@ -3630,6 +3624,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_192",
     "season": 3,
+    "count": 17
+  },
+  {
+    "ts": "2026-08-28T20:26:50.427Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 4,
     "count": 17
   }
 ]
