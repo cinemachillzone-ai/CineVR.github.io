@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:07:49.390Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_399",
-    "title": "Gran Torino"
-  },
-  {
     "ts": "2026-06-30T19:08:14.865Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3654,5 +3647,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_665",
     "title": "Nueve"
+  },
+  {
+    "ts": "2026-08-29T18:55:07.504Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_193",
+    "title": "Monstruos La historia de Lyle y Erik Menéndez",
+    "season": 1,
+    "episodes": 9
   }
 ]
