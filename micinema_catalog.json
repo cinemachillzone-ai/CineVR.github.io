@@ -76263,10 +76263,114 @@
               "updatedAt": "2026-08-29T20:34:16.205Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_6462",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E01/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_6463",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E02/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_6464",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E03/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_6465",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E04/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_6466",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E05/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_6467",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E06/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_6468",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E07/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_6469",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E09/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_6470",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T3/SmilingFriendsS03E10/master.m3u8",
+              "updatedAt": "2026-08-29T20:35:13.248Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-29T20:32:46.988Z",
-      "updatedAt": "2026-08-29T20:34:16.205Z",
+      "updatedAt": "2026-08-29T20:35:13.248Z",
       "addedAt": "2026-08-29T20:32:46.988Z",
       "addedBy": "seanf"
     }
