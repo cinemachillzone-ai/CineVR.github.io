@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:08:37.529Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_401",
-    "title": "Los Thornberrys: la película"
-  },
-  {
     "ts": "2026-06-30T19:09:09.851Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3658,5 +3651,14 @@
     "title": "Monstruo La historia de Ed Gein",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-08-29T19:05:42.471Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_195",
+    "title": "Monstruo La historia de Jeffrey Dahmer",
+    "season": 1,
+    "episodes": 10
   }
 ]
