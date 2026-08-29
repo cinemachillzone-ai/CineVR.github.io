@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:09:09.851Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_402",
-    "title": "Buena suerte, diviértete, no mueras"
-  },
-  {
     "ts": "2026-06-30T19:10:15.675Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3660,5 +3653,12 @@
     "title": "Monstruo La historia de Jeffrey Dahmer",
     "season": 1,
     "episodes": 10
+  },
+  {
+    "ts": "2026-08-29T20:28:18.129Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_665",
+    "title": "Nueve"
   }
 ]
