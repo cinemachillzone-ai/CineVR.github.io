@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:11:09.912Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_404",
-    "title": "Tu nombre"
-  },
-  {
     "ts": "2026-06-30T19:28:52.820Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3662,5 +3655,13 @@
     "title": "Smiling Friends",
     "season": 1,
     "episodes": 9
+  },
+  {
+    "ts": "2026-08-29T20:34:49.208Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_196",
+    "season": 2,
+    "count": 8
   }
 ]
