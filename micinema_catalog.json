@@ -76170,10 +76170,103 @@
               "updatedAt": "2026-08-29T20:32:46.988Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_6454",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E01/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_6455",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E02/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_6456",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E03/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_6457",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E04/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_6458",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E05/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_6459",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E06/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_6460",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E07/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_6461",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Smiling Friends/T2/SmilingFriendsS02E08/master.m3u8",
+              "updatedAt": "2026-08-29T20:34:16.205Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-08-29T20:32:46.988Z",
-      "updatedAt": "2026-08-29T20:32:46.988Z",
+      "updatedAt": "2026-08-29T20:34:16.205Z",
       "addedAt": "2026-08-29T20:32:46.988Z",
       "addedBy": "seanf"
     }
