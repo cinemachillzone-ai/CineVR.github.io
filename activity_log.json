@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:08:14.865Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_400",
-    "title": "Los Descendientes 3"
-  },
-  {
     "ts": "2026-06-30T19:08:37.529Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3656,5 +3649,14 @@
     "title": "Monstruos La historia de Lyle y Erik Menéndez",
     "season": 1,
     "episodes": 9
+  },
+  {
+    "ts": "2026-08-29T19:04:14.151Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_194",
+    "title": "Monstruo La historia de Ed Gein",
+    "season": 1,
+    "episodes": 8
   }
 ]
