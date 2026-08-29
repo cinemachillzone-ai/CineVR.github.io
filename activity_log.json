@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-06-30T19:10:15.675Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_403",
-    "title": "Z-O-M-B-I-E-S 4: El origen de los vampiros"
-  },
-  {
     "ts": "2026-06-30T19:11:09.912Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3660,5 +3653,14 @@
     "action": "EDIT_MOVIE",
     "target": "movie_665",
     "title": "Nueve"
+  },
+  {
+    "ts": "2026-08-29T20:33:29.911Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_196",
+    "title": "Smiling Friends",
+    "season": 1,
+    "episodes": 9
   }
 ]
