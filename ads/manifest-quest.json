@@ -1,0 +1,51 @@
+{
+  "ttl": 600,
+  "atlasVersion": 5,
+  "grid": {
+    "cols": 4,
+    "rows": 2
+  },
+  "slots": [
+    {
+      "slot": 0,
+      "atlas": 0,
+      "cell": 0,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/vmg",
+      "seconds": 30
+    },
+    {
+      "slot": 1,
+      "atlas": 0,
+      "cell": 1,
+      "kind": "group",
+      "link": "CINEVR.6703",
+      "seconds": 30
+    },
+    {
+      "slot": 2,
+      "atlas": 0,
+      "cell": 2,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/qxx",
+      "seconds": 30
+    }
+  ],
+  "pause": [
+    {
+      "slot": 0,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/uvr"
+    },
+    {
+      "slot": 1,
+      "kind": "group",
+      "link": "CINEVR.6703"
+    },
+    {
+      "slot": 2,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/e44"
+    }
+  ]
+}
