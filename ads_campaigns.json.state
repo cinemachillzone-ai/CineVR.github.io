@@ -8,10 +8,11 @@
       "familia": "corte",
       "atlas": 0,
       "cell": 0,
-      "seconds": 30,
+      "seconds": 45,
       "id": "cmsz8tw7q",
       "code": "vmg",
-      "creada": "2026-08-18T22:37:43.383Z"
+      "creada": "2026-08-18T22:37:43.383Z",
+      "activa": true
     },
     {
       "nombre": "CineVR - Grupo VRChat",
