@@ -11,7 +11,8 @@
       "seconds": 30,
       "id": "cmsz8tw7q",
       "code": "vmg",
-      "creada": "2026-08-18T22:37:43.383Z"
+      "creada": "2026-08-18T22:37:43.383Z",
+      "activa": true
     },
     {
       "nombre": "CineVR - Grupo VRChat",

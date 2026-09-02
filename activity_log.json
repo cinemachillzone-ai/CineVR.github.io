@@ -1,235 +1,5 @@
 [
   {
-    "ts": "2026-06-23T13:06:36.087Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_154"
-  },
-  {
-    "ts": "2026-06-23T13:09:48.601Z",
-    "actor": "yutamir",
-    "action": "INJECT_MOVIE",
-    "target": "movie_383",
-    "title": "Drácula"
-  },
-  {
-    "ts": "2026-06-23T13:49:27.532Z",
-    "actor": "yutamir",
-    "action": "INJECT_EPISODE",
-    "target": "series_153"
-  },
-  {
-    "ts": "2026-06-23T13:56:50.533Z",
-    "actor": "yutamir",
-    "action": "DELETE_EPISODE",
-    "target": "ep_2800",
-    "series": "series_153"
-  },
-  {
-    "ts": "2026-06-23T19:23:39.343Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_384",
-    "title": "Z-O-M-B-I-E-S 3"
-  },
-  {
-    "ts": "2026-06-23T19:24:18.669Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_385",
-    "title": "El Juez"
-  },
-  {
-    "ts": "2026-06-23T19:24:56.102Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_386",
-    "title": "Z-O-M-B-I-E-S 2"
-  },
-  {
-    "ts": "2026-06-23T19:25:31.110Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_387",
-    "title": "Exit 8"
-  },
-  {
-    "timestamp": "2026-06-24T04:18:48.536Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_155"
-  },
-  {
-    "timestamp": "2026-06-24T04:23:26.614Z",
-    "user": "Admin",
-    "action": "ADD",
-    "targetId": "series_156"
-  },
-  {
-    "ts": "2026-06-24T04:39:37.891Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_155",
-    "title": "ef: A Tale of Melodies",
-    "eps_changed": 12
-  },
-  {
-    "ts": "2026-06-24T04:41:44.079Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_156",
-    "title": "ef: A Tale of Memories",
-    "eps_changed": 12
-  },
-  {
-    "ts": "2026-06-29T02:59:05.846Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_157",
-    "title": "Gameoverse T1"
-  },
-  {
-    "ts": "2026-06-29T03:01:21.746Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_158",
-    "title": "EFA Taleof Melodies T1"
-  },
-  {
-    "ts": "2026-06-29T09:14:46.338Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_047",
-    "title": "The Rookie",
-    "eps_changed": 21
-  },
-  {
-    "ts": "2026-06-30T19:00:37.062Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_388",
-    "title": "Gatúbela"
-  },
-  {
-    "ts": "2026-06-30T19:01:17.523Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_389",
-    "title": "Mensajes de voz para Isabelle"
-  },
-  {
-    "ts": "2026-06-30T19:01:39.775Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_390",
-    "title": "Bee Movie: La historia de una abeja"
-  },
-  {
-    "ts": "2026-06-30T19:02:11.763Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_391",
-    "title": "Espíritus ocultos: En compañía del miedo"
-  },
-  {
-    "ts": "2026-06-30T19:04:16.568Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_392",
-    "title": "Lawrence de Arabia"
-  },
-  {
-    "ts": "2026-06-30T19:04:40.193Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_393",
-    "title": "Cercana Obsesión"
-  },
-  {
-    "ts": "2026-06-30T19:05:20.400Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_394",
-    "title": "Operación monumento"
-  },
-  {
-    "ts": "2026-06-30T19:05:42.725Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_395",
-    "title": "Maridos en acción"
-  },
-  {
-    "ts": "2026-06-30T19:06:07.443Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_396",
-    "title": "Las ovejas detectives"
-  },
-  {
-    "ts": "2026-06-30T19:06:28.707Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_397",
-    "title": "La caza"
-  },
-  {
-    "ts": "2026-06-30T19:07:05.536Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_398",
-    "title": "Hermanito"
-  },
-  {
-    "ts": "2026-06-30T19:07:49.390Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_399",
-    "title": "Gran Torino"
-  },
-  {
-    "ts": "2026-06-30T19:08:14.865Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_400",
-    "title": "Los Descendientes 3"
-  },
-  {
-    "ts": "2026-06-30T19:08:37.529Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_401",
-    "title": "Los Thornberrys: la película"
-  },
-  {
-    "ts": "2026-06-30T19:09:09.851Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_402",
-    "title": "Buena suerte, diviértete, no mueras"
-  },
-  {
-    "ts": "2026-06-30T19:10:15.675Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_403",
-    "title": "Z-O-M-B-I-E-S 4: El origen de los vampiros"
-  },
-  {
-    "ts": "2026-06-30T19:11:09.912Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_404",
-    "title": "Tu nombre"
-  },
-  {
-    "ts": "2026-06-30T19:28:52.820Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_404",
-    "title": "Tu nombre (sub español)"
-  },
-  {
     "ts": "2026-07-01T20:35:08.256Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3628,5 +3398,271 @@
     "title": "south park",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-08-28T20:23:45.590Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 2,
+    "count": 18
+  },
+  {
+    "ts": "2026-08-28T20:25:17.458Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 3,
+    "count": 17
+  },
+  {
+    "ts": "2026-08-28T20:26:50.427Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 4,
+    "count": 17
+  },
+  {
+    "ts": "2026-08-28T20:33:56.834Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 5,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T20:36:01.061Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 6,
+    "count": 17
+  },
+  {
+    "ts": "2026-08-28T20:37:54.681Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 7,
+    "count": 15
+  },
+  {
+    "ts": "2026-08-28T20:42:49.435Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 8,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T20:46:12.313Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 9,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T21:55:11.091Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 10,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T21:57:14.942Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 11,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:01:03.755Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 12,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:03:13.419Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 13,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:05:31.332Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 14,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:07:09.300Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 15,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:09:26.392Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 16,
+    "count": 14
+  },
+  {
+    "ts": "2026-08-28T22:12:23.631Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 17,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:14:30.200Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 18,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:16:22.682Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 19,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:19:20.504Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 20,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:22:01.328Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 21,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:24:04.780Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 22,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:25:39.687Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 23,
+    "count": 10
+  },
+  {
+    "ts": "2026-08-28T22:28:12.249Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 24,
+    "count": 2
+  },
+  {
+    "ts": "2026-08-28T22:29:33.931Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 25,
+    "count": 6
+  },
+  {
+    "ts": "2026-08-28T22:31:42.259Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_192",
+    "season": 26,
+    "count": 6
+  },
+  {
+    "ts": "2026-08-29T02:42:57.104Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_665",
+    "title": "Nueve"
+  },
+  {
+    "ts": "2026-08-29T18:55:07.504Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_193",
+    "title": "Monstruos La historia de Lyle y Erik Menéndez",
+    "season": 1,
+    "episodes": 9
+  },
+  {
+    "ts": "2026-08-29T19:04:14.151Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_194",
+    "title": "Monstruo La historia de Ed Gein",
+    "season": 1,
+    "episodes": 8
+  },
+  {
+    "ts": "2026-08-29T19:05:42.471Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_195",
+    "title": "Monstruo La historia de Jeffrey Dahmer",
+    "season": 1,
+    "episodes": 10
+  },
+  {
+    "ts": "2026-08-29T20:28:18.129Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_665",
+    "title": "Nueve"
+  },
+  {
+    "ts": "2026-08-29T20:33:29.911Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_196",
+    "title": "Smiling Friends",
+    "season": 1,
+    "episodes": 9
+  },
+  {
+    "ts": "2026-08-29T20:34:49.208Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_196",
+    "season": 2,
+    "count": 8
+  },
+  {
+    "ts": "2026-08-29T20:35:44.047Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_196",
+    "season": 3,
+    "count": 9
   }
 ]
