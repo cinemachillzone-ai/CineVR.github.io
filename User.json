@@ -1,37 +1,35 @@
 {
-  "lastUpdate": "2026-08-28 08:29",
+  "lastUpdate": "2026-09-02 22:14",
   "stars": [
     {
       "user": "Sean F",
-      "cellIndex": 0
-    },
-    {
-      "user": "Akihide",
-      "cellIndex": 1
-    },
-    {
-      "user": "ForTodayDubs",
-      "cellIndex": 2
-    },
-    {
-      "user": "Barrio Fexa",
-      "cellIndex": 3
+      "cellIndex": 0,
+      "starAtlasIndex": 0
     },
     {
       "user": "Nath Kohai",
-      "cellIndex": 4
+      "cellIndex": 1,
+      "starAtlasIndex": 0
     },
     {
-      "user": "MixiBinx",
-      "cellIndex": 5
+      "user": "Akihide",
+      "cellIndex": 2,
+      "starAtlasIndex": 0
     },
     {
-      "user": "Lucesgrupo",
-      "cellIndex": 6
+      "user": "ForTodayDubs",
+      "cellIndex": 3,
+      "starAtlasIndex": 0
     },
     {
       "user": "CINEROSA",
-      "cellIndex": 7
+      "cellIndex": 4,
+      "starAtlasIndex": 0
+    },
+    {
+      "user": "Lucesgrupo",
+      "cellIndex": 5,
+      "starAtlasIndex": 0
     }
   ],
   "patreons": [
@@ -74,7 +72,7 @@
       "isStar": true,
       "groupId": "Wolf Daver",
       "patreonAccount": "",
-      "starCellIndex": 4,
+      "starCellIndex": 1,
       "starAtlasIndex": 0
     },
     {
@@ -100,7 +98,7 @@
       "cellIndex": 4,
       "isStar": true,
       "patreonAccount": "Akihide",
-      "starCellIndex": 1,
+      "starCellIndex": 2,
       "starAtlasIndex": 0
     },
     {
@@ -109,12 +107,12 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-08-23T00:00:00.000Z",
+      "expiresAt": "2026-09-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 5,
       "isStar": true,
       "patreonAccount": "ForTodayDubs",
-      "starCellIndex": 2,
+      "starCellIndex": 3,
       "starAtlasIndex": 0
     },
     {
@@ -128,7 +126,7 @@
       "cellIndex": 6,
       "isStar": true,
       "patreonAccount": "Lexi_Cineru",
-      "starCellIndex": 7,
+      "starCellIndex": 4,
       "starAtlasIndex": 0
     },
     {
@@ -193,7 +191,7 @@
       "cellIndex": 11,
       "isStar": true,
       "patreonAccount": "lucesgrupo",
-      "starCellIndex": 6,
+      "starCellIndex": 5,
       "starAtlasIndex": 0
     },
     {
@@ -211,7 +209,7 @@
     },
     {
       "id": "user_014",
-      "user": "slots 67",
+      "user": "KorZix",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
@@ -229,7 +227,7 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-08-31T00:00:00.000Z",
+      "expiresAt": "2026-10-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 14,
       "isStar": false,
@@ -268,10 +266,10 @@
       "expiresAt": "2026-07-30T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 17,
-      "isStar": true,
-      "starCellIndex": 5,
+      "isStar": false,
       "isGroupLeader": true,
-      "groupId": "mixi"
+      "groupId": "mixi",
+      "starAtlasIndex": 0
     },
     {
       "id": "user_019",
@@ -364,25 +362,28 @@
     },
     {
       "id": "user_026",
-      "user": "Slot 26",
+      "user": "Vixmon",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-10-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 25,
-      "isStar": false
+      "isStar": false,
+      "groupId": "Vixmon",
+      "isGroupLeader": true
     },
     {
       "id": "user_027",
-      "user": "Slot 27",
+      "user": "alan daniel",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-10-02T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 26,
-      "isStar": false
+      "isStar": false,
+      "groupId": "vixmon"
     },
     {
       "id": "user_028",
@@ -447,28 +448,6 @@
       "addedAt": "2026-05-25T03:01:45.048Z",
       "atlasIndex": 1,
       "cellIndex": 0,
-      "isStar": false,
-      "expiresAt": "2026-06-25T00:00:00.000Z"
-    },
-    {
-      "id": "user_034",
-      "user": "Slots 34",
-      "link": "",
-      "role": "Pareja",
-      "addedAt": "2026-05-25T03:02:55.552Z",
-      "atlasIndex": 1,
-      "cellIndex": 1,
-      "isStar": false,
-      "expiresAt": "2026-06-24T00:00:00.000Z"
-    },
-    {
-      "id": "user_035",
-      "user": "Slots 35",
-      "link": "",
-      "role": "Cine",
-      "addedAt": "2026-05-25T03:04:08.554Z",
-      "atlasIndex": 1,
-      "cellIndex": 2,
       "isStar": false,
       "expiresAt": "2026-06-25T00:00:00.000Z"
     }

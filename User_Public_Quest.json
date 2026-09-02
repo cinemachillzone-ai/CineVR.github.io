@@ -1,38 +1,36 @@
 {
-  "lastUpdate": "2026-08-28 08:29",
+  "lastUpdate": "2026-09-02 22:14",
   "patreonGlobal": false,
   "stars": [
     {
       "user": "Sean F",
-      "cellIndex": 0
-    },
-    {
-      "user": "Akihide",
-      "cellIndex": 1
-    },
-    {
-      "user": "ForTodayDubs",
-      "cellIndex": 2
-    },
-    {
-      "user": "Barrio Fexa",
-      "cellIndex": 3
+      "cellIndex": 0,
+      "starAtlasIndex": 0
     },
     {
       "user": "Nath Kohai",
-      "cellIndex": 4
+      "cellIndex": 1,
+      "starAtlasIndex": 0
     },
     {
-      "user": "MixiBinx",
-      "cellIndex": 5
+      "user": "Akihide",
+      "cellIndex": 2,
+      "starAtlasIndex": 0
     },
     {
-      "user": "Lucesgrupo",
-      "cellIndex": 6
+      "user": "ForTodayDubs",
+      "cellIndex": 3,
+      "starAtlasIndex": 0
     },
     {
       "user": "CINEROSA",
-      "cellIndex": 7
+      "cellIndex": 4,
+      "starAtlasIndex": 0
+    },
+    {
+      "user": "Lucesgrupo",
+      "cellIndex": 5,
+      "starAtlasIndex": 0
     }
   ],
   "patreons": [
@@ -64,7 +62,7 @@
       "atlasIndex": 0,
       "cellIndex": 2,
       "isStar": true,
-      "starCellIndex": 4,
+      "starCellIndex": 1,
       "starAtlasIndex": 0
     },
     {
@@ -84,7 +82,7 @@
       "atlasIndex": 0,
       "cellIndex": 4,
       "isStar": true,
-      "starCellIndex": 1,
+      "starCellIndex": 2,
       "starAtlasIndex": 0
     },
     {
@@ -95,7 +93,7 @@
       "atlasIndex": 0,
       "cellIndex": 5,
       "isStar": true,
-      "starCellIndex": 2,
+      "starCellIndex": 3,
       "starAtlasIndex": 0
     },
     {
@@ -106,7 +104,7 @@
       "atlasIndex": 0,
       "cellIndex": 6,
       "isStar": true,
-      "starCellIndex": 7,
+      "starCellIndex": 4,
       "starAtlasIndex": 0
     },
     {
@@ -155,7 +153,7 @@
       "atlasIndex": 0,
       "cellIndex": 11,
       "isStar": true,
-      "starCellIndex": 6,
+      "starCellIndex": 5,
       "starAtlasIndex": 0
     },
     {
@@ -169,7 +167,7 @@
     },
     {
       "id": "user_014",
-      "user": "slots 67",
+      "user": "KorZix",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "atlasIndex": 0,
@@ -210,8 +208,8 @@
       "role": "Pareja",
       "atlasIndex": 0,
       "cellIndex": 17,
-      "isStar": true,
-      "starCellIndex": 5
+      "isStar": false,
+      "starAtlasIndex": 0
     },
     {
       "id": "user_019",
@@ -278,18 +276,18 @@
     },
     {
       "id": "user_026",
-      "user": "Slot 26",
+      "user": "Vixmon",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 25,
       "isStar": false
     },
     {
       "id": "user_027",
-      "user": "Slot 27",
+      "user": "alan daniel",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Familiar",
       "atlasIndex": 0,
       "cellIndex": 26,
       "isStar": false
@@ -346,24 +344,6 @@
       "role": "Pareja",
       "atlasIndex": 1,
       "cellIndex": 0,
-      "isStar": false
-    },
-    {
-      "id": "user_034",
-      "user": "Slots 34",
-      "link": "",
-      "role": "Pareja",
-      "atlasIndex": 1,
-      "cellIndex": 1,
-      "isStar": false
-    },
-    {
-      "id": "user_035",
-      "user": "Slots 35",
-      "link": "",
-      "role": "Cine",
-      "atlasIndex": 1,
-      "cellIndex": 2,
       "isStar": false
     }
   ]
