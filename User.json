@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-05 22:03",
+  "lastUpdate": "2026-09-05 22:12",
   "stars": [
     {
       "user": "Sean F",
@@ -9,11 +9,6 @@
     {
       "user": "Nath Kohai",
       "cellIndex": 1,
-      "starAtlasIndex": 0
-    },
-    {
-      "user": "Akihide",
-      "cellIndex": 2,
       "starAtlasIndex": 0
     },
     {
@@ -89,16 +84,15 @@
     },
     {
       "id": "user_005",
-      "user": "Akihide",
+      "user": "slot4",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
       "expiresAt": "2050-05-17T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 4,
-      "isStar": true,
+      "isStar": false,
       "patreonAccount": "Akihide",
-      "starCellIndex": 2,
       "starAtlasIndex": 0
     },
     {
@@ -107,7 +101,7 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-09-02T00:00:00.000Z",
+      "expiresAt": "2026-10-05T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 5,
       "isStar": true,
@@ -213,7 +207,7 @@
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-07-02T00:00:00.000Z",
+      "expiresAt": "2026-10-05T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 13,
       "isStar": false,
@@ -259,7 +253,7 @@
     },
     {
       "id": "user_018",
-      "user": "MixiBinx",
+      "user": "slots 67",
       "link": "https://patreon.com/CineVR?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
       "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
@@ -273,7 +267,7 @@
     },
     {
       "id": "user_019",
-      "user": "Dal3Sky",
+      "user": "slot 68",
       "link": "https://patreon.com",
       "role": "Pareja",
       "addedAt": "2026-04-17T01:21:00.000Z",
@@ -289,7 +283,7 @@
       "link": "https://patreon.com",
       "role": "Cine",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-08-31T00:00:00.000Z",
+      "expiresAt": "2026-10-05T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 19,
       "isStar": false,
@@ -399,11 +393,11 @@
     },
     {
       "id": "user_029",
-      "user": "Slot 29",
+      "user": "Akzara",
       "link": "https://patreon.com",
-      "role": "Cine",
+      "role": "Cinefilo",
       "addedAt": "2026-04-17T01:21:00.000Z",
-      "expiresAt": "2026-05-17T01:21:00.000Z",
+      "expiresAt": "2026-10-05T00:00:00.000Z",
       "atlasIndex": 0,
       "cellIndex": 28,
       "isStar": false
