@@ -46,6 +46,11 @@
       "slot": 2,
       "kind": "web",
       "link": "https://apirender-u1ji.onrender.com/go/e44"
+    },
+    {
+      "slot": 3,
+      "kind": "group",
+      "link": "CINEVR.6703"
     }
   ]
 }
