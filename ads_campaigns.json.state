@@ -78,6 +78,17 @@
       "atlas": 0,
       "cell": 2,
       "seconds": 30
+    },
+    {
+      "nombre": "AVISO - Mantenimiento 48h",
+      "kind": "group",
+      "target": "CINEVR.6703",
+      "slot": 3,
+      "familia": "pausa",
+      "activa": true,
+      "id": "cmtou0e8c",
+      "code": null,
+      "creada": "2026-09-05T20:24:53.004Z"
     }
   ],
   "atlasVersion": 5,
