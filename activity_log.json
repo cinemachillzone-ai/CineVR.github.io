@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:42:53.686Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_156",
-    "title": "ef: A Tale of Memories",
-    "eps_changed": 12
-  },
-  {
     "ts": "2026-07-01T22:43:16.179Z",
     "actor": "yutamir",
     "action": "DELETE_SERIES",
@@ -3660,5 +3652,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_675",
     "title": "Mayday"
+  },
+  {
+    "ts": "2026-09-15T20:10:56.704Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_356",
+    "title": "Buena suerte, diviértete, no mueras"
   }
 ]
