@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T21:30:32.919Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_160",
-    "title": "Poemas",
-    "eps_changed": 6
-  },
-  {
     "ts": "2026-07-01T22:24:01.777Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3660,5 +3652,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_670",
     "title": "Érase una vez en México"
+  },
+  {
+    "ts": "2026-09-15T19:54:35.117Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_671",
+    "title": "Jim y el durazno gigante"
   }
 ]
