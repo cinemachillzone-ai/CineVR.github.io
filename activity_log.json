@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T21:23:50.295Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_160",
-    "title": "Poemas",
-    "episodes": 6
-  },
-  {
     "ts": "2026-07-01T21:24:20.797Z",
     "actor": "seanf",
     "action": "ADD_EPISODE",
@@ -3662,5 +3654,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_668",
     "title": "Titanes Del Pacífico"
+  },
+  {
+    "ts": "2026-09-15T19:48:31.808Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_669",
+    "title": "Titanes del Pacífico: La insurrección"
   }
 ]
