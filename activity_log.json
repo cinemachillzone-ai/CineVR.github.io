@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:17:20.251Z",
-    "actor": "yutamir",
-    "action": "DELETE_MOVIE",
-    "target": "movie_108",
-    "title": "Scream 7"
-  },
-  {
     "ts": "2026-07-02T22:17:50.956Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3658,5 +3651,12 @@
     "target": "ep_6471",
     "series": "series_196",
     "title": "Capítulo 10"
+  },
+  {
+    "ts": "2026-09-15T20:19:34.904Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_678",
+    "title": "My Little Pony: Equestria Girls – Rainbow Rocks"
   }
 ]
