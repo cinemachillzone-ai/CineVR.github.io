@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:24:01.777Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_161",
-    "title": "amongus T1"
-  },
-  {
     "ts": "2026-07-01T22:37:42.463Z",
     "actor": "yutamir",
     "action": "FIX_MOJIBAKE",
@@ -3659,5 +3652,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_671",
     "title": "Jim y el durazno gigante"
+  },
+  {
+    "ts": "2026-09-15T19:58:12.687Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_672",
+    "title": "1984"
   }
 ]
