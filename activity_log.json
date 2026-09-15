@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:43:16.179Z",
-    "actor": "yutamir",
-    "action": "DELETE_SERIES",
-    "target": "series_161",
-    "title": "amongus T1"
-  },
-  {
     "ts": "2026-07-01T22:51:08.973Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3655,6 +3648,13 @@
   },
   {
     "ts": "2026-09-15T20:10:56.704Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_356",
+    "title": "Buena suerte, diviértete, no mueras"
+  },
+  {
+    "ts": "2026-09-15T20:12:11.227Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
     "target": "movie_356",
