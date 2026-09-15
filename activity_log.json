@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T20:50:08.989Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_159",
-    "title": "Among Us",
-    "episodes": 10
-  },
-  {
     "ts": "2026-07-01T21:07:11.189Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3664,5 +3656,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_666",
     "title": "Zathura: Una aventura espacial"
+  },
+  {
+    "ts": "2026-09-15T19:42:31.982Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_637",
+    "title": "Barbie: Moda Mágica en París"
   }
 ]
