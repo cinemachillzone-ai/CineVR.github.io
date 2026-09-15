@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:37:42.463Z",
-    "actor": "yutamir",
-    "action": "FIX_MOJIBAKE",
-    "count": 2454
-  },
-  {
     "ts": "2026-07-01T22:39:29.343Z",
     "actor": "yutamir",
     "action": "FIX_MOJIBAKE",
@@ -3659,5 +3653,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_672",
     "title": "1984"
+  },
+  {
+    "ts": "2026-09-15T20:00:22.312Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_673",
+    "title": "Death Note Rewrite 1"
   }
 ]
