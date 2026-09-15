@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:16:51.901Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_224",
-    "title": "Jack Ryan: Guerra Fantasma"
-  },
-  {
     "ts": "2026-07-02T22:17:20.251Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3657,5 +3650,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_677",
     "title": "Tom y Jerry: La pelicula"
+  },
+  {
+    "ts": "2026-09-15T20:18:46.758Z",
+    "actor": "seanf",
+    "action": "ADD_EPISODE",
+    "target": "ep_6471",
+    "series": "series_196",
+    "title": "Capítulo 10"
   }
 ]
