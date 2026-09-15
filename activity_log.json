@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:17:50.956Z",
-    "actor": "yutamir",
-    "action": "DELETE_MOVIE",
-    "target": "movie_215",
-    "title": "Charlie y la Fábrica de Chocolate"
-  },
-  {
     "ts": "2026-07-02T22:18:20.375Z",
     "actor": "yutamir",
     "action": "DELETE_MOVIE",
@@ -3658,5 +3651,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_678",
     "title": "My Little Pony: Equestria Girls – Rainbow Rocks"
+  },
+  {
+    "ts": "2026-09-15T22:36:33.106Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_679",
+    "title": "Después del apocalipsis"
   }
 ]
