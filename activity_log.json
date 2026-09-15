@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:39:29.343Z",
-    "actor": "yutamir",
-    "action": "FIX_MOJIBAKE",
-    "count": 2
-  },
-  {
     "ts": "2026-07-01T22:42:33.089Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3660,5 +3654,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_673",
     "title": "Death Note Rewrite 1"
+  },
+  {
+    "ts": "2026-09-15T20:02:40.452Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_674",
+    "title": "Pacto con Lobos"
   }
 ]
