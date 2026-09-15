@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T21:07:38.531Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_159",
-    "title": "Among Us",
-    "eps_changed": 10
-  },
-  {
     "ts": "2026-07-01T21:23:50.295Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3663,5 +3655,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_667",
     "title": "RRR"
+  },
+  {
+    "ts": "2026-09-15T19:46:06.825Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_668",
+    "title": "Titanes Del Pacífico"
   }
 ]
