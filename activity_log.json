@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:42:33.089Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_159",
-    "title": "Among Us",
-    "eps_changed": 10
-  },
-  {
     "ts": "2026-07-01T22:42:53.686Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3661,5 +3653,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_674",
     "title": "Pacto con Lobos"
+  },
+  {
+    "ts": "2026-09-15T20:08:11.935Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_675",
+    "title": "Mayday"
   }
 ]
