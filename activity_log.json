@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:16:29.044Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_144",
-    "title": "Charlie y la Fábrica de Chocolate"
-  },
-  {
     "ts": "2026-07-02T22:16:51.901Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3657,5 +3650,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_676",
     "title": "Tom y Jerry"
+  },
+  {
+    "ts": "2026-09-15T20:16:44.121Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_677",
+    "title": "Tom y Jerry: La pelicula"
   }
 ]
