@@ -98854,7 +98854,7 @@
       "duration": "1h 17m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Mae Whitman",
         "Kristin Chenoweth",
@@ -100921,12 +100921,12 @@
       "atlas": "A",
       "gridIndex": 37,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieModaMgicaEnParis2010/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieModaEnParis2010/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieModaMgicaEnParis2010/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieModaMgicaEnParis2010/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BarbieModaEnParis2010/master.m3u8",
       "createdAt": "2026-08-21T04:10:41.564Z",
-      "updatedAt": "2026-08-21T04:10:41.564Z",
+      "updatedAt": "2026-09-15T19:42:00.841Z",
       "addedAt": "2026-08-21T04:10:41.564Z",
       "addedBy": "seanf"
     },
