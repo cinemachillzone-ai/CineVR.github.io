@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:19:46.689Z",
-    "actor": "yutamir",
-    "action": "DELETE_MOVIE",
-    "target": "movie_253",
-    "title": "Jack Ryan de Tom Clancy: Guerra fantasma"
-  },
-  {
     "ts": "2026-07-02T22:21:36.139Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3658,5 +3651,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_682",
     "title": "¡A Volar, Joven!"
+  },
+  {
+    "ts": "2026-09-15T23:33:29.487Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_681",
+    "title": " Chiikawa la película: El secreto de la isla de las sirenas"
   }
 ]
