@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-01T22:51:28.696Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_160",
-    "title": "Poemas",
-    "eps_changed": 6
-  },
-  {
     "ts": "2026-07-02T22:16:29.044Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3658,5 +3650,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_356",
     "title": "Buena suerte, diviértete, no mueras"
+  },
+  {
+    "ts": "2026-09-15T20:14:27.058Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_676",
+    "title": "Tom y Jerry"
   }
 ]
