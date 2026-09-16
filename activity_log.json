@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-04T06:02:49.319Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_162",
-    "title": "Dorohedoro",
-    "eps_changed": 11
-  },
-  {
     "ts": "2026-07-07T00:07:15.106Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3658,5 +3650,13 @@
     "title": "Mob Psycho 100",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-09-16T16:51:24.041Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_198",
+    "season": 2,
+    "count": 13
   }
 ]
