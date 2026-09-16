@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-04T05:42:32.837Z",
-    "actor": "seanf",
-    "action": "EDIT_SERIES",
-    "target": "series_162",
-    "title": "Dorohedoro",
-    "eps_changed": 11
-  },
-  {
     "ts": "2026-07-04T05:43:10.439Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3659,5 +3651,12 @@
     "target": "series_094",
     "title": "Fullmetal Alchemist Brotherhood",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-16T08:28:44.428Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_265",
+    "title": "RedLine"
   }
 ]
