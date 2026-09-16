@@ -88083,13 +88083,13 @@
       "atlas": "C",
       "gridIndex": 89,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Redline_2009/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8",
         "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/MovieAnime/Redline_2009/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/MovieAnime/Redline_2009/master.m3u8",
       "createdAt": "2026-06-06T04:16:43.407Z",
-      "updatedAt": "2026-06-06T04:16:43.407Z",
+      "updatedAt": "2026-09-16T08:28:19.698Z",
       "tokenDuration": 6169,
       "addedAt": "2026-06-03T00:40:51.000Z",
       "addedBy": "Sistema",
