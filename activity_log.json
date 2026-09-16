@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-03T03:05:47.627Z",
-    "actor": "seanf",
-    "action": "ADD_SERIES",
-    "target": "series_162",
-    "title": "Dorohedoro",
-    "episodes": 11
-  },
-  {
     "ts": "2026-07-04T05:42:32.837Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
@@ -3658,6 +3650,14 @@
     "action": "EDIT_SERIES",
     "target": "series_089",
     "title": "SPY×FAMILY",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-16T08:21:12.110Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_094",
+    "title": "Fullmetal Alchemist Brotherhood",
     "eps_changed": 0
   }
 ]
