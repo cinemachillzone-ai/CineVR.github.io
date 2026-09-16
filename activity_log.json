@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:07:15.106Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_408",
-    "title": "Backrooms: Sin salida"
-  },
-  {
     "ts": "2026-07-07T00:08:34.737Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3658,5 +3651,13 @@
     "target": "series_198",
     "season": 2,
     "count": 13
+  },
+  {
+    "ts": "2026-09-16T16:54:56.145Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_198",
+    "season": 3,
+    "count": 11
   }
 ]
