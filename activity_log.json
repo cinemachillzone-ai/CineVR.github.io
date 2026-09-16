@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:21:57.527Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_012",
-    "title": "Spider-Man 3"
-  },
-  {
     "ts": "2026-07-02T22:22:18.704Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3658,5 +3651,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_683",
     "title": "Corazón marchito"
+  },
+  {
+    "ts": "2026-09-16T04:35:56.558Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_684",
+    "title": "El Patrullero 777"
   }
 ]
