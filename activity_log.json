@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-03T02:46:12.069Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_407",
-    "title": "Paprika: El reino de los sueños"
-  },
-  {
     "ts": "2026-07-03T02:56:09.478Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3661,5 +3654,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_681",
     "title": " Chiikawa la película: El secreto de la isla de las sirenas"
+  },
+  {
+    "ts": "2026-09-16T08:12:45.440Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_685",
+    "title": "El final de la Calle Oak"
   }
 ]
