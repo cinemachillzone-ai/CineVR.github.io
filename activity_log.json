@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:23:00.309Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_019",
-    "title": "Spider-Man: Far From Home"
-  },
-  {
     "ts": "2026-07-02T22:25:52.760Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3658,5 +3651,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_686",
     "title": "El padrecito"
+  },
+  {
+    "ts": "2026-09-16T07:49:49.389Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_197",
+    "title": "My little pony la magia",
+    "season": 1,
+    "episodes": 26
   }
 ]
