@@ -77045,10 +77045,136 @@
               "updatedAt": "2026-09-16T16:50:56.885Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_6524",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E01/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_6525",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E02/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_6526",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E03/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_6527",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E04/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_6528",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E05/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_6529",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E06/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_6530",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E07/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_6531",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E08/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_6532",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E10/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e11",
+              "slotId": "ep_6533",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E11/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            },
+            {
+              "id": "s03e12",
+              "slotId": "ep_6534",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Mob Psycho 100/T3/MobPsycho100S03E12/master.m3u8",
+              "updatedAt": "2026-09-16T16:54:30.586Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-09-16T16:49:29.230Z",
-      "updatedAt": "2026-09-16T16:50:56.885Z",
+      "updatedAt": "2026-09-16T16:54:30.586Z",
       "addedAt": "2026-09-16T16:49:29.230Z",
       "addedBy": "seanf"
     }
@@ -99862,7 +99988,7 @@
       "duration": "1h 25m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Kelly Sheridan",
         "Kathleen Barr",
