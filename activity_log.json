@@ -1,15 +1,5 @@
 [
   {
-    "ts": "2026-07-03T02:57:59.094Z",
-    "actor": "seanf",
-    "action": "TMDB_AUTOFILL",
-    "target": "series_161",
-    "title": "Dorohedoro",
-    "fields": [
-      "rating"
-    ]
-  },
-  {
     "ts": "2026-07-03T03:05:47.627Z",
     "actor": "seanf",
     "action": "ADD_SERIES",
@@ -3660,6 +3650,14 @@
     "action": "EDIT_SERIES",
     "target": "series_084",
     "title": "No game no life",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-16T08:18:17.912Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_089",
+    "title": "SPY×FAMILY",
     "eps_changed": 0
   }
 ]
