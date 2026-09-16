@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-02T22:25:52.760Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_246",
-    "title": "El día del fin del mundo: Migración"
-  },
-  {
     "ts": "2026-07-02T22:42:08.910Z",
     "actor": "yutamir",
     "action": "RECALCULATE_INDICES",
@@ -3660,5 +3653,12 @@
     "title": "My little pony la magia",
     "season": 1,
     "episodes": 26
+  },
+  {
+    "ts": "2026-09-16T08:07:51.457Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_681",
+    "title": " Chiikawa la película: El secreto de la isla de las sirenas"
   }
 ]
