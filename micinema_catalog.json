@@ -39693,10 +39693,10 @@
               "slotId": "ep_3253",
               "title": "Capítulo 3",
               "links": {
-                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/NoGameNoLife/T1/NoGameNoLifeS01E03/master.m3u8",
                 "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8"
               },
-              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/No game no life/T1/NoGameNoLifeS01E03/master.m3u8",
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/NoGameNoLife/T1/NoGameNoLifeS01E03/master.m3u8",
               "updatedAt": "2026-08-08T00:42:17.966Z"
             },
             {
@@ -39813,7 +39813,7 @@
         }
       ],
       "createdAt": "2026-08-08T00:42:17.966Z",
-      "updatedAt": "2026-08-08T00:42:17.966Z",
+      "updatedAt": "2026-09-16T08:14:19.337Z",
       "addedAt": "2026-08-08T00:42:17.966Z",
       "addedBy": "seanf"
     },
