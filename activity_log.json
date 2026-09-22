@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:13:17.794Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_412",
-    "title": "Matar a traición"
-  },
-  {
     "ts": "2026-07-07T00:14:16.593Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3659,5 +3652,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_689",
     "title": "Coyote vs. Acme"
+  },
+  {
+    "ts": "2026-09-22T08:41:53.862Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_199",
+    "title": "Solo leveling",
+    "season": 1,
+    "episodes": 25
   }
 ]
