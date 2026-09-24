@@ -77502,17 +77502,28 @@
     {
       "id": "series_200",
       "type": "series",
-      "title": "Looney Tunes Colección Platino",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "title": "Looney Tunes: Colección Platino",
+      "description": "Looney Tunes: Colección Platino reúne una selección de los cortometrajes clásicos de Looney Tunes y Merrie Melodies, presentados en alta definición y restaurados para Blu-ray. La colección incluye algunas de las aventuras más conocidas de Bugs Bunny, el Pato Lucas, Porky, Piolín, Silvestre, Marvin el Marciano, el Coyote y el Correcaminos, el Demonio de Tasmania, Speedy Gonzales y muchos otros personajes.",
+      "duration": "5min",
+      "rating": "TV-G",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
+      "year": 2011,
+      "releaseDate": "2011-11-15",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "cast": [
+        "Mel Blanc",
+        "June Foray",
+        "Bea Benaderet",
+        "Stan Freberg",
+        "Daws Butler",
+        "Arthur Q. Bryan"
+      ],
+      "director": "Chuck Jones, Friz Freleng, Bob Clampett, Robert McKimson, Tex Avery, Arthur Davis",
       "recommended": "",
       "languages": [
         "language_Spanish"
@@ -78078,7 +78089,7 @@
         }
       ],
       "createdAt": "2026-09-24T04:24:36.207Z",
-      "updatedAt": "2026-09-24T04:24:36.207Z",
+      "updatedAt": "2026-09-24T04:31:32.701Z",
       "addedAt": "2026-09-24T04:24:36.207Z",
       "addedBy": "seanf"
     }
