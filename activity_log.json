@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:17:36.112Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_416",
-    "title": "La furia de Jackie"
-  },
-  {
     "ts": "2026-07-07T00:18:23.436Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3665,5 +3658,13 @@
     "target": "series_200",
     "season": 2,
     "count": 49
+  },
+  {
+    "ts": "2026-09-24T04:36:09.289Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_200",
+    "season": 3,
+    "count": 50
   }
 ]
