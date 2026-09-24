@@ -78086,10 +78086,554 @@
               "updatedAt": "2026-09-24T04:24:36.207Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e02",
+              "slotId": "ep_6610",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E02/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_6611",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E03/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_6612",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E04/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_6613",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E05/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_6614",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E06/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_6615",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E07/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_6616",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E08/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_6617",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E09/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_6618",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E10/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_6619",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E11/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_6620",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E12/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e13",
+              "slotId": "ep_6621",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E13/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_6622",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E14/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e15",
+              "slotId": "ep_6623",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E15/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e16",
+              "slotId": "ep_6624",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E16/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e17",
+              "slotId": "ep_6625",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E17/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e18",
+              "slotId": "ep_6626",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E18/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e19",
+              "slotId": "ep_6627",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E19/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e20",
+              "slotId": "ep_6628",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E20/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e21",
+              "slotId": "ep_6629",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E21/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e22",
+              "slotId": "ep_6630",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E22/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e23",
+              "slotId": "ep_6631",
+              "title": "Capítulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E23/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e24",
+              "slotId": "ep_6632",
+              "title": "Capítulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E24/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e25",
+              "slotId": "ep_6633",
+              "title": "Capítulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E25/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e26",
+              "slotId": "ep_6634",
+              "title": "Capítulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E26/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e27",
+              "slotId": "ep_6635",
+              "title": "Capítulo 27",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E27/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E27/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E27/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e28",
+              "slotId": "ep_6636",
+              "title": "Capítulo 28",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E28/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E28/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E28/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e29",
+              "slotId": "ep_6637",
+              "title": "Capítulo 29",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E29/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E29/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E29/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e30",
+              "slotId": "ep_6638",
+              "title": "Capítulo 30",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E30/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E30/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E30/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e31",
+              "slotId": "ep_6639",
+              "title": "Capítulo 31",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E31/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E31/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E31/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e32",
+              "slotId": "ep_6640",
+              "title": "Capítulo 32",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E32/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E32/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E32/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e33",
+              "slotId": "ep_6641",
+              "title": "Capítulo 33",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E33/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E33/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E33/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e34",
+              "slotId": "ep_6642",
+              "title": "Capítulo 34",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E34/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E34/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E34/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e35",
+              "slotId": "ep_6643",
+              "title": "Capítulo 35",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E35/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E35/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E35/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e36",
+              "slotId": "ep_6644",
+              "title": "Capítulo 36",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E36/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E36/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E36/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e37",
+              "slotId": "ep_6645",
+              "title": "Capítulo 37",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E37/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E37/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E37/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e38",
+              "slotId": "ep_6646",
+              "title": "Capítulo 38",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E38/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E38/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E38/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e39",
+              "slotId": "ep_6647",
+              "title": "Capítulo 39",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E39/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E39/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E39/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e40",
+              "slotId": "ep_6648",
+              "title": "Capítulo 40",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E40/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E40/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E40/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e41",
+              "slotId": "ep_6649",
+              "title": "Capítulo 41",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E41/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E41/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E41/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e42",
+              "slotId": "ep_6650",
+              "title": "Capítulo 42",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E42/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E42/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E42/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e43",
+              "slotId": "ep_6651",
+              "title": "Capítulo 43",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E43/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E43/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E43/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e44",
+              "slotId": "ep_6652",
+              "title": "Capítulo 44",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E44/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E44/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E44/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e45",
+              "slotId": "ep_6653",
+              "title": "Capítulo 45",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E45/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E45/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E45/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e46",
+              "slotId": "ep_6654",
+              "title": "Capítulo 46",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E46/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E46/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E46/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e47",
+              "slotId": "ep_6655",
+              "title": "Capítulo 47",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E47/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E47/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E47/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e48",
+              "slotId": "ep_6656",
+              "title": "Capítulo 48",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E48/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E48/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E48/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e49",
+              "slotId": "ep_6657",
+              "title": "Capítulo 49",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E49/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E49/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E49/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e50",
+              "slotId": "ep_6658",
+              "title": "Capítulo 50",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E50/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E50/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E50/master.m3u8",
+              "updatedAt": "2026-09-24T04:33:07.997Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-09-24T04:24:36.207Z",
-      "updatedAt": "2026-09-24T04:31:32.701Z",
+      "updatedAt": "2026-09-24T04:33:07.997Z",
       "addedAt": "2026-09-24T04:24:36.207Z",
       "addedBy": "seanf"
     }
