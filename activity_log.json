@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:14:16.593Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_413",
-    "title": "Puño de furia"
-  },
-  {
     "ts": "2026-07-07T00:14:59.372Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3661,5 +3654,14 @@
     "title": "Solo leveling",
     "season": 1,
     "episodes": 25
+  },
+  {
+    "ts": "2026-09-24T04:25:19.428Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_200",
+    "title": "Looney Tunes Colección Platino",
+    "season": 1,
+    "episodes": 50
   }
 ]
