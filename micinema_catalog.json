@@ -81192,10 +81192,345 @@
               "updatedAt": "2026-09-25T23:32:46.649Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_6888",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E01/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_6889",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E02/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_6890",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E03/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_6891",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E04/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_6892",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E05/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_6893",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E06/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_6894",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E07/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_6895",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E08/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_6896",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E09/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_6897",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E10/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e11",
+              "slotId": "ep_6898",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E11/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e12",
+              "slotId": "ep_6899",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E12/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e13",
+              "slotId": "ep_6900",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E13/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e14",
+              "slotId": "ep_6901",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E14/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e15",
+              "slotId": "ep_6902",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E15/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e16",
+              "slotId": "ep_6903",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E16/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e17",
+              "slotId": "ep_6904",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E17/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e18",
+              "slotId": "ep_6905",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E18/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e19",
+              "slotId": "ep_6906",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E19/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e20",
+              "slotId": "ep_6907",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E20/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e21",
+              "slotId": "ep_6908",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E21/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e22",
+              "slotId": "ep_6909",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E22/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e23",
+              "slotId": "ep_6910",
+              "title": "Capítulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E23/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e24",
+              "slotId": "ep_6911",
+              "title": "Capítulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E24/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e25",
+              "slotId": "ep_6912",
+              "title": "Capítulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E25/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e26",
+              "slotId": "ep_6913",
+              "title": "Capítulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E26/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e27",
+              "slotId": "ep_6914",
+              "title": "Capítulo 27",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E27/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E27/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E27/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e28",
+              "slotId": "ep_6915",
+              "title": "Capítulo 28",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E28/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E28/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E28/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e29",
+              "slotId": "ep_6916",
+              "title": "Capítulo 29",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E29/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E29/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E29/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            },
+            {
+              "id": "s03e30",
+              "slotId": "ep_6917",
+              "title": "Capítulo 30",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E30/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E30/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/TomyJerry/T3/TomYJerryS03E30/master.m3u8",
+              "updatedAt": "2026-09-25T23:34:07.820Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-09-25T23:29:54.652Z",
-      "updatedAt": "2026-09-25T23:32:46.649Z",
+      "updatedAt": "2026-09-25T23:34:07.820Z",
       "addedAt": "2026-09-25T23:29:54.652Z",
       "addedBy": "seanf"
     }
