@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:19:06.392Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_418",
-    "title": "Lluvia de fuego"
-  },
-  {
     "ts": "2026-07-07T00:20:02.052Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3668,5 +3661,13 @@
     "title": "Tomy Jerry",
     "season": 1,
     "episodes": 161
+  },
+  {
+    "ts": "2026-09-25T23:33:14.331Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_201",
+    "season": 2,
+    "count": 18
   }
 ]
