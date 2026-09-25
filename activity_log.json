@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:18:23.436Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_417",
-    "title": "La mano de la muerte"
-  },
-  {
     "ts": "2026-07-07T00:19:06.392Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3666,5 +3659,14 @@
     "target": "series_200",
     "season": 3,
     "count": 50
+  },
+  {
+    "ts": "2026-09-25T23:30:43.032Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_201",
+    "title": "Tomy Jerry",
+    "season": 1,
+    "episodes": 161
   }
 ]
