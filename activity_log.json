@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:21:10.560Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_421",
-    "title": "飛渡捲雲山"
-  },
-  {
     "ts": "2026-07-07T00:24:04.917Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3666,6 +3659,14 @@
   },
   {
     "ts": "2026-09-26T01:25:08.849Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_200",
+    "title": "Looney Tunes: Colección Platino",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-27T01:03:44.855Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
     "target": "series_200",
