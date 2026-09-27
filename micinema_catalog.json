@@ -79196,17 +79196,28 @@
       "id": "series_201",
       "type": "series",
       "title": "Tomy Jerry",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "Tom es un gato doméstico cuyo principal objetivo es atrapar a Jerry, un pequeño ratón que vive en la misma casa. Cada intento de Tom por capturarlo termina convirtiéndose en una persecución llena de trampas, golpes, accidentes y situaciones cómicas. Jerry suele utilizar su inteligencia y rapidez para escapar y darle la vuelta a los planes de Tom.",
+      "duration": "7 min",
+      "rating": "TV-Y",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
+      "year": 1940,
       "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "cast": [
+        "William Hanna",
+        "Joseph Barbera",
+        "Mel Blanc",
+        "Daws Butler",
+        "June Foray",
+        "Lillian Randolph"
+      ],
+      "director": "William Hanna y Joseph Barbera",
+      "recommended": "Recomendado 90%",
       "languages": [
         "language_Spanish"
       ],
@@ -81530,7 +81541,7 @@
         }
       ],
       "createdAt": "2026-09-25T23:29:54.652Z",
-      "updatedAt": "2026-09-27T01:04:05.870Z",
+      "updatedAt": "2026-09-27T05:39:04.617Z",
       "addedAt": "2026-09-25T23:29:54.652Z",
       "addedBy": "seanf"
     }
