@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:24:04.917Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_415",
-    "title": "Furia oriental II"
-  },
-  {
     "ts": "2026-07-07T00:26:27.613Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3671,6 +3664,14 @@
     "action": "EDIT_SERIES",
     "target": "series_200",
     "title": "Looney Tunes: Colección Platino",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-27T01:04:32.392Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_201",
+    "title": "Tomy Jerry",
     "eps_changed": 0
   }
 ]
