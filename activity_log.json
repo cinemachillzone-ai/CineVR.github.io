@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:34:22.613Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_423",
-    "title": "Operación Dragón"
-  },
-  {
     "ts": "2026-07-07T00:35:22.132Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3676,5 +3669,13 @@
     "target": "ep_6918",
     "series": "series_200",
     "title": "Capítulo 1"
+  },
+  {
+    "ts": "2026-09-28T23:38:12.593Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_200",
+    "title": "Looney Tunes: Colección Platino",
+    "eps_changed": 0
   }
 ]
