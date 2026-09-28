@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-07T00:32:19.840Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_422",
-    "title": "Saga of Tanya the Evil: The Movie"
-  },
-  {
     "ts": "2026-07-07T00:34:22.613Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3675,5 +3668,13 @@
     "target": "series_201",
     "title": "Tomy Jerry",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-09-28T23:37:09.874Z",
+    "actor": "yutamir",
+    "action": "ADD_EPISODE",
+    "target": "ep_6918",
+    "series": "series_200",
+    "title": "Capítulo 1"
   }
 ]
