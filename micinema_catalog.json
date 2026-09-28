@@ -75623,7 +75623,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2024,
       "releaseDate": "2024-09-19",
       "genres": [
@@ -75763,7 +75763,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-10-03",
       "genres": [
@@ -75892,7 +75892,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2022,
       "releaseDate": "2022-09-21",
       "genres": [
@@ -76044,7 +76044,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2020,
       "releaseDate": "2020-04-01",
       "genres": [
@@ -78628,6 +78628,17 @@
               },
               "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E50/master.m3u8",
               "updatedAt": "2026-09-24T04:33:07.997Z"
+            },
+            {
+              "id": "s02e01",
+              "slotId": "ep_6918",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/LooneyTunesColecciónPlatino/T2/LooneyTunesColeccionPlatinoS02E01/master.m3u8",
+              "createdAt": "2026-09-28T23:36:36.764Z"
             }
           ]
         },
@@ -107209,7 +107220,7 @@
       "duration": "1h 19m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Elijah Wood",
         "Christopher Plummer",
