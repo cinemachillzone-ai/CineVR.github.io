@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-05T20:24:55.915Z",
+  "actualizado": "2026-09-29T01:23:31.573Z",
   "campanas": [
     {
       "code": "vmg",
@@ -24,6 +24,18 @@
       "target": "https://www.patreon.com/c/CineVR",
       "nombre": "CineVR - Patreon",
       "slot": 2
+    },
+    {
+      "code": "y89",
+      "target": "https://pivrhome.com",
+      "nombre": "PiVR Trackers",
+      "slot": 3
+    },
+    {
+      "code": "5ag",
+      "target": "https://pivrhome.com",
+      "nombre": "PiVR Trackers",
+      "slot": 3
     }
   ]
 }
