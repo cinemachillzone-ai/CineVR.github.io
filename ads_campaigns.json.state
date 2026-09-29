@@ -92,6 +92,17 @@
       "id": "cmulzswce",
       "code": "y89",
       "creada": "2026-09-29T01:23:24.734Z"
+    },
+    {
+      "nombre": "PiVR Trackers",
+      "familia": "pausa",
+      "slot": 3,
+      "kind": "web",
+      "target": "https://pivrhome.com",
+      "activa": true,
+      "id": "cmulzsy46",
+      "code": "5ag",
+      "creada": "2026-09-29T01:23:27.030Z"
     }
   ],
   "atlasVersion": 5,
