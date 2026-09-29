@@ -78,6 +78,20 @@
       "atlas": 0,
       "cell": 2,
       "seconds": 30
+    },
+    {
+      "nombre": "PiVR Trackers",
+      "familia": "corte",
+      "slot": 3,
+      "atlas": 0,
+      "cell": 3,
+      "kind": "web",
+      "target": "https://pivrhome.com",
+      "seconds": 30,
+      "activa": true,
+      "id": "cmulzswce",
+      "code": "y89",
+      "creada": "2026-09-29T01:23:24.734Z"
     }
   ],
   "atlasVersion": 5,
