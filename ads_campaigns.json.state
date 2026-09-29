@@ -103,6 +103,20 @@
       "id": "cmulzsy46",
       "code": "5ag",
       "creada": "2026-09-29T01:23:27.030Z"
+    },
+    {
+      "nombre": "PiVR K.O.1.T.O",
+      "familia": "corte",
+      "slot": 4,
+      "atlas": 0,
+      "cell": 4,
+      "kind": "web",
+      "target": "https://pivrhome.com",
+      "seconds": 30,
+      "activa": true,
+      "id": "cmum0gdjl",
+      "code": "q5h",
+      "creada": "2026-09-29T01:41:40.113Z"
     }
   ],
   "atlasVersion": 6,
