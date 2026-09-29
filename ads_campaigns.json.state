@@ -53,7 +53,8 @@
       "creada": "2026-08-18T22:37:46.721Z",
       "atlas": 0,
       "cell": 0,
-      "seconds": 30
+      "seconds": 30,
+      "activa": false
     },
     {
       "nombre": "CineVR - Grupo VRChat",
