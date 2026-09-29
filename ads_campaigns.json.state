@@ -25,7 +25,8 @@
       "seconds": 30,
       "id": "cmsz8tx92",
       "code": null,
-      "creada": "2026-08-18T22:37:44.726Z"
+      "creada": "2026-08-18T22:37:44.726Z",
+      "activa": false
     },
     {
       "nombre": "CineVR - Patreon",
