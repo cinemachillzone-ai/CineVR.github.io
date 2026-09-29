@@ -29430,7 +29430,10 @@
       ],
       "atlas": "D",
       "gridIndex": 20,
-      "saga": "Marvel"
+      "saga": "Marvel",
+      "duration": "48min",
+      "recommended": "Recomendado 80%",
+      "updatedAt": "2026-09-29T13:01:16.683Z"
     },
     {
       "type": "series",
