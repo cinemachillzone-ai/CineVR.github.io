@@ -1,6 +1,6 @@
 {
   "ttl": 600,
-  "atlasVersion": 5,
+  "atlasVersion": 6,
   "grid": {
     "cols": 4,
     "rows": 2
@@ -29,6 +29,14 @@
       "kind": "web",
       "link": "https://apirender-u1ji.onrender.com/go/qxx",
       "seconds": 30
+    },
+    {
+      "slot": 3,
+      "atlas": 0,
+      "cell": 3,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/y89",
+      "seconds": 30
     }
   ],
   "pause": [
@@ -49,8 +57,8 @@
     },
     {
       "slot": 3,
-      "kind": "group",
-      "link": "CINEVR.6703"
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/5ag"
     }
   ]
 }
