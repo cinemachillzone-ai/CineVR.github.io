@@ -117,6 +117,17 @@
       "id": "cmum0gdjl",
       "code": "q5h",
       "creada": "2026-09-29T01:41:40.113Z"
+    },
+    {
+      "nombre": "PiVR K.O.1.T.O",
+      "familia": "pausa",
+      "slot": 4,
+      "kind": "web",
+      "target": "https://pivrhome.com",
+      "activa": true,
+      "id": "cmum0geeg",
+      "code": "yxa",
+      "creada": "2026-09-29T01:41:41.224Z"
     }
   ],
   "atlasVersion": 6,
