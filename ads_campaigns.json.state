@@ -81,7 +81,8 @@
       "creada": "2026-08-18T22:37:48.615Z",
       "atlas": 0,
       "cell": 2,
-      "seconds": 30
+      "seconds": 30,
+      "activa": false
     },
     {
       "nombre": "PiVR Trackers",
