@@ -39,7 +39,8 @@
       "seconds": 30,
       "id": "cmsz8ty0t",
       "code": "qxx",
-      "creada": "2026-08-18T22:37:45.725Z"
+      "creada": "2026-08-18T22:37:45.725Z",
+      "activa": false
     },
     {
       "nombre": "CineVR - Patreon",
