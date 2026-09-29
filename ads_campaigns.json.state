@@ -67,7 +67,8 @@
       "creada": "2026-08-18T22:37:47.709Z",
       "atlas": 0,
       "cell": 1,
-      "seconds": 30
+      "seconds": 30,
+      "activa": false
     },
     {
       "nombre": "CineVR - Patreon",
