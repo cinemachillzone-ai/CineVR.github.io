@@ -1,6 +1,6 @@
 {
   "ttl": 600,
-  "atlasVersion": 6,
+  "atlasVersion": 7,
   "grid": {
     "cols": 4,
     "rows": 2
@@ -37,6 +37,14 @@
       "kind": "web",
       "link": "https://apirender-u1ji.onrender.com/go/y89",
       "seconds": 30
+    },
+    {
+      "slot": 4,
+      "atlas": 0,
+      "cell": 4,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/q5h",
+      "seconds": 30
     }
   ],
   "pause": [
@@ -59,6 +67,11 @@
       "slot": 3,
       "kind": "web",
       "link": "https://apirender-u1ji.onrender.com/go/5ag"
+    },
+    {
+      "slot": 4,
+      "kind": "web",
+      "link": "https://apirender-u1ji.onrender.com/go/yxa"
     }
   ]
 }
