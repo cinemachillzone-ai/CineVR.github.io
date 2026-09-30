@@ -81562,17 +81562,33 @@
     {
       "id": "series_202",
       "type": "series",
-      "title": "Jemylos Hologramas",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "title": "Jem y los Hologramas",
+      "description": "Jerrica Benton es la propietaria de Starlight Music, pero lleva una doble vida gracias a Synergy, una computadora avanzada capaz de proyectar hologramas sobre ella. Con esta tecnología adopta la identidad de Jem, una estrella de rock, y forma el grupo Jem y los Hologramas junto a Kimber, Aja y Shana.\n\nMientras intentan triunfar en el mundo de la música y proteger a las jóvenes de Starlight House, deben enfrentarse constantemente a sus rivales, The Misfits, y a los planes de Eric Raymond.",
+      "duration": "22–23 min por episodio",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
+      "year": 1985,
+      "releaseDate": "1985-10-06",
+      "genres": [
+        "Animation",
+        "Music",
+        "Sci-Fi",
+        "Fantasy",
+        "Romance",
+        "Action",
+        "Family"
+      ],
+      "cast": [
+        "Samantha Newark",
+        "Britta Phillips",
+        "Patricia Alice Albrecht",
+        "Kath Soucie",
+        "Susan Blu",
+        "Neil Ross",
+        "Charlie Adler"
+      ],
+      "director": "Ray Lee",
       "recommended": "",
       "languages": [
         "language_Spanish"
@@ -82274,7 +82290,7 @@
         }
       ],
       "createdAt": "2026-09-30T00:11:11.809Z",
-      "updatedAt": "2026-09-30T00:14:10.411Z",
+      "updatedAt": "2026-09-30T03:50:37.883Z",
       "addedAt": "2026-09-30T00:11:11.809Z",
       "addedBy": "seanf"
     }
