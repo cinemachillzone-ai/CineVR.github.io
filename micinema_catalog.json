@@ -82074,10 +82074,180 @@
               "updatedAt": "2026-09-30T00:12:25.814Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_6963",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E01/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_6964",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E04/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_6965",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E05/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_6966",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E06/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_6967",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E07/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_6968",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E08/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e09",
+              "slotId": "ep_6969",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E09/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e10",
+              "slotId": "ep_6970",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E10/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e11",
+              "slotId": "ep_6971",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E11/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e12",
+              "slotId": "ep_6972",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E12/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e13",
+              "slotId": "ep_6973",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E13/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e14",
+              "slotId": "ep_6974",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E14/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e15",
+              "slotId": "ep_6975",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E15/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e16",
+              "slotId": "ep_6976",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E16/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            },
+            {
+              "id": "s03e17",
+              "slotId": "ep_6977",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/JemylosHologramas/T3/JemylosHologramasS03E17/master.m3u8",
+              "updatedAt": "2026-09-30T00:13:26.054Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-09-30T00:11:11.809Z",
-      "updatedAt": "2026-09-30T00:12:25.814Z",
+      "updatedAt": "2026-09-30T00:13:26.054Z",
       "addedAt": "2026-09-30T00:11:11.809Z",
       "addedBy": "seanf"
     }
