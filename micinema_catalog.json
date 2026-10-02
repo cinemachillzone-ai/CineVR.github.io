@@ -84662,14 +84662,17 @@
     {
       "type": "series",
       "title": "Los 4 Fantásticos (1967)",
-      "description": "",
+      "description": "Después de ser expuestos a radiación cósmica durante una misión espacial, el Sr. Fantástico, la Mujer Invisible, la Antorcha Humana y La Cosa adquieren poderes sobrenaturales. Cada episodio presenta al equipo enfrentando a diversos villanos y amenazas, tanto en la Tierra como en otros planetas, mientras enfrentan conflictos internos y equilibran sus vidas personales y de superhéroes.",
       "duration": "",
       "rating": "",
       "quality": "HD",
       "section": "recently_added",
       "year": 1967,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "1967-09-09",
+      "genres": [
+        "Animation",
+        "Action & Adventure"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -84910,7 +84913,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:19.247Z",
-      "updatedAt": "2026-10-02T00:24:19.247Z"
+      "updatedAt": "2026-10-02T00:37:59.818Z"
     },
     {
       "type": "series",
