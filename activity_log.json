@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:06:23.132Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_431",
-    "title": "El Pasajero Del Diablo"
-  },
-  {
     "ts": "2026-07-15T02:08:02.052Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3749,5 +3742,13 @@
       "recommended",
       "duration"
     ]
+  },
+  {
+    "ts": "2026-10-02T00:37:47.724Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_209",
+    "title": "Los Nuevos 4 Fantásticos",
+    "eps_changed": 0
   }
 ]
