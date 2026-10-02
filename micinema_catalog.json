@@ -83201,14 +83201,20 @@
     {
       "type": "series",
       "title": "Liga de la Justicia Ilimitada",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "description": "Una continuación de la serie de animación de la Liga de la Justicia encuentra a los miembros originales del equipo unidos en su batalla contra el crimen y el mal por docenas de otros héroes del universo de los cómics de DC.",
+      "duration": "0h 23m",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
       "year": 2004,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "2004-07-31",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -83218,9 +83224,15 @@
       "id": "series_204",
       "atlas": "A",
       "gridIndex": 6,
-      "cast": [],
+      "cast": [
+        "Kevin Conroy",
+        "George Newbern",
+        "Susan Eisenberg",
+        "Carl Lumbly",
+        "Phil LaMarr"
+      ],
       "director": "",
-      "recommended": "",
+      "recommended": "Recomendado 83%",
       "seasons": [
         {
           "number": 1,
@@ -83668,7 +83680,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:18.747Z",
-      "updatedAt": "2026-10-02T00:24:18.747Z"
+      "updatedAt": "2026-10-02T00:29:51.805Z"
     },
     {
       "type": "series",
