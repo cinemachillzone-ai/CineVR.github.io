@@ -65,8 +65,8 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2025,
-      "releaseDate": "2026-04-10",
+      "year": 2020,
+      "releaseDate": "2020-10-03",
       "genres": [
         "Animation",
         "Action",
@@ -756,7 +756,7 @@
       ],
       "director": "Shouta Goshozono, Sunghoo Park",
       "recommended": "Recomendado 85%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -5563,7 +5563,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2019,
-      "releaseDate": "2026-04-06",
+      "releaseDate": "2019-10-10",
       "genres": [
         "Drama",
         "Fantasy",
@@ -5865,7 +5865,7 @@
       ],
       "director": "Shin'ichi Matsumi, Yasuhiro Geshi",
       "recommended": "Recomendado 76%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -5875,8 +5875,8 @@
       "rating": "PG-13",
       "quality": "HD",
       "section": "catalog",
-      "year": 2020,
-      "releaseDate": "2026-04-08",
+      "year": 2018,
+      "releaseDate": "2018-01-11",
       "genres": [
         "Animation",
         "Drama",
@@ -6062,7 +6062,7 @@
       ],
       "director": "Haruka Fujita, Taichi Ishidate",
       "recommended": "Recomendado 84%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -6073,7 +6073,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2023-11-08",
       "genres": [
         "Crime",
         "Action",
@@ -6194,7 +6194,7 @@
       ],
       "director": "Paris Barclay, Jennifer Lynch",
       "recommended": "Recomendado 65%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -6205,7 +6205,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2008,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2008-01-20",
       "genres": [
         "Comedy",
         "Crime"
@@ -6937,7 +6937,8 @@
         "RJ Mitte"
       ],
       "director": "Michelle MacLaren, Adam Bernstein",
-      "recommended": "Recomendado 95%"
+      "recommended": "Recomendado 95%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -6948,7 +6949,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2010-04-05",
       "genres": [
         "Animation",
         "Adventure",
@@ -9640,7 +9641,7 @@
       ],
       "director": "Bong Hee Han, Larry Leichliter",
       "recommended": "Recomendado 87%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -9651,7 +9652,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2011-05-03",
       "genres": [
         "Animation",
         "Family",
@@ -11272,7 +11273,8 @@
         "Teresa Gallagher"
       ],
       "director": "Mic Graves, Antoine Perez",
-      "recommended": "Recomendado 84%"
+      "recommended": "Recomendado 84%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -11471,7 +11473,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2018,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2018-10-16",
       "genres": [
         "Crime",
         "Drama",
@@ -11733,7 +11735,7 @@
       ],
       "director": "Bill Roe, Tori Garrett",
       "recommended": "Recomendado 80%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -11744,7 +11746,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2022-09-13",
       "genres": [
         "Animation",
         "Action",
@@ -11889,7 +11891,7 @@
       ],
       "director": "Hiroyuki Imaishi, Kai Ikarashi",
       "recommended": "Recomendado 83%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -12783,7 +12785,7 @@
       "quality": "LQ",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2026-04-10",
       "genres": [
         "Comedy",
         "Family"
@@ -12857,7 +12859,8 @@
         "Kiana Madeira"
       ],
       "director": "Ken Kwapis",
-      "recommended": "Recomendado 68%"
+      "recommended": "Recomendado 68%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -12868,7 +12871,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1999,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "1999-06-30",
       "genres": [
         "Comedy",
         "Drama"
@@ -13370,7 +13373,7 @@
       ],
       "director": "Noriyuki Abe, Akihiro Enomoto",
       "recommended": "Recomendado 85%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -13381,7 +13384,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-12",
+      "releaseDate": "2010-09-06",
       "genres": [
         "Action",
         "Comedy",
@@ -15819,7 +15822,7 @@
       ],
       "director": "John Davis Infantino, Sean Szeles",
       "recommended": "Recomendado 86%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -15830,7 +15833,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-04-12",
+      "releaseDate": "",
       "genres": [
         "Action",
         "Comedy",
@@ -16107,7 +16110,7 @@
       ],
       "director": "John Laing, Paul Grinder",
       "recommended": "Recomendado 69%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -16118,7 +16121,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2011-04-15",
       "genres": [
         "Animation",
         "Drama",
@@ -16271,7 +16274,7 @@
       ],
       "director": "Tatsuyuki Nagai, Patrick Seitz",
       "recommended": "Recomendado 81%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -16282,7 +16285,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2012-01-10",
       "genres": [
         "Animation",
         "Romance",
@@ -16457,7 +16460,7 @@
       ],
       "director": "Tatsuyuki Nagai, Katsushi Sakurabi",
       "recommended": "Recomendado 70%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -16468,7 +16471,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2021-11-06",
       "genres": [
         "Animation",
         "Action",
@@ -16597,7 +16600,8 @@
         "Katie Leung"
       ],
       "director": "Pascal Charrue, Arnaud Delord",
-      "recommended": "Recomendado 90%"
+      "recommended": "Recomendado 90%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -16608,7 +16612,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2004-10-27",
       "genres": [
         "Animation",
         "Comedy"
@@ -17042,7 +17046,7 @@
       ],
       "director": "Peter Avanzino, Dwayne Carey-Hill",
       "recommended": "Recomendado 71%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -17053,7 +17057,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2022-10-12",
       "genres": [
         "Animation",
         "Action",
@@ -17217,7 +17221,7 @@
       ],
       "director": "Ryû Nakayama, Masato Nakazono",
       "recommended": "Recomendado 83%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -17228,7 +17232,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2002,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2002-12-06",
       "genres": [
         "Animation",
         "Action",
@@ -18115,7 +18119,7 @@
       ],
       "director": "Tom Warburton",
       "recommended": "Recomendado 72%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -18126,7 +18130,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2005-09-19",
       "genres": [
         "Comedy",
         "Romance"
@@ -20484,7 +20488,8 @@
         "Lyndsy Fonseca"
       ],
       "director": "Pamela Fryman, Rob Greenberg",
-      "recommended": "Recomendado 83%"
+      "recommended": "Recomendado 83%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -20495,7 +20500,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2004-04-03",
       "genres": [
         "Animation",
         "Action",
@@ -21073,7 +21078,7 @@
       ],
       "director": "Butch Hartman, Wincat Alcala",
       "recommended": "Recomendado 72%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -21084,7 +21089,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-13",
+      "releaseDate": "2014-11-03",
       "genres": [
         "Animation",
         "Fantasy",
@@ -21225,7 +21230,7 @@
       ],
       "director": "Nate Cash",
       "recommended": "Recomendado 87%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -21236,7 +21241,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1997,
-      "releaseDate": "2026-04-14",
+      "releaseDate": "1997-03-03",
       "genres": [
         "Comedy",
         "Animation"
@@ -22000,7 +22005,7 @@
       ],
       "director": "Karen Disher, Guy Moore",
       "recommended": "Recomendado 81%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -22011,7 +22016,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-14",
+      "releaseDate": "2007-07-08",
       "genres": [
         "Animation",
         "Comedy"
@@ -23651,7 +23656,7 @@
       ],
       "director": "Jennifer Pertsch, Tom McGillis",
       "recommended": "Recomendado 75%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -23662,7 +23667,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-14",
+      "releaseDate": "2016-12-02",
       "genres": [
         "Fantasy",
         "Romance",
@@ -23880,7 +23885,7 @@
       ],
       "director": "Lee Eung-bok",
       "recommended": "Recomendado 85%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -23891,7 +23896,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1999,
-      "releaseDate": "2026-04-14",
+      "releaseDate": "1999-01-04",
       "genres": [
         "Adventure",
         "Animation",
@@ -25388,7 +25393,7 @@
       ],
       "director": "Danny Antonucci, Scott Underwood",
       "recommended": "Recomendado 74%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -25398,8 +25403,8 @@
       "rating": "TV-PG",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2013,
-      "releaseDate": "2026-04-14",
+      "year": 2012,
+      "releaseDate": "2012-06-15",
       "genres": [
         "Adventure",
         "Animation",
@@ -25873,7 +25878,7 @@
       ],
       "director": "Joe Pitt, John Aoshima",
       "recommended": "Recomendado 89%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -25884,7 +25889,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2013,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "2013-12-02",
       "genres": [
         "Action",
         "Comedy",
@@ -26853,7 +26858,8 @@
         "Spencer Grammer"
       ],
       "director": "Wes Archer, Jacob Hair",
-      "recommended": "Recomendado 90%"
+      "recommended": "Recomendado 90%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -26994,9 +27000,9 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "LQ",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2025,
-      "releaseDate": "2026-04-17",
+      "releaseDate": "2025-10-04",
       "genres": [
         "Action",
         "Fantasy",
@@ -27171,7 +27177,7 @@
         "坂泰斗"
       ],
       "recommended": "Recomendado 76%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -27181,8 +27187,8 @@
       "rating": "TV-14",
       "quality": "LQ",
       "section": "catalog",
-      "year": 1992,
-      "releaseDate": "2026-04-17",
+      "year": 1989,
+      "releaseDate": "1989-04-15",
       "genres": [
         "Animation",
         "Comedy",
@@ -27881,7 +27887,7 @@
       ],
       "director": "Junji Nishimura, Takeshi Mori",
       "recommended": "Recomendado 81%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -27892,7 +27898,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2023-10-13",
       "genres": [
         "Horror",
         "Comedy",
@@ -28011,7 +28017,8 @@
         "Amanda Hufford"
       ],
       "director": "Gooseworx",
-      "recommended": "Recomendado 82%"
+      "recommended": "Recomendado 82%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28022,7 +28029,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2020,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2020-10-31",
       "genres": [
         "Animation",
         "Comedy",
@@ -28138,7 +28145,8 @@
         "Richard Steven Horvitz"
       ],
       "director": "Vivienne Medrano",
-      "recommended": "Recomendado 80%"
+      "recommended": "Recomendado 80%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28149,7 +28157,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "2021-03-25",
       "genres": [
         "Animation",
         "Action",
@@ -28266,7 +28274,8 @@
         "Sandra Oh"
       ],
       "director": "Dan Duncan, Shaun O'Neil",
-      "recommended": "Recomendado 87%"
+      "recommended": "Recomendado 87%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28277,7 +28286,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2019,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "2019-07-25",
       "genres": [
         "Action",
         "Drama",
@@ -28397,7 +28406,8 @@
         "Jessie T. Usher"
       ],
       "director": "Philip Sgriccia, Karen Gaviola",
-      "recommended": "Recomendado 85%"
+      "recommended": "Recomendado 85%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28408,7 +28418,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-05-04",
+      "releaseDate": "2004-07-25",
       "genres": [
         "Animation",
         "Horror",
@@ -28584,7 +28594,7 @@
       ],
       "director": "Mamoru Kanbe, Kôbun Shizuno",
       "recommended": "Recomendado 78%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28595,7 +28605,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2005-03-27",
       "genres": [
         "Drama",
         "Romance"
@@ -28725,7 +28735,7 @@
       ],
       "director": "Shonda Rhimes",
       "recommended": "Recomendado 82%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28736,7 +28746,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2025-01-09",
       "genres": [
         "Drama"
       ],
@@ -28930,7 +28940,8 @@
         "Isa Briones"
       ],
       "director": "Damian Marcano, Amanda Marsalis",
-      "recommended": "Recomendado 89%"
+      "recommended": "Recomendado 89%",
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -28941,7 +28952,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2004-11-16",
       "genres": [
         "Drama",
         "Mystery"
@@ -29214,7 +29225,7 @@
       ],
       "director": "Greg Yaitanes, Deran Sarafian",
       "recommended": "Recomendado 87%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -32179,7 +32190,7 @@
       "quality": "None",
       "section": "catalog",
       "year": 2015,
-      "releaseDate": "2026-06-13",
+      "releaseDate": "2015-10-07",
       "genres": [
         "Adventure",
         "Animation",
@@ -32344,7 +32355,7 @@
       ],
       "director": "Ai Yoshimura",
       "recommended": "Recomendado 57%",
-      "updatedAt": "2026-08-15T03:48:43.844Z"
+      "updatedAt": "2026-10-02T21:21:08.317Z"
     },
     {
       "type": "series",
@@ -33635,7 +33646,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-07-01",
+      "releaseDate": "",
       "genres": [],
       "languages": [
         "language_Spanish"
@@ -33781,7 +33792,7 @@
       ],
       "director": "Pepa San Martín, Juan Ignacio Sabatini",
       "duration": "0h 30m",
-      "updatedAt": "2026-08-25T01:30:21.552Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "_baseKey": "poemas"
     },
     {
@@ -87393,7 +87404,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-02-13",
+      "releaseDate": "2005-09-12",
       "genres": [
         "Animation",
         "Fantasy",
@@ -87416,7 +87427,7 @@
       "atlas": "E",
       "gridIndex": 53,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElCadaverDeLaNovia/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.315Z",
       "tokenDuration": 4629,
       "cast": [
         "Johnny Depp",
@@ -87437,7 +87448,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2025-06-25",
+      "releaseDate": "2014-10-16",
       "genres": [
         "Comedy",
         "Drama"
@@ -87457,7 +87468,7 @@
       "atlas": "E",
       "gridIndex": 52,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaDictaduraPerfecta2014/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8596,
       "cast": [
         "Damián Alcázar",
@@ -87584,7 +87595,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2001,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "2001-12-18",
       "genres": [
         "Action",
         "Adventure",
@@ -87607,7 +87618,7 @@
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8"
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLaComunidadDelAnillo2001/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 13687,
       "saga": "El Señor de los Anillos",
       "cast": [
@@ -87630,7 +87641,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2002,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "2002-12-18",
       "genres": [
         "Action",
         "Adventure",
@@ -87651,7 +87662,7 @@
       "atlas": "E",
       "gridIndex": 46,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosLasDosTorres2002/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 14121,
       "saga": "El Señor de los Anillos",
       "cast": [
@@ -87674,7 +87685,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2003,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "2003-12-17",
       "genres": [
         "Action",
         "Adventure",
@@ -87695,7 +87706,7 @@
       "atlas": "E",
       "gridIndex": 45,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elSenorDeLosAnillosElRetornoDelRey2003/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 15786,
       "saga": "El Señor de los Anillos",
       "cast": [
@@ -87718,7 +87729,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1994,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "1994-09-14",
       "genres": [
         "Action",
         "Drama",
@@ -87739,7 +87750,7 @@
       "atlas": "E",
       "gridIndex": 44,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPerfectoAsesino1994/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6577,
       "cast": [
         "Jean Reno",
@@ -87761,7 +87772,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "2004-09-09",
       "genres": [
         "Animation",
         "Fantasy",
@@ -87783,7 +87794,7 @@
       "atlas": "E",
       "gridIndex": 43,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElIncreibleCastilloVagabundo2004/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7196,
       "saga": "Studio Ghibli",
       "cast": [
@@ -87806,7 +87817,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2001,
-      "releaseDate": "2026-04-08",
+      "releaseDate": "2001-07-20",
       "genres": [
         "Animation",
         "Fantasy",
@@ -87827,7 +87838,7 @@
       "atlas": "E",
       "gridIndex": 42,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElViajeDeChihiro2001/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7517,
       "saga": "Studio Ghibli",
       "cast": [
@@ -87849,7 +87860,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1988,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "1988-07-16",
       "genres": [
         "Animation",
         "Action",
@@ -87870,7 +87881,7 @@
       "atlas": "E",
       "gridIndex": 40,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Akira1988/master.m3u8",
-      "updatedAt": "2026-05-28T02:54:36.403Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7478,
       "cast": [
         "Mitsuo Iwata",
@@ -87891,8 +87902,8 @@
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2005,
-      "releaseDate": "2026-04-09",
+      "year": 2006,
+      "releaseDate": "2006-02-23",
       "genres": [
         "Action",
         "Thriller",
@@ -87913,7 +87924,7 @@
       "atlas": "E",
       "gridIndex": 38,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/vDeVenganza2006/master.m3u8",
-      "updatedAt": "2026-06-05T10:55:30.194Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7952,
       "cast": [
         "Hugo Weaving",
@@ -87935,7 +87946,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2006,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2006-09-22",
       "genres": [
         "Sci-Fi",
         "Thriller",
@@ -87956,7 +87967,7 @@
       "atlas": "E",
       "gridIndex": 37,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ninosDelHombre2006/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6555,
       "cast": [
         "Clive Owen",
@@ -87978,7 +87989,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2022-06-03",
       "genres": [
         "Horror",
         "Thriller"
@@ -87998,7 +88009,7 @@
       "atlas": "E",
       "gridIndex": 36,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/goodBoy2022/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 4575,
       "cast": [
         "Gard Løkke",
@@ -88020,7 +88031,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2011-08-03",
       "genres": [
         "Thriller",
         "Action",
@@ -88042,7 +88053,7 @@
       "atlas": "E",
       "gridIndex": 35,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosREvolucion2011/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6297,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -88064,7 +88075,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2014-07-08",
       "genres": [
         "Sci-Fi",
         "Action",
@@ -88086,7 +88097,7 @@
       "atlas": "E",
       "gridIndex": 34,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosConfrontacion2014/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7825,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -88109,7 +88120,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2017,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2017-07-11",
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -88130,7 +88141,7 @@
       "atlas": "E",
       "gridIndex": 33,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimios3LaGuerra2017/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8410,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -88153,7 +88164,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2024-05-08",
       "genres": [
         "Sci-Fi",
         "Adventure",
@@ -88174,7 +88185,7 @@
       "atlas": "E",
       "gridIndex": 32,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElPlanetaDeLosSimiosNuevoReino2024/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8681,
       "saga": "El Planeta de los Simios",
       "cast": [
@@ -88196,7 +88207,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1980,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "1980-05-23",
       "genres": [
         "Horror",
         "Thriller"
@@ -88216,7 +88227,7 @@
       "atlas": "E",
       "gridIndex": 31,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elResplandor1980/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8624,
       "cast": [
         "Jack Nicholson",
@@ -88238,7 +88249,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1920,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "",
       "genres": [
         "Comedy",
         "Action",
@@ -88259,7 +88270,8 @@
       "addedBy": "Admin",
       "atlas": "E",
       "gridIndex": 30,
-      "master_url": "https://cdn.yutopiaforge.com/cdn/ab6c19d5-824f-4f8e-83ed-2d19c0320e51/playlist.m3u8"
+      "master_url": "https://cdn.yutopiaforge.com/cdn/ab6c19d5-824f-4f8e-83ed-2d19c0320e51/playlist.m3u8",
+      "updatedAt": "2026-10-02T21:21:08.316Z"
     },
     {
       "type": "movie",
@@ -88270,7 +88282,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2018,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "",
       "genres": [
         "Action",
         "War",
@@ -88293,7 +88305,7 @@
       "atlas": "E",
       "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/operacionOverlord2018/master.m3u8",
-      "updatedAt": "2026-08-17T13:53:46.968Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6588,
       "cast": [
         "Jovan Adepo",
@@ -88317,7 +88329,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1971,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "1971-11-03",
       "genres": [],
       "languages": [
         "language_Spanish"
@@ -88334,7 +88346,7 @@
       "atlas": "E",
       "gridIndex": 28,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd1/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5335,
       "cast": [
         "Topol",
@@ -88356,7 +88368,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1971,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "1971-11-03",
       "genres": [],
       "languages": [
         "language_Spanish"
@@ -88373,7 +88385,7 @@
       "atlas": "E",
       "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elviolinistaeneltejadocd2/master.m3u8",
-      "updatedAt": "2026-05-27T19:11:32.231Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5074,
       "cast": [
         "Topol",
@@ -88395,7 +88407,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-04-09",
+      "releaseDate": "2021-03-18",
       "genres": [
         "Action",
         "Thriller"
@@ -88415,7 +88427,7 @@
       "atlas": "E",
       "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/nadie2021/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5501,
       "saga": "Nadie",
       "cast": [
@@ -88438,7 +88450,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2022-10-07",
       "genres": [
         "War",
         "Drama"
@@ -88458,7 +88470,7 @@
       "atlas": "E",
       "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sinNovedadEnElFrente/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8929,
       "cast": [
         "Felix Kammerer",
@@ -88480,7 +88492,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1998,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "1998-09-18",
       "genres": [
         "Action",
         "Comedy",
@@ -88501,7 +88513,7 @@
       "atlas": "E",
       "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/unaParejaExplosiva1998/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5870,
       "cast": [
         "Jackie Chan",
@@ -88522,7 +88534,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2025-08-13",
       "genres": [
         "Action",
         "Thriller",
@@ -88543,7 +88555,7 @@
       "atlas": "E",
       "gridIndex": 16,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nadie22025/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5389,
       "saga": "Nadie",
       "cast": [
@@ -88566,7 +88578,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2025-02-27",
       "genres": [
         "Action",
         "Adventure",
@@ -88587,7 +88599,7 @@
       "atlas": "E",
       "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/contraataque2025/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5130,
       "cast": [
         "Luis Alberti",
@@ -88609,7 +88621,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2014-10-15",
       "genres": [
         "War",
         "Drama",
@@ -88630,7 +88642,7 @@
       "atlas": "E",
       "gridIndex": 14,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/corazonesDeHierro2014/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8078,
       "cast": [
         "Brad Pitt",
@@ -88652,7 +88664,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2023-04-19",
       "genres": [
         "War",
         "Action",
@@ -88673,7 +88685,7 @@
       "atlas": "E",
       "gridIndex": 13,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elPacto2023/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7384,
       "cast": [
         "Jake Gyllenhaal",
@@ -88694,8 +88706,8 @@
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2023,
-      "releaseDate": "2026-04-10",
+      "year": 2022,
+      "releaseDate": "2022-09-09",
       "genres": [
         "Comedy",
         "Drama"
@@ -88715,7 +88727,7 @@
       "atlas": "E",
       "gridIndex": 12,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/sisu2022/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5482,
       "cast": [
         "Jorma Tommila",
@@ -88737,7 +88749,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2012-06-29",
       "genres": [
         "Comedy",
         "Fantasy"
@@ -88757,7 +88769,7 @@
       "atlas": "E",
       "gridIndex": 9,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ted2012/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6736,
       "cast": [
         "Mark Wahlberg",
@@ -88779,7 +88791,7 @@
       "quality": "BQ",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2025-07-14",
       "genres": [
         "Horror",
         "Romance",
@@ -88800,7 +88812,7 @@
       "atlas": "E",
       "gridIndex": 8,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/togetherJuntosHastaLaMuerte2025/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6097,
       "cast": [
         "Dave Franco",
@@ -88822,7 +88834,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2001,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2001-11-16",
       "genres": [
         "Fantasy",
         "Adventure",
@@ -88843,7 +88855,7 @@
       "atlas": "E",
       "gridIndex": 6,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaPiedraFilosofal/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 9531,
       "saga": "Harry Potter",
       "cast": [
@@ -88866,7 +88878,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2002,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2002-11-13",
       "genres": [
         "Adventure",
         "Fantasy",
@@ -88887,7 +88899,7 @@
       "atlas": "E",
       "gridIndex": 5,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HARRYPotterylacamarasecreta/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 10464,
       "saga": "Harry Potter",
       "cast": [
@@ -88910,7 +88922,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2004-05-31",
       "genres": [
         "Family",
         "Fantasy",
@@ -88932,7 +88944,7 @@
       "atlas": "E",
       "gridIndex": 4,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElPrisioneroDeAzkaban/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8502,
       "saga": "Harry Potter",
       "cast": [
@@ -88955,7 +88967,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2005-11-16",
       "genres": [
         "Adventure",
         "Fantasy",
@@ -88976,7 +88988,7 @@
       "atlas": "E",
       "gridIndex": 3,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElCalizDeFuego/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 9425,
       "saga": "Harry Potter",
       "cast": [
@@ -88999,7 +89011,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2007-07-08",
       "genres": [
         "Fantasy",
         "Adventure",
@@ -89020,7 +89032,7 @@
       "atlas": "E",
       "gridIndex": 2,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLaOrdenDelFenix/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8294,
       "saga": "Harry Potter",
       "cast": [
@@ -89043,7 +89055,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2009,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2009-07-15",
       "genres": [
         "Fantasy",
         "Adventure",
@@ -89064,7 +89076,7 @@
       "atlas": "E",
       "gridIndex": 1,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYElMisterioDelPrincipe/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 9211,
       "saga": "Harry Potter",
       "cast": [
@@ -89087,7 +89099,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2010-11-17",
       "genres": [
         "Fantasy",
         "Adventure",
@@ -89108,7 +89120,7 @@
       "atlas": "E",
       "gridIndex": 0,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte1/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8765,
       "saga": "Harry Potter",
       "cast": [
@@ -89131,7 +89143,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-11",
+      "releaseDate": "2011-07-12",
       "genres": [
         "Adventure",
         "Fantasy",
@@ -89152,7 +89164,7 @@
       "atlas": "D",
       "gridIndex": 164,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/harryPotterYLasReliquiasDeLaMuerte2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7827,
       "saga": "Harry Potter",
       "cast": [
@@ -89175,7 +89187,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-12",
+      "releaseDate": "2016-09-17",
       "genres": [
         "Animation",
         "Drama",
@@ -89196,7 +89208,7 @@
       "atlas": "D",
       "gridIndex": 161,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KoeNoKatachi/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7784,
       "cast": [
         "Miyu Irino",
@@ -89262,7 +89274,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-15",
+      "releaseDate": "",
       "genres": [
         "Thriller",
         "Drama",
@@ -89283,7 +89295,7 @@
       "atlas": "D",
       "gridIndex": 144,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/13RuletaRusa/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5434,
       "cast": [
         "Jared Padalecki",
@@ -89305,7 +89317,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-15",
+      "releaseDate": "2025-07-23",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -89326,7 +89338,7 @@
       "atlas": "D",
       "gridIndex": 143,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/4Fantasticos/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6876,
       "saga": "Marvel",
       "cast": [
@@ -89345,8 +89357,8 @@
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2023,
-      "releaseDate": "2026-04-16",
+      "year": 2024,
+      "releaseDate": "2024-03-19",
       "genres": [
         "Horror",
         "Mystery",
@@ -89367,7 +89379,7 @@
       "atlas": "D",
       "gridIndex": 141,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/deNocheConElDiablo2024/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5568,
       "cast": [
         "David Dastmalchian",
@@ -89389,7 +89401,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2019,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "",
       "genres": [
         "Action",
         "Thriller",
@@ -89410,7 +89422,7 @@
       "atlas": "D",
       "gridIndex": 140,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMafiosoElPoliciaElDemonio/master.m3u8",
-      "updatedAt": "2026-05-28T02:56:39.967Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6595
     },
     {
@@ -89422,7 +89434,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1972,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "1972-03-14",
       "genres": [
         "Crime",
         "Drama"
@@ -89442,7 +89454,7 @@
       "atlas": "D",
       "gridIndex": 139,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elpadrino/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 10630,
       "cast": [
         "Toni Servillo",
@@ -89592,7 +89604,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2012-04-25",
       "genres": [
         "Action",
         "Adventure",
@@ -89613,7 +89625,7 @@
       "atlas": "D",
       "gridIndex": 135,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Vengadores/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8575,
       "saga": "Marvel",
       "cast": [
@@ -89633,7 +89645,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2015,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2015-04-22",
       "genres": [
         "Adventure",
         "Action",
@@ -89654,7 +89666,7 @@
       "atlas": "D",
       "gridIndex": 134,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresEraDeUltron/master.m3u8",
-      "updatedAt": "2026-06-15T01:20:27.676Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8575,
       "saga": "Marvel",
       "cast": [
@@ -89674,7 +89686,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2018,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2018-04-25",
       "genres": [
         "Action",
         "Adventure",
@@ -89695,7 +89707,7 @@
       "atlas": "D",
       "gridIndex": 133,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VengadoresInfinityWar/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8962,
       "saga": "Marvel",
       "cast": [
@@ -89758,9 +89770,9 @@
       "duration": "2h 11m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2025,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2025-12-18",
       "genres": [
         "Thriller",
         "Drama"
@@ -89780,7 +89792,7 @@
       "atlas": "D",
       "gridIndex": 132,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaEmpleada/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7882,
       "cast": [
         "Sydney Sweeney",
@@ -89845,7 +89857,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2011-04-21",
       "genres": [
         "Action",
         "Comedy",
@@ -89866,7 +89878,7 @@
       "atlas": "D",
       "gridIndex": 130,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thor/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6891,
       "saga": "Marvel",
       "cast": [
@@ -89889,7 +89901,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2025-04-30",
       "genres": [
         "Action",
         "Adventure",
@@ -89910,7 +89922,7 @@
       "atlas": "D",
       "gridIndex": 129,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Thunderbolts20251080P-Dual-Lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7603,
       "saga": "Marvel",
       "cast": [
@@ -89933,7 +89945,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2018,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2018-09-28",
       "genres": [
         "Action"
       ],
@@ -89952,7 +89964,7 @@
       "atlas": "D",
       "gridIndex": 128,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/venom/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6729,
       "saga": "Marvel",
       "cast": [
@@ -89973,7 +89985,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2021-09-30",
       "genres": [
         "Action",
         "Sci-Fi"
@@ -89993,7 +90005,7 @@
       "atlas": "D",
       "gridIndex": 127,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Venom2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5854,
       "saga": "Marvel",
       "cast": [
@@ -90014,7 +90026,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2022-11-09",
       "genres": [
         "Action",
         "Drama",
@@ -90035,7 +90047,7 @@
       "atlas": "D",
       "gridIndex": 126,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/WakandaForEver/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 9679,
       "saga": "Marvel",
       "cast": [
@@ -90058,7 +90070,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2007-06-27",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -90079,7 +90091,7 @@
       "atlas": "D",
       "gridIndex": 125,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6519,
       "saga": "Transformers",
       "cast": [
@@ -90102,7 +90114,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2011-06-28",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -90123,7 +90135,7 @@
       "atlas": "D",
       "gridIndex": 124,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/transformer/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6519,
       "saga": "Transformers",
       "cast": [
@@ -90146,7 +90158,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2013,
-      "releaseDate": "2026-04-17",
+      "releaseDate": "2013-01-31",
       "genres": [
         "Romance",
         "Comedy",
@@ -90168,7 +90180,7 @@
       "atlas": "D",
       "gridIndex": 123,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MiNovioEsUnZombie/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5866,
       "cast": [
         "Nicholas Hoult",
@@ -90231,9 +90243,9 @@
       "duration": "2h 32m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2025,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2025-10-17",
       "genres": [
         "Drama",
         "Sci-Fi",
@@ -90254,7 +90266,7 @@
       "atlas": "D",
       "gridIndex": 119,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenstein2025lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 9146,
       "cast": [
         "Oscar Isaac",
@@ -90275,7 +90287,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2008,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2008-01-04",
       "genres": [
         "Horror",
         "Thriller"
@@ -90295,7 +90307,7 @@
       "atlas": "D",
       "gridIndex": 118,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Unallamadaperdida2008lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5206,
       "cast": [
         "Edward Burns",
@@ -90317,7 +90329,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2023-11-03",
       "genres": [
         "Action",
         "Horror",
@@ -90339,7 +90351,7 @@
       "atlas": "D",
       "gridIndex": 117,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GodzillaMinusOne2023DVDRip-Lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7478,
       "cast": [
         "Minami Hamabe",
@@ -90361,7 +90373,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1983,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "1983-08-10",
       "genres": [
         "Drama",
         "Horror"
@@ -90381,7 +90393,7 @@
       "atlas": "D",
       "gridIndex": 116,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Cujo1983lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5586,
       "cast": [
         "Dee Wallace",
@@ -90402,8 +90414,8 @@
       "rating": "R",
       "quality": "LQ",
       "section": "catalog",
-      "year": 2021,
-      "releaseDate": "2026-04-19",
+      "year": 2022,
+      "releaseDate": "2022-06-16",
       "genres": [
         "Horror",
         "Thriller"
@@ -90423,7 +90435,7 @@
       "atlas": "D",
       "gridIndex": 115,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/elTelefonoNegro2022lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6203,
       "cast": [
         "Mason Thames",
@@ -90445,7 +90457,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2014-08-21",
       "genres": [
         "Drama",
         "Comedy"
@@ -90465,7 +90477,7 @@
       "atlas": "D",
       "gridIndex": 114,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/RelatosSalvajes2014/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "cast": [
         "Darío Grandinetti",
         "María Marull",
@@ -90486,7 +90498,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1982,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "1982-06-25",
       "genres": [
         "Sci-Fi",
         "Horror",
@@ -90507,7 +90519,7 @@
       "atlas": "D",
       "gridIndex": 113,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LAcOsAdElOtRoMuNdO1982lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6515,
       "cast": [
         "Martín Garabal",
@@ -90527,7 +90539,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2004-03-19",
       "genres": [
         "Sci-Fi",
         "Horror",
@@ -90548,7 +90560,7 @@
       "atlas": "D",
       "gridIndex": 112,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ELAMaNeCeRDELOsMUeRtOs2004lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5999,
       "cast": [
         "Sarah Polley",
@@ -90570,7 +90582,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2022-03-18",
       "genres": [
         "Horror",
         "Thriller"
@@ -90590,7 +90602,7 @@
       "atlas": "D",
       "gridIndex": 111,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Maleficio2022Lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6688,
       "cast": [
         "Hsuan-yen Tsai",
@@ -90611,7 +90623,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1968,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "1968-06-12",
       "genres": [
         "Thriller",
         "Mystery"
@@ -90631,7 +90643,7 @@
       "atlas": "D",
       "gridIndex": 110,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBebeDeRosemary1968lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8223,
       "cast": [
         "Mia Farrow",
@@ -90653,7 +90665,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-19",
+      "releaseDate": "2010-10-29",
       "genres": [
         "Fantasy",
         "Horror",
@@ -90675,7 +90687,7 @@
       "atlas": "D",
       "gridIndex": 109,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CazadoresDeTrolls2010lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6208,
       "cast": [
         "Otto Jespersen",
@@ -90697,7 +90709,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2009,
-      "releaseDate": "2026-04-20",
+      "releaseDate": "2009-02-05",
       "genres": [
         "Horror",
         "Animation",
@@ -90719,7 +90731,7 @@
       "atlas": "D",
       "gridIndex": 108,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CoralineYLaPuertaSecreta2009lat/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6037,
       "cast": [
         "Dakota Fanning",
@@ -90738,7 +90750,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-20",
+      "releaseDate": "2007-10-31",
       "genres": [
         "Animation",
         "Horror",
@@ -90760,7 +90772,7 @@
       "atlas": "D",
       "gridIndex": 107,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaNahuala2007/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5061,
       "saga": "Las Leyendas",
       "cast": [
@@ -90783,7 +90795,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "2026-04-20",
+      "releaseDate": "2024-12-25",
       "genres": [
         "Horror",
         "Drama",
@@ -90804,7 +90816,7 @@
       "atlas": "D",
       "gridIndex": 106,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nosferatu2024/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7955,
       "cast": [
         "Lily-Rose Depp",
@@ -90826,7 +90838,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-20",
+      "releaseDate": "2012-02-12",
       "genres": [
         "Animation",
         "Comedy",
@@ -90848,7 +90860,7 @@
       "atlas": "D",
       "gridIndex": 105,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MonsterHighAmorMonstruoso/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 2761,
       "cast": [
         "Laura Bailey",
@@ -90868,7 +90880,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2014-10-01",
       "genres": [
         "Animation",
         "Adventure",
@@ -90891,7 +90903,7 @@
       "atlas": "D",
       "gridIndex": 104,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLibroDeLaVida/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5724,
       "cast": [
         "Diego Luna",
@@ -90913,7 +90925,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1997,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "1997-05-02",
       "genres": [
         "Sci-Fi",
         "Action",
@@ -90935,7 +90947,7 @@
       "atlas": "D",
       "gridIndex": 103,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElQuintoElemento1997/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7596,
       "cast": [
         "Bruce Willis",
@@ -90957,7 +90969,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2016-08-03",
       "genres": [
         "Action",
         "Adventure",
@@ -90979,7 +90991,7 @@
       "atlas": "D",
       "gridIndex": 102,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EscuadronSuicida2016/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 8073,
       "saga": "DC",
       "cast": [
@@ -91002,7 +91014,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2011-10-21",
       "genres": [
         "Animation",
         "Comedy",
@@ -91024,7 +91036,7 @@
       "atlas": "D",
       "gridIndex": 101,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLaLlorona2011/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 4523,
       "saga": "Las Leyendas",
       "cast": [
@@ -91047,7 +91059,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2014-10-30",
       "genres": [
         "Animation",
         "Adventure",
@@ -91070,7 +91082,7 @@
       "atlas": "D",
       "gridIndex": 100,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDeLasMomiasDeGuanajuato2014/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5022,
       "saga": "Las Leyendas",
       "cast": [
@@ -91093,7 +91105,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2016-10-21",
       "genres": [
         "Animation",
         "Adventure",
@@ -91117,7 +91129,7 @@
       "atlas": "D",
       "gridIndex": 99,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendaDelChupacabras2016/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 4960,
       "saga": "Las Leyendas",
       "cast": [
@@ -91140,7 +91152,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1996,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "1996-12-13",
       "genres": [
         "Comedy",
         "Action",
@@ -91161,7 +91173,7 @@
       "atlas": "D",
       "gridIndex": 98,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MarcianosAlAtaque1996/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6346,
       "cast": [
         "Jack Nicholson",
@@ -91182,7 +91194,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2002,
-      "releaseDate": "2026-04-22",
+      "releaseDate": "2002-11-26",
       "genres": [
         "Animation",
         "Sci-Fi",
@@ -91205,7 +91217,7 @@
       "atlas": "D",
       "gridIndex": 97,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PlanetaDelTesoro2002/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5724,
       "saga": "Disney|Pixar",
       "cast": [
@@ -91228,7 +91240,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2010-03-03",
       "genres": [
         "Fantasy",
         "Family",
@@ -91249,7 +91261,7 @@
       "atlas": "D",
       "gridIndex": 95,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/AliciaEnElPaisDeLasMaravillas2010/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6514,
       "cast": [
         "Mia Wasikowska",
@@ -91271,7 +91283,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1988,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "1988-03-30",
       "genres": [
         "Horror",
         "Comedy",
@@ -91292,7 +91304,7 @@
       "atlas": "D",
       "gridIndex": 94,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Beetlejuice1988/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5527,
       "cast": [
         "Alec Baldwin",
@@ -91314,7 +91326,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2005,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2005-07-13",
       "genres": [
         "Fantasy",
         "Comedy",
@@ -91336,7 +91348,7 @@
       "atlas": "D",
       "gridIndex": 93,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CharlieYLaFabricaDeChocolate2005/master.m3u8",
-      "updatedAt": "2026-07-02T22:16:10.539Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6923,
       "cast": [
         "Johnny Depp",
@@ -91358,7 +91370,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1990,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "1990-12-07",
       "genres": [
         "Fantasy",
         "Romance",
@@ -91380,7 +91392,7 @@
       "atlas": "D",
       "gridIndex": 92,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElJovenManosDeTijera1990/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6302,
       "cast": [
         "Johnny Depp",
@@ -91402,7 +91414,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2012-10-04",
       "genres": [
         "Animation",
         "Horror",
@@ -91425,7 +91437,7 @@
       "atlas": "D",
       "gridIndex": 91,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Frankenweenie2012/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5215,
       "saga": "Disney|Pixar",
       "cast": [
@@ -91445,7 +91457,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2016-09-28",
       "genres": [
         "Fantasy",
         "Adventure",
@@ -91467,7 +91479,7 @@
       "atlas": "D",
       "gridIndex": 90,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MissPeregrineYLosNinosPeculiares2016/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7616,
       "cast": [
         "Eva Green",
@@ -91489,7 +91501,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2013,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2013-06-19",
       "genres": [
         "Action",
         "Horror",
@@ -91511,7 +91523,7 @@
       "atlas": "D",
       "gridIndex": 89,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GuerraMundialZ2013/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7384,
       "cast": [
         "Brad Pitt",
@@ -91533,7 +91545,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2009,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2009-11-18",
       "genres": [
         "Drama",
         "Fantasy",
@@ -91554,7 +91566,7 @@
       "atlas": "D",
       "gridIndex": 88,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoLunaNueva2009/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7838,
       "saga": "Crepúsculo",
       "cast": [
@@ -91577,7 +91589,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2010-06-23",
       "genres": [
         "Romance",
         "Fantasy",
@@ -91599,7 +91611,7 @@
       "atlas": "D",
       "gridIndex": 87,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoEclipse2010/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6014,
       "saga": "Crepúsculo",
       "cast": [
@@ -91622,7 +91634,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2011-11-16",
       "genres": [
         "Drama",
         "Romance",
@@ -91643,7 +91655,7 @@
       "atlas": "D",
       "gridIndex": 86,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte12011/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7838,
       "saga": "Crepúsculo",
       "cast": [
@@ -91666,7 +91678,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "2012-11-13",
       "genres": [
         "Action",
         "Fantasy",
@@ -91688,7 +91700,7 @@
       "atlas": "D",
       "gridIndex": 85,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CrepusculoAmanecerParte22012/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6913,
       "saga": "Crepúsculo",
       "cast": [
@@ -91711,7 +91723,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1966,
-      "releaseDate": "2026-04-23",
+      "releaseDate": "1966-12-23",
       "genres": [
         "Western",
         "Adventure",
@@ -91732,7 +91744,7 @@
       "atlas": "D",
       "gridIndex": 84,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElBuenoElMaloYElFeo1966/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 10723,
       "cast": [
         "Clint Eastwood",
@@ -91753,7 +91765,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "2007-12-21",
       "genres": [
         "Drama",
         "Horror",
@@ -91775,7 +91787,7 @@
       "atlas": "D",
       "gridIndex": 81,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SweeneyToddTheDemonBarberOfFleetStreet/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6982,
       "cast": [
         "Johnny Depp",
@@ -91797,7 +91809,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "2004-06-17",
       "genres": [
         "Comedy",
         "Drama",
@@ -91818,7 +91830,7 @@
       "atlas": "D",
       "gridIndex": 80,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laterminal/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7775,
       "cast": [
         "Tom Hanks",
@@ -91840,7 +91852,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1981,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "1981-07-10",
       "genres": [
         "Animation",
         "Drama",
@@ -91862,7 +91874,7 @@
       "atlas": "D",
       "gridIndex": 79,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Elzorroyelsabueso/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 4973,
       "saga": "Disney|Pixar",
       "cast": [
@@ -91885,7 +91897,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-04-26",
+      "releaseDate": "2025-03-07",
       "genres": [
         "Fantasy",
         "Drama",
@@ -91906,7 +91918,7 @@
       "atlas": "D",
       "gridIndex": 78,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Lahermanastrafea/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6553,
       "cast": [
         "Lea Myren",
@@ -91928,7 +91940,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2006,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2006-10-11",
       "genres": [
         "War",
         "Horror",
@@ -91950,7 +91962,7 @@
       "atlas": "D",
       "gridIndex": 76,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElLaberintoDelFauno/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 7132,
       "cast": [
         "Ivana Baquero",
@@ -91971,7 +91983,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2015,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2015-09-21",
       "genres": [
         "Animation",
         "Family",
@@ -91993,7 +92005,7 @@
       "atlas": "D",
       "gridIndex": 75,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5383,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -92016,7 +92028,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2018,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2018-06-28",
       "genres": [
         "Animation",
         "Family",
@@ -92039,7 +92051,7 @@
       "atlas": "D",
       "gridIndex": 74,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania3/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5844,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -92062,7 +92074,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2022-01-31",
       "genres": [
         "Animation",
         "Family",
@@ -92085,7 +92097,7 @@
       "atlas": "D",
       "gridIndex": 73,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/HotelTransylvania4/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.852Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5252,
       "saga": "Hotel Transylvania",
       "cast": [
@@ -92108,7 +92120,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2016,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2016-07-01",
       "genres": [
         "Animation",
         "Romance",
@@ -92131,7 +92143,7 @@
       "atlas": "D",
       "gridIndex": 72,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KimiNoNaWa/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6396,
       "cast": [
         "Ryûnosuke Kamiki",
@@ -92153,7 +92165,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "2026-04-27",
+      "releaseDate": "2024-06-28",
       "genres": [
         "Animation",
         "Drama"
@@ -92173,7 +92185,7 @@
       "atlas": "D",
       "gridIndex": 71,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LookBack/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 3500,
       "cast": [
         "Yumi Kawai",
@@ -92195,7 +92207,7 @@
       "quality": "None",
       "section": "catalog",
       "year": 2002,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "2002-03-15",
       "genres": [
         "Action",
         "Horror",
@@ -92217,7 +92229,7 @@
       "atlas": "D",
       "gridIndex": 70,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil1/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6031,
       "saga": "Resident Evil",
       "cast": [
@@ -92240,7 +92252,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "2004-09-10",
       "genres": [
         "Action",
         "Horror",
@@ -92262,7 +92274,7 @@
       "atlas": "D",
       "gridIndex": 69,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5629,
       "saga": "Resident Evil",
       "cast": [
@@ -92285,7 +92297,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "2007-09-20",
       "genres": [
         "Action",
         "Horror",
@@ -92307,7 +92319,7 @@
       "atlas": "D",
       "gridIndex": 68,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil3/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5646,
       "saga": "Resident Evil",
       "cast": [
@@ -92330,7 +92342,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1979,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "1979-04-12",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -92351,7 +92363,7 @@
       "atlas": "D",
       "gridIndex": 67,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMaxSalvajesDeAutopista/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5587,
       "saga": "Mad Max",
       "cast": [
@@ -92374,7 +92386,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 1981,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "1981-12-24",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -92395,7 +92407,7 @@
       "atlas": "D",
       "gridIndex": 66,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5691,
       "saga": "Mad Max",
       "cast": [
@@ -92418,7 +92430,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1985,
-      "releaseDate": "2026-04-29",
+      "releaseDate": "1985-06-29",
       "genres": [
         "Action",
         "Sci-Fi",
@@ -92439,7 +92451,7 @@
       "atlas": "D",
       "gridIndex": 65,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MadMax3MasAllaDeLaCupulaDelTrueno/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6419,
       "saga": "Mad Max",
       "cast": [
@@ -92462,7 +92474,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-04-30",
+      "releaseDate": "2021-08-11",
       "genres": [
         "Action",
         "Comedy",
@@ -92484,7 +92496,7 @@
       "atlas": "D",
       "gridIndex": 64,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/FreeGuyTomandoElControl/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6899,
       "cast": [
         "Ryan Reynolds",
@@ -92505,7 +92517,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1993,
-      "releaseDate": "2026-04-30",
+      "releaseDate": "1993-10-09",
       "genres": [
         "Comedy",
         "Mystery",
@@ -92530,7 +92542,7 @@
       "atlas": "D",
       "gridIndex": 63,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElExtranoMundoDeJack/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 4597,
       "saga": "Disney|Pixar",
       "cast": [
@@ -92550,7 +92562,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2015,
-      "releaseDate": "2026-04-30",
+      "releaseDate": "2015-06-17",
       "genres": [
         "Comedy",
         "Drama",
@@ -92574,7 +92586,7 @@
       "atlas": "D",
       "gridIndex": 62,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/IntensaMente/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5689,
       "saga": "Disney|Pixar",
       "cast": [
@@ -92597,7 +92609,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-04-30",
+      "releaseDate": "2010-10-28",
       "genres": [
         "Action",
         "Comedy",
@@ -92622,7 +92634,7 @@
       "atlas": "D",
       "gridIndex": 61,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Megamente/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5735,
       "saga": "DreamWorks",
       "cast": [
@@ -92645,7 +92657,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2009,
-      "releaseDate": "2026-05-02",
+      "releaseDate": "2009-09-17",
       "genres": [
         "Animation",
         "Comedy",
@@ -92667,7 +92679,7 @@
       "atlas": "D",
       "gridIndex": 60,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LluviaDeHamburguesas/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5394,
       "saga": "Lluvia de Hamburguesas",
       "cast": [
@@ -92731,7 +92743,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1985,
-      "releaseDate": "2026-05-02",
+      "releaseDate": "1985-07-03",
       "genres": [
         "Sci-Fi",
         "Adventure",
@@ -92752,7 +92764,7 @@
       "atlas": "D",
       "gridIndex": 58,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VolverAlFuturo/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6966,
       "saga": "Volver al Futuro",
       "cast": [
@@ -92775,7 +92787,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2023-06-23",
       "genres": [
         "Action",
         "Animation",
@@ -92799,7 +92811,7 @@
       "atlas": "D",
       "gridIndex": 57,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Nimona/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6166,
       "cast": [
         "Chloë Grace Moretz",
@@ -92821,7 +92833,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2013,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2013-03-28",
       "genres": [
         "Comedy",
         "Drama"
@@ -92841,7 +92853,7 @@
       "atlas": "D",
       "gridIndex": 56,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/NosotrosLosNobles/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6490,
       "cast": [
         "Gonzalo Vega",
@@ -92863,7 +92875,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2001,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2001-05-18",
       "genres": [
         "Comedy",
         "Animation",
@@ -92886,7 +92898,7 @@
       "atlas": "D",
       "gridIndex": 55,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5405,
       "saga": "DreamWorks",
       "cast": [
@@ -92907,7 +92919,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2004,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2004-05-19",
       "genres": [
         "Comedy",
         "Adventure",
@@ -92931,7 +92943,7 @@
       "atlas": "D",
       "gridIndex": 54,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5543,
       "saga": "DreamWorks",
       "cast": [
@@ -92954,7 +92966,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2007-05-17",
       "genres": [
         "Adventure",
         "Animation",
@@ -92977,7 +92989,7 @@
       "atlas": "D",
       "gridIndex": 53,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Shrek3/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5563,
       "saga": "DreamWorks",
       "cast": [
@@ -93000,7 +93012,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2010-05-16",
       "genres": [
         "Comedy",
         "Animation",
@@ -93023,7 +93035,7 @@
       "atlas": "D",
       "gridIndex": 52,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ShrekParaSiempre/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.853Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5594,
       "saga": "DreamWorks",
       "cast": [
@@ -93046,7 +93058,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2010,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2010-03-18",
       "genres": [
         "Adventure",
         "Animation",
@@ -93069,7 +93081,7 @@
       "atlas": "D",
       "gridIndex": 51,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5872,
       "saga": "DreamWorks",
       "cast": [
@@ -93092,7 +93104,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2014,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2014-06-05",
       "genres": [
         "Animation",
         "Adventure",
@@ -93115,7 +93127,7 @@
       "atlas": "D",
       "gridIndex": 50,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6116,
       "saga": "DreamWorks",
       "cast": [
@@ -93138,7 +93150,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2019,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2019-01-03",
       "genres": [
         "Animation",
         "Family",
@@ -93159,7 +93171,7 @@
       "atlas": "D",
       "gridIndex": 49,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ComoEntrenarATuDragon3/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 6247,
       "saga": "DreamWorks",
       "cast": [
@@ -93182,7 +93194,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2000,
-      "releaseDate": "2026-05-03",
+      "releaseDate": "2000-03-31",
       "genres": [
         "Animation",
         "Family",
@@ -93204,7 +93216,7 @@
       "atlas": "D",
       "gridIndex": 48,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElcaminohaciaElDorado/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5366,
       "saga": "DreamWorks",
       "cast": [
@@ -93227,7 +93239,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2000,
-      "releaseDate": "2026-05-04",
+      "releaseDate": "2000-07-07",
       "genres": [
         "Comedy",
         "Horror"
@@ -93247,7 +93259,7 @@
       "atlas": "D",
       "gridIndex": 47,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.316Z",
       "tokenDuration": 5339,
       "saga": "Scary Movie",
       "cast": [
@@ -93270,7 +93282,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2001,
-      "releaseDate": "2026-05-04",
+      "releaseDate": "2001-07-04",
       "genres": [
         "Comedy",
         "Horror"
@@ -93290,7 +93302,7 @@
       "atlas": "D",
       "gridIndex": 46,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ScaryMovie2/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 4977,
       "saga": "Scary Movie",
       "cast": [
@@ -93313,7 +93325,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "2026-05-05",
+      "releaseDate": "2024-10-17",
       "genres": [
         "Animation",
         "Comedy",
@@ -93334,7 +93346,7 @@
       "atlas": "D",
       "gridIndex": 44,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MemoriasDeUnCaracol/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 5686,
       "cast": [
         "Jacki Weaver",
@@ -93356,7 +93368,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1997,
-      "releaseDate": "2026-05-05",
+      "releaseDate": "1997-07-03",
       "genres": [
         "Comedy",
         "Family"
@@ -93376,7 +93388,7 @@
       "atlas": "D",
       "gridIndex": 43,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BeanElNombreDelDesastre/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 5358,
       "saga": "Mr. Bean",
       "cast": [
@@ -93399,7 +93411,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-05-05",
+      "releaseDate": "2007-03-22",
       "genres": [
         "Comedy",
         "Adventure",
@@ -93420,7 +93432,7 @@
       "atlas": "D",
       "gridIndex": 42,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LasVacacionesDeMrBean/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 5375,
       "saga": "Mr. Bean",
       "cast": [
@@ -93443,7 +93455,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2012,
-      "releaseDate": "2026-05-06",
+      "releaseDate": "2012-11-21",
       "genres": [
         "Animation",
         "Adventure",
@@ -93466,7 +93478,7 @@
       "atlas": "D",
       "gridIndex": 41,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElOrigenDeLosGuardianes/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 5831,
       "saga": "DreamWorks",
       "cast": [
@@ -93530,7 +93542,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1979,
-      "releaseDate": "2026-05-08",
+      "releaseDate": "1979-05-19",
       "genres": [
         "Drama",
         "Thriller"
@@ -93550,7 +93562,7 @@
       "atlas": "D",
       "gridIndex": 39,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ApocalipsisAhora/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 11764,
       "cast": [
         "Martin Sheen",
@@ -93572,7 +93584,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2021,
-      "releaseDate": "2026-05-08",
+      "releaseDate": "2021-06-04",
       "genres": [
         "Drama",
         "Comedy"
@@ -93592,7 +93604,7 @@
       "atlas": "D",
       "gridIndex": 38,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DulceYAmargo/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6149,
       "cast": [
         "Jang Ki-yong",
@@ -93614,7 +93626,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 1996,
-      "releaseDate": "2026-05-08",
+      "releaseDate": "1996-01-12",
       "genres": [
         "Drama",
         "Thriller",
@@ -93635,7 +93647,7 @@
       "atlas": "D",
       "gridIndex": 37,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/OjoPorOjo/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6100,
       "cast": [
         "Sally Field",
@@ -93657,7 +93669,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2025-09-19",
       "genres": [
         "Action",
         "Animation",
@@ -93680,7 +93692,7 @@
       "atlas": "D",
       "gridIndex": 36,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ChainsawManTheMovieRezeArc/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6016,
       "cast": [
         "Kikunosuke Toya",
@@ -93702,7 +93714,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2025,
-      "releaseDate": "2026-05-10",
+      "releaseDate": "2025-07-18",
       "genres": [
         "Action",
         "Animation",
@@ -93724,7 +93736,7 @@
       "atlas": "D",
       "gridIndex": 35,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DemonSlayerInfinityCastle/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 9302,
       "saga": "Kimetsu no Yaiba",
       "cast": [
@@ -93745,7 +93757,7 @@
       "quality": "LQ",
       "section": "catalog",
       "year": 2024,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2024-03-08",
       "genres": [
         "Documentary"
       ],
@@ -93764,7 +93776,7 @@
       "atlas": "D",
       "gridIndex": 29,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaSingularVidaDeIbelin/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6225,
       "director": "Benjamin Ree",
       "recommended": "Recomendado 81%",
@@ -93829,7 +93841,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2022,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2022-07-06",
       "genres": [
         "Documentary",
         "Mystery"
@@ -93849,7 +93861,7 @@
       "atlas": "D",
       "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaNinaDeLaFoto/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6155,
       "director": "Skye Borgman",
       "recommended": "Recomendado 73%",
@@ -93871,7 +93883,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2011,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2011-10-14",
       "genres": [
         "Drama",
         "Crime",
@@ -93892,7 +93904,7 @@
       "atlas": "D",
       "gridIndex": 26,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/96Minutos/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 7180,
       "cast": [
         "Brittany Snow",
@@ -94045,7 +94057,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2023,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "2023-07-14",
       "genres": [
         "Animation",
         "Fantasy",
@@ -94067,7 +94079,7 @@
       "atlas": "D",
       "gridIndex": 21,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElChicoYLaGarza/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 7437,
       "saga": "Studio Ghibli",
       "cast": [
@@ -94090,7 +94102,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2003,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "2003-10-10",
       "genres": [
         "Thriller",
         "Action",
@@ -94111,7 +94123,7 @@
       "atlas": "D",
       "gridIndex": 20,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/KillBillVol1/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6656,
       "cast": [
         "Uma Thurman",
@@ -94175,8 +94187,8 @@
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
-      "year": 1997,
-      "releaseDate": "2026-05-14",
+      "year": 1998,
+      "releaseDate": "1998-02-28",
       "genres": [
         "Animation",
         "Thriller",
@@ -94198,7 +94210,7 @@
       "atlas": "D",
       "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PerfectBlue/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 4904,
       "cast": [
         "Junko Iwao",
@@ -94220,7 +94232,7 @@
       "quality": "None",
       "section": "catalog",
       "year": 1976,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "1976-02-09",
       "genres": [
         "Drama",
         "Thriller",
@@ -94241,7 +94253,7 @@
       "atlas": "D",
       "gridIndex": 17,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TaxiDriver/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6828,
       "cast": [
         "Robert De Niro",
@@ -94306,7 +94318,7 @@
       "quality": "HD",
       "section": "catalog",
       "year": 2007,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "2007-10-05",
       "genres": [
         "Action",
         "Crime",
@@ -94328,7 +94340,7 @@
       "atlas": "D",
       "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TropaDeElite/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T21:21:08.317Z",
       "tokenDuration": 6928,
       "cast": [
         "Wagner Moura",
