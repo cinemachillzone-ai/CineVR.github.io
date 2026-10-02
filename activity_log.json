@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:08:02.052Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_432",
-    "title": "Juegos de guerra"
-  },
-  {
     "ts": "2026-07-15T02:08:54.507Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3749,6 +3742,14 @@
     "action": "EDIT_SERIES",
     "target": "series_209",
     "title": "Los Nuevos 4 Fantásticos",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:38:27.936Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_208",
+    "title": "Los 4 Fantásticos (1967)",
     "eps_changed": 0
   }
 ]
