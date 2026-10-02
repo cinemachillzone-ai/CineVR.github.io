@@ -83995,14 +83995,21 @@
     {
       "type": "series",
       "title": "Los 4 Fantásticos",
-      "description": "",
+      "description": "Al realizar un prematuro viaje en una nave espacial experimental, Reed Richards, Sue, Johnny Storm y el piloto Ben Grimm son bombardeados por radiación cósmica. Después de volver a duras penas a la Tierra, el cuarteto descubre que posee súper poderes. Decididos a usar su nuevo poder para ayudar a la gente, forman Los Cuatro Fantásticos, un equipo de superhéroes dedicados a defender la tierra de amenazas tales como El Doctor Doom, monarca de Latveria, y Galactus, el devorador de planetas.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
       "year": 1994,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "1994-09-24",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Family",
+        "Sci-Fi",
+        "Fantasy"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -84012,9 +84019,14 @@
       "id": "series_206",
       "atlas": "A",
       "gridIndex": 4,
-      "cast": [],
+      "cast": [
+        "Beau Weaver",
+        "Lori Alan",
+        "Chuck McCann",
+        "Quinton Flynn"
+      ],
       "director": "",
-      "recommended": "",
+      "recommended": "Recomendado 66%",
       "seasons": [
         {
           "number": 1,
@@ -84309,7 +84321,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:19.037Z",
-      "updatedAt": "2026-10-02T00:32:46.019Z"
+      "updatedAt": "2026-10-02T00:33:20.366Z"
     },
     {
       "type": "series",
