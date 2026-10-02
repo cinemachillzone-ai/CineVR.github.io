@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:13:20.184Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_435",
-    "title": "Una Historia Verdadera"
-  },
-  {
     "ts": "2026-07-15T02:15:24.534Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3751,5 +3744,14 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 4544588
+  },
+  {
+    "ts": "2026-10-02T03:44:48.013Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_211",
+    "title": "Re Zero",
+    "season": 1,
+    "episodes": 25
   }
 ]
