@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-10T05:16:32.367Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_428",
-    "title": "Heidi"
-  },
-  {
     "ts": "2026-07-10T15:27:39.076Z",
     "actor": "carmesi",
     "action": "ADD_MOVIE",
@@ -3728,6 +3721,14 @@
     "action": "EDIT_SERIES",
     "target": "series_206",
     "title": "Los 4 Fantásticos (1994)",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:34:56.833Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_207",
+    "title": "Los Cuatro Fantásticos: Superhéroes del mundo",
     "eps_changed": 0
   }
 ]
