@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-09T22:21:56.573Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_164",
-    "title": "Candy Candy T1",
-    "episodes": 113
-  },
-  {
     "ts": "2026-07-10T05:08:10.507Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3701,6 +3693,22 @@
       "cast",
       "recommended",
       "duration"
+    ]
+  },
+  {
+    "ts": "2026-10-02T00:31:27.327Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_205",
+    "title": "Las Nuevas Aventuras de Batman",
+    "fields": [
+      "description",
+      "rating",
+      "releaseDate",
+      "genres",
+      "cast",
+      "director",
+      "recommended"
     ]
   }
 ]
