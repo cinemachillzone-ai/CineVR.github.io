@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-10T05:08:10.507Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_425",
-    "title": "La cosa(subespanol)"
-  },
-  {
     "ts": "2026-07-10T05:13:18.672Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3701,6 +3694,22 @@
     "action": "TMDB_AUTOFILL",
     "target": "series_205",
     "title": "Las Nuevas Aventuras de Batman",
+    "fields": [
+      "description",
+      "rating",
+      "releaseDate",
+      "genres",
+      "cast",
+      "director",
+      "recommended"
+    ]
+  },
+  {
+    "ts": "2026-10-02T00:32:04.035Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_210",
+    "title": "Spider-Man y sus Sorprendentes Amigos",
     "fields": [
       "description",
       "rating",
