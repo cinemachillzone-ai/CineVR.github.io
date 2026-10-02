@@ -7,50 +7,39 @@
       "nombre": "Servicio",
       "color": "#7DE08A",
       "entradas": [
-        {
-          "fecha": "2026-10-02",
-          "texto": "Cine operativo."
-        }
+        { "fecha": "2026-10-02", "texto": "Operativo. La reproducción y el catálogo funcionan con normalidad." }
       ]
     },
     {
       "nombre": "Aviso",
       "color": "#F5C451",
       "entradas": [
-        {
-          "fecha": "2026-11-04",
-          "texto": "Se hará una mudanza el 4 de noviembre de 2026."
-        }
+        { "fecha": "2026-10-02", "texto": "Lamentamos las molestias de los últimos días: estuvimos trasladando el servicio entre varias ubicaciones. Gracias por su paciencia." }
       ]
     },
     {
       "nombre": "Contenido",
       "color": "#4FC3F7",
       "entradas": [
-        {
-          "fecha": "2026-10-02",
-          "texto": "Se subieron 7 películas nuevas."
-        }
+        { "fecha": "2026-10-02", "texto": "Se subieron 7 películas nuevas." }
       ]
     },
     {
       "nombre": "Actualización del mapa",
       "color": "#FF6FAE",
       "entradas": [
-        {
-          "fecha": "2026-10-02",
-          "texto": "Se implementó el nuevo sistema de anuncios."
-        }
+        { "fecha": "2026-10-02", "texto": "El consentimiento de privacidad ahora caduca a los 7 días. Al vencer, el panel aparecerá de nuevo al entrar al mundo." },
+        { "fecha": "2026-10-02", "texto": "Al aceptar el consentimiento, vuelves automáticamente al lugar donde te desconectaste por última vez." },
+        { "fecha": "2026-10-02", "texto": "La publicidad ahora se adapta a tu país, con precios en tu moneda local." },
+        { "fecha": "2026-10-02", "texto": "El primer anuncio de cada película ya no se pierde si la publicidad aún no terminó de cargar: se muestra en cuanto está lista." },
+        { "fecha": "2026-10-02", "texto": "Nuevo panel de novedades con el estado del cine, la versión del mapa y los avisos importantes." }
       ]
     },
     {
       "nombre": "Reportes",
       "color": "#B39DDB",
       "entradas": [
-        {
-          "fecha": "2026-10-02",
-          "texto": "Se reportó que un collider no funcionaba y causaba problemas en una zona. Ya quedó corregido."
-        }
+        { "fecha": "2026-10-02", "texto": "No hay reportes abiertos en este momento." }
       ]
     }
   ]
