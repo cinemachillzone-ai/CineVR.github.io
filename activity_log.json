@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-10T15:27:39.076Z",
-    "actor": "carmesi",
-    "action": "ADD_MOVIE",
-    "target": "movie_429",
-    "title": "Rapidos"
-  },
-  {
     "ts": "2026-07-11T07:32:00.419Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3730,5 +3723,21 @@
     "target": "series_207",
     "title": "Los Cuatro Fantásticos: Superhéroes del mundo",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:35:33.619Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_207",
+    "title": "Los Cuatro Fantásticos: Superhéroes del mundo",
+    "fields": [
+      "description",
+      "rating",
+      "releaseDate",
+      "genres",
+      "cast",
+      "director",
+      "recommended"
+    ]
   }
 ]
