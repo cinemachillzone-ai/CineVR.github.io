@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:10:17.805Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_434",
-    "title": "Alien: Romulus"
-  },
-  {
     "ts": "2026-07-15T02:13:20.184Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3752,5 +3745,11 @@
     "target": "series_208",
     "title": "Los 4 Fantásticos (1967)",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:43:27.998Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 4544588
   }
 ]
