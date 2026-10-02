@@ -1,40 +1,56 @@
 {
   "titulo": "Novedades de CineVR",
+  "version": "V.1.0.0",
   "actualizado": "2026-10-02",
   "categorias": [
     {
       "nombre": "Servicio",
       "color": "#7DE08A",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "Cine operativo." }
+        {
+          "fecha": "2026-10-02",
+          "texto": "Cine operativo."
+        }
       ]
     },
     {
       "nombre": "Aviso",
       "color": "#F5C451",
       "entradas": [
-        { "fecha": "2026-11-04", "texto": "Se hará una mudanza el 4 de noviembre de 2026." }
+        {
+          "fecha": "2026-11-04",
+          "texto": "Se hará una mudanza el 4 de noviembre de 2026."
+        }
       ]
     },
     {
       "nombre": "Contenido",
       "color": "#4FC3F7",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "Se subieron 7 películas nuevas." }
+        {
+          "fecha": "2026-10-02",
+          "texto": "Se subieron 7 películas nuevas."
+        }
       ]
     },
     {
       "nombre": "Actualización del mapa",
       "color": "#FF6FAE",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "Se implementó el nuevo sistema de anuncios." }
+        {
+          "fecha": "2026-10-02",
+          "texto": "Se implementó el nuevo sistema de anuncios."
+        }
       ]
     },
     {
       "nombre": "Reportes",
       "color": "#B39DDB",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "Se reportó que un collider no funcionaba y causaba problemas en una zona. Ya quedó corregido." }
+        {
+          "fecha": "2026-10-02",
+          "texto": "Se reportó que un collider no funcionaba y causaba problemas en una zona. Ya quedó corregido."
+        }
       ]
     }
   ]
