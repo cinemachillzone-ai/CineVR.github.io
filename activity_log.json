@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-10T05:14:35.434Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_426",
-    "title": "Cara de guerra"
-  },
-  {
     "ts": "2026-07-10T05:15:43.494Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3720,5 +3713,20 @@
     "target": "series_206",
     "title": "Los 4 Fantásticos",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:33:55.344Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_206",
+    "title": "Los 4 Fantásticos",
+    "fields": [
+      "description",
+      "rating",
+      "releaseDate",
+      "genres",
+      "cast",
+      "recommended"
+    ]
   }
 ]
