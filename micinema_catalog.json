@@ -83685,14 +83685,20 @@
     {
       "type": "series",
       "title": "Las Nuevas Aventuras de Batman",
-      "description": "",
+      "description": "Serie sucesora de \"Batman: La serie animada\", creada por Bruce W. Timm y considerada la adaptación más fiel del personaje de DC Comics al mundo audiovisual. Las historias de esta nueva serie suelen relacionarse con los personajes secundarios de Batman, que incluyen a Robin, Nightwing y Batgirl, entre otros. Además, la serie presenta como invitados a Supergirl, Etrigan y Creeper, personajes que aparecieron más tarde junto a Batman en Liga de la Justicia y Liga de la Justicia Ilimitada.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-PG",
       "quality": "HD",
       "section": "recently_added",
       "year": 1997,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "1997-09-13",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Crime"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -83702,9 +83708,11 @@
       "id": "series_205",
       "atlas": "A",
       "gridIndex": 5,
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "Kevin Conroy"
+      ],
+      "director": "Rich Fogel, Paul Dini, Bruce Timm",
+      "recommended": "Recomendado 81%",
       "seasons": [
         {
           "number": 1,
@@ -83982,7 +83990,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:18.861Z",
-      "updatedAt": "2026-10-02T00:24:18.861Z"
+      "updatedAt": "2026-10-02T00:30:58.686Z"
     },
     {
       "type": "series",
