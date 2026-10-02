@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-09T21:41:56.936Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_163",
-    "title": "Heidi T1"
-  },
-  {
     "ts": "2026-07-09T21:57:54.510Z",
     "actor": "yutamir",
     "action": "INJECT_EPISODES",
@@ -3684,5 +3677,21 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 4540841
+  },
+  {
+    "ts": "2026-10-02T00:29:46.779Z",
+    "actor": "yutamir",
+    "action": "TMDB_AUTOFILL",
+    "target": "series_203",
+    "title": "X-Men: La Serie Animada",
+    "fields": [
+      "description",
+      "rating",
+      "releaseDate",
+      "genres",
+      "cast",
+      "director",
+      "recommended"
+    ]
   }
 ]
