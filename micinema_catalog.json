@@ -82309,14 +82309,21 @@
     {
       "type": "series",
       "title": "X-Men: La Serie Animada",
-      "description": "",
+      "description": "X-Men, también conocida como X-Men: The Animated Series, es una serie de televisión animada estadounidense-canadiense que debutó el 31 de octubre de 1992 en los Estados Unidos en la Fox Network como parte de su programa Fox Kids Saturday. X-Men fue el segundo intento de Marvel Comics en una serie animada de X-Men después de que el piloto X-Men: Pryde de los X-Men no fue recogido.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
       "year": 1992,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "1992-10-31",
+      "genres": [
+        "Family",
+        "Sci-Fi",
+        "Fantasy",
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -82326,9 +82333,16 @@
       "id": "series_203",
       "atlas": "A",
       "gridIndex": 7,
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "Cedric Smith",
+        "Norm Spencer",
+        "Catherine Disher",
+        "Alison Sealy-Smith",
+        "Lenore Zann",
+        "Cal Dodd"
+      ],
+      "director": "Eric Lewald",
+      "recommended": "Recomendado 82%",
       "seasons": [
         {
           "number": 1,
@@ -83182,7 +83196,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:18.560Z",
-      "updatedAt": "2026-10-02T00:24:18.560Z"
+      "updatedAt": "2026-10-02T00:29:12.382Z"
     },
     {
       "type": "series",
