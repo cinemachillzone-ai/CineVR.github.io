@@ -85067,14 +85067,21 @@
     {
       "type": "series",
       "title": "Spider-Man y sus Sorprendentes Amigos",
-      "description": "",
+      "description": "Al defender a la humanidad de las fuerzas del mal, el Hombre Araña conoce a Estrella de Fuego y a Deslizador de Plata. Estos tres superhéroes deciden unirse al conocerse con sus identidades secretas en la universidad, viviendo en la casa de la Tía May junto con la perrita de Angelica, llamada Minky. Esta serie es secuela directa de \"Las nuevas aventuras del Hombre Araña\", Producida por Marvel Productions, Ltd.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
       "year": 1981,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "1981-09-12",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Sci-Fi",
+        "Fantasy",
+        "Family"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -85084,9 +85091,13 @@
       "id": "series_210",
       "atlas": "A",
       "gridIndex": 0,
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "Dan Gilvezan",
+        "Kathy Garver",
+        "Frank Welker"
+      ],
+      "director": "Stan Lee",
+      "recommended": "Recomendado 75%",
       "seasons": [
         {
           "number": 1,
@@ -85359,7 +85370,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:19.457Z",
-      "updatedAt": "2026-10-02T00:24:19.457Z"
+      "updatedAt": "2026-10-02T00:31:32.245Z"
     }
   ],
   "movies": [
