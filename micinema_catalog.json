@@ -84326,14 +84326,21 @@
     {
       "type": "series",
       "title": "Los Cuatro Fantásticos: Superhéroes del mundo",
-      "description": "",
+      "description": "Las aventuras de la primera familia de superhéroes del Universo Marvel.",
       "duration": "",
-      "rating": "",
+      "rating": "TV-Y7",
       "quality": "HD",
       "section": "recently_added",
       "year": 2006,
-      "releaseDate": "",
-      "genres": [],
+      "releaseDate": "2006-09-02",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy",
+        "Family"
+      ],
       "languages": [
         "language_Spanish"
       ],
@@ -84343,9 +84350,14 @@
       "id": "series_207",
       "atlas": "A",
       "gridIndex": 3,
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "cast": [
+        "ヒロ・カナガワ",
+        "Lara Gilchrist",
+        "Christopher Jacot",
+        "Brian Dobson"
+      ],
+      "director": "Franck Michel",
+      "recommended": "Recomendado 76%",
       "seasons": [
         {
           "number": 1,
@@ -84645,7 +84657,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:19.143Z",
-      "updatedAt": "2026-10-02T00:34:28.188Z"
+      "updatedAt": "2026-10-02T00:35:02.970Z"
     },
     {
       "type": "series",
