@@ -84671,7 +84671,9 @@
       "releaseDate": "1967-09-09",
       "genres": [
         "Animation",
-        "Action & Adventure"
+        "Action",
+        "Adventure",
+        "Sci-Fi"
       ],
       "languages": [
         "language_Spanish"
@@ -84913,7 +84915,7 @@
         }
       ],
       "createdAt": "2026-10-02T00:24:19.247Z",
-      "updatedAt": "2026-10-02T00:37:59.818Z"
+      "updatedAt": "2026-10-02T00:38:44.174Z"
     },
     {
       "type": "series",
