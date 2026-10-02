@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-07-09T21:19:50.594Z",
-    "actor": "yutamir",
-    "action": "FULL_SAVE",
-    "size": 2262742
-  },
-  {
     "ts": "2026-07-09T21:41:56.936Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3684,5 +3678,11 @@
     "target": "series_202",
     "title": "Jem y los Hologramas",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:28:38.661Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 4540841
   }
 ]
