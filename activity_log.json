@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:15:24.534Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_436",
-    "title": "Prometeo"
-  },
-  {
     "ts": "2026-07-16T04:32:56.174Z",
     "actor": "carmesi",
     "action": "INJECT_EPISODES",
@@ -3753,5 +3746,13 @@
     "title": "Re Zero",
     "season": 1,
     "episodes": 25
+  },
+  {
+    "ts": "2026-10-02T03:46:23.125Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_211",
+    "season": 2,
+    "count": 25
   }
 ]
