@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-15T02:08:54.507Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_433",
-    "title": "Alien: Covenant"
-  },
-  {
     "ts": "2026-07-15T02:10:17.805Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3746,6 +3739,14 @@
   },
   {
     "ts": "2026-10-02T00:38:27.936Z",
+    "actor": "yutamir",
+    "action": "EDIT_SERIES",
+    "target": "series_208",
+    "title": "Los 4 Fantásticos (1967)",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-02T00:39:12.602Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
     "target": "series_208",
