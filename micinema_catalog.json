@@ -11282,8 +11282,8 @@
       "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-04-10",
+      "year": 2018,
+      "releaseDate": "2018-10-07",
       "genres": [
         "Animation",
         "Action",
@@ -11460,7 +11460,7 @@
       ],
       "director": "Takaharu Ozaki, Misato Takada",
       "recommended": "Recomendado 73%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T00:42:59.691Z"
     },
     {
       "type": "series",
@@ -11899,8 +11899,8 @@
       "rating": "PG-13",
       "quality": "None",
       "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-04-10",
+      "year": 1998,
+      "releaseDate": "1998-04-07",
       "genres": [
         "Animation",
         "Fantasy",
@@ -12772,7 +12772,7 @@
         "Hideyuki Tanaka"
       ],
       "recommended": "Recomendado 86%",
-      "updatedAt": "2026-08-15T03:48:19.904Z"
+      "updatedAt": "2026-10-02T00:42:59.691Z"
     },
     {
       "type": "series",
@@ -12781,7 +12781,7 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "LQ",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
       "releaseDate": "2026-04-11",
       "genres": [
@@ -26862,9 +26862,9 @@
       "duration": "",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-01-11",
       "genres": [
         "Comedy",
         "Drama",
@@ -26984,7 +26984,8 @@
         }
       ],
       "atlas": "D",
-      "gridIndex": 141
+      "gridIndex": 141,
+      "updatedAt": "2026-10-02T00:42:59.692Z"
     },
     {
       "type": "series",
@@ -29223,8 +29224,8 @@
       "rating": "PG-13",
       "quality": "None",
       "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-05-10",
+      "year": 2025,
+      "releaseDate": "2025-06-28",
       "genres": [
         "Animation",
         "Drama",
@@ -29321,7 +29322,8 @@
         "Colleen Clinkenbeard"
       ],
       "director": "Shin'ya Iino, Moaang",
-      "recommended": "Recomendado 87%"
+      "recommended": "Recomendado 87%",
+      "updatedAt": "2026-10-02T00:42:59.692Z"
     },
     {
       "type": "series",
@@ -33434,7 +33436,7 @@
       "description": "En el Gameoverse existe un multiverso formado por innumerables mundos de videojuegos. Sin embargo, estos mundos tienen una regla aterradora: cuando el héroe consigue derrotar al villano y completa su juego, su mundo es destruido. Para evitar que los mundos lleguen a su \"Game Over\", Kit y Kaboodle deben viajar entre diferentes universos y ayudar a los villanos a detener a los héroes antes de que consigan ganar. Junto a Gobbles, un Learnosaurus, deberán enfrentarse a situaciones cada vez más peligrosas mientras descubren los secretos detrás de este extraño multiverso.",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
       "releaseDate": "2026-05-15",
       "genres": [
@@ -33631,7 +33633,7 @@
       "description": "Esto es el comienzo de un pequeño proyecto que quería hacer: una serie de poemas recopilados de Instagram, TikTok y YouTube para compartirlos aquí y disfrutarlos juntos.\n\nEspero que podamos hacer de esto algo especial e incluso organizar eventos relacionados con ello.",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
       "releaseDate": "2026-07-01",
       "genres": [],
@@ -69790,7 +69792,7 @@
       "duration": "50min",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2025,
       "releaseDate": "2025-10-25",
       "genres": [
@@ -75778,7 +75780,7 @@
       "duration": "",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2025,
       "releaseDate": "2025-10-03",
       "genres": [
@@ -76407,7 +76409,7 @@
       "duration": "0h 22m",
       "rating": "TV-Y",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2010,
       "releaseDate": "2010-10-10",
       "genres": [
@@ -76739,7 +76741,7 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2016,
       "releaseDate": "2016-07-12",
       "genres": [
@@ -77201,7 +77203,7 @@
       "duration": "0h 24m",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2024,
       "releaseDate": "2024-01-07",
       "genres": [
@@ -77522,7 +77524,7 @@
       "duration": "5min",
       "rating": "TV-G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2011,
       "releaseDate": "2011-11-15",
       "genres": [
@@ -79226,7 +79228,7 @@
       "duration": "7 min",
       "rating": "TV-Y",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1940,
       "releaseDate": "",
       "genres": [
@@ -81579,7 +81581,7 @@
       "duration": "22–23 min por episodio",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1985,
       "releaseDate": "1985-10-06",
       "genres": [
@@ -82313,7 +82315,7 @@
       "duration": "",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1992,
       "releaseDate": "1992-10-31",
       "genres": [
@@ -83205,7 +83207,7 @@
       "duration": "0h 23m",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2004,
       "releaseDate": "2004-07-31",
       "genres": [
@@ -83689,7 +83691,7 @@
       "duration": "",
       "rating": "TV-PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1997,
       "releaseDate": "1997-09-13",
       "genres": [
@@ -83999,7 +84001,7 @@
       "duration": "",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1994,
       "releaseDate": "1994-09-24",
       "genres": [
@@ -84330,7 +84332,7 @@
       "duration": "",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 2006,
       "releaseDate": "2006-09-02",
       "genres": [
@@ -84666,7 +84668,7 @@
       "duration": "",
       "rating": "",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1967,
       "releaseDate": "1967-09-09",
       "genres": [
@@ -84924,7 +84926,7 @@
       "duration": "0h 24m",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1978,
       "releaseDate": "1978-09-09",
       "genres": [
@@ -85110,7 +85112,7 @@
       "duration": "",
       "rating": "TV-Y7",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "year": 1981,
       "releaseDate": "1981-09-12",
       "genres": [
@@ -88614,7 +88616,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-14",
+      "releaseDate": "2026-07-24",
       "genres": [
         "Action",
         "Adventure",
@@ -88636,7 +88638,7 @@
       "atlas": "D",
       "gridIndex": 150,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/avatarAnngMovie2026/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T00:42:59.688Z",
       "tokenDuration": 5932,
       "cast": [
         "Eric Nam",
@@ -88858,9 +88860,9 @@
       "duration": "2h 05m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-01-28",
       "genres": [
         "Action",
         "Comedy",
@@ -88881,7 +88883,7 @@
       "atlas": "D",
       "gridIndex": 137,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EquipoDemolicion/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.850Z",
+      "updatedAt": "2026-10-02T00:42:59.688Z",
       "tokenDuration": 7457,
       "cast": [
         "Dave Bautista",
@@ -88903,7 +88905,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-01-14",
       "genres": [
         "Horror",
         "Thriller"
@@ -88923,7 +88925,7 @@
       "atlas": "D",
       "gridIndex": 136,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ExterminioElTemploDeHuesos/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T00:42:59.688Z",
       "tokenDuration": 6561,
       "saga": "Exterminio",
       "cast": [
@@ -88946,7 +88948,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-02-11",
       "genres": [
         "Drama",
         "Animation"
@@ -88966,7 +88968,7 @@
       "atlas": "D",
       "gridIndex": 135,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/GoatLaCabraQueCambioElJuego/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T00:42:59.688Z",
       "tokenDuration": 5982,
       "cast": [
         "Caleb McLaughlin",
@@ -89154,7 +89156,7 @@
       "duration": "2h 11m",
       "rating": "R",
       "quality": "HD",
-      "section": "estreno",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2026-04-16",
       "genres": [
@@ -89196,9 +89198,9 @@
       "duration": "1h 39m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-01-19",
       "genres": [
         "Action",
         "Thriller",
@@ -89219,7 +89221,7 @@
       "atlas": "D",
       "gridIndex": 130,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SinPiedad/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T00:42:59.689Z",
       "tokenDuration": 5968,
       "cast": [
         "Chris Pratt",
@@ -89584,9 +89586,9 @@
       "duration": "1h 51m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
-      "year": 2026,
-      "releaseDate": "2026-04-17",
+      "section": "estreno",
+      "year": 2025,
+      "releaseDate": "2025-10-09",
       "genres": [
         "Horror",
         "Thriller",
@@ -89607,7 +89609,7 @@
       "atlas": "D",
       "gridIndex": 121,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ElMunecoDeArcilla1080plLat2025/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.851Z",
+      "updatedAt": "2026-10-02T00:42:59.689Z",
       "tokenDuration": 6645,
       "cast": [
         "Yo Yang",
@@ -92084,9 +92086,9 @@
       "duration": "2h 08m",
       "rating": "PG-13",
       "quality": "BQ",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-02",
+      "releaseDate": "2026-04-22",
       "genres": [
         "Drama"
       ],
@@ -92105,7 +92107,7 @@
       "atlas": "D",
       "gridIndex": 58,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Michael2026/master.m3u8",
-      "updatedAt": "2026-09-17T17:45:44.490Z",
+      "updatedAt": "2026-10-02T00:42:59.689Z",
       "tokenDuration": 7624,
       "cast": [
         "Jaafar Jackson",
@@ -92883,9 +92885,9 @@
       "duration": "1h 33m",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-06",
+      "releaseDate": "2026-10-25",
       "genres": [
         "Documentary"
       ],
@@ -92904,7 +92906,7 @@
       "atlas": "D",
       "gridIndex": 39,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/BtsElRegreso/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.690Z",
       "tokenDuration": 5616,
       "cast": [
         "래퍼",
@@ -93051,7 +93053,7 @@
       "duration": "1h 40m",
       "rating": "R",
       "quality": "HD",
-      "section": "estreno",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2026-05-10",
       "genres": [
@@ -93182,7 +93184,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2026-05-07",
       "genres": [
         "Drama",
         "Mystery",
@@ -93203,7 +93205,7 @@
       "atlas": "D",
       "gridIndex": 27,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CriaturasLuminosas/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.690Z",
       "tokenDuration": 6840,
       "cast": [
         "Sally Field",
@@ -93310,7 +93312,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2026-05-01",
       "genres": [
         "Adventure",
         "Animation",
@@ -93333,7 +93335,7 @@
       "atlas": "D",
       "gridIndex": 24,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Intercambiados/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "tokenDuration": 6106,
       "cast": [
         "Michael B. Jordan",
@@ -93354,7 +93356,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2026-03-15",
       "genres": [
         "Sci-Fi",
         "Adventure",
@@ -93375,7 +93377,7 @@
       "atlas": "D",
       "gridIndex": 23,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ProyectoFinDelMundo/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "tokenDuration": 9383,
       "cast": [
         "Ryan Gosling",
@@ -93395,9 +93397,9 @@
       "duration": "2h 08m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-12",
+      "releaseDate": "2026-05-06",
       "genres": [
         "Action",
         "Romance",
@@ -93419,7 +93421,7 @@
       "atlas": "D",
       "gridIndex": 22,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/SangreAsesina/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "tokenDuration": 7730,
       "cast": [
         "Pimchanok Luevisadpaibul",
@@ -93529,7 +93531,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "2026-03-05",
       "genres": [
         "Crime",
         "Drama",
@@ -93551,7 +93553,7 @@
       "atlas": "D",
       "gridIndex": 18,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PeakyBlindersElHombreInmortal/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "tokenDuration": 6844,
       "cast": [
         "Cillian Murphy",
@@ -93657,9 +93659,9 @@
       "duration": "0h 48m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-05-14",
+      "releaseDate": "2026-05-12",
       "genres": [
         "Action",
         "Thriller",
@@ -93680,7 +93682,7 @@
       "atlas": "D",
       "gridIndex": 15,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThePunisherLaUltimaMuerte/master.m3u8",
-      "updatedAt": "2026-08-15T03:47:31.854Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "tokenDuration": 2884,
       "cast": [
         "Jon Bernthal",
@@ -94351,7 +94353,7 @@
       "duration": "1 hora 34 minutos",
       "rating": "TV-MA",
       "quality": "HD",
-      "section": "estreno",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-08-29",
       "genres": [
@@ -99101,9 +99103,9 @@
       "duration": "",
       "rating": "TV-14",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
-      "releaseDate": "2026-06-20",
+      "releaseDate": "2026-06-03",
       "genres": [
         "Animation",
         "Sci-Fi",
@@ -99126,7 +99128,7 @@
       "atlas": "C",
       "gridIndex": 38,
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/THEAMAZINGDIGITALCIRCUSpelicula/master.m3u8",
-      "updatedAt": "2026-06-20T12:00:04.824Z"
+      "updatedAt": "2026-10-02T00:42:59.691Z"
     },
     {
       "id": "movie_322",
@@ -99923,7 +99925,7 @@
       "duration": "1h 35m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "estreno",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-08-28",
       "genres": [
@@ -102381,7 +102383,7 @@
       "quality": "HD",
       "section": "estreno",
       "year": 2026,
-      "releaseDate": "",
+      "releaseDate": "2026-05-27",
       "genres": [
         "Horror"
       ],
@@ -102398,7 +102400,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Backrooms2026Multi/master.m3u8",
       "createdAt": "2026-07-22T22:17:33.150Z",
-      "updatedAt": "2026-07-22T22:38:28.716Z",
+      "updatedAt": "2026-10-02T00:42:59.691Z",
       "addedAt": "2026-07-22T22:17:33.150Z",
       "addedBy": "yutamir",
       "subtitles": [
@@ -107602,7 +107604,7 @@
       "duration": "1h 52m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "year": 2026,
       "releaseDate": "2026-08-07",
       "genres": [
@@ -107807,7 +107809,7 @@
       "duration": "2h 15m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "estreno",
+      "section": "catalog",
       "year": 2025,
       "releaseDate": "2025-08-21",
       "genres": [
@@ -109647,7 +109649,7 @@
       "duration": "1h 30m",
       "rating": "PG",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "cast": [
         "Pierre Coffin",
         "Trey Parker",
@@ -110422,7 +110424,7 @@
       "duration": "1h 57m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "cast": [
         "Mckenna Grace",
         "Mason Thames",
@@ -110541,7 +110543,7 @@
       "duration": "1h 32m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "cast": [
         "Johnny Knoxville",
         "Steve-O",
@@ -110663,7 +110665,7 @@
       "duration": "2h 05m",
       "rating": "R",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "cast": [
         "Mark Fischbach",
         "Caroline Kaplan",
@@ -111120,7 +111122,7 @@
       "duration": "1h 41m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Josh Hutcherson",
         "Jonah Bobo",
@@ -111161,7 +111163,7 @@
       "duration": "3h 05m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "జూనియర్ ఎన్టీఆర్",
         "రామ్ చరణ్",
@@ -111202,7 +111204,7 @@
       "duration": "2h 11m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Charlie Hunnam",
         "菊地凛子",
@@ -111243,7 +111245,7 @@
       "duration": "1h 50m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "John Boyega",
         "Scott Eastwood",
@@ -111285,7 +111287,7 @@
       "duration": "1h 42m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Antonio Banderas",
         "Johnny Depp",
@@ -111327,7 +111329,7 @@
       "duration": "1h 19m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Paul Terry",
         "Miriam Margolyes",
@@ -111369,7 +111371,7 @@
       "duration": "1h 53m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "John Hurt",
         "Richard Burton",
@@ -111410,7 +111412,7 @@
       "duration": "2h 11m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "宮野真守",
         "中村獅童",
@@ -111453,7 +111455,7 @@
       "duration": "2h 31m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Samuel Le Bihan",
         "Vincent Cassel",
@@ -111495,7 +111497,7 @@
       "duration": "1h 51m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "estreno",
       "cast": [
         "Ryan Reynolds",
         "Kenneth Branagh",
@@ -111535,7 +111537,7 @@
       "duration": "1h 41m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Chloë Grace Moretz",
         "Michael Peña",
@@ -111576,7 +111578,7 @@
       "duration": "1h 23m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Richard Kind",
         "Dana Hill",
@@ -111617,7 +111619,7 @@
       "duration": "1h 13m",
       "rating": "G",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Tara Strong",
         "Ashleigh Ball",
@@ -111658,7 +111660,7 @@
       "duration": "1h 32m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Nicolas Cage",
         "Jaeden Martell",
@@ -111699,7 +111701,7 @@
       "duration": "1h 57m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Cantinflas",
         "Marga López",
@@ -111740,7 +111742,7 @@
       "duration": "1h 39m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "estreno",
       "cast": [
         "青木遥",
         "田中誠人",
@@ -111782,7 +111784,7 @@
       "duration": "1h 53m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Cantinflas",
         "Ángel Garasa",
@@ -111821,7 +111823,7 @@
       "duration": "1h 47m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Ana Serradilla",
         "Mauricio Ochmann"
@@ -111854,7 +111856,7 @@
       "duration": "2h 00m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Cantinflas",
         "Ana Bertha Lepe",
@@ -111934,7 +111936,7 @@
       "duration": "2h 10m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Cantinflas",
         "Ángel Garasa",
@@ -111973,7 +111975,7 @@
       "duration": "1h 23m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "catalog",
       "cast": [
         "Alex Cox",
         "Niketa Roman",
@@ -112015,7 +112017,7 @@
       "duration": "1h 33m",
       "rating": "R",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "estreno",
       "cast": [
         "Austin Abrams",
         "Zach Cherry",
@@ -112056,7 +112058,7 @@
       "duration": "1h 43m",
       "rating": "PG",
       "quality": "HD",
-      "section": "recently_added",
+      "section": "estreno",
       "cast": [
         "Will Forte",
         "Lana Condor",
