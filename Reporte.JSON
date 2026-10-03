@@ -1,7 +1,7 @@
 {
   "titulo": "Novedades de CineVR",
   "version": "V.1.0.0",
-  "actualizado": "2026-10-02",
+  "actualizado": "2026-10-03",
   "categorias": [
     {
       "nombre": "Servicio",
@@ -39,7 +39,7 @@
       "nombre": "Reportes",
       "color": "#B39DDB",
       "entradas": [
-        { "fecha": "2026-10-02", "texto": "No hay reportes abiertos en este momento." }
+        { "fecha": "2026-10-03", "texto": "Se reportan Bugs con anuncios que por desincronización a veces el anuncio de pausa se queda pegado. solución momentánea (El master de la instancia debe poner Pausa y quitar). si nos pueden brindar de momento como replicar el error para dar solución a este bug" }
       ]
     }
   ]
