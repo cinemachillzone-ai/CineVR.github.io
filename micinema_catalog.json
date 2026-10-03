@@ -87052,10 +87052,290 @@
               "updatedAt": "2026-10-03T23:26:15.532Z"
             }
           ]
+        },
+        {
+          "number": 6,
+          "episodes": [
+            {
+              "id": "s06e01",
+              "slotId": "ep_7356",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E01/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e02",
+              "slotId": "ep_7357",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E02/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e03",
+              "slotId": "ep_7358",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E03/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e04",
+              "slotId": "ep_7359",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E04/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e05",
+              "slotId": "ep_7360",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E05/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e06",
+              "slotId": "ep_7361",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E06/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e07",
+              "slotId": "ep_7362",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E07/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e08",
+              "slotId": "ep_7363",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E08/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e09",
+              "slotId": "ep_7364",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E09/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e10",
+              "slotId": "ep_7365",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E10/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e11",
+              "slotId": "ep_7366",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E11/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e12",
+              "slotId": "ep_7367",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E12/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e13",
+              "slotId": "ep_7368",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E13/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e14",
+              "slotId": "ep_7369",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E14/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e15",
+              "slotId": "ep_7370",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E15/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e17",
+              "slotId": "ep_7371",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E17/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e18",
+              "slotId": "ep_7372",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E18/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e19",
+              "slotId": "ep_7373",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E19/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e20",
+              "slotId": "ep_7374",
+              "title": "Capítulo 20",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E20/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E20/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E20/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e21",
+              "slotId": "ep_7375",
+              "title": "Capítulo 21",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E21/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E21/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E21/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e22",
+              "slotId": "ep_7376",
+              "title": "Capítulo 22",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E22/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E22/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E22/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e23",
+              "slotId": "ep_7377",
+              "title": "Capítulo 23",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E23/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E23/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E23/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e24",
+              "slotId": "ep_7378",
+              "title": "Capítulo 24",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E24/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E24/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E24/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e25",
+              "slotId": "ep_7379",
+              "title": "Capítulo 25",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E25/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E25/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E25/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            },
+            {
+              "id": "s06e26",
+              "slotId": "ep_7380",
+              "title": "Capítulo 26",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E26/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E26/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T6/FuturamaS06E26/master.m3u8",
+              "updatedAt": "2026-10-03T23:28:27.449Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-10-03T23:18:12.818Z",
-      "updatedAt": "2026-10-03T23:26:15.532Z",
+      "updatedAt": "2026-10-03T23:28:27.449Z",
       "addedAt": "2026-10-03T23:18:12.818Z",
       "addedBy": "seanf"
     }
