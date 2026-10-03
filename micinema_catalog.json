@@ -86871,10 +86871,191 @@
               "updatedAt": "2026-10-03T23:25:05.209Z"
             }
           ]
+        },
+        {
+          "number": 5,
+          "episodes": [
+            {
+              "id": "s05e01",
+              "slotId": "ep_7340",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E01/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e02",
+              "slotId": "ep_7341",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E02/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e03",
+              "slotId": "ep_7342",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E03/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e04",
+              "slotId": "ep_7343",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E04/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e05",
+              "slotId": "ep_7344",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E05/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e06",
+              "slotId": "ep_7345",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E06/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e07",
+              "slotId": "ep_7346",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E07/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e08",
+              "slotId": "ep_7347",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E08/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e09",
+              "slotId": "ep_7348",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E09/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e10",
+              "slotId": "ep_7349",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E10/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e11",
+              "slotId": "ep_7350",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E11/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e12",
+              "slotId": "ep_7351",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E12/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e13",
+              "slotId": "ep_7352",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E13/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e14",
+              "slotId": "ep_7353",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E14/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e15",
+              "slotId": "ep_7354",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E15/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            },
+            {
+              "id": "s05e16",
+              "slotId": "ep_7355",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T5/FuturamaS05E16/master.m3u8",
+              "updatedAt": "2026-10-03T23:26:15.532Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-10-03T23:18:12.818Z",
-      "updatedAt": "2026-10-03T23:25:05.209Z",
+      "updatedAt": "2026-10-03T23:26:15.532Z",
       "addedAt": "2026-10-03T23:18:12.818Z",
       "addedBy": "seanf"
     }
