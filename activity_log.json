@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T05:50:32.373Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_039",
-    "title": "Star Wars: Episode IV - A New Hope"
-  },
-  {
     "ts": "2026-07-16T05:51:20.412Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3753,5 +3746,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_694",
     "title": "23 000 vidas"
+  },
+  {
+    "ts": "2026-10-03T23:18:53.686Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_212",
+    "title": "Futurama",
+    "season": 1,
+    "episodes": 13
   }
 ]
