@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T06:06:56.771Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_442",
-    "title": "Star Wars: El ascenso de Skywalker"
-  },
-  {
     "ts": "2026-07-16T06:08:12.221Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3761,6 +3754,14 @@
     "action": "INJECT_EPISODES",
     "target": "series_212",
     "season": 8,
+    "count": 13
+  },
+  {
+    "ts": "2026-10-03T23:33:49.161Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 9,
     "count": 13
   }
 ]
