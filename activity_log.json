@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T05:52:30.849Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_042",
-    "title": "Star Wars: Episode III - Revenge of the Sith"
-  },
-  {
     "ts": "2026-07-16T05:53:22.259Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3756,5 +3749,13 @@
     "target": "series_212",
     "season": 2,
     "count": 19
+  },
+  {
+    "ts": "2026-10-03T23:23:10.266Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 3,
+    "count": 22
   }
 ]
