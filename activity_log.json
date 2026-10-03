@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T04:37:55.184Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_438",
-    "title": "Lilo y Stitch"
-  },
-  {
     "ts": "2026-07-16T04:39:05.411Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3753,5 +3746,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_690",
     "title": "Futurama: La bestia con billones de brazos"
+  },
+  {
+    "ts": "2026-10-03T01:58:52.248Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_691",
+    "title": "Celda"
   }
 ]
