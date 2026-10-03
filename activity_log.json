@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-21T02:11:23.031Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_446",
-    "title": "Por un puñado de dólares"
-  },
-  {
     "ts": "2026-07-21T02:29:32.883Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_698",
     "title": "Un cadáver para sobrevivir"
+  },
+  {
+    "ts": "2026-10-03T23:45:50.908Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_699",
+    "title": "V/H/S/99"
   }
 ]
