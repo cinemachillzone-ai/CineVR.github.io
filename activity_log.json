@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-22T22:37:38.147Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_451",
-    "title": "Backrooms Multi idioma"
-  },
-  {
     "ts": "2026-07-22T22:38:53.064Z",
     "actor": "yutamir",
     "action": "EDIT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_705",
     "title": "VHS: Las crónicas del miedo 2"
+  },
+  {
+    "ts": "2026-10-03T23:58:08.868Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_706",
+    "title": "V/H/S: Más allá"
   }
 ]
