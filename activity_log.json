@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T05:54:05.431Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_041",
-    "title": "Star Wars: Episode VI - Return of the Jedi"
-  },
-  {
     "ts": "2026-07-16T05:54:42.818Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3758,5 +3751,13 @@
     "target": "series_212",
     "season": 4,
     "count": 18
+  },
+  {
+    "ts": "2026-10-03T23:26:42.885Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 5,
+    "count": 16
   }
 ]
