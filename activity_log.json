@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-17T22:00:49.311Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_444",
-    "title": "El señor de la guerra"
-  },
-  {
     "ts": "2026-07-17T22:06:16.939Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3763,5 +3756,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_696",
     "title": "Imperium"
+  },
+  {
+    "ts": "2026-10-03T23:40:02.440Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_213",
+    "title": "Tierra de oro",
+    "season": 1,
+    "episodes": 10
   }
 ]
