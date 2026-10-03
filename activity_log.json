@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-22T22:38:53.064Z",
-    "actor": "yutamir",
-    "action": "EDIT_MOVIE",
-    "target": "movie_451",
-    "title": "Backrooms Multi idioma"
-  },
-  {
     "ts": "2026-07-24T11:00:21.823Z",
     "actor": "carmesi",
     "action": "INJECT_SERIES",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_706",
     "title": "V/H/S: Más allá"
+  },
+  {
+    "ts": "2026-10-03T23:59:06.911Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_707",
+    "title": "Ósmosis Jones"
   }
 ]
