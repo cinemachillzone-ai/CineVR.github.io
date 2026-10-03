@@ -87623,10 +87623,158 @@
               "updatedAt": "2026-10-03T23:30:25.899Z"
             }
           ]
+        },
+        {
+          "number": 8,
+          "episodes": [
+            {
+              "id": "s08e01",
+              "slotId": "ep_7407",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E01/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e02",
+              "slotId": "ep_7408",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E02/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e03",
+              "slotId": "ep_7409",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E03/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e04",
+              "slotId": "ep_7410",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E04/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e05",
+              "slotId": "ep_7411",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E05/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e06",
+              "slotId": "ep_7412",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E06/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e07",
+              "slotId": "ep_7413",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E07/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e08",
+              "slotId": "ep_7414",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E08/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e09",
+              "slotId": "ep_7415",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E09/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e10",
+              "slotId": "ep_7416",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E10/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e11",
+              "slotId": "ep_7417",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E11/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e12",
+              "slotId": "ep_7418",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E12/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            },
+            {
+              "id": "s08e13",
+              "slotId": "ep_7419",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T8/FuturamaS08E13/master.m3u8",
+              "updatedAt": "2026-10-03T23:32:04.407Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-10-03T23:18:12.818Z",
-      "updatedAt": "2026-10-03T23:30:25.899Z",
+      "updatedAt": "2026-10-03T23:32:04.407Z",
       "addedAt": "2026-10-03T23:18:12.818Z",
       "addedBy": "seanf"
     }
