@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T05:53:22.259Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_044",
-    "title": "Star Wars: Episode I - The Phantom Menace"
-  },
-  {
     "ts": "2026-07-16T05:54:05.431Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3757,5 +3750,13 @@
     "target": "series_212",
     "season": 3,
     "count": 22
+  },
+  {
+    "ts": "2026-10-03T23:25:33.305Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 4,
+    "count": 18
   }
 ]
