@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T05:51:20.412Z",
-    "actor": "carmesi",
-    "action": "DELETE_MOVIE",
-    "target": "movie_043",
-    "title": "Star Wars: Episode II - Attack of the Clones"
-  },
-  {
     "ts": "2026-07-16T05:52:30.849Z",
     "actor": "carmesi",
     "action": "DELETE_MOVIE",
@@ -3755,5 +3748,13 @@
     "title": "Futurama",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-10-03T23:20:37.455Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 2,
+    "count": 19
   }
 ]
