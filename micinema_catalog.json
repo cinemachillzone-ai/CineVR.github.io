@@ -86207,10 +86207,224 @@
               "updatedAt": "2026-10-03T23:18:12.818Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_7281",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E01/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_7282",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E02/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_7283",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E03/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_7284",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E04/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_7285",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E05/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_7286",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E06/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_7287",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E07/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_7288",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E08/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_7289",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E09/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_7290",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E10/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e11",
+              "slotId": "ep_7291",
+              "title": "Capítulo 11",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E11/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E11/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E11/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e12",
+              "slotId": "ep_7292",
+              "title": "Capítulo 12",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E12/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E12/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E12/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e13",
+              "slotId": "ep_7293",
+              "title": "Capítulo 13",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E13/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E13/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E13/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e14",
+              "slotId": "ep_7294",
+              "title": "Capítulo 14",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E14/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E14/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E14/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e15",
+              "slotId": "ep_7295",
+              "title": "Capítulo 15",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E15/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E15/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E15/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e16",
+              "slotId": "ep_7296",
+              "title": "Capítulo 16",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E16/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E16/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E16/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e17",
+              "slotId": "ep_7297",
+              "title": "Capítulo 17",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E17/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E17/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E17/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e18",
+              "slotId": "ep_7298",
+              "title": "Capítulo 18",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E18/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E18/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E18/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            },
+            {
+              "id": "s02e19",
+              "slotId": "ep_7299",
+              "title": "Capítulo 19",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E19/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E19/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Futurama/T2/FuturamaS02E19/master.m3u8",
+              "updatedAt": "2026-10-03T23:19:58.101Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-10-03T23:18:12.818Z",
-      "updatedAt": "2026-10-03T23:18:12.818Z",
+      "updatedAt": "2026-10-03T23:19:58.101Z",
       "addedAt": "2026-10-03T23:18:12.818Z",
       "addedBy": "seanf"
     }
