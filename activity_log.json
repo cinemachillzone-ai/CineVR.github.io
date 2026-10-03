@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-16T06:01:00.904Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_440",
-    "title": "Star Wars: Los últimos Jedi"
-  },
-  {
     "ts": "2026-07-16T06:05:41.453Z",
     "actor": "carmesi",
     "action": "INJECT_MOVIE",
@@ -3760,5 +3753,13 @@
     "target": "series_212",
     "season": 6,
     "count": 25
+  },
+  {
+    "ts": "2026-10-03T23:30:52.248Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_212",
+    "season": 7,
+    "count": 26
   }
 ]
