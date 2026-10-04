@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-07-24T11:00:21.823Z",
-    "actor": "carmesi",
-    "action": "INJECT_SERIES",
-    "target": "series_166",
-    "title": "Pokemon",
-    "season": 1,
-    "episodes": 82
-  },
-  {
     "ts": "2026-07-24T11:13:24.150Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3765,5 +3756,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_707",
     "title": "Ósmosis Jones"
+  },
+  {
+    "ts": "2026-10-04T00:01:50.462Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_214",
+    "title": "Animaniacs",
+    "season": 1,
+    "episodes": 88
   }
 ]
