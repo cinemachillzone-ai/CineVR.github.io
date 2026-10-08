@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-25T00:37:37.121Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_073",
-    "title": "Candy Candy",
-    "eps_changed": 0
-  },
-  {
     "ts": "2026-07-25T01:49:45.102Z",
     "actor": "yutamir",
     "action": "REBUILD_FROM_DB"
@@ -3764,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_708",
     "title": "Spider-Man: Un nuevo día"
+  },
+  {
+    "ts": "2026-10-08T05:35:25.862Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_709",
+    "title": "UNABOMBER"
   }
 ]
