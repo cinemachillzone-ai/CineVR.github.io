@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-24T11:13:24.150Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_166",
-    "title": "Pokemon",
-    "eps_changed": 0
-  },
-  {
     "ts": "2026-07-25T00:37:37.121Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3765,5 +3757,12 @@
     "title": "Animaniacs",
     "season": 1,
     "episodes": 88
+  },
+  {
+    "ts": "2026-10-08T05:33:36.225Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_708",
+    "title": "Spider-Man: Un nuevo día"
   }
 ]
