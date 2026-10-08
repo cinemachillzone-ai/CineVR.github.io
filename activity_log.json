@@ -1,14 +1,5 @@
 [
   {
-    "ts": "2026-07-26T21:50:04.435Z",
-    "actor": "seanf",
-    "action": "INJECT_SERIES",
-    "target": "series_167",
-    "title": "Los Simpson",
-    "season": 1,
-    "episodes": 13
-  },
-  {
     "ts": "2026-07-27T02:34:44.650Z",
     "actor": "yutamir",
     "action": "FULL_SAVE",
@@ -3765,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_710",
     "title": "Amor y monstruos"
+  },
+  {
+    "ts": "2026-10-08T05:39:55.075Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_711",
+    "title": "Un día con el Diablo"
   }
 ]
