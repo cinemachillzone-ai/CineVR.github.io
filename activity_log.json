@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-27T22:48:50.089Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_076",
-    "title": "The Legend of Aang: The Last Airbender (Sub Español)"
-  },
-  {
     "ts": "2026-07-28T01:18:19.505Z",
     "actor": "seanf",
     "action": "INJECT_SERIES",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_713",
     "title": "Si yo fuera diputado"
+  },
+  {
+    "ts": "2026-10-13T07:40:17.538Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_714",
+    "title": "La noche del demonio: Están entre nosotros"
   }
 ]
