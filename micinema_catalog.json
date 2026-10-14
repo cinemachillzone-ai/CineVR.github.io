@@ -115721,12 +115721,12 @@
       "atlas": "A",
       "gridIndex": 42,
       "links": {
-        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2026/master.m3u8",
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EvilNocheCerov22026/master.m3u8",
         "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2026/master.m3u8"
       },
-      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ResidentEvil2026/master.m3u8",
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/EvilNocheCerov22026/master.m3u8",
       "createdAt": "2026-09-21T00:25:40.448Z",
-      "updatedAt": "2026-09-21T00:25:40.448Z",
+      "updatedAt": "2026-10-14T02:53:28.088Z",
       "addedAt": "2026-09-21T00:25:40.448Z",
       "addedBy": "seanf"
     },
