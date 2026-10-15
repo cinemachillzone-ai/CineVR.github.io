@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-28T04:05:36.827Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_168",
-    "title": "Chiikawa",
-    "eps_changed": 0
-  },
-  {
     "ts": "2026-07-28T04:05:59.827Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3763,5 +3755,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_736",
     "title": "Zombieland"
+  },
+  {
+    "ts": "2026-10-15T19:57:08.423Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_737",
+    "title": "Depredador"
   }
 ]
