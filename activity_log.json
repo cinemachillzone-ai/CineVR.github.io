@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:44:12.768Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_458",
-    "title": "Iron Man 2"
-  },
-  {
     "ts": "2026-07-28T01:46:02.945Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_721",
     "title": "La mosca"
+  },
+  {
+    "ts": "2026-10-15T03:58:29.589Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_722",
+    "title": "Scream: Grita antes de morir"
   }
 ]
