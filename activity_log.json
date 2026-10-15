@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:54:53.237Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_461",
-    "title": "Pokémon la película 2000"
-  },
-  {
     "ts": "2026-07-28T01:56:55.315Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_724",
     "title": "La Vida es Bella"
+  },
+  {
+    "ts": "2026-10-15T04:12:08.598Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_725",
+    "title": "Chucky: El muñeco diabólico"
   }
 ]
