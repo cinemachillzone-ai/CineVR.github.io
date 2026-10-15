@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T02:51:48.266Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_456",
-    "title": "Scary Movie: Terroríficamente incorrecta"
-  },
-  {
     "ts": "2026-07-28T02:59:55.564Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_733",
     "title": "Belle"
+  },
+  {
+    "ts": "2026-10-15T05:47:06.413Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_734",
+    "title": "Juego macabro"
   }
 ]
