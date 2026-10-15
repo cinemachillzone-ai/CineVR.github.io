@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T02:06:40.960Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_467",
-    "title": "Pokémon: Volcanion y la maravilla mecánica"
-  },
-  {
     "ts": "2026-07-28T02:40:23.044Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_730",
     "title": "Viernes 13"
+  },
+  {
+    "ts": "2026-10-15T05:38:12.857Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_731",
+    "title": "Juego macabro 2"
   }
 ]
