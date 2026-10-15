@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:21:58.402Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_453",
-    "title": "Capitán América: El Primer Vengador"
-  },
-  {
     "ts": "2026-07-28T01:23:17.935Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_715",
     "title": "Hasta el viento tiene miedo"
+  },
+  {
+    "ts": "2026-10-15T03:40:56.520Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_716",
+    "title": "Kill Bill: Vol. 2"
   }
 ]
