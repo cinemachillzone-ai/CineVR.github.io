@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T02:40:23.044Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_454",
-    "title": "Avatar Aang: el último maestro del aire"
-  },
-  {
     "ts": "2026-07-28T02:42:56.675Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_731",
     "title": "Juego macabro 2"
+  },
+  {
+    "ts": "2026-10-15T05:42:13.368Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_732",
+    "title": "El juego del miedo 3"
   }
 ]
