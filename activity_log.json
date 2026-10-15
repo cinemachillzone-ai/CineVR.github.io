@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T03:31:14.590Z",
-    "actor": "carmesi",
-    "action": "INJECT_MOVIE",
-    "target": "movie_470",
-    "title": "IT: Capítulo 2"
-  },
-  {
     "ts": "2026-07-28T04:05:36.827Z",
     "actor": "yutamir",
     "action": "EDIT_SERIES",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_735",
     "title": "Soulm8te"
+  },
+  {
+    "ts": "2026-10-15T05:55:42.674Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_736",
+    "title": "Zombieland"
   }
 ]
