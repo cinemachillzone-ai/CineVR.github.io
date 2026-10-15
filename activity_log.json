@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T02:03:49.084Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_466",
-    "title": "Pokémon: El poder de todos"
-  },
-  {
     "ts": "2026-07-28T02:06:40.960Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_729",
     "title": "Entrega al límite"
+  },
+  {
+    "ts": "2026-10-15T05:34:30.976Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_730",
+    "title": "Viernes 13"
   }
 ]
