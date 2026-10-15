@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:23:17.935Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_454",
-    "title": "El último maestro del aire"
-  },
-  {
     "ts": "2026-07-28T01:31:38.071Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_716",
     "title": "Kill Bill: Vol. 2"
+  },
+  {
+    "ts": "2026-10-15T03:42:45.566Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_717",
+    "title": "Hellraiser: Puerta al infierno"
   }
 ]
