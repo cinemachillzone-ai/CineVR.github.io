@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:56:55.315Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_462",
-    "title": "Pokémon 3: el hechizo de los Unown"
-  },
-  {
     "ts": "2026-07-28T01:58:59.934Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_725",
     "title": "Chucky: El muñeco diabólico"
+  },
+  {
+    "ts": "2026-10-15T04:17:22.037Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_726",
+    "title": "Solo necesitas matar"
   }
 ]
