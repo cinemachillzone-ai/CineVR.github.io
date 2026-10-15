@@ -116951,28 +116951,26 @@
       "id": "movie_719",
       "type": "movie",
       "title": "La Leyenda del Jinete Sin Cabeza",
-      "description": "Durante la Guerra de Secesión Americana, un policía de Nueva York que utiliza avanzados métodos de investigación es enviado al pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar. Una vez allí adopta la identidad de un profesor de escuela y se enamora de Katrina, que mantiene relaciones con uno de los hombres más conocidos del pueblo. Realidad y ficción se darán la mano en el momento menos pensado.",
+      "description": "Ichabod Crane es un maestro de escuela delgado y supersticioso que llega al pueblo de Sleepy Hollow. Allí se enamora de Katrina Van Tassel, pero debe competir por su atención con Brom Bones, un hombre fuerte y bromista. Durante una noche de Halloween, Ichabod se enfrenta a la aterradora leyenda del Jinete sin Cabeza, una figura espectral que podría cambiar su destino para siempre.",
       "duration": "1h 46m",
-      "rating": "R",
+      "rating": "G",
       "quality": "HD",
       "section": "catalog",
       "cast": [
-        "Johnny Depp",
-        "Christina Ricci",
-        "Miranda Richardson",
-        "Michael Gambon",
-        "Casper Van Dien",
-        "Jeffrey Jones"
+        "Bing Crosby",
+        "Billy Bletcher",
+        "Pinto Colvig y Clarence Nash."
       ],
-      "director": "Tim Burton",
+      "director": "Clyde Geronimi y Jack Kinney",
       "recommended": "Recomendado 72%",
-      "year": 1999,
-      "releaseDate": "1999-11-19",
+      "year": 1949,
+      "releaseDate": "1949-10-08",
       "genres": [
         "Fantasy",
         "Thriller",
         "Mystery",
-        "Horror"
+        "Horror",
+        "Animation"
       ],
       "languages": [
         "language_Spanish"
@@ -116985,7 +116983,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Laleyendadeljinetesincabeza1949/master.m3u8",
       "createdAt": "2026-10-15T03:46:15.105Z",
-      "updatedAt": "2026-10-15T03:46:15.105Z",
+      "updatedAt": "2026-10-15T03:53:39.185Z",
       "addedAt": "2026-10-15T03:46:15.105Z",
       "addedBy": "seanf"
     }
