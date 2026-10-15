@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-28T01:32:27.565Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_455",
-    "title": "My Super Fan Girl"
-  },
-  {
     "ts": "2026-07-28T01:40:01.285Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3763,5 +3756,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_718",
     "title": "Más Negro que la Noche"
+  },
+  {
+    "ts": "2026-10-15T03:46:58.405Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_719",
+    "title": "La Leyenda del Jinete Sin Cabeza"
   }
 ]
