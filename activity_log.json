@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-28T04:05:59.827Z",
-    "actor": "yutamir",
-    "action": "EDIT_SERIES",
-    "target": "series_167",
-    "title": "Los Simpson",
-    "eps_changed": 0
-  },
-  {
     "ts": "2026-07-28T04:30:07.707Z",
     "actor": "yutamir",
     "action": "FULL_SAVE",
@@ -3762,5 +3754,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_737",
     "title": "Depredador"
+  },
+  {
+    "ts": "2026-10-21T02:57:30.780Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_215",
+    "title": "pandora hearts",
+    "season": 1,
+    "episodes": 25
   }
 ]
