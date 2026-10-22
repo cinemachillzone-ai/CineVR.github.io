@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:37:56.181Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_483",
-    "title": "Pokémon: El surgimiento de Darkrai"
-  },
-  {
     "ts": "2026-07-29T05:39:14.870Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3774,5 +3767,12 @@
     "target": "series_219",
     "title": "Cyberpunk Edgerunners 2 (latino)",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-22T18:12:20.288Z",
+    "actor": "seanf",
+    "action": "DELETE_SERIES",
+    "target": "series_218",
+    "title": "Cyberpunk: Edgerunners 2 (latino)"
   }
 ]
