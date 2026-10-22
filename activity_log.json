@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:17:51.802Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_471",
-    "title": "Pokémon: ¡Yo te elijo!"
-  },
-  {
     "ts": "2026-07-29T05:19:46.927Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3768,5 +3761,14 @@
     "title": "Pinky y Cerebro",
     "season": 1,
     "episodes": 65
+  },
+  {
+    "ts": "2026-10-22T02:58:16.321Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_217",
+    "title": "Pinky, Elvira y Cerebro",
+    "season": 1,
+    "episodes": 14
   }
 ]
