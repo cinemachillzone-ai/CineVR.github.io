@@ -90516,7 +90516,7 @@
         "default": ""
       },
       "createdAt": "2026-10-22T17:23:21.573Z",
-      "updatedAt": "2026-10-22T17:23:21.573Z",
+      "updatedAt": "2026-10-22T18:05:48.908Z",
       "addedAt": "2026-10-22T17:23:21.573Z",
       "addedBy": "seanf",
       "seasons": [
@@ -90618,9 +90618,10 @@
               "slotId": "ep_7654",
               "title": "Capítulo 10",
               "links": {
-                "default": ""
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk%20Edgerunners%202%20espa%C3%B1ol%20latino/T2/CyberpunkEdgerunners2EspanolLatinoS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk%20Edgerunners%202%20espa%C3%B1ol%20latino/T2/CyberpunkEdgerunners2EspanolLatinoS02E10/master.m3u8"
               },
-              "master_url": "",
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk%20Edgerunners%202%20espa%C3%B1ol%20latino/T2/CyberpunkEdgerunners2EspanolLatinoS02E10/master.m3u8",
               "createdAt": "2026-10-22T17:23:21.573Z"
             }
           ]
