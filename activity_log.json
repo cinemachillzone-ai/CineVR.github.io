@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:22:31.418Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_474",
-    "title": "Pokémon, la película: Negro - Victini y Reshiram"
-  },
-  {
     "ts": "2026-07-29T05:24:20.910Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3770,5 +3763,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_741",
     "title": "Hombres de negro"
+  },
+  {
+    "ts": "2026-10-22T03:05:15.527Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_742",
+    "title": "Pesadilla en la calle del infierno 2"
   }
 ]
