@@ -1,11 +1,5 @@
 [
   {
-    "ts": "2026-07-28T21:23:54.553Z",
-    "actor": "yutamir",
-    "action": "FULL_SAVE",
-    "size": 2898229
-  },
-  {
     "ts": "2026-07-29T05:17:51.802Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3759,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_739",
     "title": "El color del espacio exterior"
+  },
+  {
+    "ts": "2026-10-22T02:55:41.609Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_216",
+    "title": "Pinky y Cerebro",
+    "season": 1,
+    "episodes": 65
   }
 ]
