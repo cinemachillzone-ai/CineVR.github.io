@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:39:14.870Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_484",
-    "title": "Pokémon: El Destino de Deoxys"
-  },
-  {
     "ts": "2026-07-29T05:40:29.598Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3774,5 +3767,13 @@
     "action": "DELETE_SERIES",
     "target": "series_218",
     "title": "Cyberpunk: Edgerunners 2 (latino)"
+  },
+  {
+    "ts": "2026-10-22T18:19:33.171Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_018",
+    "title": "Cyberpunk: Edgerunners",
+    "eps_changed": 0
   }
 ]
