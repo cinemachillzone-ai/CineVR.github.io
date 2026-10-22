@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:35:01.158Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_481",
-    "title": "Pokémon Ranger y el templo del mar"
-  },
-  {
     "ts": "2026-07-29T05:36:41.015Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3771,5 +3764,14 @@
     "target": "series_218",
     "title": "Cyberpunk: Edgerunners 2 (latino)",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-22T18:07:57.112Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_219",
+    "title": "Cyberpunk Edgerunners 2 español latino",
+    "season": 2,
+    "episodes": 10
   }
 ]
