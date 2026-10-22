@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:31:08.075Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_480",
-    "title": "Pokémon: Arceus y la joya de la vida"
-  },
-  {
     "ts": "2026-07-29T05:35:01.158Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3770,5 +3763,13 @@
     "target": "series_218",
     "title": "Cyberpunk: Edgerunners 2 (latino)",
     "episodes": 10
+  },
+  {
+    "ts": "2026-10-22T18:06:22.777Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_218",
+    "title": "Cyberpunk: Edgerunners 2 (latino)",
+    "eps_changed": 0
   }
 ]
