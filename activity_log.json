@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:19:46.927Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_472",
-    "title": "La película Pokémon: Los secretos de la selva"
-  },
-  {
     "ts": "2026-07-29T05:21:13.711Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3770,5 +3763,12 @@
     "title": "Pinky, Elvira y Cerebro",
     "season": 1,
     "episodes": 14
+  },
+  {
+    "ts": "2026-10-22T03:01:42.401Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_740",
+    "title": "Deuda de sangre"
   }
 ]
