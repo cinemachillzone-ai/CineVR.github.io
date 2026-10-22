@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:27:33.607Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_477",
-    "title": "Pokémon Blanco: Victini y Zekrom"
-  },
-  {
     "ts": "2026-07-29T05:28:44.384Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3770,5 +3763,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_744",
     "title": "Pesadilla en la calle del infierno 4: El amo de los sueños"
+  },
+  {
+    "ts": "2026-10-22T03:16:54.154Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_745",
+    "title": "Pesadilla en la calle del infierno 3"
   }
 ]
