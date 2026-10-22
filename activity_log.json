@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:29:52.232Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_479",
-    "title": "Pokémon: Kyurem contra el espadachín místico"
-  },
-  {
     "ts": "2026-07-29T05:31:08.075Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3769,5 +3762,13 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 4815772
+  },
+  {
+    "ts": "2026-10-22T17:24:06.460Z",
+    "actor": "seanf",
+    "action": "ADD_SERIES",
+    "target": "series_218",
+    "title": "Cyberpunk: Edgerunners 2 (latino)",
+    "episodes": 10
   }
 ]
