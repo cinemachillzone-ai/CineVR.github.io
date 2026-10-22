@@ -11877,6 +11877,131 @@
               "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/t1/Cyberpunk_S01E10/master.m3u8"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "title": "Capítulo 1",
+              "slotId": "ep_7635",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E01/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E01/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E01/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e02",
+              "title": "Capítulo 2",
+              "slotId": "ep_7636",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E02/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E02/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E02/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e03",
+              "title": "Capítulo 3",
+              "slotId": "ep_7637",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E03/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E03/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E03/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e04",
+              "title": "Capítulo 4",
+              "slotId": "ep_7638",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E04/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E04/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E04/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e05",
+              "title": "Capítulo 5",
+              "slotId": "ep_7639",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E05/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E05/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E05/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e06",
+              "title": "Capítulo 6",
+              "slotId": "ep_7640",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E06/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E06/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E06/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e07",
+              "title": "Capítulo 7",
+              "slotId": "ep_7641",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E07/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E07/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E07/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e08",
+              "title": "Capítulo 8",
+              "slotId": "ep_7642",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E08/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E08/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E08/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e09",
+              "title": "Capítulo 9",
+              "slotId": "ep_7643",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E09/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E09/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E09/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            },
+            {
+              "id": "s02e10",
+              "title": "Capítulo 10",
+              "slotId": "ep_7644",
+              "links": {
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E10/master.m3u8",
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E10/master.m3u8",
+                "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Cyberpunk/T2/CyberpunkS02E10/master.m3u8",
+              "createdAt": "2026-10-22T05:14:47.655Z"
+            }
+          ]
         }
       ],
       "atlas": "E",
@@ -11891,7 +12016,7 @@
       ],
       "director": "Hiroyuki Imaishi, Kai Ikarashi",
       "recommended": "Recomendado 83%",
-      "updatedAt": "2026-10-02T21:21:08.317Z"
+      "updatedAt": "2026-10-22T05:14:47.655Z"
     },
     {
       "type": "series",
