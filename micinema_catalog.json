@@ -90631,17 +90631,27 @@
     {
       "id": "series_219",
       "type": "series",
-      "title": "Cyberpunk Edgerunners 2 español latino",
-      "description": "",
-      "duration": "",
+      "title": "Cyberpunk Edgerunners 2 (latino)",
+      "description": "En la despiadada ciudad de Night City, una nueva generación de mercenarios lucha por sobrevivir en un mundo dominado por la violencia, la tecnología y las modificaciones corporales. Esta historia independiente explora la venganza y la redención a través de un nuevo grupo de personajes que deberá enfrentarse a las consecuencias de vivir al límite.",
+      "duration": "20 mins",
       "rating": "",
       "quality": "HD",
-      "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-10-22",
+      "genres": [
+        "Animation",
+        "Thriller",
+        "Sci-Fi",
+        "Action",
+        "Drama"
+      ],
+      "cast": [
+        "Bartosz Sztybor",
+        "Masahiko Otsuka",
+        "Ichigo Kanno"
+      ],
+      "director": "Kai Ikarashi",
       "recommended": "",
       "languages": [
         "language_Spanish"
@@ -90767,7 +90777,7 @@
         }
       ],
       "createdAt": "2026-10-22T18:07:10.481Z",
-      "updatedAt": "2026-10-22T18:07:10.481Z",
+      "updatedAt": "2026-10-22T18:10:40.596Z",
       "addedAt": "2026-10-22T18:07:10.481Z",
       "addedBy": "seanf"
     }
