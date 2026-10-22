@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:36:41.015Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_482",
-    "title": "Pokémon: Lucario y el misterio de Mew"
-  },
-  {
     "ts": "2026-07-29T05:37:56.181Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3773,5 +3766,13 @@
     "title": "Cyberpunk Edgerunners 2 español latino",
     "season": 2,
     "episodes": 10
+  },
+  {
+    "ts": "2026-10-22T18:11:09.230Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_219",
+    "title": "Cyberpunk Edgerunners 2 (latino)",
+    "eps_changed": 0
   }
 ]
