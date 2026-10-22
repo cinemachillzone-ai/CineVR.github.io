@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:26:19.652Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_476",
-    "title": "Pokémon: Genesect y el despertar de una leyenda"
-  },
-  {
     "ts": "2026-07-29T05:27:33.607Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3770,5 +3763,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_743",
     "title": "Hellraiser II"
+  },
+  {
+    "ts": "2026-10-22T03:15:04.219Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_744",
+    "title": "Pesadilla en la calle del infierno 4: El amo de los sueños"
   }
 ]
