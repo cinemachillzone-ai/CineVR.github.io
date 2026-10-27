@@ -1,7 +1,7 @@
 {
   "titulo": "Novedades de CineVR",
   "version": "V.1.0.0",
-  "actualizado": "2026-10-22",
+  "actualizado": "2026-10-27",
   "categorias": [
     {
       "nombre": "Servicio",
@@ -14,6 +14,7 @@
       "nombre": "Mejoras",
       "color": "#FF8A65",
       "entradas": [
+        { "fecha": "2026-10-27", "texto": "Corregimos los pósters que se veían en negro en varias series, como Cyberpunk Edgerunners 2, Jem y los Hologramas y Star Wars: The Clone Wars." },
         { "fecha": "2026-10-22", "texto": "Mejoramos el sistema de video: las películas y series ahora cargan más rápido y con menos pausas, sobre todo cuando varias personas están viendo lo mismo." }
       ]
     },
