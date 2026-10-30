@@ -1,16 +1,16 @@
 {
-  "version": "2026-10-27T06:29:05Z",
-  "generado": "2026-10-27T06:29:05Z",
+  "version": "2026-10-30T12:00:03Z",
+  "generado": "2026-10-30T12:00:03Z",
   "items": [
     {
       "puesto": 1,
       "itemId": "series_189",
-      "plays": 2585
+      "plays": 2730
     },
     {
       "puesto": 2,
       "itemId": "movie_688",
-      "plays": 2032
+      "plays": 2053
     },
     {
       "puesto": 3,
@@ -20,37 +20,37 @@
     {
       "puesto": 4,
       "itemId": "movie_401",
-      "plays": 1596
+      "plays": 1605
     },
     {
       "puesto": 5,
       "itemId": "series_038",
-      "plays": 1304
+      "plays": 1306
     },
     {
       "puesto": 6,
       "itemId": "movie_129",
-      "plays": 1235
+      "plays": 1258
     },
     {
       "puesto": 7,
-      "itemId": "movie_465",
-      "plays": 1181
+      "itemId": "movie_361",
+      "plays": 1189
     },
     {
       "puesto": 8,
-      "itemId": "movie_361",
-      "plays": 1156
+      "itemId": "movie_465",
+      "plays": 1183
     },
     {
       "puesto": 9,
       "itemId": "series_199",
-      "plays": 1019
+      "plays": 1052
     },
     {
       "puesto": 10,
       "itemId": "series_192",
-      "plays": 862
+      "plays": 896
     }
   ]
 }
