@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:41:45.522Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_486",
-    "title": "Héroes Pokémon: Latios y Latias"
-  },
-  {
     "ts": "2026-07-29T05:43:35.097Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3775,5 +3768,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_746",
     "title": "Thor: un mundo oscuro"
+  },
+  {
+    "ts": "2026-10-31T07:44:14.683Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_747",
+    "title": "Lo que Ellas Quieren"
   }
 ]
