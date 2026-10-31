@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:46:52.321Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 16,
-    "count": 21
-  },
-  {
     "ts": "2026-07-29T21:53:46.266Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3772,5 +3764,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_756",
     "title": "Capitán América: Un nuevo mundo"
+  },
+  {
+    "ts": "2026-10-31T08:03:34.444Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_757",
+    "title": "The Marvels"
   }
 ]
