@@ -119960,6 +119960,48 @@
       "updatedAt": "2026-10-31T07:57:52.238Z",
       "addedAt": "2026-10-31T07:57:52.238Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_755",
+      "type": "movie",
+      "title": "Thor: Ragnarok",
+      "description": "Encarcelado en el planeta Sakaar, Thor debe correr contra el tiempo para volver a Asgard y detener a Ragnarök, la destrucción de su mundo, a manos del poderoso y despiadado villano Hela.",
+      "duration": "2h 11m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Idris Elba",
+        "Jeff Goldblum"
+      ],
+      "director": "Taika Waititi",
+      "recommended": "Recomendado 76%",
+      "year": 2017,
+      "releaseDate": "2017-10-24",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 1,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThorRagnarok2017/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThorRagnarok2017/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/ThorRagnarok2017/master.m3u8",
+      "createdAt": "2026-10-31T07:58:58.008Z",
+      "updatedAt": "2026-10-31T07:58:58.008Z",
+      "addedAt": "2026-10-31T07:58:58.008Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
