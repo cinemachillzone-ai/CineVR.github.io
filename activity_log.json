@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:41:42.539Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_490",
-    "title": "Guardianes de la Galaxia volumen 2"
-  },
-  {
     "ts": "2026-07-29T20:42:21.132Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3775,5 +3768,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_750",
     "title": "Thor: Amor y Trueno"
+  },
+  {
+    "ts": "2026-10-31T07:51:44.882Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_751",
+    "title": "Pantera Negra: Wakanda por siempre"
   }
 ]
