@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:42:21.132Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_491",
-    "title": "Pantera Negra"
-  },
-  {
     "ts": "2026-07-29T20:43:26.977Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3775,5 +3768,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_751",
     "title": "Pantera Negra: Wakanda por siempre"
+  },
+  {
+    "ts": "2026-10-31T07:54:22.130Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_752",
+    "title": "Doctor Strange en el multiverso de la locura"
   }
 ]
