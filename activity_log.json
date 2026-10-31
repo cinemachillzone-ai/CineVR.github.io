@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:41:02.612Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_489",
-    "title": "Capitán América: Civil War"
-  },
-  {
     "ts": "2026-07-29T20:41:42.539Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3775,5 +3768,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_749",
     "title": "Ant-Man and the Wasp: Quantumania"
+  },
+  {
+    "ts": "2026-10-31T07:50:08.441Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_750",
+    "title": "Thor: Amor y Trueno"
   }
 ]
