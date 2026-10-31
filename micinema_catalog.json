@@ -120043,6 +120043,47 @@
       "updatedAt": "2026-10-31T08:01:18.578Z",
       "addedAt": "2026-10-31T08:01:18.578Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_757",
+      "type": "movie",
+      "title": "The Marvels",
+      "description": "Cuando sus deberes llevan a Carol Danvers, alias Capitana Marvel, a un agujero de gusano anómalo vinculado a un revolucionario Kree, sus poderes se enredan con los de Ms. Marvel y con los de Monica Rambeau, la distanciada sobrina de Carol y astronauta de S.A.B.E.R. Juntas, deberán trabajar en sincronía para salvar al universo como \"The Marvels\".",
+      "duration": "1h 45m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Brie Larson",
+        "Teyonah Parris",
+        "Iman Vellani",
+        "Samuel L. Jackson",
+        "Zawe Ashton",
+        "Gary Lewis"
+      ],
+      "director": "Nia DaCosta",
+      "recommended": "Recomendado 59%",
+      "year": 2023,
+      "releaseDate": "2023-11-08",
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 3,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMarvels2023/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMarvels2023/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/TheMarvels2023/master.m3u8",
+      "createdAt": "2026-10-31T08:03:04.004Z",
+      "updatedAt": "2026-10-31T08:03:04.004Z",
+      "addedAt": "2026-10-31T08:03:04.004Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
