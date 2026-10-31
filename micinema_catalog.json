@@ -120002,6 +120002,47 @@
       "updatedAt": "2026-10-31T07:58:58.008Z",
       "addedAt": "2026-10-31T07:58:58.008Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_756",
+      "type": "movie",
+      "title": "Capitán América: Un nuevo mundo",
+      "description": "Tras reunirse con el recientemente electo presidente de los Estados Unidos Thaddeus Ross, Sam se encuentra en medio de un conflicto internacional. Debe descubrir la razón de un nefasto complot mundial antes de que el verdadero artífice detrás del mismo haga que el mundo entero entre en caos.",
+      "duration": "1h 59m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Anthony Mackie",
+        "Harrison Ford",
+        "Danny Ramirez",
+        "Shira Haas",
+        "Tim Blake Nelson",
+        "Carl Lumbly"
+      ],
+      "director": "Julius Onah",
+      "recommended": "Recomendado 60%",
+      "year": 2025,
+      "releaseDate": "2025-02-12",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 2,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CapitanAmericaUnNuevoMundo2025/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CapitanAmericaUnNuevoMundo2025/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/CapitanAmericaUnNuevoMundo2025/master.m3u8",
+      "createdAt": "2026-10-31T08:01:18.578Z",
+      "updatedAt": "2026-10-31T08:01:18.578Z",
+      "addedAt": "2026-10-31T08:01:18.578Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
