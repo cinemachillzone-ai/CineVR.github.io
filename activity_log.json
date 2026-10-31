@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-29T05:40:29.598Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_485",
-    "title": "Pokémon: Jirachi y los deseos"
-  },
-  {
     "ts": "2026-07-29T05:41:45.522Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3775,5 +3768,12 @@
     "target": "series_018",
     "title": "Cyberpunk: Edgerunners",
     "eps_changed": 0
+  },
+  {
+    "ts": "2026-10-31T07:42:19.265Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_746",
+    "title": "Thor: un mundo oscuro"
   }
 ]
