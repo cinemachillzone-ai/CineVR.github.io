@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:44:57.957Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 13,
-    "count": 22
-  },
-  {
     "ts": "2026-07-29T20:45:39.907Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3775,5 +3767,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_753",
     "title": "Ant-Man: El hombre Hormiga"
+  },
+  {
+    "ts": "2026-10-31T07:58:22.264Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_754",
+    "title": "Doctor Strange: Hechicero supremo"
   }
 ]
