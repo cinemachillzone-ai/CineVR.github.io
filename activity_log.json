@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:46:10.233Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 15,
-    "count": 22
-  },
-  {
     "ts": "2026-07-29T20:46:52.321Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3773,5 +3765,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_755",
     "title": "Thor: Ragnarok"
+  },
+  {
+    "ts": "2026-10-31T08:01:50.042Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_756",
+    "title": "Capitán América: Un nuevo mundo"
   }
 ]
