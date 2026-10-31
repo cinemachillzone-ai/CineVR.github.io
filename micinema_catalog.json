@@ -119919,6 +119919,47 @@
       "updatedAt": "2026-10-31T07:54:55.947Z",
       "addedAt": "2026-10-31T07:54:55.947Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_754",
+      "type": "movie",
+      "title": "Doctor Strange: Hechicero supremo",
+      "description": "La historia del famoso neurocirujano Dr. Stephen Strange cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada y misteriosa llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y estatus, o dejarlo todo para defender el mundo como el hechicero más poderoso del planeta.",
+      "duration": "1h 55m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Rachel McAdams",
+        "Benedict Wong",
+        "Mads Mikkelsen",
+        "Tilda Swinton"
+      ],
+      "director": "Scott Derrickson",
+      "recommended": "Recomendado 74%",
+      "year": 2016,
+      "releaseDate": "2016-10-25",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 0,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DoctorStrangeHechiceroSupremo2016/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DoctorStrangeHechiceroSupremo2016/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/DoctorStrangeHechiceroSupremo2016/master.m3u8",
+      "createdAt": "2026-10-31T07:57:52.238Z",
+      "updatedAt": "2026-10-31T07:57:52.238Z",
+      "addedAt": "2026-10-31T07:57:52.238Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
