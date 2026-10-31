@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T20:45:39.907Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 14,
-    "count": 22
-  },
-  {
     "ts": "2026-07-29T20:46:10.233Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3774,5 +3766,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_754",
     "title": "Doctor Strange: Hechicero supremo"
+  },
+  {
+    "ts": "2026-10-31T07:59:27.590Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_755",
+    "title": "Thor: Ragnarok"
   }
 ]
