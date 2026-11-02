@@ -1,0 +1,198 @@
+{
+  "version": "2026-11-02T22:36:09Z",
+  "generado": "2026-11-02T22:36:09Z",
+  "items": [
+    {
+      "puesto": 1,
+      "itemId": "movie_688",
+      "seccion": "top",
+      "plays": 2088
+    },
+    {
+      "puesto": 2,
+      "itemId": "movie_401",
+      "seccion": "top",
+      "plays": 1633
+    },
+    {
+      "puesto": 3,
+      "itemId": "movie_129",
+      "seccion": "top",
+      "plays": 1270
+    },
+    {
+      "puesto": 4,
+      "itemId": "movie_361",
+      "seccion": "top",
+      "plays": 1195
+    },
+    {
+      "puesto": 5,
+      "itemId": "movie_465",
+      "seccion": "top",
+      "plays": 1189
+    },
+    {
+      "puesto": 6,
+      "itemId": "movie_529",
+      "seccion": "top",
+      "plays": 549
+    },
+    {
+      "puesto": 7,
+      "itemId": "movie_025",
+      "seccion": "top",
+      "plays": 493
+    },
+    {
+      "puesto": 8,
+      "itemId": "movie_689",
+      "seccion": "top",
+      "plays": 455
+    },
+    {
+      "puesto": 9,
+      "itemId": "series_189",
+      "seccion": "top",
+      "plays": 2864
+    },
+    {
+      "puesto": 10,
+      "itemId": "series_084",
+      "seccion": "top",
+      "plays": 1842
+    },
+    {
+      "puesto": 11,
+      "itemId": "series_038",
+      "seccion": "top",
+      "plays": 1310
+    },
+    {
+      "puesto": 12,
+      "itemId": "series_199",
+      "seccion": "top",
+      "plays": 1138
+    },
+    {
+      "puesto": 13,
+      "itemId": "series_192",
+      "seccion": "top",
+      "plays": 932
+    },
+    {
+      "puesto": 14,
+      "itemId": "series_196",
+      "seccion": "top",
+      "plays": 704
+    },
+    {
+      "puesto": 15,
+      "itemId": "series_027",
+      "seccion": "top",
+      "plays": 685
+    },
+    {
+      "puesto": 16,
+      "itemId": "series_219",
+      "seccion": "top",
+      "plays": 597
+    },
+    {
+      "puesto": 17,
+      "itemId": "movie_759",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 18,
+      "itemId": "movie_758",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 19,
+      "itemId": "movie_757",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 20,
+      "itemId": "movie_756",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 21,
+      "itemId": "movie_755",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 22,
+      "itemId": "movie_754",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 23,
+      "itemId": "movie_752",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 24,
+      "itemId": "movie_751",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 25,
+      "itemId": "series_217",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 26,
+      "itemId": "series_216",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 27,
+      "itemId": "series_215",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 28,
+      "itemId": "series_214",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 29,
+      "itemId": "series_213",
+      "seccion": "recomendado",
+      "plays": 0
+    },
+    {
+      "puesto": 30,
+      "itemId": "series_212",
+      "seccion": "recomendado",
+      "plays": 238
+    },
+    {
+      "puesto": 31,
+      "itemId": "series_211",
+      "seccion": "recomendado",
+      "plays": 261
+    },
+    {
+      "puesto": 32,
+      "itemId": "series_210",
+      "seccion": "recomendado",
+      "plays": 0
+    }
+  ]
+}
