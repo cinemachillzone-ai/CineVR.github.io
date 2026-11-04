@@ -120842,6 +120842,45 @@
       "updatedAt": "2026-11-04T10:48:33.260Z",
       "addedAt": "2026-11-04T10:48:33.260Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_761",
+      "type": "movie",
+      "title": "The Philadelphia Story",
+      "description": "",
+      "duration": "1h 53m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Cary Grant",
+        "Katharine Hepburn",
+        "James Stewart",
+        "Ruth Hussey",
+        "John Howard",
+        "Roland Young"
+      ],
+      "director": "George Cukor",
+      "recommended": "Recomendado 75%",
+      "year": 1940,
+      "releaseDate": "1940-12-05",
+      "genres": [
+        "Comedy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 10,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaHistoriaDeFiladelfia1940/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaHistoriaDeFiladelfia1940/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaHistoriaDeFiladelfia1940/master.m3u8",
+      "createdAt": "2026-11-04T10:53:02.660Z",
+      "updatedAt": "2026-11-04T10:53:02.660Z",
+      "addedAt": "2026-11-04T10:53:02.660Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
