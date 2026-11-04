@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T22:20:46.081Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 19,
-    "count": 20
-  },
-  {
     "ts": "2026-07-29T22:21:59.691Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3773,5 +3765,13 @@
     "title": "Pose",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-11-04T10:41:58.598Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_221",
+    "season": 3,
+    "count": 8
   }
 ]
