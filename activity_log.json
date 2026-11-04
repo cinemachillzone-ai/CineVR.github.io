@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T03:26:15.862Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 25,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T03:27:11.781Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3770,5 +3762,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_763",
     "title": "Vértigo"
+  },
+  {
+    "ts": "2026-11-04T10:59:27.820Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_043",
+    "season": 2,
+    "count": 12
   }
 ]
