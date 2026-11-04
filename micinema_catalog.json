@@ -121472,6 +121472,47 @@
       "updatedAt": "2026-11-04T11:04:54.371Z",
       "addedAt": "2026-11-04T11:02:19.451Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_765",
+      "type": "movie",
+      "title": "Mahou Shoujo Madoka★Magica la Película (Parte 1) - La historia del comienzo",
+      "description": "Después de tener una extraña pesadilla, Madoka Kaname, una chica de 14 años encuentra a una criatura mágica llamada kyubee. A Madoka y Sayaka Miki, su amiga, les ofrece la oportunidad de ganar poderes mágicos si están de acuerdo en hacer un contrato con el. Kyubee les ofrece cumplir un deseo, pero a cambio deben arriesgar sus vidas para luchar contra brujas. Criaturas que, nacidas de maldiciones,son responsables de muchos asesinatos y suicidios. Una aliada de kyubee, una chica mágica llamada Mami Tomoe, se hace amiga de ellas y las alienta a aceptar el contrato. Por razones desconocidas, otra chica mágica llamada Homura Akemi esta decidida a impedir que Madoka acepte la oferta.",
+      "duration": "2h 11m",
+      "rating": "PG-13",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "悠木碧",
+        "斎藤千和",
+        "喜多村英梨",
+        "水橋かおり",
+        "Ai Nonaka",
+        "加藤英美里"
+      ],
+      "director": "宮本幸裕",
+      "recommended": "Recomendado 76%",
+      "year": 2012,
+      "releaseDate": "2012-10-05",
+      "genres": [
+        "Thriller",
+        "Animation",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 15,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MahouShoujoMadokaMagicaMovie1HajimariNoMonogatari2012/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MahouShoujoMadokaMagicaMovie1HajimariNoMonogatari2012/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/MahouShoujoMadokaMagicaMovie1HajimariNoMonogatari2012/master.m3u8",
+      "createdAt": "2026-11-04T11:12:19.594Z",
+      "updatedAt": "2026-11-04T11:12:19.594Z",
+      "addedAt": "2026-11-04T11:12:19.594Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
