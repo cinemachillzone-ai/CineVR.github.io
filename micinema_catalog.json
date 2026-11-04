@@ -91057,10 +91057,103 @@
               "updatedAt": "2026-11-04T10:40:15.439Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_7695",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E01/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_7696",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E02/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_7697",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E03/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_7698",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E04/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e05",
+              "slotId": "ep_7699",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E05/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e06",
+              "slotId": "ep_7700",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E06/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e07",
+              "slotId": "ep_7701",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E07/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            },
+            {
+              "id": "s03e08",
+              "slotId": "ep_7702",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T3/PoseS03E08/master.m3u8",
+              "updatedAt": "2026-11-04T10:41:30.570Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-11-04T10:39:04.163Z",
-      "updatedAt": "2026-11-04T10:40:15.439Z",
+      "updatedAt": "2026-11-04T10:41:30.570Z",
       "addedAt": "2026-11-04T10:39:04.163Z",
       "addedBy": "seanf"
     }
