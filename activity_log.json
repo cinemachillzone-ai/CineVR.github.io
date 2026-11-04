@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-30T08:45:43.590Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_487",
-    "title": "Iron man - El hombre de hierro"
-  },
-  {
     "ts": "2026-07-30T08:47:24.757Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3767,6 +3760,14 @@
   },
   {
     "ts": "2026-11-04T11:27:08.748Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_222",
+    "title": "Hazbin Hotel – Season 2",
+    "eps_changed": 0
+  },
+  {
+    "ts": "2026-11-04T11:28:49.514Z",
     "actor": "seanf",
     "action": "EDIT_SERIES",
     "target": "series_222",
