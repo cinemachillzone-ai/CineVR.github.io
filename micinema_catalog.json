@@ -120801,6 +120801,47 @@
       "updatedAt": "2026-10-31T08:05:42.279Z",
       "addedAt": "2026-10-31T08:05:42.279Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_760",
+      "type": "movie",
+      "title": "¡Qué Bello es Vivir!",
+      "description": "George Bailey (James Stewart) es un honrado y modesto ciudadano que dirige y mantiene a flote un pequeño banco familiar, a pesar de los intentos de un poderoso banquero por arruinarlo. El día de Nochebuena de 1945, abrumado por la repentina desaparición de una importante suma de dinero, que supondría no solo la quiebra de su banco, sino también un gran escándalo, decide suicidarse, pero cuando está a punto de hacerlo ocurre algo extraordinario.",
+      "duration": "2h 10m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore",
+        "Thomas Mitchell",
+        "Henry Travers",
+        "Beulah Bondi"
+      ],
+      "director": "Frank Capra",
+      "recommended": "Recomendado 83%",
+      "year": 1946,
+      "releaseDate": "1946-12-20",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 9,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/QueBelloEsVivir1946/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/QueBelloEsVivir1946/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/QueBelloEsVivir1946/master.m3u8",
+      "createdAt": "2026-11-04T10:48:33.260Z",
+      "updatedAt": "2026-11-04T10:48:33.260Z",
+      "addedAt": "2026-11-04T10:48:33.260Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
