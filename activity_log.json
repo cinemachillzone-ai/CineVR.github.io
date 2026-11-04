@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-30T08:44:59.132Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_489",
-    "title": "Capitán América: Civil War"
-  },
-  {
     "ts": "2026-07-30T08:45:43.590Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3771,5 +3764,13 @@
     "action": "INJECT_MOVIE",
     "target": "movie_767",
     "title": "Mahou Shoujo Madoka★Magica la Película (Parte 3) - Rebelión"
+  },
+  {
+    "ts": "2026-11-04T11:27:08.748Z",
+    "actor": "seanf",
+    "action": "EDIT_SERIES",
+    "target": "series_222",
+    "title": "Hazbin Hotel – Season 2",
+    "eps_changed": 0
   }
 ]
