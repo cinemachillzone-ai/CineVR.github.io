@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T00:12:48.861Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 24,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T03:26:15.862Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3771,5 +3763,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_762",
     "title": "La Ventana Indiscreta"
+  },
+  {
+    "ts": "2026-11-04T10:56:49.644Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_763",
+    "title": "Vértigo"
   }
 ]
