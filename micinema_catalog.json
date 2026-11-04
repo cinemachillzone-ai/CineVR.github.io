@@ -91298,18 +91298,36 @@
     {
       "id": "series_222",
       "type": "series",
-      "title": "Hazbinhotel",
-      "description": "",
-      "duration": "",
-      "rating": "",
+      "title": "Hazbin Hotel – Season 2",
+      "description": "Después de la victoria de Charlie contra el ejército del Cielo, el Hazbin Hotel comienza a recibir una enorme cantidad de nuevos huéspedes. Sin embargo, muchos de ellos no buscan redimirse, sino aprovechar la situación para conseguir poder y venganza.\n\nMientras Charlie intenta demostrar que su proyecto realmente puede funcionar, Vox y los demás integrantes de los Vees comienzan a desarrollar un plan para dominar el Infierno y enfrentarse directamente al Cielo.\n\nAl mismo tiempo, la redención de Sir Pentious provoca una gran conmoción entre los ángeles, obligándolos a cuestionar sus propias decisiones y las consecuencias de las exterminaciones.",
+      "duration": "30 mins",
+      "rating": "TV-MA",
       "quality": "HD",
       "section": "catalog",
-      "year": 0,
-      "releaseDate": "",
-      "genres": [],
-      "cast": [],
-      "director": "",
-      "recommended": "",
+      "year": 2025,
+      "releaseDate": "2025-10-29",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Music",
+        "Drama"
+      ],
+      "cast": [
+        "Erika Henningsen",
+        "Stephanie Beatriz",
+        "Blake Roman",
+        "Amir Talai",
+        "Keith David",
+        "Kimiko Glenn",
+        "Alex Brightman",
+        "Christian Borle",
+        "Jeremy Jordan",
+        "Jessica Vosk",
+        "Patrick Stump",
+        "Kevin Del Aguila"
+      ],
+      "director": "Vivienne Medrano",
+      "recommended": "6",
       "languages": [
         "language_Spanish"
       ],
@@ -91412,7 +91430,7 @@
         }
       ],
       "createdAt": "2026-11-04T10:46:39.926Z",
-      "updatedAt": "2026-11-04T10:46:39.926Z",
+      "updatedAt": "2026-11-04T11:26:36.023Z",
       "addedAt": "2026-11-04T10:46:39.926Z",
       "addedBy": "seanf"
     },
