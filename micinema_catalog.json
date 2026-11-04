@@ -90942,10 +90942,125 @@
               "updatedAt": "2026-11-04T10:39:04.163Z"
             }
           ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_7685",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E01/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_7686",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E02/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_7687",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E03/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_7688",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E04/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_7689",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E05/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_7690",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E06/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_7691",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E07/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_7692",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E08/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e09",
+              "slotId": "ep_7693",
+              "title": "Capítulo 9",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E09/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E09/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E09/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            },
+            {
+              "id": "s02e10",
+              "slotId": "ep_7694",
+              "title": "Capítulo 10",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E10/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E10/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Pose/T2/PoseS02E10/master.m3u8",
+              "updatedAt": "2026-11-04T10:40:15.439Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-11-04T10:39:04.163Z",
-      "updatedAt": "2026-11-04T10:39:04.163Z",
+      "updatedAt": "2026-11-04T10:40:15.439Z",
       "addedAt": "2026-11-04T10:39:04.163Z",
       "addedBy": "seanf"
     }
