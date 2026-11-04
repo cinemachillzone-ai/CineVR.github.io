@@ -120881,6 +120881,47 @@
       "updatedAt": "2026-11-04T10:53:02.660Z",
       "addedAt": "2026-11-04T10:53:02.660Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_762",
+      "type": "movie",
+      "title": "La Ventana Indiscreta",
+      "description": "Un reportero fotográfico se ve obligado a permanecer en reposo con una pierna escayolada. A pesar de la compañía de su novia y de su enfermera, procura escapar al tedio, observando desde la ventana de su apartamento con unos prismáticos lo que ocurre en las viviendas de enfrente. Debido a una serie de extrañas circunstancias empieza a sospechar de un vecino cuya mujer ha desaparecido.",
+      "duration": "1h 53m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey",
+        "Thelma Ritter",
+        "Raymond Burr",
+        "Judith Evelyn"
+      ],
+      "director": "Alfred Hitchcock",
+      "recommended": "Recomendado 83%",
+      "year": 1954,
+      "releaseDate": "1954-08-01",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 11,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaVentanaIndiscreta1954/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaVentanaIndiscreta1954/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaVentanaIndiscreta1954/master.m3u8",
+      "createdAt": "2026-11-04T10:55:03.989Z",
+      "updatedAt": "2026-11-04T10:55:03.989Z",
+      "addedAt": "2026-11-04T10:55:03.989Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
