@@ -91156,6 +91156,127 @@
       "updatedAt": "2026-11-04T10:41:30.570Z",
       "addedAt": "2026-11-04T10:39:04.163Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_222",
+      "type": "series",
+      "title": "Hazbinhotel",
+      "description": "",
+      "duration": "",
+      "rating": "",
+      "quality": "HD",
+      "section": "catalog",
+      "year": 0,
+      "releaseDate": "",
+      "genres": [],
+      "cast": [],
+      "director": "",
+      "recommended": "",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 8,
+      "_baseKey": "hazbinhotel",
+      "seasons": [
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": "s02e01",
+              "slotId": "ep_7703",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E01/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e02",
+              "slotId": "ep_7704",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E02/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e03",
+              "slotId": "ep_7705",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E03/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e04",
+              "slotId": "ep_7706",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E04/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e05",
+              "slotId": "ep_7707",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E05/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e06",
+              "slotId": "ep_7708",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E06/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e07",
+              "slotId": "ep_7709",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E07/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            },
+            {
+              "id": "s02e08",
+              "slotId": "ep_7710",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Hazbinhotel/T2/HazbinhotelS02E08/master.m3u8",
+              "updatedAt": "2026-11-04T10:46:39.926Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-11-04T10:46:39.926Z",
+      "updatedAt": "2026-11-04T10:46:39.926Z",
+      "addedAt": "2026-11-04T10:46:39.926Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
