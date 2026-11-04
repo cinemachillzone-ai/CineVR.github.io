@@ -121105,11 +121105,11 @@
       "id": "movie_764",
       "type": "movie",
       "title": "Mahou Shoujo Madoka★Magica la Película (Parte 3) - Rebelión",
-      "description": "La Ley del Ciclo guía a las Puella Magi salvándolas de la desesperación, ¿pero siempre fue así? Madoka Kaname, la que una vez fuera una chica normal y corriente que vivía los días más felices de su vida, sacrificó su propia existencia para romper la cadena que ataba a todas las Puella Magi a un destino cruel.",
+      "description": "Después de los acontecimientos de Puella Magi Madoka Magica the Movie: Rebellion, el mundo vuelve a encontrarse en una situación extraordinaria. Homura Akemi ha alterado la realidad para conservar a Madoka a su lado, convirtiéndose en una existencia conocida como el Demonio.\n\nSin embargo, la aparente tranquilidad de este nuevo mundo comienza a romperse cuando aparecen nuevas amenazas relacionadas con las brujas y con el destino de las chicas mágicas. Homura tendrá que enfrentarse a las consecuencias de sus decisiones mientras las demás chicas descubren los secretos de esta realidad.",
       "duration": "1h 57m",
       "rating": "PG-13",
       "quality": "HD",
-      "section": "catalog",
+      "section": "estreno",
       "cast": [
         "悠木碧",
         "斎藤千和",
@@ -121120,8 +121120,8 @@
       ],
       "director": "宮本幸裕",
       "recommended": "Recomendado 78%",
-      "year": 2013,
-      "releaseDate": "2013-10-26",
+      "year": 2026,
+      "releaseDate": "2026-08-28",
       "genres": [
         "Mystery",
         "Animation",
@@ -121138,7 +121138,7 @@
       },
       "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/PuellaMagiMadokaMagicaTheMoviePartIvWalpurgisnachtRising2026/master.m3u8",
       "createdAt": "2026-11-04T11:02:19.451Z",
-      "updatedAt": "2026-11-04T11:02:19.451Z",
+      "updatedAt": "2026-11-04T11:04:54.371Z",
       "addedAt": "2026-11-04T11:02:19.451Z",
       "addedBy": "seanf"
     }
