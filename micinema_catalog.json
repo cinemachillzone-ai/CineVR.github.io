@@ -120922,6 +120922,46 @@
       "updatedAt": "2026-11-04T10:55:03.989Z",
       "addedAt": "2026-11-04T10:55:03.989Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_763",
+      "type": "movie",
+      "title": "Vértigo",
+      "description": "Scottie Fergusson es un detective de la policía de San Francisco que padece de vértigo. Cuando un compañero cae al vacío desde una cornisa mientras persiguen a un delincuente, Scottie decide retirarse. Gavin Elster, un viejo amigo del colegio, lo contrata para que vigile a su esposa Madeleine, una bella mujer que está obsesionada con su pasado.",
+      "duration": "2h 08m",
+      "rating": "PG",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore",
+        "Henry Jones",
+        "Raymond Bailey"
+      ],
+      "director": "Alfred Hitchcock",
+      "recommended": "Recomendado 81%",
+      "year": 1958,
+      "releaseDate": "1958-05-28",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 12,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VertigoDeEntreLosMuertos1958/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VertigoDeEntreLosMuertos1958/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/VertigoDeEntreLosMuertos1958/master.m3u8",
+      "createdAt": "2026-11-04T10:56:16.560Z",
+      "updatedAt": "2026-11-04T10:56:16.560Z",
+      "addedAt": "2026-11-04T10:56:16.560Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
