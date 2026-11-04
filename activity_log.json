@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-30T08:36:06.758Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_458",
-    "title": "Iron Man 2"
-  },
-  {
     "ts": "2026-07-30T08:41:12.488Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3769,5 +3762,13 @@
     "title": "Magia Record Puella Magi Madoka Magica Gaiden",
     "season": 1,
     "episodes": 13
+  },
+  {
+    "ts": "2026-11-04T11:08:45.704Z",
+    "actor": "seanf",
+    "action": "INJECT_EPISODES",
+    "target": "series_223",
+    "season": 2,
+    "count": 8
   }
 ]
