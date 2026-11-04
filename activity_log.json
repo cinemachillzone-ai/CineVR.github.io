@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T22:20:07.093Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 18,
-    "count": 22
-  },
-  {
     "ts": "2026-07-29T22:20:46.081Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3772,5 +3764,14 @@
     "title": "Mahou Shoujo Madoka Magica",
     "season": 1,
     "episodes": 12
+  },
+  {
+    "ts": "2026-11-04T10:39:35.525Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_221",
+    "title": "Pose",
+    "season": 1,
+    "episodes": 8
   }
 ]
