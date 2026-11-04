@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-29T22:21:59.691Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 20,
-    "count": 21
-  },
-  {
     "ts": "2026-07-30T00:09:43.148Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3773,5 +3765,14 @@
     "target": "series_221",
     "season": 3,
     "count": 8
+  },
+  {
+    "ts": "2026-11-04T10:47:10.963Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_222",
+    "title": "Hazbinhotel",
+    "season": 2,
+    "episodes": 8
   }
 ]
