@@ -91691,10 +91691,59 @@
               "updatedAt": "2026-11-04T11:08:09.812Z"
             }
           ]
+        },
+        {
+          "number": 3,
+          "episodes": [
+            {
+              "id": "s03e01",
+              "slotId": "ep_7744",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E01/master.m3u8",
+              "updatedAt": "2026-11-04T11:09:57.001Z"
+            },
+            {
+              "id": "s03e02",
+              "slotId": "ep_7745",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E02/master.m3u8",
+              "updatedAt": "2026-11-04T11:09:57.001Z"
+            },
+            {
+              "id": "s03e03",
+              "slotId": "ep_7746",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E03/master.m3u8",
+              "updatedAt": "2026-11-04T11:09:57.001Z"
+            },
+            {
+              "id": "s03e04",
+              "slotId": "ep_7747",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Magia Record Puella Magi Madoka Magica Gaiden/T3/MagiaRecordPuellaMagiMadokaMagicaGaidenS03E04/master.m3u8",
+              "updatedAt": "2026-11-04T11:09:57.001Z"
+            }
+          ]
         }
       ],
       "createdAt": "2026-11-04T11:05:58.415Z",
-      "updatedAt": "2026-11-04T11:08:09.812Z",
+      "updatedAt": "2026-11-04T11:09:57.001Z",
       "addedAt": "2026-11-04T11:05:58.415Z",
       "addedBy": "seanf"
     }
