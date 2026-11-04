@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T03:27:44.595Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 27,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T03:28:25.810Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3767,6 +3759,13 @@
     "ts": "2026-11-04T11:02:51.807Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
+    "target": "movie_764",
+    "title": "Mahou Shoujo Madoka★Magica la Película (Parte 3) - Rebelión"
+  },
+  {
+    "ts": "2026-11-04T11:05:27.162Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
     "target": "movie_764",
     "title": "Mahou Shoujo Madoka★Magica la Película (Parte 3) - Rebelión"
   }
