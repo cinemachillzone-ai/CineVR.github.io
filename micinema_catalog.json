@@ -121613,6 +121613,46 @@
       "updatedAt": "2026-11-04T11:16:16.515Z",
       "addedAt": "2026-11-04T11:16:16.515Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_768",
+      "type": "movie",
+      "title": "Drácula",
+      "description": "Tras la muerte de su esposa, un príncipe del siglo XV renuncia a Dios y se convierte en vampiro. Siglos más tarde, en el Londres del siglo XIX, ve a una mujer parecida a su difunta esposa y la persigue, sellando así su propio destino.",
+      "duration": "2h 09m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Caleb Landry Jones",
+        "Zoë Bleu Sidel",
+        "Christoph Waltz",
+        "Matilda De Angelis",
+        "Ewens Abid",
+        "Guillaume de Tonquédec"
+      ],
+      "director": "Luc Besson",
+      "recommended": "Recomendado 73%",
+      "year": 2025,
+      "releaseDate": "2025-07-30",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 18,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dracula2025/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dracula2025/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/Dracula2025/master.m3u8",
+      "createdAt": "2026-11-05T02:00:28.499Z",
+      "updatedAt": "2026-11-05T02:00:28.499Z",
+      "addedAt": "2026-11-05T02:00:28.499Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
