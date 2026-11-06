@@ -91764,6 +91764,134 @@
       "updatedAt": "2026-11-04T11:09:57.001Z",
       "addedAt": "2026-11-04T11:05:58.415Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "series_224",
+      "type": "series",
+      "title": "Un trabajo maldito",
+      "description": "Agobiado por las deudas, un hombre acepta una serie de lucrativos trabajos de medio tiempo, pero sus esfuerzos por ganar dinero desatan una pesadilla.",
+      "duration": "",
+      "rating": "TV-MA",
+      "quality": "HD",
+      "section": "estreno",
+      "year": 2026,
+      "releaseDate": "2026-10-30",
+      "genres": [
+        "Mystery"
+      ],
+      "cast": [
+        "이재욱",
+        "고민시",
+        "김민하",
+        "이희준"
+      ],
+      "director": "김다민",
+      "recommended": "Recomendado 77%",
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 19,
+      "_baseKey": "un trabajo maldito",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": "s01e01",
+              "slotId": "ep_7748",
+              "title": "Capítulo 1",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E01/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E01/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E01/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e02",
+              "slotId": "ep_7749",
+              "title": "Capítulo 2",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E02/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E02/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E02/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e03",
+              "slotId": "ep_7750",
+              "title": "Capítulo 3",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E03/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E03/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E03/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e04",
+              "slotId": "ep_7751",
+              "title": "Capítulo 4",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E04/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E04/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E04/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e05",
+              "slotId": "ep_7752",
+              "title": "Capítulo 5",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E05/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E05/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E05/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e06",
+              "slotId": "ep_7753",
+              "title": "Capítulo 6",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E06/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E06/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E06/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e07",
+              "slotId": "ep_7754",
+              "title": "Capítulo 7",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E07/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E07/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E07/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            },
+            {
+              "id": "s01e08",
+              "slotId": "ep_7755",
+              "title": "Capítulo 8",
+              "links": {
+                "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E08/master.m3u8",
+                "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E08/master.m3u8"
+              },
+              "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Series/Un trabajo maldito/T1/UnTrabajoMalditoS01E08/master.m3u8",
+              "updatedAt": "2026-11-06T05:13:16.997Z"
+            }
+          ]
+        }
+      ],
+      "createdAt": "2026-11-06T05:13:16.997Z",
+      "updatedAt": "2026-11-06T05:13:16.997Z",
+      "addedAt": "2026-11-06T05:13:16.997Z",
+      "addedBy": "seanf"
     }
   ],
   "movies": [
