@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-30T08:48:14.664Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_452",
-    "title": "Hulk: El hombre increíble"
-  },
-  {
     "ts": "2026-07-30T08:48:50.042Z",
     "actor": "seanf",
     "action": "EDIT_MOVIE",
@@ -3773,5 +3766,14 @@
     "action": "INJECT_MOVIE",
     "target": "movie_768",
     "title": "Drácula"
+  },
+  {
+    "ts": "2026-11-06T05:13:53.815Z",
+    "actor": "seanf",
+    "action": "INJECT_SERIES",
+    "target": "series_224",
+    "title": "Un trabajo maldito",
+    "season": 1,
+    "episodes": 8
   }
 ]
