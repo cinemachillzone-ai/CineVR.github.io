@@ -121781,6 +121781,48 @@
       "updatedAt": "2026-11-05T02:00:28.499Z",
       "addedAt": "2026-11-05T02:00:28.499Z",
       "addedBy": "seanf"
+    },
+    {
+      "id": "movie_769",
+      "type": "movie",
+      "title": "La Leyenda del Jinete Sin Cabeza",
+      "description": "Durante la Guerra de Secesión Americana, un policía de Nueva York que utiliza avanzados métodos de investigación es enviado al pueblo de Sleepy Hollow para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar. Una vez allí adopta la identidad de un profesor de escuela y se enamora de Katrina, que mantiene relaciones con uno de los hombres más conocidos del pueblo. Realidad y ficción se darán la mano en el momento menos pensado.",
+      "duration": "1h 46m",
+      "rating": "R",
+      "quality": "HD",
+      "section": "catalog",
+      "cast": [
+        "Johnny Depp",
+        "Christina Ricci",
+        "Miranda Richardson",
+        "Michael Gambon",
+        "Casper Van Dien",
+        "Jeffrey Jones"
+      ],
+      "director": "Tim Burton",
+      "recommended": "Recomendado 72%",
+      "year": 1999,
+      "releaseDate": "1999-11-19",
+      "genres": [
+        "Fantasy",
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "languages": [
+        "language_Spanish"
+      ],
+      "atlas": "F",
+      "gridIndex": 20,
+      "links": {
+        "default": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendadelJineteSinCabeza1999/master.m3u8",
+        "language_Spanish": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendadelJineteSinCabeza1999/master.m3u8"
+      },
+      "master_url": "https://cdn.yutopiaforge.com/cdn/bunny_migracion/Movie/LaLeyendadelJineteSinCabeza1999/master.m3u8",
+      "createdAt": "2026-11-07T02:49:42.266Z",
+      "updatedAt": "2026-11-07T02:49:42.266Z",
+      "addedAt": "2026-11-07T02:49:42.266Z",
+      "addedBy": "seanf"
     }
   ],
   "sagas": [
