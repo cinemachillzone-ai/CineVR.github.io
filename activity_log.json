@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-30T08:48:50.042Z",
-    "actor": "seanf",
-    "action": "EDIT_MOVIE",
-    "target": "movie_452",
-    "title": "Hulk: El hombre increíble"
-  },
-  {
     "ts": "2026-07-30T20:21:46.037Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3775,5 +3768,12 @@
     "title": "Un trabajo maldito",
     "season": 1,
     "episodes": 8
+  },
+  {
+    "ts": "2026-11-07T02:50:17.345Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_769",
+    "title": "La Leyenda del Jinete Sin Cabeza"
   }
 ]
