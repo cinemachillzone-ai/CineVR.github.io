@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-06T12:00:06Z",
-  "generado": "2026-11-06T12:00:06Z",
+  "version": "2026-11-07T12:00:06Z",
+  "generado": "2026-11-07T12:00:06Z",
   "items": [
     {
       "puesto": 1,
       "itemId": "movie_688",
-      "plays": 2131
+      "plays": 2136
     },
     {
       "puesto": 2,
@@ -25,7 +25,7 @@
     {
       "puesto": 5,
       "itemId": "movie_465",
-      "plays": 1199
+      "plays": 1200
     },
     {
       "puesto": 6,
@@ -35,22 +35,22 @@
     {
       "puesto": 7,
       "itemId": "movie_025",
-      "plays": 499
+      "plays": 502
     },
     {
       "puesto": 8,
-      "itemId": "movie_185",
-      "plays": 456
+      "itemId": "movie_689",
+      "plays": 463
     },
     {
       "puesto": 9,
       "itemId": "series_189",
-      "plays": 2971
+      "plays": 2988
     },
     {
       "puesto": 10,
       "itemId": "series_084",
-      "plays": 1860
+      "plays": 1866
     }
   ]
 }
