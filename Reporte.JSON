@@ -1,6 +1,6 @@
 {
   "titulo": "Novedades de CineVR",
-  "version": "V.1.0.0",
+  "version": "V.1.1.0",
   "actualizado": "2026-11-08",
   "categorias": [
     {
@@ -38,6 +38,8 @@
       "nombre": "Actualización del mapa",
       "color": "#FF6FAE",
       "entradas": [
+        { "fecha": "2026-11-08", "texto": "Nuevo Modo Ultra: una versión ligera del mapa para ganar FPS, ideal para Quest o PCs modestos. Actívalo en Opciones del menú del mundo o en Configuración del cine. Solo te afecta a ti y se recuerda para la próxima vez." },
+        { "fecha": "2026-11-08", "texto": "Controles de las pantallas más fáciles de encontrar: en VR aparecen al apuntar a la pantalla con el láser; en escritorio, haz clic mirando la pantalla. Se ocultan solos a los pocos segundos. El botón de la esquina sigue funcionando y los deja fijos." },
         { "fecha": "2026-10-02", "texto": "El consentimiento de privacidad ahora caduca a los 7 días. Al vencer, el panel aparecerá de nuevo al entrar al mundo." },
         { "fecha": "2026-10-02", "texto": "Al aceptar el consentimiento, vuelves automáticamente al lugar donde te desconectaste por última vez." },
         { "fecha": "2026-10-02", "texto": "La publicidad ahora se adapta a tu país, con precios en tu moneda local." },
