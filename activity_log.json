@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T20:21:46.037Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 29,
-    "count": 21
-  },
-  {
     "ts": "2026-07-30T20:22:23.055Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3775,5 +3767,11 @@
     "action": "INJECT_MOVIE",
     "target": "movie_769",
     "title": "La Leyenda del Jinete Sin Cabeza"
+  },
+  {
+    "ts": "2026-11-10T09:05:42.582Z",
+    "actor": "yutamir",
+    "action": "FULL_SAVE",
+    "size": 7746399
   }
 ]
