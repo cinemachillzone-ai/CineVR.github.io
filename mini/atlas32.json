@@ -1,18 +1,18 @@
 {
-  "version": "2026-11-23T12:00:07Z",
-  "generado": "2026-11-23T12:00:07Z",
+  "version": "2026-11-26T12:00:05Z",
+  "generado": "2026-11-26T12:00:05Z",
   "items": [
     {
       "puesto": 1,
       "itemId": "movie_688",
       "seccion": "top",
-      "plays": 2327
+      "plays": 2352
     },
     {
       "puesto": 2,
       "itemId": "movie_401",
       "seccion": "top",
-      "plays": 1706
+      "plays": 1733
     },
     {
       "puesto": 3,
@@ -36,13 +36,13 @@
       "puesto": 6,
       "itemId": "movie_708",
       "seccion": "top",
-      "plays": 601
+      "plays": 607
     },
     {
       "puesto": 7,
       "itemId": "movie_689",
       "seccion": "top",
-      "plays": 589
+      "plays": 600
     },
     {
       "puesto": 8,
@@ -54,19 +54,19 @@
       "puesto": 9,
       "itemId": "series_189",
       "seccion": "top",
-      "plays": 3298
+      "plays": 3369
     },
     {
       "puesto": 10,
       "itemId": "series_084",
       "seccion": "top",
-      "plays": 1881
+      "plays": 1889
     },
     {
       "puesto": 11,
       "itemId": "series_199",
       "seccion": "top",
-      "plays": 1514
+      "plays": 1702
     },
     {
       "puesto": 12,
@@ -78,25 +78,25 @@
       "puesto": 13,
       "itemId": "series_192",
       "seccion": "top",
-      "plays": 1189
+      "plays": 1195
     },
     {
       "puesto": 14,
+      "itemId": "series_219",
+      "seccion": "top",
+      "plays": 945
+    },
+    {
+      "puesto": 15,
       "itemId": "series_196",
       "seccion": "top",
       "plays": 933
     },
     {
-      "puesto": 15,
-      "itemId": "series_219",
-      "seccion": "top",
-      "plays": 921
-    },
-    {
       "puesto": 16,
       "itemId": "series_027",
       "seccion": "top",
-      "plays": 719
+      "plays": 727
     },
     {
       "puesto": 17,
@@ -108,7 +108,7 @@
       "puesto": 18,
       "itemId": "movie_768",
       "seccion": "recomendado",
-      "plays": 266
+      "plays": 276
     },
     {
       "puesto": 19,
@@ -150,7 +150,7 @@
       "puesto": 25,
       "itemId": "series_224",
       "seccion": "recomendado",
-      "plays": 289
+      "plays": 307
     },
     {
       "puesto": 26,
