@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-31T03:52:28.215Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_498",
-    "title": "Blanca Nieves"
-  },
-  {
     "ts": "2026-07-31T03:53:24.399Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_777",
     "title": "La familia Mitchell vs. las máquinas"
+  },
+  {
+    "ts": "2026-11-27T13:59:47.981Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_778",
+    "title": "007: Goldeneye, el Regreso del Agente"
   }
 ]
