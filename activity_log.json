@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-31T03:51:01.257Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_496",
-    "title": "La noche de las narices frías"
-  },
-  {
     "ts": "2026-07-31T03:51:44.620Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_775",
     "title": "Mi pobre angelito"
+  },
+  {
+    "ts": "2026-11-27T13:54:47.009Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_776",
+    "title": "El Dictador"
   }
 ]
