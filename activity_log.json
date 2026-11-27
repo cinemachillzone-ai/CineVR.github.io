@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-31T03:49:20.231Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_494",
-    "title": "101 dálmatas: ¡Ahora la magia es real!"
-  },
-  {
     "ts": "2026-07-31T03:50:04.937Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_773",
     "title": "007: El mundo no basta"
+  },
+  {
+    "ts": "2026-11-27T13:49:39.766Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_774",
+    "title": "Mi pobre angelito 2: Perdido en Nueva York"
   }
 ]
