@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-31T03:53:24.399Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_499",
-    "title": "Blanca Nieves y los siete enanos"
-  },
-  {
     "ts": "2026-07-31T03:54:33.200Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_778",
     "title": "007: Goldeneye, el Regreso del Agente"
+  },
+  {
+    "ts": "2026-11-27T14:02:05.727Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_779",
+    "title": "007: Otro día para morir"
   }
 ]
