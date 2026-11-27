@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T20:25:10.519Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 34,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T20:25:47.424Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3768,5 +3760,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_771",
     "title": "Me encontrarás en lo profundo del abismo"
+  },
+  {
+    "ts": "2026-11-27T13:43:39.473Z",
+    "actor": "seanf",
+    "action": "EDIT_MOVIE",
+    "target": "movie_689",
+    "title": "Coyote vs. Acme"
   }
 ]
