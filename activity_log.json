@@ -1,12 +1,5 @@
 [
   {
-    "ts": "2026-07-31T03:54:33.200Z",
-    "actor": "seanf",
-    "action": "INJECT_MOVIE",
-    "target": "movie_500",
-    "title": "Alicia a través del espejo"
-  },
-  {
     "ts": "2026-07-31T03:55:41.961Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3765,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_779",
     "title": "007: Otro día para morir"
+  },
+  {
+    "ts": "2026-11-27T14:03:53.413Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_780",
+    "title": "El Extra"
   }
 ]
