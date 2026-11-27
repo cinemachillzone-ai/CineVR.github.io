@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T20:24:27.779Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 33,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T20:25:10.519Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3769,5 +3761,12 @@
     "action": "EDIT_MOVIE",
     "target": "movie_688",
     "title": "Resident Evil: Noche cero"
+  },
+  {
+    "ts": "2026-11-27T13:39:41.717Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_771",
+    "title": "Me encontrarás en lo profundo del abismo"
   }
 ]
