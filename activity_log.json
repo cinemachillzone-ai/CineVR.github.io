@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T20:23:15.187Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 31,
-    "count": 22
-  },
-  {
     "ts": "2026-07-30T20:23:53.015Z",
     "actor": "seanf",
     "action": "INJECT_EPISODES",
@@ -3771,5 +3763,12 @@
     "actor": "yutamir",
     "action": "FULL_SAVE",
     "size": 7746388
+  },
+  {
+    "ts": "2026-11-27T13:37:01.251Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_770",
+    "title": "Snoopy presenta: 12 días de Snoopy"
   }
 ]
