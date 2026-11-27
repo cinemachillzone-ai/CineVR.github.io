@@ -1,13 +1,5 @@
 [
   {
-    "ts": "2026-07-30T20:26:27.413Z",
-    "actor": "seanf",
-    "action": "INJECT_EPISODES",
-    "target": "series_167",
-    "season": 36,
-    "count": 18
-  },
-  {
     "ts": "2026-07-31T03:49:20.231Z",
     "actor": "seanf",
     "action": "INJECT_MOVIE",
@@ -3766,5 +3758,12 @@
     "action": "INJECT_MOVIE",
     "target": "movie_772",
     "title": "No nos rendimos"
+  },
+  {
+    "ts": "2026-11-27T13:47:53.070Z",
+    "actor": "seanf",
+    "action": "INJECT_MOVIE",
+    "target": "movie_773",
+    "title": "007: El mundo no basta"
   }
 ]
