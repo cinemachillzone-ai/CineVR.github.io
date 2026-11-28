@@ -1,18 +1,18 @@
 {
-  "version": "2026-11-27T12:00:05Z",
-  "generado": "2026-11-27T12:00:05Z",
+  "version": "2026-11-28T12:00:06Z",
+  "generado": "2026-11-28T12:00:06Z",
   "items": [
     {
       "puesto": 1,
       "itemId": "movie_688",
       "seccion": "top",
-      "plays": 2355
+      "plays": 2371
     },
     {
       "puesto": 2,
       "itemId": "movie_401",
       "seccion": "top",
-      "plays": 1733
+      "plays": 1734
     },
     {
       "puesto": 3,
@@ -34,15 +34,15 @@
     },
     {
       "puesto": 6,
-      "itemId": "movie_708",
+      "itemId": "movie_689",
       "seccion": "top",
-      "plays": 609
+      "plays": 614
     },
     {
       "puesto": 7,
-      "itemId": "movie_689",
+      "itemId": "movie_708",
       "seccion": "top",
-      "plays": 603
+      "plays": 609
     },
     {
       "puesto": 8,
@@ -54,7 +54,7 @@
       "puesto": 9,
       "itemId": "series_189",
       "seccion": "top",
-      "plays": 3369
+      "plays": 3373
     },
     {
       "puesto": 10,
@@ -72,13 +72,13 @@
       "puesto": 12,
       "itemId": "series_038",
       "seccion": "top",
-      "plays": 1377
+      "plays": 1379
     },
     {
       "puesto": 13,
       "itemId": "series_192",
       "seccion": "top",
-      "plays": 1206
+      "plays": 1217
     },
     {
       "puesto": 14,
@@ -90,7 +90,7 @@
       "puesto": 15,
       "itemId": "series_219",
       "seccion": "top",
-      "plays": 951
+      "plays": 961
     },
     {
       "puesto": 16,
@@ -100,49 +100,49 @@
     },
     {
       "puesto": 17,
-      "itemId": "movie_769",
+      "itemId": "movie_780",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 18,
-      "itemId": "movie_768",
+      "itemId": "movie_779",
       "seccion": "recomendado",
-      "plays": 286
+      "plays": 0
     },
     {
       "puesto": 19,
-      "itemId": "movie_767",
+      "itemId": "movie_778",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 20,
-      "itemId": "movie_766",
+      "itemId": "movie_777",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 21,
-      "itemId": "movie_765",
+      "itemId": "movie_776",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 22,
-      "itemId": "movie_764",
+      "itemId": "movie_775",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 23,
-      "itemId": "movie_763",
+      "itemId": "movie_774",
       "seccion": "recomendado",
       "plays": 0
     },
     {
       "puesto": 24,
-      "itemId": "movie_762",
+      "itemId": "movie_773",
       "seccion": "recomendado",
       "plays": 0
     },
